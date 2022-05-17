@@ -3,7 +3,7 @@ title: IX
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.diagram/field/ix/
 ---
 ## Field.IX property

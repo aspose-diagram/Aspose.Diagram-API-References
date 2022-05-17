@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.diagram/shape/type/
 ---
 ## Shape.Type property

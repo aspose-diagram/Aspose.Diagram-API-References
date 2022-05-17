@@ -3,7 +3,7 @@ title: BringForward
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.diagram/shape/bringforward/
 ---
 ## Shape.BringForward method

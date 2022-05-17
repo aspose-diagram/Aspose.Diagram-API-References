@@ -3,7 +3,7 @@ title: IsTextEmpty
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.diagram/shape/istextempty/
 ---
 ## Shape.IsTextEmpty property

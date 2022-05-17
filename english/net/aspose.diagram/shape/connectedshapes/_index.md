@@ -3,7 +3,7 @@ title: ConnectedShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.diagram/shape/connectedshapes/
 ---
 ## Shape.ConnectedShapes method

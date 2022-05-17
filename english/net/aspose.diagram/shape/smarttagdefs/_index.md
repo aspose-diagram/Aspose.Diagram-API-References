@@ -3,7 +3,7 @@ title: SmartTagDefs
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.diagram/shape/smarttagdefs/
 ---
 ## Shape.SmartTagDefs property

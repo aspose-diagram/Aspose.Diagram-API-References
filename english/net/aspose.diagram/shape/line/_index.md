@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.diagram/shape/line/
 ---
 ## Shape.Line property

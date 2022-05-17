@@ -3,7 +3,7 @@ title: IsIntersect
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 810
+weight: 830
 url: /net/aspose.diagram/shape/isintersect/
 ---
 ## Shape.IsIntersect method

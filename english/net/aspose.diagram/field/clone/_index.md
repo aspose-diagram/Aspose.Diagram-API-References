@@ -3,7 +3,7 @@ title: Clone
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.diagram/field/clone/
 ---
 ## Field.Clone method

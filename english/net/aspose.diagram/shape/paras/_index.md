@@ -3,7 +3,7 @@ title: Paras
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.diagram/shape/paras/
 ---
 ## Shape.Paras property

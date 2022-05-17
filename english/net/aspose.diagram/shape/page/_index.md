@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.diagram/shape/page/
 ---
 ## Shape.Page property

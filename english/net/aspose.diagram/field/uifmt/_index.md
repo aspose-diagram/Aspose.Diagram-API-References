@@ -3,7 +3,7 @@ title: UIFmt
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.diagram/field/uifmt/
 ---
 ## Field.UIFmt property

@@ -3,7 +3,7 @@ title: DependsOnShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 750
 url: /net/aspose.diagram/shape/dependsonshapes/
 ---
 ## Shape.DependsOnShapes method

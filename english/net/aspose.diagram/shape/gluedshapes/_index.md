@@ -3,7 +3,7 @@ title: GluedShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 760
+weight: 780
 url: /net/aspose.diagram/shape/gluedshapes/
 ---
 ## Shape.GluedShapes method

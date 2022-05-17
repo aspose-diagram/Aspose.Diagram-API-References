@@ -3,7 +3,7 @@ title: Props
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.diagram/shape/props/
 ---
 ## Shape.Props property

@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.diagram/field/value/
 ---
 ## Field.Value property

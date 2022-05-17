@@ -27,6 +27,7 @@ public class ShapeCollection : Collection
 | [Add](add)(Shape) | Add the shape in the collection. |
 | [GetShape](getshape)(long) | Gets the element at the specified ID. |
 | [GetShape](getshape)(string) | Gets the element at the specified name. |
+| [GetShapeIncludingChild](getshapeincludingchild)(int) | Gets the element including it's child shape at the specified id. |
 | [GetShapeIncludingChild](getshapeincludingchild)(string) | Gets the element including it's child shape at the specified name. |
 | [Group](group)(Shape[]) | Group the shapes. |
 | [Remove](remove)(Shape) | Remove the shape from the collection. |

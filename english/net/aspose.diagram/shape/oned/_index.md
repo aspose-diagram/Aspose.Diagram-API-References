@@ -3,7 +3,7 @@ title: OneD
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.diagram/shape/oned/
 ---
 ## Shape.OneD property

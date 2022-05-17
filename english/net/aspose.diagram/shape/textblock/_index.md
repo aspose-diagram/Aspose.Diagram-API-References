@@ -3,7 +3,7 @@ title: TextBlock
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.diagram/shape/textblock/
 ---
 ## Shape.TextBlock property

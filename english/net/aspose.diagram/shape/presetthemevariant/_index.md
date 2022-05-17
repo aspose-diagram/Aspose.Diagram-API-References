@@ -3,7 +3,7 @@ title: PresetThemeVariant
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.diagram/shape/presetthemevariant/
 ---
 ## Shape.PresetThemeVariant property

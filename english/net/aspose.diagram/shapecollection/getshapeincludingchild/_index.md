@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.diagram/shapecollection/getshapeincludingchild/
 ---
-## ShapeCollection.GetShapeIncludingChild method
+## ShapeCollection.GetShapeIncludingChild method (1 of 2)
 
 Gets the element including it's child shape at the specified name.
 
@@ -17,6 +17,27 @@ public Shape GetShapeIncludingChild(string name)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | String |  |
+
+### See Also
+
+* class [Shape](../../shape)
+* class [ShapeCollection](../../shapecollection)
+* namespace [Aspose.Diagram](../../shapecollection)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## ShapeCollection.GetShapeIncludingChild method (2 of 2)
+
+Gets the element including it's child shape at the specified id.
+
+```csharp
+public Shape GetShapeIncludingChild(int id)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | Int32 |  |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: InheritProps
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.diagram/shape/inheritprops/
 ---
 ## Shape.InheritProps property

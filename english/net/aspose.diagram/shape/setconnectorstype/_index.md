@@ -3,7 +3,7 @@ title: SetConnectorsType
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 910
 url: /net/aspose.diagram/shape/setconnectorstype/
 ---
 ## Shape.SetConnectorsType method

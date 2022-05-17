@@ -3,7 +3,7 @@ title: NameU
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.diagram/shape/nameu/
 ---
 ## Shape.NameU property

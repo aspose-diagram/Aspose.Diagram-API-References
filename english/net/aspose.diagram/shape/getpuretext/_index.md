@@ -1,22 +1,21 @@
 ---
-title: LayerMem
+title: GetPureText
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 360
-url: /net/aspose.diagram/shape/layermem/
+weight: 770
+url: /net/aspose.diagram/shape/getpuretext/
 ---
-## Shape.LayerMem property
+## Shape.GetPureText method
 
-Contains the LayerMember element, which specifies each layer to which the shape is assigned.
+Get the text string of a shape.
 
 ```csharp
-public LayerMem LayerMem { get; }
+public string GetPureText()
 ```
 
 ### See Also
 
-* class [LayerMem](../../layermem)
 * class [Shape](../../shape)
 * namespace [Aspose.Diagram](../../shape)
 * assembly [Aspose.Diagram](../../../)

@@ -3,7 +3,7 @@ title: TextStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 600
 url: /net/aspose.diagram/shape/textstyle/
 ---
 ## Shape.TextStyle property

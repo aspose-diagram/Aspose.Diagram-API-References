@@ -12,44 +12,44 @@ Contains classes for save options.
 
 | Class | Description |
 | --- | --- |
-| class [DiagramSaveOptions](./diagramsaveoptions) | Can be used to specify additional options when saving a diagram into Visio (VDX\VSX) format. |
-| class [HTMLSaveOptions](./htmlsaveoptions) | Allows to specify additional options when rendering diagram pages to HTML. |
-| class [ImageSaveOptions](./imagesaveoptions) | Allows to specify additional options when rendering diagram pages to images. |
-| class [PageEndSavingArgs](./pageendsavingargs) | Info for a page ends saving process. |
-| class [PageSavingArgs](./pagesavingargs) | Info for a page saving process. |
-| class [PageSize](./pagesize) | Contains information about page size for the generated images. |
-| class [PageStartSavingArgs](./pagestartsavingargs) | Info for a page starts saving process. |
-| class [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails) | Contains details for a pdf digital signature. |
-| class [PdfEncryptionDetails](./pdfencryptiondetails) | Contains details for a pdf encryption. |
-| class [PdfSaveOptions](./pdfsaveoptions) | Allows to specify additional options when rendering diagram pages to PDF. |
-| class [PrintSaveOptions](./printsaveoptions) | Allows to specify additional options when printing diagram. |
-| abstract class [RenderingSaveOptions](./renderingsaveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
-| abstract class [SaveOptions](./saveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
-| class [SVGSaveOptions](./svgsaveoptions) | Allows to specify additional options when rendering diagram pages to SVG. |
-| class [SWFSaveOptions](./swfsaveoptions) | Allows to specify additional options when rendering diagram pages to SWF. |
-| class [XAMLSaveOptions](./xamlsaveoptions) | Allows to specify additional options when rendering diagram pages to XAML. |
-| class [XPSSaveOptions](./xpssaveoptions) | Allows to specify additional options when rendering diagram pages to XPS. |
+| [DiagramSaveOptions](./diagramsaveoptions) | Can be used to specify additional options when saving a diagram into Visio (VDX\VSX) format. |
+| [HTMLSaveOptions](./htmlsaveoptions) | Allows to specify additional options when rendering diagram pages to HTML. |
+| [ImageSaveOptions](./imagesaveoptions) | Allows to specify additional options when rendering diagram pages to images. |
+| [PageEndSavingArgs](./pageendsavingargs) | Info for a page ends saving process. |
+| [PageSavingArgs](./pagesavingargs) | Info for a page saving process. |
+| [PageSize](./pagesize) | Contains information about page size for the generated images. |
+| [PageStartSavingArgs](./pagestartsavingargs) | Info for a page starts saving process. |
+| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails) | Contains details for a pdf digital signature. |
+| [PdfEncryptionDetails](./pdfencryptiondetails) | Contains details for a pdf encryption. |
+| [PdfSaveOptions](./pdfsaveoptions) | Allows to specify additional options when rendering diagram pages to PDF. |
+| [PrintSaveOptions](./printsaveoptions) | Allows to specify additional options when printing diagram. |
+| [RenderingSaveOptions](./renderingsaveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
+| [SaveOptions](./saveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
+| [SVGSaveOptions](./svgsaveoptions) | Allows to specify additional options when rendering diagram pages to SVG. |
+| [SWFSaveOptions](./swfsaveoptions) | Allows to specify additional options when rendering diagram pages to SWF. |
+| [XAMLSaveOptions](./xamlsaveoptions) | Allows to specify additional options when rendering diagram pages to XAML. |
+| [XPSSaveOptions](./xpssaveoptions) | Allows to specify additional options when rendering diagram pages to XPS. |
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| interface [IPageSavingCallback](./ipagesavingcallback) | Control/Indicate progress of page saving process. |
-| interface [IStreamProvider](./istreamprovider) | Represents the exported stream provider. |
+| [IPageSavingCallback](./ipagesavingcallback) | Control/Indicate progress of page saving process. |
+| [IStreamProvider](./istreamprovider) | Represents the exported stream provider. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [CompositingQuality](./compositingquality) | Specifies the quality level to use during compositing. |
-| enum [ImageColorMode](./imagecolormode) | Specifies the color mode for the generated images of document pages. |
-| enum [InterpolationMode](./interpolationmode) | The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated. |
-| enum [PaperSizeFormat](./papersizeformat) | Enumeration for saving paper size format selection. |
-| enum [PdfCompliance](./pdfcompliance) | Specifies the PDF compliance level to output file. |
-| enum [PdfDigitalSignatureHashAlgorithm](./pdfdigitalsignaturehashalgorithm) | Specifies digital hash algorithm used by digital signature. |
-| enum [PdfEncryptionAlgorithm](./pdfencryptionalgorithm) | Specifies the encryption algorithm to use for encrypting a PDF document. |
-| enum [PdfPermissions](./pdfpermissions) | Specifies user permissions for PDF document. |
-| enum [PdfTextCompression](./pdftextcompression) | Specifies a type of compression applied to all content in the PDF file except images. |
-| enum [PixelOffsetMode](./pixeloffsetmode) | Specifies how pixels are offset during rendering. |
-| enum [SmoothingMode](./smoothingmode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas. |
-| enum [TiffCompression](./tiffcompression) | Specifies what type of compression to apply when saving pages to the TIFF format. |
+| [CompositingQuality](./compositingquality) | Specifies the quality level to use during compositing. |
+| [ImageColorMode](./imagecolormode) | Specifies the color mode for the generated images of document pages. |
+| [InterpolationMode](./interpolationmode) | The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated. |
+| [PaperSizeFormat](./papersizeformat) | Enumeration for saving paper size format selection. |
+| [PdfCompliance](./pdfcompliance) | Specifies the PDF compliance level to output file. |
+| [PdfDigitalSignatureHashAlgorithm](./pdfdigitalsignaturehashalgorithm) | Specifies digital hash algorithm used by digital signature. |
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm) | Specifies the encryption algorithm to use for encrypting a PDF document. |
+| [PdfPermissions](./pdfpermissions) | Specifies user permissions for PDF document. |
+| [PdfTextCompression](./pdftextcompression) | Specifies a type of compression applied to all content in the PDF file except images. |
+| [PixelOffsetMode](./pixeloffsetmode) | Specifies how pixels are offset during rendering. |
+| [SmoothingMode](./smoothingmode) | Specifies whether smoothing (antialiasing) is applied to lines and curves and the edges of filled areas. |
+| [TiffCompression](./tiffcompression) | Specifies what type of compression to apply when saving pages to the TIFF format. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

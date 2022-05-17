@@ -3,7 +3,7 @@ title: ToSvg
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 980
 url: /net/aspose.diagram/shape/tosvg/
 ---
 ## Shape.ToSvg method

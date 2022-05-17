@@ -26,6 +26,7 @@ public class Field
 | --- | --- |
 | [Calendar](calendar) { get; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [DisplayValue](displayvalue) { get; } | Gets the formatted string value of this field . |
 | [EditMode](editmode) { get; } | Reserved for future use. |
 | [Format](format) { get; } | Format element specifies the formatting for a text field that is a string, number, date or time, duration, or currency. The text field type is specified in the corresponding Type element. |
 | [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |

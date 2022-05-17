@@ -1,22 +1,22 @@
 ---
-title: LayerMem
+title: InheritParas
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 360
-url: /net/aspose.diagram/shape/layermem/
+weight: 310
+url: /net/aspose.diagram/shape/inheritparas/
 ---
-## Shape.LayerMem property
+## Shape.InheritParas property
 
-Contains the LayerMember element, which specifies each layer to which the shape is assigned.
+Contains the paras for the shape inherit by the parent style and the master shape.
 
 ```csharp
-public LayerMem LayerMem { get; }
+public ParaCollection InheritParas { get; }
 ```
 
 ### See Also
 
-* class [LayerMem](../../layermem)
+* class [ParaCollection](../../paracollection)
 * class [Shape](../../shape)
 * namespace [Aspose.Diagram](../../shape)
 * assembly [Aspose.Diagram](../../../)

@@ -3,7 +3,7 @@ title: ZOrderIndex
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.diagram/shape/zorderindex/
 ---
 ## Shape.ZOrderIndex property

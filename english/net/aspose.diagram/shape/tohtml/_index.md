@@ -3,7 +3,7 @@ title: ToHTML
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 920
+weight: 950
 url: /net/aspose.diagram/shape/tohtml/
 ---
 ## Shape.ToHTML method (1 of 2)

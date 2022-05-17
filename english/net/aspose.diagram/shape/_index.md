@@ -53,6 +53,7 @@ public class Shape
 | [InheritChars](inheritchars) { get; } | Contains the char values for the shape inherit by the master shape. |
 | [InheritFill](inheritfill) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritLine](inheritline) { get; } | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
+| [InheritParas](inheritparas) { get; } | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [InheritProps](inheritprops) { get; } | Contains the props for the shape inherit by the master shape. |
 | [InheritTextBlock](inherittextblock) { get; } | Contains the textblock values for the shape inherit by the parent style and the master shape. |
 | [InheritUsers](inheritusers) { get; } | Contains the users for the shape inherit by the master shape. |
@@ -103,6 +104,7 @@ public class Shape
 | [Copy](copy)(Shape) |  |
 | [DependsOnShapes](dependsonshapes)() | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
 | [GetConnectorsType](getconnectorstype)() | Get Connectors type |
+| [GetPureText](getpuretext)() | Get the text string of a shape. |
 | [GluedShapes](gluedshapes)(GluedShapesFlags, string, Shape) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
 | [IsConnected](isconnected)(Shape) | Indicates whether this two shapes are connected. |
 | [IsContain](iscontain)(Shape) | Indicates whether this shape is contain another shape. |
@@ -112,6 +114,7 @@ public class Shape
 | [Move](move)(double, double) | Moves shape on the dX and dY inches from current position. |
 | [MoveTo](moveto)(double, double) | Moves shape on new absolute position on the page. |
 | [RefreshData](refreshdata)() | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
+| [ReplaceText](replacetext)(string, string) | Replace the text string of a shape . |
 | [SendBackward](sendbackward)() | Moves the shape back one position in the z-order. |
 | [SendToBack](sendtoback)() | Moves the shape to the back of the z-order. |
 | [SetAngle](setangle)(double) | Sets new angle of shape. The angle's unit is radian. |

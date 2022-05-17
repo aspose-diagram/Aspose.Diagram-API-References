@@ -3,7 +3,7 @@ title: IsInGroup
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 800
+weight: 820
 url: /net/aspose.diagram/shape/isingroup/
 ---
 ## Shape.IsInGroup method

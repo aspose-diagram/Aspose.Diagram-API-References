@@ -3,7 +3,7 @@ title: EditMode
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.diagram/field/editmode/
 ---
 ## Field.EditMode property

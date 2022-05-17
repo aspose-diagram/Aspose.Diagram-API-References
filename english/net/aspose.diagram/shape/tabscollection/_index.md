@@ -3,7 +3,7 @@ title: TabsCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 560
+weight: 570
 url: /net/aspose.diagram/shape/tabscollection/
 ---
 ## Shape.TabsCollection property

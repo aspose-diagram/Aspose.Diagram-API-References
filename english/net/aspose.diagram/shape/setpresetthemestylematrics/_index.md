@@ -3,7 +3,7 @@ title: SetPresetThemeStyleMatrics
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 900
+weight: 930
 url: /net/aspose.diagram/shape/setpresetthemestylematrics/
 ---
 ## Shape.SetPresetThemeStyleMatrics method

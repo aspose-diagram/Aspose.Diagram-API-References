@@ -3,7 +3,7 @@ title: SendBackward
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 850
+weight: 880
 url: /net/aspose.diagram/shape/sendbackward/
 ---
 ## Shape.SendBackward method

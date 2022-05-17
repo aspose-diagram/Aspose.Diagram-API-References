@@ -3,7 +3,7 @@ title: PresetTheme
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.diagram/shape/presettheme/
 ---
 ## Shape.PresetTheme property

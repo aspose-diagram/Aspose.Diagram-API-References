@@ -1,22 +1,21 @@
 ---
-title: LayerMem
+title: ReplaceText
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 360
-url: /net/aspose.diagram/shape/layermem/
+weight: 870
+url: /net/aspose.diagram/shape/replacetext/
 ---
-## Shape.LayerMem property
+## Shape.ReplaceText method
 
-Contains the LayerMember element, which specifies each layer to which the shape is assigned.
+Replace the text string of a shape .
 
 ```csharp
-public LayerMem LayerMem { get; }
+public void ReplaceText(string text, string replaceText)
 ```
 
 ### See Also
 
-* class [LayerMem](../../layermem)
 * class [Shape](../../shape)
 * namespace [Aspose.Diagram](../../shape)
 * assembly [Aspose.Diagram](../../../)

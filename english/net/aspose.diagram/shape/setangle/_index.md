@@ -3,7 +3,7 @@ title: SetAngle
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 870
+weight: 900
 url: /net/aspose.diagram/shape/setangle/
 ---
 ## Shape.SetAngle method

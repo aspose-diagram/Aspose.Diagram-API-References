@@ -3,7 +3,7 @@ title: Scratchs
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.diagram/shape/scratchs/
 ---
 ## Shape.Scratchs property

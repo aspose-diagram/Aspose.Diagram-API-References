@@ -3,7 +3,7 @@ title: Protection
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.diagram/shape/protection/
 ---
 ## Shape.Protection property

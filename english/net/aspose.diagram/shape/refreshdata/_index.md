@@ -3,7 +3,7 @@ title: RefreshData
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 860
 url: /net/aspose.diagram/shape/refreshdata/
 ---
 ## Shape.RefreshData method

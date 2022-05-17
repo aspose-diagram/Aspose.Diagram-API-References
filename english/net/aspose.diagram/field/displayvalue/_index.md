@@ -1,22 +1,21 @@
 ---
-title: UICat
+title: DisplayValue
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 100
-url: /net/aspose.diagram/field/uicat/
+weight: 40
+url: /net/aspose.diagram/field/displayvalue/
 ---
-## Field.UICat property
+## Field.DisplayValue property
 
-Specifies the category of an inserted field in versions of Microsoft Visio earlier than Visio 2000.
+Gets the formatted string value of this field .
 
 ```csharp
-public DoubleValue UICat { get; }
+public string DisplayValue { get; }
 ```
 
 ### See Also
 
-* class [DoubleValue](../../doublevalue)
 * class [Field](../../field)
 * namespace [Aspose.Diagram](../../field)
 * assembly [Aspose.Diagram](../../../)

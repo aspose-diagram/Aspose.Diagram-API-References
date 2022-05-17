@@ -3,7 +3,7 @@ title: BringToFront
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.diagram/shape/bringtofront/
 ---
 ## Shape.BringToFront method

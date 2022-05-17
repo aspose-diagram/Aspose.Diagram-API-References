@@ -3,7 +3,7 @@ title: ToImage
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 960
 url: /net/aspose.diagram/shape/toimage/
 ---
 ## Shape.ToImage method (1 of 2)

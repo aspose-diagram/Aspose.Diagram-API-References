@@ -3,7 +3,7 @@ title: IsGlued
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /net/aspose.diagram/shape/isglued/
 ---
 ## Shape.IsGlued method

@@ -3,7 +3,7 @@ title: TwoD
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 630
 url: /net/aspose.diagram/shape/twod/
 ---
 ## Shape.TwoD property

@@ -3,7 +3,7 @@ title: SendToBack
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 860
+weight: 890
 url: /net/aspose.diagram/shape/sendtoback/
 ---
 ## Shape.SendToBack method

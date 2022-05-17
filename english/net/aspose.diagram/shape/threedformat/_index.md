@@ -3,7 +3,7 @@ title: ThreeDFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 610
+weight: 620
 url: /net/aspose.diagram/shape/threedformat/
 ---
 ## Shape.ThreeDFormat property

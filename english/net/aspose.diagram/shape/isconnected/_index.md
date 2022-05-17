@@ -3,7 +3,7 @@ title: IsConnected
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 770
+weight: 790
 url: /net/aspose.diagram/shape/isconnected/
 ---
 ## Shape.IsConnected method

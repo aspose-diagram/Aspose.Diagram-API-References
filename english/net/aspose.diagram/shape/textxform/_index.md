@@ -3,7 +3,7 @@ title: TextXForm
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.diagram/shape/textxform/
 ---
 ## Shape.TextXForm property

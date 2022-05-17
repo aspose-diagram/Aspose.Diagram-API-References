@@ -3,7 +3,7 @@ title: XForm
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.diagram/shape/xform/
 ---
 ## Shape.XForm property

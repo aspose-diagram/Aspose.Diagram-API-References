@@ -3,7 +3,7 @@ title: Layout
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.diagram/shape/layout/
 ---
 ## Shape.Layout property

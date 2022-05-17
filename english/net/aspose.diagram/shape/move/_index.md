@@ -3,7 +3,7 @@ title: Move
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 820
+weight: 840
 url: /net/aspose.diagram/shape/move/
 ---
 ## Shape.Move method

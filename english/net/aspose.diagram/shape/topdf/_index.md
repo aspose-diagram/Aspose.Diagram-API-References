@@ -3,7 +3,7 @@ title: ToPdf
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 940
+weight: 970
 url: /net/aspose.diagram/shape/topdf/
 ---
 ## Shape.ToPdf method (1 of 2)

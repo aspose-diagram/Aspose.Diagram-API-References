@@ -3,7 +3,7 @@ title: MasterShape
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.diagram/shape/mastershape/
 ---
 ## Shape.MasterShape property

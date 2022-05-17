@@ -3,7 +3,7 @@ title: SetWidth
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 910
+weight: 940
 url: /net/aspose.diagram/shape/setwidth/
 ---
 ## Shape.SetWidth method
