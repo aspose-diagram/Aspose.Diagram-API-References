@@ -24,7 +24,7 @@ public class Tp : FormatTxt
 
 | Name | Description |
 | --- | --- |
-| override [Value](value) { get; } | Value |
+| override [Value](../../aspose.diagram/tp/value) { get; } | Value |
 
 ### See Also
 

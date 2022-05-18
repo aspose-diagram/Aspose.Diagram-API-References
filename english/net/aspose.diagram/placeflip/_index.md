@@ -24,15 +24,15 @@ public class PlaceFlip
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio. The following hexadecimal values are allowed. |
+| [Ufe](../../aspose.diagram/placeflip/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/placeflip/value) { get; set; } | Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio. The following hexadecimal values are allowed. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/placeflip/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/placeflip/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

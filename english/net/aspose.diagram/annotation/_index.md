@@ -18,17 +18,17 @@ public class Annotation
 
 | Name | Description |
 | --- | --- |
-| [Comment](comment) { get; } | Contains the comment text in string format for a shape. |
-| [Date](date) { get; } | specifies when a comment was created |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [EditDate](editdate) { get; } | Specifies when a comment was last changed |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [LangID](langid) { get; } | Indicates the locale ID (LCID) of the language in which the cell formula, text, custom property, or comment was entered. |
-| [MarkerIndex](markerindex) { get; } | Specifies the index number assigned to a comment marker. |
-| [ReviewerID](reviewerid) { get; } | Contains the ID number of the reviewer adding markup to the document. |
-| [ShapeID](shapeid) { get; set; } | The shape ID of the comment. |
-| [X](x) { get; } | The x-coordinate of the comment marker in page coordinates. |
-| [Y](y) { get; } | The y-coordinate of the comment marker in page coordinates. |
+| [Comment](../../aspose.diagram/annotation/comment) { get; } | Contains the comment text in string format for a shape. |
+| [Date](../../aspose.diagram/annotation/date) { get; } | specifies when a comment was created |
+| [Del](../../aspose.diagram/annotation/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [EditDate](../../aspose.diagram/annotation/editdate) { get; } | Specifies when a comment was last changed |
+| [IX](../../aspose.diagram/annotation/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [LangID](../../aspose.diagram/annotation/langid) { get; } | Indicates the locale ID (LCID) of the language in which the cell formula, text, custom property, or comment was entered. |
+| [MarkerIndex](../../aspose.diagram/annotation/markerindex) { get; } | Specifies the index number assigned to a comment marker. |
+| [ReviewerID](../../aspose.diagram/annotation/reviewerid) { get; } | Contains the ID number of the reviewer adding markup to the document. |
+| [ShapeID](../../aspose.diagram/annotation/shapeid) { get; set; } | The shape ID of the comment. |
+| [X](../../aspose.diagram/annotation/x) { get; } | The x-coordinate of the comment marker in page coordinates. |
+| [Y](../../aspose.diagram/annotation/y) { get; } | The y-coordinate of the comment marker in page coordinates. |
 
 ### See Also
 

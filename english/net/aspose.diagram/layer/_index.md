@@ -24,20 +24,20 @@ public class Layer
 
 | Name | Description |
 | --- | --- |
-| [Active](active) { get; } | Specifies whether a layer is active. Shapes that are not preassigned to layers are assigned to the active layer(s) when dropped on the drawing page. |
-| [Color](color) { get; } | The index of the color in the color table used toThe index of the color in the color table used to display the layer or An RGB value specifying a custom color not in the color table (for example, #ff9900 ). display the layer |
-| [ColorTrans](colortrans) { get; } | Determines the degree of transparency for a layer or shape's text color, from 0 (completely opaque) to 1 (completely transparent). |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [Glue](glue) { get; } | Specifies whether shapes belonging to the layer can be glued to. |
-| [IsColorChecked](iscolorchecked) { get; set; } | A flag indicating whether the element has been checked locally. A value of 1 indicates that the element was checked locally. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Lock](lock) { get; } | Specifies whether shapes belonging to the layer are locked against being selected or edited. |
-| [Name](name) { get; } | Name element specifies the name of a layer. |
-| [NameUniv](nameuniv) { get; } | Specifies the universal name of a layer. |
-| [Print](print) { get; } | Specifies whether shapes belonging to the layer are printed when the drawing is printed. |
-| [Snap](snap) { get; } | Specifies whether other shapes can snap to shapes assigned to the layer. Shapes assigned to the layer can snap to other shapes, but other shapes cannot snap to them. |
-| [Status](status) { get; } | Specifies whether the layer is a valid layer for a document. |
-| [Visible](visible) { get; } | Specifies whether shapes belonging to the layer are visible on the drawing page. |
+| [Active](../../aspose.diagram/layer/active) { get; } | Specifies whether a layer is active. Shapes that are not preassigned to layers are assigned to the active layer(s) when dropped on the drawing page. |
+| [Color](../../aspose.diagram/layer/color) { get; } | The index of the color in the color table used toThe index of the color in the color table used to display the layer or An RGB value specifying a custom color not in the color table (for example, #ff9900 ). display the layer |
+| [ColorTrans](../../aspose.diagram/layer/colortrans) { get; } | Determines the degree of transparency for a layer or shape's text color, from 0 (completely opaque) to 1 (completely transparent). |
+| [Del](../../aspose.diagram/layer/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [Glue](../../aspose.diagram/layer/glue) { get; } | Specifies whether shapes belonging to the layer can be glued to. |
+| [IsColorChecked](../../aspose.diagram/layer/iscolorchecked) { get; set; } | A flag indicating whether the element has been checked locally. A value of 1 indicates that the element was checked locally. |
+| [IX](../../aspose.diagram/layer/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [Lock](../../aspose.diagram/layer/lock) { get; } | Specifies whether shapes belonging to the layer are locked against being selected or edited. |
+| [Name](../../aspose.diagram/layer/name) { get; } | Name element specifies the name of a layer. |
+| [NameUniv](../../aspose.diagram/layer/nameuniv) { get; } | Specifies the universal name of a layer. |
+| [Print](../../aspose.diagram/layer/print) { get; } | Specifies whether shapes belonging to the layer are printed when the drawing is printed. |
+| [Snap](../../aspose.diagram/layer/snap) { get; } | Specifies whether other shapes can snap to shapes assigned to the layer. Shapes assigned to the layer can snap to other shapes, but other shapes cannot snap to them. |
+| [Status](../../aspose.diagram/layer/status) { get; } | Specifies whether the layer is a valid layer for a document. |
+| [Visible](../../aspose.diagram/layer/visible) { get; } | Specifies whether shapes belonging to the layer are visible on the drawing page. |
 
 ### See Also
 

@@ -24,16 +24,16 @@ public class TextDirection : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the direction of the characters in a text block. |
+| [Ufe](../../aspose.diagram/textdirection/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/textdirection/value) { get; set; } | Specifies the direction of the characters in a text block. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/textdirection/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/textdirection/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/textdirection/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,8 +24,18 @@ public class PrintSaveOptions : RenderingSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PageCount](pagecount) { get; set; } | Gets or sets the number of pages to render when saving to a multipage file. Default is MaxValue which means all pages of the diagram will be printed. |
-| [SaveForegroundPagesOnly](saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be printed or only foreground. |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | Gets or sets the area of the shapes will be saved . |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | Setting for rendering Emf metafile. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | Specifies whether enlarge page . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | Defines whether need exporting the guide shapes or not. |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Defines whether need exporting the comments or not. |
+| [PageCount](../../aspose.diagram.saving/printsaveoptions/pagecount) { get; set; } | Gets or sets the number of pages to render when saving to a multipage file. Default is MaxValue which means all pages of the diagram will be printed. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Gets or sets the page size for the generated images. Can be [`PageSize`](../pagesize) or null. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/printsaveoptions/saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be printed or only foreground. |
+| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat) { get; set; } | Specifies the format in which the document will be saved if this save options object is used. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Gets or sets shapes to render. Default count is 0. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class ShapeShdwType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of shadow for a shape. |
+| [Ufe](../../aspose.diagram/shapeshdwtype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shapeshdwtype/value) { get; set; } | Specifies the type of shadow for a shape. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shapeshdwtype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shapeshdwtype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

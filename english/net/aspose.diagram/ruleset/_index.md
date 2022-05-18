@@ -24,13 +24,13 @@ public class RuleSet
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Specifies the description of the validation rule set that appears in the user interface. Default is an empty string. |
-| [Enabled](enabled) { get; set; } | Specifies whether the rules in the specified validation rule set are checked when validation is triggered for the current document. Default is True. |
-| [ID](id) { get; set; } | Specifies the unique identifier of the validation rule set. |
-| [Name](name) { get; set; } | Specifies the local name of the validation rule set. Defaults to NameU attribute value. |
-| [NameU](nameu) { get; set; } | Specifies the universal name of the validation rule set. |
-| [Rules](rules) { get; } | Rule collection. |
-| [RuleSetFlags](rulesetflags) { get; set; } | Specifies whether the rule set appears in the Rules to Check list. |
+| [Description](../../aspose.diagram/ruleset/description) { get; set; } | Specifies the description of the validation rule set that appears in the user interface. Default is an empty string. |
+| [Enabled](../../aspose.diagram/ruleset/enabled) { get; set; } | Specifies whether the rules in the specified validation rule set are checked when validation is triggered for the current document. Default is True. |
+| [ID](../../aspose.diagram/ruleset/id) { get; set; } | Specifies the unique identifier of the validation rule set. |
+| [Name](../../aspose.diagram/ruleset/name) { get; set; } | Specifies the local name of the validation rule set. Defaults to NameU attribute value. |
+| [NameU](../../aspose.diagram/ruleset/nameu) { get; set; } | Specifies the universal name of the validation rule set. |
+| [Rules](../../aspose.diagram/ruleset/rules) { get; } | Rule collection. |
+| [RuleSetFlags](../../aspose.diagram/ruleset/rulesetflags) { get; set; } | Specifies whether the rule set appears in the Rules to Check list. |
 
 ### See Also
 

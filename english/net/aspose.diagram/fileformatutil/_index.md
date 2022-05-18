@@ -24,8 +24,8 @@ public class FileFormatUtil
 
 | Name | Description |
 | --- | --- |
-| static [DetectFileFormat](detectfileformat)(Stream) | Detects and returns the information about a format of a visio stored in a stream. |
-| static [DetectFileFormat](detectfileformat)(string) | Detects and returns the information about a format of a visio stored in a file. |
+| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat)(Stream) | Detects and returns the information about a format of a visio stored in a stream. |
+| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat)(string) | Detects and returns the information about a format of a visio stored in a file. |
 
 ### See Also
 

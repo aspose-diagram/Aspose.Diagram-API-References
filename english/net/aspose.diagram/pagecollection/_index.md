@@ -18,17 +18,21 @@ public class PageCollection : Collection, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/pagecollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Page) | Add the page in the collection. |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetPage](getpage)(int) | Gets the element at the specified ID. |
-| [GetPage](getpage)(string) | Gets the element at the specified name. |
-| [Remove](remove)(Page) | Remove the page from the collection. |
+| [Add](../../aspose.diagram/pagecollection/add)(Page) | Add the page in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [Dispose](../../aspose.diagram/pagecollection/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [GetPage](../../aspose.diagram/pagecollection/getpage)(int) | Gets the element at the specified ID. |
+| [GetPage](../../aspose.diagram/pagecollection/getpage)(string) | Gets the element at the specified name. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/pagecollection/remove)(Page) | Remove the page from the collection. |
 
 ### See Also
 

@@ -24,18 +24,18 @@ public class Connect
 
 | Name | Description |
 | --- | --- |
-| [FromCell](fromcell) { get; set; } | The ID of the shape to which one or more connections are made. |
-| [FromPart](frompart) { get; set; } | The cell from which a connection originates. |
-| [FromSheet](fromsheet) { get; set; } | The ID of the shape from which a connection or connections originate. |
-| [ToCell](tocell) { get; set; } | The cell to which a connection is made. |
-| [ToPart](topart) { get; set; } | The part of a shape to which a connection is made. |
-| [ToSheet](tosheet) { get; set; } | The ID of the shape to which one or more connections are made |
+| [FromCell](../../aspose.diagram/connect/fromcell) { get; set; } | The ID of the shape to which one or more connections are made. |
+| [FromPart](../../aspose.diagram/connect/frompart) { get; set; } | The cell from which a connection originates. |
+| [FromSheet](../../aspose.diagram/connect/fromsheet) { get; set; } | The ID of the shape from which a connection or connections originate. |
+| [ToCell](../../aspose.diagram/connect/tocell) { get; set; } | The cell to which a connection is made. |
+| [ToPart](../../aspose.diagram/connect/topart) { get; set; } | The part of a shape to which a connection is made. |
+| [ToSheet](../../aspose.diagram/connect/tosheet) { get; set; } | The ID of the shape to which one or more connections are made |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/connect/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

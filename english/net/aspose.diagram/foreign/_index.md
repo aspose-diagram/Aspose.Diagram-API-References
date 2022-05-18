@@ -18,17 +18,17 @@ public class Foreign
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [ImgHeight](imgheight) { get; } | Determines the height of the object's image within its border. The default formula is: F="Height*1". |
-| [ImgOffsetX](imgoffsetx) { get; } | Determines the distance the object is offset horizontally from the origin of the object's border. The default value is 0; the default formula is F="ImgWidth*0". |
-| [ImgOffsetY](imgoffsety) { get; } | Determines the distance the object is offset vertically from the origin of the object's border. The default value is 0; the default formula is F="ImgHeight*0". |
-| [ImgWidth](imgwidth) { get; } | Determines the width of the object's image within its border. The default formula is: F="Width*1". |
+| [Del](../../aspose.diagram/foreign/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [ImgHeight](../../aspose.diagram/foreign/imgheight) { get; } | Determines the height of the object's image within its border. The default formula is: F="Height*1". |
+| [ImgOffsetX](../../aspose.diagram/foreign/imgoffsetx) { get; } | Determines the distance the object is offset horizontally from the origin of the object's border. The default value is 0; the default formula is F="ImgWidth*0". |
+| [ImgOffsetY](../../aspose.diagram/foreign/imgoffsety) { get; } | Determines the distance the object is offset vertically from the origin of the object's border. The default value is 0; the default formula is F="ImgHeight*0". |
+| [ImgWidth](../../aspose.diagram/foreign/imgwidth) { get; } | Determines the width of the object's image within its border. The default formula is: F="Width*1". |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/foreign/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

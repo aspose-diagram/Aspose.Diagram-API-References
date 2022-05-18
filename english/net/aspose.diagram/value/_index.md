@@ -18,17 +18,17 @@ public class Value : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [SolutionXML](solutionxml) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
-| [Ufev](ufev) { get; set; } | Specified attributes of an element. |
-| [Val](val) { get; set; } | Text value |
+| [SolutionXML](../../aspose.diagram/value/solutionxml) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
+| [Ufev](../../aspose.diagram/value/ufev) { get; set; } | Specified attributes of an element. |
+| [Val](../../aspose.diagram/value/val) { get; set; } | Text value |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/value/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/value/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/value/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

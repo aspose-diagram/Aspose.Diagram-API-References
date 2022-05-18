@@ -24,15 +24,15 @@ public class RouteStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the routing style and direction for all dynamic connectors on the drawing page that don't have a local routing style. |
+| [Ufe](../../aspose.diagram/routestyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/routestyle/value) { get; set; } | Specifies the routing style and direction for all dynamic connectors on the drawing page that don't have a local routing style. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/routestyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/routestyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

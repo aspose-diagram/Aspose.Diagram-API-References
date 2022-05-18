@@ -24,16 +24,16 @@ public class MasterShortcut
 
 | Name | Description |
 | --- | --- |
-| [AlignName](alignname) { get; set; } | Specifies whether the element's text in the stencil window is aligned left, right, or center. |
-| [Icon](icon) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
-| [IconSize](iconsize) { get; set; } | The size of the element's icon. |
-| [ID](id) { get; set; } | The unique ID of the element within its parent element. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [PatternFlags](patternflags) { get; set; } | Determines whether a master behaves as a custom pattern. |
-| [Prompt](prompt) { get; set; } | The status bar and tool tip prompt for the element. |
-| [ShortcutHelp](shortcuthelp) { get; set; } | A help string for the element. |
-| [ShortcutURL](shortcuturl) { get; set; } | A URL to a MasterShortcut element. If this attribute is present, this MasterShortcut element is a shortcut. |
+| [AlignName](../../aspose.diagram/mastershortcut/alignname) { get; set; } | Specifies whether the element's text in the stencil window is aligned left, right, or center. |
+| [Icon](../../aspose.diagram/mastershortcut/icon) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
+| [IconSize](../../aspose.diagram/mastershortcut/iconsize) { get; set; } | The size of the element's icon. |
+| [ID](../../aspose.diagram/mastershortcut/id) { get; set; } | The unique ID of the element within its parent element. |
+| [Name](../../aspose.diagram/mastershortcut/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/mastershortcut/nameu) { get; set; } | The universal name of the element. |
+| [PatternFlags](../../aspose.diagram/mastershortcut/patternflags) { get; set; } | Determines whether a master behaves as a custom pattern. |
+| [Prompt](../../aspose.diagram/mastershortcut/prompt) { get; set; } | The status bar and tool tip prompt for the element. |
+| [ShortcutHelp](../../aspose.diagram/mastershortcut/shortcuthelp) { get; set; } | A help string for the element. |
+| [ShortcutURL](../../aspose.diagram/mastershortcut/shortcuturl) { get; set; } | A URL to a MasterShortcut element. If this attribute is present, this MasterShortcut element is a shortcut. |
 
 ### See Also
 

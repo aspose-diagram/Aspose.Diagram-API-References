@@ -24,15 +24,15 @@ public class DisplayMode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. When it is contained in a SmartTagDef element, the DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
+| [Ufe](../../aspose.diagram/displaymode/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/displaymode/value) { get; set; } | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. When it is contained in a SmartTagDef element, the DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/displaymode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/displaymode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

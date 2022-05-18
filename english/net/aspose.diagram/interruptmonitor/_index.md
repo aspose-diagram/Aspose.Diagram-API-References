@@ -24,13 +24,13 @@ public class InterruptMonitor : AbstractInterruptMonitor
 
 | Name | Description |
 | --- | --- |
-| override [IsInterruptionRequested](isinterruptionrequested) { get; } | Mark the monitor as requesting interruption |
+| override [IsInterruptionRequested](../../aspose.diagram/interruptmonitor/isinterruptionrequested) { get; } | Mark the monitor as requesting interruption |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Interrupt](interrupt)() | Interrupt the current operator. |
+| [Interrupt](../../aspose.diagram/interruptmonitor/interrupt)() | Interrupt the current operator. |
 
 ### See Also
 

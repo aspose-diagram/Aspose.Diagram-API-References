@@ -12,7 +12,7 @@ Contains classes to auto lay out diagrams.
 
 | Class | Description |
 | --- | --- |
-| [LayoutOptions](./layoutoptions) | Used to specify style and additional options of layout of shapes to perform Re-Layout of page(pages). |
+| [LayoutOptions](./layoutoptions) | Used to specify style and additional options of layout of shapes to perform Re-Layout of page(../pages). |
 ## Enumeration
 
 | Enumeration | Description |

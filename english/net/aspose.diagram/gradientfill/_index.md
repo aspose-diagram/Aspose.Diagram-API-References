@@ -18,10 +18,10 @@ public class GradientFill
 
 | Name | Description |
 | --- | --- |
-| [GradientAngle](gradientangle) { get; set; } | Specifies the orientation of the fill color gradient |
-| [GradientDir](gradientdir) { get; set; } | Specifies the type of the fill color gradient |
-| [GradientEnabled](gradientenabled) { get; set; } | Specifies whether the fill color gradient is visible. |
-| [GradientStops](gradientstops) { get; } | Represents the gradient stop collection. |
+| [GradientAngle](../../aspose.diagram/gradientfill/gradientangle) { get; set; } | Specifies the orientation of the fill color gradient |
+| [GradientDir](../../aspose.diagram/gradientfill/gradientdir) { get; set; } | Specifies the type of the fill color gradient |
+| [GradientEnabled](../../aspose.diagram/gradientfill/gradientenabled) { get; set; } | Specifies whether the fill color gradient is visible. |
+| [GradientStops](../../aspose.diagram/gradientfill/gradientstops) { get; } | Represents the gradient stop collection. |
 
 ### See Also
 

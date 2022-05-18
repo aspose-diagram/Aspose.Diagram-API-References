@@ -24,12 +24,12 @@ public class Font
 
 | Name | Description |
 | --- | --- |
-| [CharSets](charsets) { get; set; } | The supported character sets of the font. |
-| [Flags](flags) { get; set; } | Flags that indicate the following: missing font, default font, asian font, complex font, vertical font, and font type. |
-| [ID](id) { get; set; } | The ID of the element within its parent element. |
-| [Name](name) { get; set; } | The name of the font as a UTF-16 Unicode string. |
-| [Panos](panos) { get; set; } | The panose signature for the font. Panose is a classification system for typefaces that categorizes them based upon their visual characteristics. |
-| [UnicodeRanges](unicoderanges) { get; set; } | The supported Unicode ranges of the font. |
+| [CharSets](../../aspose.diagram/font/charsets) { get; set; } | The supported character sets of the font. |
+| [Flags](../../aspose.diagram/font/flags) { get; set; } | Flags that indicate the following: missing font, default font, asian font, complex font, vertical font, and font type. |
+| [ID](../../aspose.diagram/font/id) { get; set; } | The ID of the element within its parent element. |
+| [Name](../../aspose.diagram/font/name) { get; set; } | The name of the font as a UTF-16 Unicode string. |
+| [Panos](../../aspose.diagram/font/panos) { get; set; } | The panose signature for the font. Panose is a classification system for typefaces that categorizes them based upon their visual characteristics. |
+| [UnicodeRanges](../../aspose.diagram/font/unicoderanges) { get; set; } | The supported Unicode ranges of the font. |
 
 ### See Also
 

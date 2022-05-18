@@ -24,15 +24,15 @@ public class LineRouteExt
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the default appearance for all connectors on a page. |
+| [Ufe](../../aspose.diagram/linerouteext/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/linerouteext/value) { get; set; } | Specifies the default appearance for all connectors on a page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/linerouteext/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/linerouteext/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

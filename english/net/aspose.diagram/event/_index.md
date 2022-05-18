@@ -18,19 +18,19 @@ public class Event : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [EventDblClick](eventdblclick) { get; set; } | An event element that is evaluated when a shape is double-clicked. |
-| [EventDrop](eventdrop) { get; set; } | An event element that is evaluated when a shape is dropped on the drawing page, either as an instance or when a shape is duplicated or pasted. |
-| [EventMultiDrop](eventmultidrop) { get; set; } | EventMultiDrop. |
-| [EventXFMod](eventxfmod) { get; set; } | An event element that is evaluated when a shape's position or orientation on the page is transformed. |
-| [TheData](thedata) { get; set; } | Reserved for future use. |
-| [TheText](thetext) { get; set; } | An event element that is evaluated when a shape's text or text composition changes. |
+| [Del](../../aspose.diagram/event/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [EventDblClick](../../aspose.diagram/event/eventdblclick) { get; set; } | An event element that is evaluated when a shape is double-clicked. |
+| [EventDrop](../../aspose.diagram/event/eventdrop) { get; set; } | An event element that is evaluated when a shape is dropped on the drawing page, either as an instance or when a shape is duplicated or pasted. |
+| [EventMultiDrop](../../aspose.diagram/event/eventmultidrop) { get; set; } | EventMultiDrop. |
+| [EventXFMod](../../aspose.diagram/event/eventxfmod) { get; set; } | An event element that is evaluated when a shape's position or orientation on the page is transformed. |
+| [TheData](../../aspose.diagram/event/thedata) { get; set; } | Reserved for future use. |
+| [TheText](../../aspose.diagram/event/thetext) { get; set; } | An event element that is evaluated when a shape's text or text composition changes. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/event/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

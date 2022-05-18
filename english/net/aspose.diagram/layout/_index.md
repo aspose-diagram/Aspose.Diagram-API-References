@@ -18,25 +18,25 @@ public class Layout
 
 | Name | Description |
 | --- | --- |
-| [ConFixedCode](confixedcode) { get; } | Determines when a connector reroutes. |
-| [ConLineJumpCode](conlinejumpcode) { get; } | Determines whether a connector jumps when two connectors cross, |
-| [ConLineJumpDirX](conlinejumpdirx) { get; } | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. |
-| [ConLineJumpDirY](conlinejumpdiry) { get; } | Determines the line jump direction for line jumps occurring on a vertical segment of a dynamic connector. |
-| [ConLineJumpStyle](conlinejumpstyle) { get; } | Determines the line jump style for line jumps on a dynamic connector. |
-| [ConLineRouteExt](conlinerouteext) { get; } | Determines the appearance of a connector. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [DisplayLevel](displaylevel) { get; } | Determines the display level band (the relative range of Z-order grouping) for the shape. |
-| [Relationships](relationships) { get; } | Stores the relationships between containers, lists, callouts, and shapes. |
-| [ShapeFixedCode](shapefixedcode) { get; } | Specifies placement behavior for a placeable shape. |
-| [ShapePermeablePlace](shapepermeableplace) { get; } | Specifies whether placeable shapes can be placed on top of a shape when a user selects Lay Out Shapes (Shapes menu). |
-| [ShapePermeableX](shapepermeablex) { get; } | Specifies whether a connector can route horizontally through a shape. |
-| [ShapePermeableY](shapepermeabley) { get; } | Specifies whether a connector can route vertically through a shape. |
-| [ShapePlaceFlip](shapeplaceflip) { get; } | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
-| [ShapePlaceStyle](shapeplacestyle) { get; set; } | Determines the placement style for children. |
-| [ShapePlowCode](shapeplowcode) { get; } | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
-| [ShapeRouteStyle](shaperoutestyle) { get; } | Specifies the routing style and direction for a connector on the drawing page. |
-| [ShapeSplit](shapesplit) { get; } | Determines whether this shape can split shapes that are splittable. |
-| [ShapeSplittable](shapesplittable) { get; } | Determines whether this 1-D shape can be split. |
+| [ConFixedCode](../../aspose.diagram/layout/confixedcode) { get; } | Determines when a connector reroutes. |
+| [ConLineJumpCode](../../aspose.diagram/layout/conlinejumpcode) { get; } | Determines whether a connector jumps when two connectors cross, |
+| [ConLineJumpDirX](../../aspose.diagram/layout/conlinejumpdirx) { get; } | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. |
+| [ConLineJumpDirY](../../aspose.diagram/layout/conlinejumpdiry) { get; } | Determines the line jump direction for line jumps occurring on a vertical segment of a dynamic connector. |
+| [ConLineJumpStyle](../../aspose.diagram/layout/conlinejumpstyle) { get; } | Determines the line jump style for line jumps on a dynamic connector. |
+| [ConLineRouteExt](../../aspose.diagram/layout/conlinerouteext) { get; } | Determines the appearance of a connector. |
+| [Del](../../aspose.diagram/layout/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [DisplayLevel](../../aspose.diagram/layout/displaylevel) { get; } | Determines the display level band (the relative range of Z-order grouping) for the shape. |
+| [Relationships](../../aspose.diagram/layout/relationships) { get; } | Stores the relationships between containers, lists, callouts, and shapes. |
+| [ShapeFixedCode](../../aspose.diagram/layout/shapefixedcode) { get; } | Specifies placement behavior for a placeable shape. |
+| [ShapePermeablePlace](../../aspose.diagram/layout/shapepermeableplace) { get; } | Specifies whether placeable shapes can be placed on top of a shape when a user selects Lay Out Shapes (Shapes menu). |
+| [ShapePermeableX](../../aspose.diagram/layout/shapepermeablex) { get; } | Specifies whether a connector can route horizontally through a shape. |
+| [ShapePermeableY](../../aspose.diagram/layout/shapepermeabley) { get; } | Specifies whether a connector can route vertically through a shape. |
+| [ShapePlaceFlip](../../aspose.diagram/layout/shapeplaceflip) { get; } | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
+| [ShapePlaceStyle](../../aspose.diagram/layout/shapeplacestyle) { get; set; } | Determines the placement style for children. |
+| [ShapePlowCode](../../aspose.diagram/layout/shapeplowcode) { get; } | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
+| [ShapeRouteStyle](../../aspose.diagram/layout/shaperoutestyle) { get; } | Specifies the routing style and direction for a connector on the drawing page. |
+| [ShapeSplit](../../aspose.diagram/layout/shapesplit) { get; } | Determines whether this shape can split shapes that are splittable. |
+| [ShapeSplittable](../../aspose.diagram/layout/shapesplittable) { get; } | Determines whether this 1-D shape can be split. |
 
 ### See Also
 

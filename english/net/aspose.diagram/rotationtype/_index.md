@@ -24,15 +24,15 @@ public class RotationType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of bevel. |
+| [Ufe](../../aspose.diagram/rotationtype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/rotationtype/value) { get; set; } | Specifies the type of bevel. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/rotationtype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/rotationtype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

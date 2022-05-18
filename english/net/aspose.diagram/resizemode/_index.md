@@ -24,16 +24,16 @@ public class ResizeMode : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the current resize behavior setting for the shape when contained in a group. |
+| [Ufe](../../aspose.diagram/resizemode/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/resizemode/value) { get; set; } | Specifies the current resize behavior setting for the shape when contained in a group. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/resizemode/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/resizemode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/resizemode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

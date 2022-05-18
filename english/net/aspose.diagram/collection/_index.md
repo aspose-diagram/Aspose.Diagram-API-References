@@ -24,15 +24,15 @@ public abstract class Collection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](clear)() | Removes all elements from collection. |
-| [GetEnumerator](getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](isexist)(int) | Is exist item in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 
 ### See Also
 

@@ -24,14 +24,20 @@ public class RelEllipticalArcTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The x-coordinate of the arc's control point. The control point is best located about halfway between the beginning and ending vertices of the arc. Otherwise, the arc may grow to an extreme size in order to pass through the control point, with unpredictable results. |
-| [B](b) { get; set; } | The y-coordinate of an arc's control point. |
-| [C](c) { get; set; } | The angle of an arc's major axis relative to the x-axis of its parent. |
-| [D](d) { get; set; } | The ratio of an arc's major axis to its minor axis. Despite the usual meaning of these words, the major axis does not have to be greater than the minor axis, so this ratio does not have to be greater than 1. Setting this element to a value less than or equal to 0 or greater than 1000 can lead to unpredictable results. |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of the ending vertex of an elliptical arc. |
-| [Y](y) { get; set; } | The y-coordinate of the ending vertex of an elliptical arc. |
+| [A](../../aspose.diagram/relellipticalarcto/a) { get; set; } | The x-coordinate of the arc's control point. The control point is best located about halfway between the beginning and ending vertices of the arc. Otherwise, the arc may grow to an extreme size in order to pass through the control point, with unpredictable results. |
+| [B](../../aspose.diagram/relellipticalarcto/b) { get; set; } | The y-coordinate of an arc's control point. |
+| [C](../../aspose.diagram/relellipticalarcto/c) { get; set; } | The angle of an arc's major axis relative to the x-axis of its parent. |
+| [D](../../aspose.diagram/relellipticalarcto/d) { get; set; } | The ratio of an arc's major axis to its minor axis. Despite the usual meaning of these words, the major axis does not have to be greater than the minor axis, so this ratio does not have to be greater than 1. Setting this element to a value less than or equal to 0 or greater than 1000 can lead to unpredictable results. |
+| override [Del](../../aspose.diagram/relellipticalarcto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/relellipticalarcto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/relellipticalarcto/x) { get; set; } | The x-coordinate of the ending vertex of an elliptical arc. |
+| [Y](../../aspose.diagram/relellipticalarcto/y) { get; set; } | The y-coordinate of the ending vertex of an elliptical arc. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

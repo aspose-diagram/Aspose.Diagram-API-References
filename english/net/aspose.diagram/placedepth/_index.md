@@ -24,15 +24,15 @@ public class PlaceDepth
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout. |
+| [Ufe](../../aspose.diagram/placedepth/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/placedepth/value) { get; set; } | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/placedepth/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/placedepth/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,10 +24,10 @@ public class IndividualFontConfigs
 
 | Name | Description |
 | --- | --- |
-| [GetFontSources](getfontsources)() | Gets a copy of the array that contains the list of sources |
-| [SetFontFolder](setfontfolder)(string, bool) | Sets the fonts folder |
-| [SetFontFolders](setfontfolders)(string[], bool) | Sets the fonts folders |
-| [SetFontSources](setfontsources)(FontSourceBase[]) | Sets the fonts sources. |
+| [GetFontSources](../../aspose.diagram/individualfontconfigs/getfontsources)() | Gets a copy of the array that contains the list of sources |
+| [SetFontFolder](../../aspose.diagram/individualfontconfigs/setfontfolder)(string, bool) | Sets the fonts folder |
+| [SetFontFolders](../../aspose.diagram/individualfontconfigs/setfontfolders)(string[], bool) | Sets the fonts folders |
+| [SetFontSources](../../aspose.diagram/individualfontconfigs/setfontsources)(FontSourceBase[]) | Sets the fonts sources. |
 
 ### See Also
 

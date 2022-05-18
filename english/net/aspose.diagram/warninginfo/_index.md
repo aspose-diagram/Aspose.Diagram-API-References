@@ -24,8 +24,8 @@ public class WarningInfo
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; } | Get description of warning info. |
-| [WarningType](warningtype) { get; } | Get warning type. |
+| [Description](../../aspose.diagram/warninginfo/description) { get; } | Get description of warning info. |
+| [WarningType](../../aspose.diagram/warninginfo/warningtype) { get; } | Get warning type. |
 
 ### See Also
 

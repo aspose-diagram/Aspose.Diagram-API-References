@@ -24,11 +24,17 @@ public class PolylineTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The polyline formula. |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of the ending vertex of a polyline. |
-| [Y](y) { get; set; } | The y-coordinate of the ending vertex of a polyline. |
+| [A](../../aspose.diagram/polylineto/a) { get; set; } | The polyline formula. |
+| override [Del](../../aspose.diagram/polylineto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/polylineto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/polylineto/x) { get; set; } | The x-coordinate of the ending vertex of a polyline. |
+| [Y](../../aspose.diagram/polylineto/y) { get; set; } | The y-coordinate of the ending vertex of a polyline. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

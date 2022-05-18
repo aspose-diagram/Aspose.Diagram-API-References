@@ -24,15 +24,15 @@ public class PreviewScope
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
+| [Ufe](../../aspose.diagram/previewscope/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/previewscope/value) { get; set; } | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/previewscope/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/previewscope/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

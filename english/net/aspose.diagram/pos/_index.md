@@ -24,16 +24,16 @@ public class Pos : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the position of the shape's text relative to the baseline. |
+| [Ufe](../../aspose.diagram/pos/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/pos/value) { get; set; } | Specifies the position of the shape's text relative to the baseline. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/pos/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/pos/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/pos/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

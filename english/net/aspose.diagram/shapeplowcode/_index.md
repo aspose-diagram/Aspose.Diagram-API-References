@@ -24,15 +24,15 @@ public class ShapePlowCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
+| [Ufe](../../aspose.diagram/shapeplowcode/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shapeplowcode/value) { get; set; } | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shapeplowcode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shapeplowcode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

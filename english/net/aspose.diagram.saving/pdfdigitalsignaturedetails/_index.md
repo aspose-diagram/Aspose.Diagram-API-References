@@ -24,11 +24,11 @@ public class PdfDigitalSignatureDetails
 
 | Name | Description |
 | --- | --- |
-| [Certificate](certificate) { get; set; } | Certificate to sign with. |
-| [HashAlgorithm](hashalgorithm) { get; set; } | Hash algorithm. |
-| [Location](location) { get; set; } | Location of signing. |
-| [Reason](reason) { get; set; } | The reason of signing. |
-| [SignatureDate](signaturedate) { get; set; } | Date of signing. |
+| [Certificate](../../aspose.diagram.saving/pdfdigitalsignaturedetails/certificate) { get; set; } | Certificate to sign with. |
+| [HashAlgorithm](../../aspose.diagram.saving/pdfdigitalsignaturedetails/hashalgorithm) { get; set; } | Hash algorithm. |
+| [Location](../../aspose.diagram.saving/pdfdigitalsignaturedetails/location) { get; set; } | Location of signing. |
+| [Reason](../../aspose.diagram.saving/pdfdigitalsignaturedetails/reason) { get; set; } | The reason of signing. |
+| [SignatureDate](../../aspose.diagram.saving/pdfdigitalsignaturedetails/signaturedate) { get; set; } | Date of signing. |
 
 ### Remarks
 

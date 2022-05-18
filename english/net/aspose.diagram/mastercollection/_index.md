@@ -18,20 +18,24 @@ public class MasterCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
-| [MasterShortcuts](mastershortcuts) { get; } | MasterShortcut collection. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/mastercollection/item) { get; } | Gets the element at the specified index. |
+| [MasterShortcuts](../../aspose.diagram/mastercollection/mastershortcuts) { get; } | MasterShortcut collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Master) | Add the Master object in the collection. |
-| [GetMaster](getmaster)(int) | Gets the element at the specified ID. |
-| [GetMasterByName](getmasterbyname)(string) | Get master by name. |
-| [GetMaxRelID](getmaxrelid)() | get the max rel id in the collection. |
-| [IsExist](isexist)(string) | Is exist master in the collection. |
-| [IsExistRelId](isexistrelid)(string) | Is exist master rel id in the collection. |
-| [Remove](remove)(Master) | Remove the Master object from the collection. |
+| [Add](../../aspose.diagram/mastercollection/add)(Master) | Add the Master object in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [GetMaster](../../aspose.diagram/mastercollection/getmaster)(int) | Gets the element at the specified ID. |
+| [GetMasterByName](../../aspose.diagram/mastercollection/getmasterbyname)(string) | Get master by name. |
+| [GetMaxRelID](../../aspose.diagram/mastercollection/getmaxrelid)() | get the max rel id in the collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [IsExist](../../aspose.diagram/mastercollection/isexist)(string) | Is exist master in the collection. |
+| [IsExistRelId](../../aspose.diagram/mastercollection/isexistrelid)(string) | Is exist master rel id in the collection. |
+| [Remove](../../aspose.diagram/mastercollection/remove)(Master) | Remove the Master object from the collection. |
 
 ### See Also
 

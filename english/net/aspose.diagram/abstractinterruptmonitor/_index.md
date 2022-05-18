@@ -18,7 +18,7 @@ public abstract class AbstractInterruptMonitor
 
 | Name | Description |
 | --- | --- |
-| abstract [IsInterruptionRequested](isinterruptionrequested) { get; } | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |
+| abstract [IsInterruptionRequested](../../aspose.diagram/abstractinterruptmonitor/isinterruptionrequested) { get; } | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |
 
 ### See Also
 

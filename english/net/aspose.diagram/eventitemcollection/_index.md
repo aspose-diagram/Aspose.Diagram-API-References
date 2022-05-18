@@ -24,14 +24,18 @@ public class EventItemCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/eventitemcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(EventItem) | Add the eventItem in the collection. |
-| [Remove](remove)(EventItem) | Remove the eventItem from the collection. |
+| [Add](../../aspose.diagram/eventitemcollection/add)(EventItem) | Add the eventItem in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/eventitemcollection/remove)(EventItem) | Remove the eventItem from the collection. |
 
 ### See Also
 

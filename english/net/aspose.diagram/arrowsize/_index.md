@@ -24,15 +24,15 @@ public class ArrowSize
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the size of the arrowhead of the line. |
+| [Ufe](../../aspose.diagram/arrowsize/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/arrowsize/value) { get; set; } | Specifies the size of the arrowhead of the line. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/arrowsize/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/arrowsize/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

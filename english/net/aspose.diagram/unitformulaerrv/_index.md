@@ -24,15 +24,18 @@ public class UnitFormulaErrV : UnitFormulaErr
 
 | Name | Description |
 | --- | --- |
-| [V](v) { get; set; } | Represents the null string condition for a string cell value. In some cases it is helpful to distinguish between an empty string cell null and a null string cell value. This attribute is used to distinguish between these forms of an empty value. |
+| [Err](../../aspose.diagram/unitformulaerr/err) { get; set; } | Indicates that the formula evaluates to an error. |
+| [F](../../aspose.diagram/unitformulaerr/f) { get; set; } | Represents the element's formula. |
+| [Unit](../../aspose.diagram/unitformulaerr/unit) { get; set; } | Units of measure. |
+| [V](../../aspose.diagram/unitformulaerrv/v) { get; set; } | Represents the null string condition for a string cell value. In some cases it is helpful to distinguish between an empty string cell null and a null string cell value. This attribute is used to distinguish between these forms of an empty value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/unitformulaerrv/clone)() | Creates deep copy of this instance. (2 methods) |
+| override [Equals](../../aspose.diagram/unitformulaerrv/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/unitformulaerrv/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

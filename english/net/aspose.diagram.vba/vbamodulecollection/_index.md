@@ -18,16 +18,16 @@ public class VbaModuleCollection : CollectionBase
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets [`VbaModule`](../vbamodule) in the list by the index. (2 indexers) |
+| [Item](../../aspose.diagram.vba/vbamodulecollection/item) { get; } | Gets [`VbaModule`](../vbamodule) in the list by the index. (2 indexers) |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Page) | Adds module for a page. |
-| [Add](add)(VbaModuleType, string) | Adds module. |
-| [Remove](remove)(Page) | Removes module for a page. |
-| [Remove](remove)(string) | Remove the module by the name |
+| [Add](../../aspose.diagram.vba/vbamodulecollection/add)(Page) | Adds module for a page. |
+| [Add](../../aspose.diagram.vba/vbamodulecollection/add)(VbaModuleType, string) | Adds module. |
+| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove)(Page) | Removes module for a page. |
+| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove)(string) | Remove the module by the name |
 
 ### See Also
 

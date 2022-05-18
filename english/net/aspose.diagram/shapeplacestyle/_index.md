@@ -24,15 +24,15 @@ public class ShapePlaceStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the appearance of a connector. |
+| [Ufe](../../aspose.diagram/shapeplacestyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shapeplacestyle/value) { get; set; } | Determines the appearance of a connector. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shapeplacestyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shapeplacestyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

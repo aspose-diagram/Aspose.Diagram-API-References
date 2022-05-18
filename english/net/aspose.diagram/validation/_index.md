@@ -18,9 +18,9 @@ public class Validation
 
 | Name | Description |
 | --- | --- |
-| [Issues](issues) { get; } | Contains all the Issue elements for the document. |
-| [RuleSets](rulesets) { get; } | Includes a RuleSet element for each validation rule set in the document. |
-| [ValidationProperties](validationproperties) { get; } | Encapsulates properties related to validation for the document. |
+| [Issues](../../aspose.diagram/validation/issues) { get; } | Contains all the Issue elements for the document. |
+| [RuleSets](../../aspose.diagram/validation/rulesets) { get; } | Includes a RuleSet element for each validation rule set in the document. |
+| [ValidationProperties](../../aspose.diagram/validation/validationproperties) { get; } | Encapsulates properties related to validation for the document. |
 
 ### See Also
 

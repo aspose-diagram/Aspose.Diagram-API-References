@@ -24,8 +24,8 @@ public class ColorEntry
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Represents an ARGB color. |
-| [IX](ix) { get; set; } | Required int. The zero-based index of the element within its parent element. |
+| [Color](../../aspose.diagram/colorentry/color) { get; set; } | Represents an ARGB color. |
+| [IX](../../aspose.diagram/colorentry/ix) { get; set; } | Required int. The zero-based index of the element within its parent element. |
 
 ### See Also
 

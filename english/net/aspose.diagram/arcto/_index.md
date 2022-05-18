@@ -24,11 +24,17 @@ public class ArcTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The distance from the arc's midpoint to the midpoint of its chord. |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of the ending vertex of an arc. |
-| [Y](y) { get; set; } | The y-coordinate of the ending vertex of an arc. |
+| [A](../../aspose.diagram/arcto/a) { get; set; } | The distance from the arc's midpoint to the midpoint of its chord. |
+| override [Del](../../aspose.diagram/arcto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/arcto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/arcto/x) { get; set; } | The x-coordinate of the ending vertex of an arc. |
+| [Y](../../aspose.diagram/arcto/y) { get; set; } | The y-coordinate of the ending vertex of an arc. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

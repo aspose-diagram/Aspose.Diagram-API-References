@@ -24,15 +24,15 @@ public class DrawingResizeType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines whether the drawing page resizes automatically to fit the diagram. |
+| [Ufe](../../aspose.diagram/drawingresizetype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/drawingresizetype/value) { get; set; } | Determines whether the drawing page resizes automatically to fit the diagram. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/drawingresizetype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/drawingresizetype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

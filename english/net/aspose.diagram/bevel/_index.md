@@ -18,8 +18,8 @@ public class Bevel
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Gets and sets the height of the bevel, or how far above the shape it is applied. In unit of Points. |
-| [Width](width) { get; set; } | Gets and sets the width of the bevel, or how far into the shape it is applied. |
+| [Height](../../aspose.diagram/bevel/height) { get; set; } | Gets and sets the height of the bevel, or how far above the shape it is applied. In unit of Points. |
+| [Width](../../aspose.diagram/bevel/width) { get; set; } | Gets and sets the width of the bevel, or how far into the shape it is applied. |
 
 ### See Also
 

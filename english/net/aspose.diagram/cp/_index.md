@@ -24,7 +24,7 @@ public class Cp : FormatTxt
 
 | Name | Description |
 | --- | --- |
-| override [Value](value) { get; } | Value |
+| override [Value](../../aspose.diagram/cp/value) { get; } | Value |
 
 ### See Also
 

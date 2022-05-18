@@ -18,16 +18,20 @@ public class WindowCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [ClientHeight](clientheight) { get; set; } | Optional int. |
-| [ClientWidth](clientwidth) { get; set; } | Optional int. |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [ClientHeight](../../aspose.diagram/windowcollection/clientheight) { get; set; } | Optional int. |
+| [ClientWidth](../../aspose.diagram/windowcollection/clientwidth) { get; set; } | Optional int. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/windowcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Window) | Add the window in the collection. |
-| [Remove](remove)(Window) | Remove the window from the collection. |
+| [Add](../../aspose.diagram/windowcollection/add)(Window) | Add the window in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/windowcollection/remove)(Window) | Remove the window from the collection. |
 
 ### See Also
 

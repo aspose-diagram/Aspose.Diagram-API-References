@@ -24,16 +24,16 @@ public class Calendar
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
+| [Ufe](../../aspose.diagram/calendar/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/calendar/value) { get; set; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/calendar/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/calendar/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/calendar/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class ShdwType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Indicates the default shadow type for a page. |
+| [Ufe](../../aspose.diagram/shdwtype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shdwtype/value) { get; set; } | Indicates the default shadow type for a page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shdwtype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shdwtype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

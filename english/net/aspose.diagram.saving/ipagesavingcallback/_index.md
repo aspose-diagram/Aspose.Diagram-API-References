@@ -18,8 +18,8 @@ public interface IPageSavingCallback
 
 | Name | Description |
 | --- | --- |
-| [PageEndSaving](pageendsaving)(PageEndSavingArgs) | Control/Indicate a page ends to be output. |
-| [PageStartSaving](pagestartsaving)(PageStartSavingArgs) | Control/Indicate a page starts to be output. |
+| [PageEndSaving](../../aspose.diagram.saving/ipagesavingcallback/pageendsaving)(PageEndSavingArgs) | Control/Indicate a page ends to be output. |
+| [PageStartSaving](../../aspose.diagram.saving/ipagesavingcallback/pagestartsaving)(PageStartSavingArgs) | Control/Indicate a page starts to be output. |
 
 ### See Also
 

@@ -24,8 +24,8 @@ public class ValidationProperties
 
 | Name | Description |
 | --- | --- |
-| [LastValidated](lastvalidated) { get; set; } | The date and time the document was last validated |
-| [ShowIgnored](showignored) { get; set; } | Whether to show ignored validation issues in the Issues window. |
+| [LastValidated](../../aspose.diagram/validationproperties/lastvalidated) { get; set; } | The date and time the document was last validated |
+| [ShowIgnored](../../aspose.diagram/validationproperties/showignored) { get; set; } | Whether to show ignored validation issues in the Issues window. |
 
 ### See Also
 

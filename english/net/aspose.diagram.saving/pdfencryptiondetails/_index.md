@@ -24,10 +24,10 @@ public class PdfEncryptionDetails
 
 | Name | Description |
 | --- | --- |
-| [EncryptionAlgorithm](encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
-| [OwnerPassword](ownerpassword) { get; set; } | Gets or sets the Owner password. |
-| [Permissions](permissions) { get; set; } | Gets or sets the permissions. |
-| [UserPassword](userpassword) { get; set; } | Gets or sets the User password. |
+| [EncryptionAlgorithm](../../aspose.diagram.saving/pdfencryptiondetails/encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
+| [OwnerPassword](../../aspose.diagram.saving/pdfencryptiondetails/ownerpassword) { get; set; } | Gets or sets the Owner password. |
+| [Permissions](../../aspose.diagram.saving/pdfencryptiondetails/permissions) { get; set; } | Gets or sets the permissions. |
+| [UserPassword](../../aspose.diagram.saving/pdfencryptiondetails/userpassword) { get; set; } | Gets or sets the User password. |
 
 ### See Also
 

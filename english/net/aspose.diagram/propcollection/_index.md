@@ -18,16 +18,20 @@ public class PropCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/propcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Prop) | Add the Prop object in the collection. |
-| [GetProp](getprop)(int) | Gets the element at the specified ID. |
-| [GetProp](getprop)(string) | Gets the element at the specified name. |
-| [Remove](remove)(Prop) | Remove the Prop object from the collection. |
+| [Add](../../aspose.diagram/propcollection/add)(Prop) | Add the Prop object in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [GetProp](../../aspose.diagram/propcollection/getprop)(int) | Gets the element at the specified ID. |
+| [GetProp](../../aspose.diagram/propcollection/getprop)(string) | Gets the element at the specified name. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/propcollection/remove)(Prop) | Remove the Prop object from the collection. |
 
 ### See Also
 

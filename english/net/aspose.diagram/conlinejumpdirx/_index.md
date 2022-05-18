@@ -24,15 +24,15 @@ public class ConLineJumpDirX
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. |
+| [Ufe](../../aspose.diagram/conlinejumpdirx/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/conlinejumpdirx/value) { get; set; } | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/conlinejumpdirx/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/conlinejumpdirx/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,16 +24,16 @@ public class ConType : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |
+| [Ufe](../../aspose.diagram/contype/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/contype/value) { get; set; } | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/contype/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/contype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/contype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

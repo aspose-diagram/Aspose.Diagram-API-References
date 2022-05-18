@@ -18,25 +18,25 @@ public class Line : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [BeginArrow](beginarrow) { get; set; } | Indicates whether a line has an arrowhead or other line end format at its first vertex. Enter a number from 0 to 45 or the USE function with the name of a custom line end. |
-| [BeginArrowSize](beginarrowsize) { get; set; } | Determines the size of the arrowhead at the beginning of the line. Enter a number from 0 to 6. |
-| [CompoundType](compoundtype) { get; set; } | Specifies the line CompoundType of the shape. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [EndArrow](endarrow) { get; set; } | Indicates whether a line has an arrowhead or other line-end format at its last vertex. |
-| [EndArrowSize](endarrowsize) { get; set; } | Specifies the size of the arrowhead at the end of the line. |
-| [GradientLine](gradientline) { get; } | Contains the current gradient line formatting values for the shape |
-| [LineCap](linecap) { get; set; } | Specifies whether a line has rounded or square line ends. |
-| [LineColor](linecolor) { get; set; } | Specifies the line color of the shape. |
-| [LineColorTrans](linecolortrans) { get; set; } | Specifies the transparency level of a shape's line color, from 0 (opaque) to 1 (completely transparent). The default is 0. |
-| [LinePattern](linepattern) { get; set; } | Specifies the line pattern of the shape |
-| [LineWeight](lineweight) { get; set; } | Specifies the line weight of a shape. Line weight is independent of the scale of the drawing. If the drawing is scaled, the line weight remains the same. |
-| [Rounding](rounding) { get; set; } | Specifies the radius of the rounding arc applied where two contiguous segments of a path meet. For example, rounding can be used to give a rectangle rounded corners. |
+| [BeginArrow](../../aspose.diagram/line/beginarrow) { get; set; } | Indicates whether a line has an arrowhead or other line end format at its first vertex. Enter a number from 0 to 45 or the USE function with the name of a custom line end. |
+| [BeginArrowSize](../../aspose.diagram/line/beginarrowsize) { get; set; } | Determines the size of the arrowhead at the beginning of the line. Enter a number from 0 to 6. |
+| [CompoundType](../../aspose.diagram/line/compoundtype) { get; set; } | Specifies the line CompoundType of the shape. |
+| [Del](../../aspose.diagram/line/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [EndArrow](../../aspose.diagram/line/endarrow) { get; set; } | Indicates whether a line has an arrowhead or other line-end format at its last vertex. |
+| [EndArrowSize](../../aspose.diagram/line/endarrowsize) { get; set; } | Specifies the size of the arrowhead at the end of the line. |
+| [GradientLine](../../aspose.diagram/line/gradientline) { get; } | Contains the current gradient line formatting values for the shape |
+| [LineCap](../../aspose.diagram/line/linecap) { get; set; } | Specifies whether a line has rounded or square line ends. |
+| [LineColor](../../aspose.diagram/line/linecolor) { get; set; } | Specifies the line color of the shape. |
+| [LineColorTrans](../../aspose.diagram/line/linecolortrans) { get; set; } | Specifies the transparency level of a shape's line color, from 0 (opaque) to 1 (completely transparent). The default is 0. |
+| [LinePattern](../../aspose.diagram/line/linepattern) { get; set; } | Specifies the line pattern of the shape |
+| [LineWeight](../../aspose.diagram/line/lineweight) { get; set; } | Specifies the line weight of a shape. Line weight is independent of the scale of the drawing. If the drawing is scaled, the line weight remains the same. |
+| [Rounding](../../aspose.diagram/line/rounding) { get; set; } | Specifies the radius of the rounding arc applied where two contiguous segments of a path meet. For example, rounding can be used to give a rectangle rounded corners. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/line/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

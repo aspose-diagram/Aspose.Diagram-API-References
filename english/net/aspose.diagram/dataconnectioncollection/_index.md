@@ -18,16 +18,20 @@ public class DataConnectionCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
-| [NextID](nextid) { get; set; } | The next available ID for new connections. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/dataconnectioncollection/item) { get; } | Gets the element at the specified index. |
+| [NextID](../../aspose.diagram/dataconnectioncollection/nextid) { get; set; } | The next available ID for new connections. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(DataConnection) | Add the dataConnection in the collection. |
-| [GetDataConnection](getdataconnection)(uint) | Gets the element at the specified ID. |
-| [Remove](remove)(DataConnection) | Remove the dataConnection from the collection. |
+| [Add](../../aspose.diagram/dataconnectioncollection/add)(DataConnection) | Add the dataConnection in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetDataConnection](../../aspose.diagram/dataconnectioncollection/getdataconnection)(uint) | Gets the element at the specified ID. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/dataconnectioncollection/remove)(DataConnection) | Remove the dataConnection from the collection. |
 
 ### See Also
 

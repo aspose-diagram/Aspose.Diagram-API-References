@@ -91,7 +91,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Field](./field) | Contains elements that specify functions and formulas inserted in the shape's text. |
 | [FieldCollection](./fieldcollection) | Field collection. |
 | [FileFontSource](./filefontsource) | Represents the single TrueType font file stored in the file system. |
-| [FileFormatInfo](./fileformatinfo) | Contains data returned by [`FileFormatUtil`](aspose.diagram/fileformatutil) file format detection methods. |
+| [FileFormatInfo](./fileformatinfo) | Contains data returned by [`FileFormatUtil`](../aspose.diagram/fileformatutil) file format detection methods. |
 | [FileFormatUtil](./fileformatutil) | Provides utility methods for converting file format enums to strings or file extensions and back. |
 | [Fill](./fill) | Contains the current fill formatting values for the shape and the shape's drop shadow, including pattern, foreground color, and background color. |
 | [Fld](./fld) | Indicates a text-field insertion point for the corresponding Field element. |
@@ -102,13 +102,13 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [FontConfigs](./fontconfigs) | Specifies font settings |
 | [FontSourceBase](./fontsourcebase) | This is an abstract base class for the classes that allow the user to specify various font sources |
 | [Foreign](./foreign) | Contains elements specifying the width and height of an object from another program used in a Microsoft Visio document. Also includes elements specifying the distance the object's image is offset within its borders. |
-| [ForeignData](./foreigndata) | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
+| [ForeignData](./foreigndata) | Contains a MIME (../Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
 | [FormatTxt](./formattxt) | Abstract class for formatting of text |
 | [FormatTxtCollection](./formattxtcollection) | FormatTxt collection which contains the text of a shape. |
 | [Geom](./geom) | Contains elements that specify the coordinates of the vertices for the lines and arcs that make up the shape. If the shape has more than one path, there is a Geom element for each path. |
 | [GeomCollection](./geomcollection) | Geom collection. |
 | [GlowEffect](./gloweffect) | This class specifies a glow effect, in which a color blurred outline is added outside the edges of the object. |
-| [GlueType](./gluetype) | Specifies whether dynamic (shape-to-shape) glue is allowed when connecting to a shape. |
+| [GlueType](./gluetype) | Specifies whether dynamic (../shape-to-shape) glue is allowed when connecting to a shape. |
 | [GradientFill](./gradientfill) | Represents the gradient fill. |
 | [GradientStop](./gradientstop) | Represents the gradient stop. |
 | [GradientStopCollection](./gradientstopcollection) | Represents the gradient stop collection. |
@@ -121,7 +121,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Hyperlink](./hyperlink) | Contains elements for creating multiple jumps between a shape or drawing page and another drawing page, another file, or a Web site. |
 | [HyperlinkCollection](./hyperlinkcollection) | Hyperlink collection. |
 | [Image](./image) | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
-| [IndividualFontConfigs](./individualfontconfigs) | Font configs for each [`Diagram`](aspose.diagram/diagram) object. |
+| [IndividualFontConfigs](./individualfontconfigs) | Font configs for each [`Diagram`](../aspose.diagram/diagram) object. |
 | [InfiniteLine](./infiniteline) | Contains elements specifying the x- and y-coordinates of two points on an infinite line. The X and Y elements specify the x- and y-coordinates of the first point, and the A and B elements specify the x- and y-coordinates of the second point. |
 | [InfiniteLineCollection](./infinitelinecollection) | InfiniteLine collection. |
 | [InterruptMonitor](./interruptmonitor) | Represents all operator about the interrupt. |
@@ -143,7 +143,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineTo](./lineto) | Contains x- and y-coordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements, respectively. |
 | [LineToCollection](./linetocollection) | LineTo collection. |
 | [LoadOptions](./loadoptions) | Allows to specify additional options when loading a diagram into a Diagram object. |
-| [LocalizeFont](./localizefont) | Specifies whether the shape text should be localized (translated into another language). |
+| [LocalizeFont](./localizefont) | Specifies whether the shape text should be localized (../translated into another language). |
 | [Margin](./margin) | Specifies the margin. |
 | [Master](./master) | Contains elements that define a master for the document. A master is a shape on a stencil that you use repeatedly to create drawings. When you drag a shape from a stencil onto the drawing page, the shape becomes an instance of that master, and a local copy of the master is included in the document. |
 | [MasterCollection](./mastercollection) | Master collection. |
@@ -155,7 +155,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Misc](./misc) | Contains various elements of shapes and groups, such as those that control selection highlighting and visibility. |
 | [MoveTo](./moveto) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
 | [MoveToCollection](./movetocollection) | MoveTo collection. |
-| [NURBSTo](./nurbsto) | Contains the x- and y-coordinates, position of the second to last knot, position of the last weight, position of the first knot, position of the first weight, and the formula for a nonuniform rational B-spline (NURBS). This information is specified in the X, Y, A, B, C, D, and E elements, respectively. |
+| [NURBSTo](./nurbsto) | Contains the x- and y-coordinates, position of the second to last knot, position of the last weight, position of the first knot, position of the first weight, and the formula for a nonuniform rational B-spline (../NURBS). This information is specified in the X, Y, A, B, C, D, and E elements, respectively. |
 | [NURBSToCollection](./nurbstocollection) | NURBSTo collection. |
 | [ObjectKind](./objectkind) | Indicates the type of text field. |
 | [ObjType](./objtype) | Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the drawing page. |
@@ -171,14 +171,14 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [ParaCollection](./paracollection) | Para collection. |
 | [PlaceDepth](./placedepth) | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout. |
 | [PlaceFlip](./placeflip) | Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio. The following hexadecimal values are allowed. |
-| [PlaceStyle](./placestyle) | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). |
+| [PlaceStyle](./placestyle) | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (../Shape menu). |
 | [PolylineTo](./polylineto) | Contains x- and y-coordinates of the last point of a polyline and a polyline formula. The coordinates are specified in the X and Y elements, and the formula is specified in the A element. |
 | [PolylineToCollection](./polylinetocollection) | PolylineTo collection. |
 | [Pos](./pos) | Specifies the position of the shape's text relative to the baseline. |
 | [Pp](./pp) | Specifies the beginning of a paragraph properties run. The run is defined to the end of the text or until the next |
 | [PreviewScope](./previewscope) | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
 | [PrintPageOrientation](./printpageorientation) | Determines whether the page is printed in portrait or landscape orientation. |
-| [PrintProps](./printprops) | Contains elements that control how the drawing page is formatted (appears) on the printer page. |
+| [PrintProps](./printprops) | Contains elements that control how the drawing page is formatted (../appears) on the printer page. |
 | [Prop](./prop) | Contains elements for defining custom properties and elements for associating data with a shape. |
 | [PropCollection](./propcollection) | Prop collection. |
 | [Protection](./protection) | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window. |
@@ -213,7 +213,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Shape](./shape) | Contains elements that define a shape in a Master, Page, or group shape element. |
 | [ShapeCollection](./shapecollection) | Collection of Shapes. |
 | [ShapeFixedCode](./shapefixedcode) | Specifies placement behavior for a placeable shape. |
-| [ShapePlaceFlip](./shapeplaceflip) | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
+| [ShapePlaceFlip](./shapeplaceflip) | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (../Shapes menu). |
 | [ShapePlaceStyle](./shapeplacestyle) | Determines the placement style for children. |
 | [ShapePlowCode](./shapeplowcode) | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
 | [ShapeRouteStyle](./shaperoutestyle) | Specifies the routing style and direction for a connector on the drawing page. |
@@ -263,7 +263,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [WarningInfo](./warninginfo) | Warning info |
 | [Window](./window) | Represents an open window in a Microsoft Visio instance. This element contains information necessary to exactly re-create a user interface window in the application workspace when the DatadiagramML file is initially opened by Visio. |
 | [WindowCollection](./windowcollection) | Window collection. |
-| [XForm](./xform) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. These elements determine whether the line ends are formatted (for example, with an arrowhead), the size of line end formats, radius of the rounding circle applied to the line, and line cap style (round or square). |
+| [XForm](./xform) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. These elements determine whether the line ends are formatted (../for example, with an arrowhead), the size of line end formats, radius of the rounding circle applied to the line, and line cap style (../round or square). |
 | [XForm1D](./xform1d) | Contains x- and y-coordinates of the begin point and end point of a 1-D shape. This element appears for 1-D shapes only. |
 | [XJustify](./xjustify) | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |
 | [YJustify](./yjustify) | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
@@ -286,7 +286,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [BOOL](./bool) | Boolean. |
 | [BulletValue](./bulletvalue) | Determines the bullet style. |
 | [CalendarValue](./calendarvalue) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
-| [CaseValue](./casevalue) | Determines the case of a shape's text. All capital (uppercase) letters (1) and initial capital letters (2) do not change the appearance of text that was entered in all capital letters. The text must be entered in lowercase letters for these options to show an effect. |
+| [CaseValue](./casevalue) | Determines the case of a shape's text. All capital (../uppercase) letters (../1) and initial capital letters (../2) do not change the appearance of text that was entered in all capital letters. The text must be entered in lowercase letters for these options to show an effect. |
 | [CompoundTypeValue](./compoundtypevalue) | Represents style of drawing lines. |
 | [CompressionType](./compressiontype) | This attribute is only meaningful if the foreign data is a raster-based foreign object, such as a DIB, JPG, PNG, TIFF, or GIF file. The value indicates the type of compression applied to the file. |
 | [ConFixedCodeValue](./confixedcodevalue) | Determines when a connector reroutes. |
@@ -315,7 +315,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [GluedShapesFlags](./gluedshapesflags) | Specifies constants that identify which shapes to return, based on the dimensionality and directionality of the connection points that are glued to a particular shape; passed to the Shape.GluedShapes method. |
 | [GlueSettings](./gluesettings) | The bit values indicate that a specific glue setting is on or off. The value may be a sum of the values: |
 | [GlueSettingsValue](./gluesettingsvalue) | Specifies the objects that shapes glue to when glue is enabled in the document. |
-| [GlueTypeValue](./gluetypevalue) | Specifies whether dynamic (shape-to-shape) glue is allowed when connecting to a shape. |
+| [GlueTypeValue](./gluetypevalue) | Specifies whether dynamic (../shape-to-shape) glue is allowed when connecting to a shape. |
 | [GradientDirectionType](./gradientdirectiontype) | Represents all direction type of gradient. |
 | [GradientFillDir](./gradientfilldir) | Specifies the type of the fill color gradient of a shape |
 | [GradientFillType](./gradientfilltype) | Represents all Gradient fill type. |
@@ -330,7 +330,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineJumpStyleValue](./linejumpstylevalue) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
 | [LineRouteExtValue](./linerouteextvalue) | Specifies the default appearance for all connectors on a page. |
 | [LoadFileFormat](./loadfileformat) | Enumeration for loading diagram format selection. |
-| [LocalizeFontValue](./localizefontvalue) | Specifies whether the shape text should be localized (translated into another language). |
+| [LocalizeFontValue](./localizefontvalue) | Specifies whether the shape text should be localized (../translated into another language). |
 | [MeasureConst](./measureconst) | Units of\ measure. |
 | [ObjectKindValue](./objectkindvalue) | Indicates the type of text field. |
 | [ObjectType](./objecttype) | If the ForeignType attribute is "Object", the ForeignData element must also have an ObjectType attribute. |
@@ -342,7 +342,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [PinPosValue](./pinposvalue) | Specifies the pin position for the shape. |
 | [PlaceDepthValue](./placedepthvalue) | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout. |
 | [PlaceFlipValue](./placeflipvalue) | Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio. The following hexadecimal values are allowed. |
-| [PlaceStyleValue](./placestylevalue) | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). |
+| [PlaceStyleValue](./placestylevalue) | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (../Shape menu). |
 | [PosValue](./posvalue) | Specifies the position of the shape's text relative to the baseline. |
 | [PresetCameraType](./presetcameratype) | Represent different algorithmic methods for setting all camera properties, including position. |
 | [PresetColorMatricsValue](./presetcolormatricsvalue) | Used to set Shape theme style's color property |
@@ -364,7 +364,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [SaveFileFormat](./savefileformat) | Enumeration for saving diagram format selection. |
 | [SelectModeValue](./selectmodevalue) | Specifies how the user selects a group shape and its members. |
 | [ShapeFixedCodeValue](./shapefixedcodevalue) | Specifies placement behavior for a placeable shape. |
-| [ShapePlaceFlipValue](./shapeplaceflipvalue) | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
+| [ShapePlaceFlipValue](./shapeplaceflipvalue) | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (../Shapes menu). |
 | [ShapePlaceStyleValue](./shapeplacestylevalue) | Determines the placement style for children. |
 | [ShapePlowCodeValue](./shapeplowcodevalue) | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
 | [ShapeRouteStyleValue](./shaperoutestylevalue) | Specifies the routing style and direction for a connector on the drawing page. |
@@ -388,7 +388,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [WalkPreferenceValue](./walkpreferencevalue) | Specifies whether an endpoint of a 1-D shape moves to a horizontal or vertical connection point on the shape it is glued to, using dynamic glue, when the shape is moved to an ambiguous position. |
 | [WarningType](./warningtype) | WarningType |
 | [WindowStateValue](./windowstatevalue) | An integer specifying bit flags. This attribute can be a sum of the following values. |
-| [WindowTypeValue](./windowtypevalue) | An enumerated value that may be one of the following: Drawing, Sheet, Stencil, or Icon. A Window element of WindowType='Stencil' must appear after its parent drawing window (WindowType='Drawing') and before any other drawing window elements. |
+| [WindowTypeValue](./windowtypevalue) | An enumerated value that may be one of the following: Drawing, Sheet, Stencil, or Icon. A Window element of WindowType='Stencil' must appear after its parent drawing window (../WindowType='Drawing') and before any other drawing window elements. |
 | [XJustifyValue](./xjustifyvalue) | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |
 | [YJustifyValue](./yjustifyvalue) | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
 

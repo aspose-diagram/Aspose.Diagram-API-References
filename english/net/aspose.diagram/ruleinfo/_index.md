@@ -24,8 +24,8 @@ public class RuleInfo
 
 | Name | Description |
 | --- | --- |
-| [RuleId](ruleid) { get; set; } | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
-| [RuleSetId](rulesetid) { get; set; } | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
+| [RuleId](../../aspose.diagram/ruleinfo/ruleid) { get; set; } | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
+| [RuleSetId](../../aspose.diagram/ruleinfo/rulesetid) { get; set; } | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class PlaceStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). |
+| [Ufe](../../aspose.diagram/placestyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/placestyle/value) { get; set; } | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/placestyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/placestyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

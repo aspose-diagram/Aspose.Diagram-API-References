@@ -24,29 +24,29 @@ public class TimeLineHelper
 
 | Name | Description |
 | --- | --- |
-| [ArrowHead](arrowhead) { set; } | ArrowHead of timeline shape |
-| [BeginWeek](beginweek) { set; } | Begin week of timeline shape |
-| [DateFormatForBE](dateformatforbe) { set; } | DateFormat for start and finish of timeline shape |
-| [DateFormatForIntm](dateformatforintm) { set; } | DateFormat for Intm of timeline shape |
-| [DateFormatStringForBE](dateformatstringforbe) { set; } | DateFormat String for start and finish of timeline shape |
-| [DateFormatStringForIntm](dateformatstringforintm) { set; } | DateFormat String for Intm of timeline shape |
-| [FiscalStart](fiscalstart) { set; } | First day of fiscal year |
-| [IsAutoUpdate](isautoupdate) { set; } | whether to update data for markers (milestones, intervals) as they are moved on timeline |
-| [IsDisplayBE](isdisplaybe) { set; } | whether to display Begin and End dates on timeline |
-| [IsDisplayIntm](isdisplayintm) { set; } | whether to display interim date/time ticks on timeline |
-| [IsDisplayIntmDates](isdisplayintmdates) { set; } | whether to display interim dates on interim ticks |
-| [TimeLineType](timelinetype) { set; } | Begin week of timeline shape |
-| [TimePeriodFinish](timeperiodfinish) { get; set; } | Time Period for finish of timeline shape |
-| [TimePeriodStart](timeperiodstart) { get; set; } | Time Period for start of timeline shape |
-| [TimeScale](timescale) { get; set; } | scale of timeline shape |
+| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead) { set; } | ArrowHead of timeline shape |
+| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek) { set; } | Begin week of timeline shape |
+| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe) { set; } | DateFormat for start and finish of timeline shape |
+| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm) { set; } | DateFormat for Intm of timeline shape |
+| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe) { set; } | DateFormat String for start and finish of timeline shape |
+| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm) { set; } | DateFormat String for Intm of timeline shape |
+| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart) { set; } | First day of fiscal year |
+| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate) { set; } | whether to update data for markers (milestones, intervals) as they are moved on timeline |
+| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe) { set; } | whether to display Begin and End dates on timeline |
+| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm) { set; } | whether to display interim date/time ticks on timeline |
+| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates) { set; } | whether to display interim dates on interim ticks |
+| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype) { set; } | Begin week of timeline shape |
+| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish) { get; set; } | Time Period for finish of timeline shape |
+| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart) { get; set; } | Time Period for start of timeline shape |
+| [TimeScale](../../aspose.diagram/timelinehelper/timescale) { get; set; } | scale of timeline shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [RefreshTimeLine](refreshtimeline)() | Refresh time of timeline shapes |
-| static [GetDoubleStringFromDateTime](getdoublestringfromdatetime)(DateTime) | Convert the date time to double value. |
-| static [GetWeekEnd](getweekend)(DateTime, int) | getweekstart |
+| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline)() | Refresh time of timeline shapes |
+| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime)(DateTime) | Convert the date time to double value. |
+| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend)(DateTime, int) | getweekstart |
 
 ### See Also
 

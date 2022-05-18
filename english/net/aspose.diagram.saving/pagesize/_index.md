@@ -25,9 +25,9 @@ public class PageSize
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Gets or sets the page height in points for the the generated images. |
-| [PaperSizeFormat](papersizeformat) { get; set; } | Gets or sets the paper size format for the generated images. Can be [`PaperSizeFormat`](../papersizeformat). |
-| [Width](width) { get; set; } | Gets or sets the page width in points for the the generated images. |
+| [Height](../../aspose.diagram.saving/pagesize/height) { get; set; } | Gets or sets the page height in points for the the generated images. |
+| [PaperSizeFormat](../../aspose.diagram.saving/pagesize/papersizeformat) { get; set; } | Gets or sets the paper size format for the generated images. Can be [`PaperSizeFormat`](../papersizeformat). |
+| [Width](../../aspose.diagram.saving/pagesize/width) { get; set; } | Gets or sets the page width in points for the the generated images. |
 
 ### See Also
 

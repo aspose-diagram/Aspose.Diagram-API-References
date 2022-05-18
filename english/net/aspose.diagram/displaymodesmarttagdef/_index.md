@@ -24,15 +24,15 @@ public class DisplayModeSmartTagDef
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
+| [Ufe](../../aspose.diagram/displaymodesmarttagdef/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/displaymodesmarttagdef/value) { get; set; } | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/displaymodesmarttagdef/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/displaymodesmarttagdef/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class YJustify
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
+| [Ufe](../../aspose.diagram/yjustify/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/yjustify/value) { get; set; } | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/yjustify/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/yjustify/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

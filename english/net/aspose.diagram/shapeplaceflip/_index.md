@@ -24,15 +24,15 @@ public class ShapePlaceFlip
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
+| [Ufe](../../aspose.diagram/shapeplaceflip/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shapeplaceflip/value) { get; set; } | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shapeplaceflip/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shapeplaceflip/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

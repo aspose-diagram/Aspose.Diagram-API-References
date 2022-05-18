@@ -24,16 +24,16 @@ public class Case : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the case of a shape's text. |
+| [Ufe](../../aspose.diagram/case/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/case/value) { get; set; } | Determines the case of a shape's text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/case/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/case/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/case/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

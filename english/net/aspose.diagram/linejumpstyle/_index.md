@@ -24,15 +24,15 @@ public class LineJumpStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
+| [Ufe](../../aspose.diagram/linejumpstyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/linejumpstyle/value) { get; set; } | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/linejumpstyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/linejumpstyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

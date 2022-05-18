@@ -18,14 +18,14 @@ public abstract class ActiveXControlBase
 
 | Name | Description |
 | --- | --- |
-| [BackOleColor](backolecolor) { get; set; } | Gets and sets the ole color of the background. |
-| virtual [Data](data) { get; } | Gets and sets the binary data of the control. |
-| virtual [ForeOleColor](foreolecolor) { get; set; } | Gets and sets the ole color of the foreground. |
-| virtual [Height](height) { get; set; } | Gets and sets the height of the control in unit of points. |
-| [MouseIcon](mouseicon) { get; set; } | Gets and sets a custom icon to display as the mouse pointer for the control. |
-| [MousePointer](mousepointer) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
-| abstract [Type](type) { get; } | Gets the type of the ActiveX control. |
-| virtual [Width](width) { get; set; } | Gets and sets the width of the control in unit of point. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Gets and sets the ole color of the background. |
+| virtual [Data](../../aspose.diagram.activexcontrols/activexcontrolbase/data) { get; } | Gets and sets the binary data of the control. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Gets and sets the ole color of the foreground. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Gets and sets the height of the control in unit of points. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Gets and sets a custom icon to display as the mouse pointer for the control. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
+| abstract [Type](../../aspose.diagram.activexcontrols/activexcontrolbase/type) { get; } | Gets the type of the ActiveX control. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Gets and sets the width of the control in unit of point. |
 
 ### See Also
 

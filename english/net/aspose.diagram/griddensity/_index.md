@@ -24,15 +24,15 @@ public class GridDensity
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of horizontal/vertical grid to use for a page. |
+| [Ufe](../../aspose.diagram/griddensity/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/griddensity/value) { get; set; } | Specifies the type of horizontal/vertical grid to use for a page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/griddensity/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/griddensity/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

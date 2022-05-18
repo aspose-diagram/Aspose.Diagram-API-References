@@ -24,15 +24,15 @@ public class ConLineJumpStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the line jump style for line jumps on a dynamic connector. |
+| [Ufe](../../aspose.diagram/conlinejumpstyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/conlinejumpstyle/value) { get; set; } | Determines the line jump style for line jumps on a dynamic connector. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/conlinejumpstyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/conlinejumpstyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

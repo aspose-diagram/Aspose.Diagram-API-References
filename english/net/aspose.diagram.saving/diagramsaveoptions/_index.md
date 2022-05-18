@@ -25,8 +25,10 @@ public class DiagramSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| virtual [AutoFitPageToDrawingContent](autofitpagetodrawingcontent) { get; set; } | Defines whether need enlarge page to fit drawing content or not. |
-| override [SaveFormat](saveformat) { get; set; } | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be [`VDX`](../../aspose.diagram/savefileformat) or [`VSX`](../../aspose.diagram/savefileformat). |
+| virtual [AutoFitPageToDrawingContent](../../aspose.diagram.saving/diagramsaveoptions/autofitpagetodrawingcontent) { get; set; } | Defines whether need enlarge page to fit drawing content or not. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
+| override [SaveFormat](../../aspose.diagram.saving/diagramsaveoptions/saveformat) { get; set; } | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be [`VDX`](../../aspose.diagram/savefileformat) or [`VSX`](../../aspose.diagram/savefileformat). |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
 
 ### Remarks
 

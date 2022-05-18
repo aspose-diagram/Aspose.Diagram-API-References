@@ -24,15 +24,15 @@ public class UIVisibility
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the uivisibility. |
+| [Ufe](../../aspose.diagram/uivisibility/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/uivisibility/value) { get; set; } | Specifies the uivisibility. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/uivisibility/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/uivisibility/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

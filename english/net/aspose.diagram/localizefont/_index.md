@@ -24,16 +24,16 @@ public class LocalizeFont : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies whether the shape text should be localized (translated into another language). |
+| [Ufe](../../aspose.diagram/localizefont/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/localizefont/value) { get; set; } | Specifies whether the shape text should be localized (translated into another language). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/localizefont/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/localizefont/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/localizefont/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

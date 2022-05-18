@@ -18,11 +18,11 @@ public class StyleProp
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [EnableFillProps](enablefillprops) { get; } | Specifies whether a style includes fill properties. |
-| [EnableLineProps](enablelineprops) { get; } | Specifies whether a style includes line properties |
-| [EnableTextProps](enabletextprops) { get; } | Specifies whether a style includes text properties. |
-| [HideForApply](hideforapply) { get; } | Specifies where a style is shown in the Microsoft Visio user interface. |
+| [Del](../../aspose.diagram/styleprop/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [EnableFillProps](../../aspose.diagram/styleprop/enablefillprops) { get; } | Specifies whether a style includes fill properties. |
+| [EnableLineProps](../../aspose.diagram/styleprop/enablelineprops) { get; } | Specifies whether a style includes line properties |
+| [EnableTextProps](../../aspose.diagram/styleprop/enabletextprops) { get; } | Specifies whether a style includes text properties. |
+| [HideForApply](../../aspose.diagram/styleprop/hideforapply) { get; } | Specifies where a style is shown in the Microsoft Visio user interface. |
 
 ### See Also
 

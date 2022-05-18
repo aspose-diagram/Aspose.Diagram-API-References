@@ -18,15 +18,26 @@ public class ImageActiveXControl : ActiveXControl
 
 | Name | Description |
 | --- | --- |
-| [BorderOleColor](borderolecolor) { get; set; } | Gets and sets the ole color of the background. |
-| [BorderStyle](borderstyle) { get; set; } | Gets and set the type of border used by the control. |
-| override [IsAutoSize](isautosize) { get; set; } | Indicates whether the control will automatically resize to display its entire contents. |
-| [IsTiled](istiled) { get; set; } | Indicates whether the picture is tiled across the background. |
-| [Picture](picture) { get; set; } | Gets and sets the data of the picture. |
-| [PictureAlignment](picturealignment) { get; set; } | Gets and sets the alignment of the picture inside the Form or Image. |
-| [PictureSizeMode](picturesizemode) { get; set; } | Gets and sets how to display the picture. |
-| [SpecialEffect](specialeffect) { get; set; } | Gets and sets the special effect of the control. |
-| override [Type](type) { get; } | Gets the type of the ActiveX control. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Gets and sets the ole color of the background. |
+| [BorderOleColor](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderolecolor) { get; set; } | Gets and sets the ole color of the background. |
+| [BorderStyle](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderstyle) { get; set; } | Gets and set the type of border used by the control. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Gets and sets the binary data of the control. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Gets and sets the ole color of the foreground. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Gets and sets the height of the control in unit of points. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Gets and sets the default run-time mode of the Input Method Editor for the control as it receives focus. |
+| override [IsAutoSize](../../aspose.diagram.activexcontrols/imageactivexcontrol/isautosize) { get; set; } | Indicates whether the control will automatically resize to display its entire contents. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Indicates whether the control can receive the focus and respond to user-generated events. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Indicates whether data in the control is locked for editing. |
+| [IsTiled](../../aspose.diagram.activexcontrols/imageactivexcontrol/istiled) { get; set; } | Indicates whether the picture is tiled across the background. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Indicates whether the control is transparent. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Gets and sets a custom icon to display as the mouse pointer for the control. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
+| [Picture](../../aspose.diagram.activexcontrols/imageactivexcontrol/picture) { get; set; } | Gets and sets the data of the picture. |
+| [PictureAlignment](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment) { get; set; } | Gets and sets the alignment of the picture inside the Form or Image. |
+| [PictureSizeMode](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode) { get; set; } | Gets and sets how to display the picture. |
+| [SpecialEffect](../../aspose.diagram.activexcontrols/imageactivexcontrol/specialeffect) { get; set; } | Gets and sets the special effect of the control. |
+| override [Type](../../aspose.diagram.activexcontrols/imageactivexcontrol/type) { get; } | Gets the type of the ActiveX control. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Gets and sets the width of the control in unit of point. |
 
 ### See Also
 

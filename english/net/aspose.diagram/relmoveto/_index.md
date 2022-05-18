@@ -24,10 +24,16 @@ public class RelMoveTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | X element represents the x-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, the X element represents the x-coordinate of the first vertex after the break in the path |
-| [Y](y) { get; set; } | Y element represents the y-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, the Y element represents the y-coordinate of the first vertex after the break in the path. |
+| override [Del](../../aspose.diagram/relmoveto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/relmoveto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/relmoveto/x) { get; set; } | X element represents the x-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, the X element represents the x-coordinate of the first vertex after the break in the path |
+| [Y](../../aspose.diagram/relmoveto/y) { get; set; } | Y element represents the y-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, the Y element represents the y-coordinate of the first vertex after the break in the path. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

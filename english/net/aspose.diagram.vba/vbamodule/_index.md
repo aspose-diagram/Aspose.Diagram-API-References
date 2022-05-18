@@ -18,9 +18,9 @@ public class VbaModule
 
 | Name | Description |
 | --- | --- |
-| [Codes](codes) { get; set; } | Gets and sets the codes of module. |
-| [Name](name) { get; set; } | Gets and sets the name of Module. |
-| [Type](type) { get; } | Gets the type of module. |
+| [Codes](../../aspose.diagram.vba/vbamodule/codes) { get; set; } | Gets and sets the codes of module. |
+| [Name](../../aspose.diagram.vba/vbamodule/name) { get; set; } | Gets and sets the name of Module. |
+| [Type](../../aspose.diagram.vba/vbamodule/type) { get; } | Gets the type of module. |
 
 ### See Also
 

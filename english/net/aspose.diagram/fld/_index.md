@@ -24,7 +24,7 @@ public class Fld : FormatTxt
 
 | Name | Description |
 | --- | --- |
-| override [Value](value) { get; } | Value |
+| override [Value](../../aspose.diagram/fld/value) { get; } | Value |
 
 ### See Also
 

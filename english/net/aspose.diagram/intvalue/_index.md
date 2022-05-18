@@ -24,17 +24,17 @@ public class IntValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [IsThemed](isthemed) { get; set; } |  |
-| [Ufe](ufe) { get; set; } | Attributes of an element. |
-| [Value](value) { get; set; } | Integer value. |
+| [IsThemed](../../aspose.diagram/intvalue/isthemed) { get; set; } |  |
+| [Ufe](../../aspose.diagram/intvalue/ufe) { get; set; } | Attributes of an element. |
+| [Value](../../aspose.diagram/intvalue/value) { get; set; } | Integer value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/intvalue/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/intvalue/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/intvalue/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

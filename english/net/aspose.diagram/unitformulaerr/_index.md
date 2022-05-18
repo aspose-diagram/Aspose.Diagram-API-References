@@ -25,17 +25,17 @@ public class UnitFormulaErr : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Err](err) { get; set; } | Indicates that the formula evaluates to an error. |
-| [F](f) { get; set; } | Represents the element's formula. |
-| [Unit](unit) { get; set; } | Units of measure. |
+| [Err](../../aspose.diagram/unitformulaerr/err) { get; set; } | Indicates that the formula evaluates to an error. |
+| [F](../../aspose.diagram/unitformulaerr/f) { get; set; } | Represents the element's formula. |
+| [Unit](../../aspose.diagram/unitformulaerr/unit) { get; set; } | Units of measure. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/unitformulaerr/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/unitformulaerr/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/unitformulaerr/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

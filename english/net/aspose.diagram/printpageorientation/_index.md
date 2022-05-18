@@ -24,15 +24,15 @@ public class PrintPageOrientation
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines whether the page is printed in portrait or landscape orientation. |
+| [Ufe](../../aspose.diagram/printpageorientation/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/printpageorientation/value) { get; set; } | Determines whether the page is printed in portrait or landscape orientation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/printpageorientation/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/printpageorientation/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

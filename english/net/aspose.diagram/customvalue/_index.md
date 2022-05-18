@@ -24,10 +24,10 @@ public class CustomValue
 
 | Name | Description |
 | --- | --- |
-| [ValueBool](valuebool) { get; set; } | Boolean value. |
-| [ValueDate](valuedate) { get; set; } | Date and time value. |
-| [ValueNumber](valuenumber) { get; set; } | Number value. |
-| [ValueString](valuestring) { get; set; } | String value. |
+| [ValueBool](../../aspose.diagram/customvalue/valuebool) { get; set; } | Boolean value. |
+| [ValueDate](../../aspose.diagram/customvalue/valuedate) { get; set; } | Date and time value. |
+| [ValueNumber](../../aspose.diagram/customvalue/valuenumber) { get; set; } | Number value. |
+| [ValueString](../../aspose.diagram/customvalue/valuestring) { get; set; } | String value. |
 
 ### See Also
 

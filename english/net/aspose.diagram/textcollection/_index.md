@@ -18,14 +18,18 @@ public class TextCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/textcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Text) | Add the Text object in the collection. |
-| [Remove](remove)(Text) | Remove the Text object from the collection. |
+| [Add](../../aspose.diagram/textcollection/add)(Text) | Add the Text object in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/textcollection/remove)(Text) | Remove the Text object from the collection. |
 
 ### See Also
 

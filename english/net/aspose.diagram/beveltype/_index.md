@@ -24,15 +24,15 @@ public class BevelType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of bevel. |
+| [Ufe](../../aspose.diagram/beveltype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/beveltype/value) { get; set; } | Specifies the type of bevel. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/beveltype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/beveltype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

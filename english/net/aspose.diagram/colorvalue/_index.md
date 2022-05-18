@@ -24,16 +24,16 @@ public class ColorValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Attributes of an element. |
-| [Value](value) { get; set; } | Color Value. To set the color, enter a number from 0 to 23 or the RGB value in hexadecimal notation. |
+| [Ufe](../../aspose.diagram/colorvalue/ufe) { get; set; } | Attributes of an element. |
+| [Value](../../aspose.diagram/colorvalue/value) { get; set; } | Color Value. To set the color, enter a number from 0 to 23 or the RGB value in hexadecimal notation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/colorvalue/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/colorvalue/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/colorvalue/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

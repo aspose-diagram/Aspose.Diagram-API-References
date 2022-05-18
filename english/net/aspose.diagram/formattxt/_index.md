@@ -18,7 +18,7 @@ public abstract class FormatTxt
 
 | Name | Description |
 | --- | --- |
-| abstract [Value](value) { get; } | Value |
+| abstract [Value](../../aspose.diagram/formattxt/value) { get; } | Value |
 
 ### See Also
 

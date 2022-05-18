@@ -24,21 +24,21 @@ public class Geom : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [CoordinateCol](coordinatecol) { get; } | Collection of coordinates. It shows sequence of coordinates. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [NextCoordinateIX](nextcoordinateix) { get; } | Returns IX value for next shape's coordinate collection member. |
-| [NoFill](nofill) { get; set; } | Specifies whether a path can be filled. |
-| [NoLine](noline) { get; set; } | Specifies whether a line is drawn around the boundary of the path. |
-| [NoQuickDrag](noquickdrag) { get; set; } | Determines whether a shape can be selected or dragged when the user clicks the filled area defined by the Geometry section. |
-| [NoShow](noshow) { get; set; } | Specifies whether a path is displayed on the drawing page. |
-| [NoSnap](nosnap) { get; set; } | Specifies whether other shapes snap to a path. |
+| [CoordinateCol](../../aspose.diagram/geom/coordinatecol) { get; } | Collection of coordinates. It shows sequence of coordinates. |
+| [Del](../../aspose.diagram/geom/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [IX](../../aspose.diagram/geom/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [NextCoordinateIX](../../aspose.diagram/geom/nextcoordinateix) { get; } | Returns IX value for next shape's coordinate collection member. |
+| [NoFill](../../aspose.diagram/geom/nofill) { get; set; } | Specifies whether a path can be filled. |
+| [NoLine](../../aspose.diagram/geom/noline) { get; set; } | Specifies whether a line is drawn around the boundary of the path. |
+| [NoQuickDrag](../../aspose.diagram/geom/noquickdrag) { get; set; } | Determines whether a shape can be selected or dragged when the user clicks the filled area defined by the Geometry section. |
+| [NoShow](../../aspose.diagram/geom/noshow) { get; set; } | Specifies whether a path is displayed on the drawing page. |
+| [NoSnap](../../aspose.diagram/geom/nosnap) { get; set; } | Specifies whether other shapes snap to a path. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/geom/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

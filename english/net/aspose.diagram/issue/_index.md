@@ -24,10 +24,10 @@ public class Issue
 
 | Name | Description |
 | --- | --- |
-| [ID](id) { get; set; } | Specifies the unique identifier of the validation issue. |
-| [Ignored](ignored) { get; set; } | Specifies whether the validation issue is currently ignored. The default is False. |
-| [IssueTarget](issuetarget) { get; } | Depending on the target of the parent validation issue, specifies either the page, or both the page and the shape, that the parent validation issue is associated with. If the target of the parent validation issue is a document, IssueTarget specifies neither a page nor a shape. |
-| [RuleInfo](ruleinfo) { get; } | Specifies information about the validation rule that the parent validation issue pertains to. |
+| [ID](../../aspose.diagram/issue/id) { get; set; } | Specifies the unique identifier of the validation issue. |
+| [Ignored](../../aspose.diagram/issue/ignored) { get; set; } | Specifies whether the validation issue is currently ignored. The default is False. |
+| [IssueTarget](../../aspose.diagram/issue/issuetarget) { get; } | Depending on the target of the parent validation issue, specifies either the page, or both the page and the shape, that the parent validation issue is associated with. If the target of the parent validation issue is a document, IssueTarget specifies neither a page nor a shape. |
+| [RuleInfo](../../aspose.diagram/issue/ruleinfo) { get; } | Specifies information about the validation rule that the parent validation issue pertains to. |
 
 ### See Also
 

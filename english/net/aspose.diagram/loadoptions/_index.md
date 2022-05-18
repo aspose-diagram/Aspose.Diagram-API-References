@@ -25,10 +25,10 @@ public class LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CultureInfo](cultureinfo) { get; set; } | Gets or sets the system culture info at the time the file was loaded. |
-| [InterruptMonitor](interruptmonitor) { get; set; } | Gets and sets the interrupt monitor. |
-| [LoadFormat](loadformat) { get; set; } | Specifies the format of the diagram to be loaded. Default is [`VSD`](../loadfileformat). Read/write [`LoadFileFormat`](../loadfileformat). |
-| [Pages](pages) { get; set; } | Specifies the index of the pages to be loaded. |
+| [CultureInfo](../../aspose.diagram/loadoptions/cultureinfo) { get; set; } | Gets or sets the system culture info at the time the file was loaded. |
+| [InterruptMonitor](../../aspose.diagram/loadoptions/interruptmonitor) { get; set; } | Gets and sets the interrupt monitor. |
+| [LoadFormat](../../aspose.diagram/loadoptions/loadformat) { get; set; } | Specifies the format of the diagram to be loaded. Default is [`VSD`](../loadfileformat). Read/write [`LoadFileFormat`](../loadfileformat). |
+| [Pages](../../aspose.diagram/loadoptions/pages) { get; set; } | Specifies the index of the pages to be loaded. |
 
 ### See Also
 

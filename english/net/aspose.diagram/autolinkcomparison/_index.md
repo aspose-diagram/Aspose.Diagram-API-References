@@ -18,9 +18,9 @@ public class AutoLinkComparison
 
 | Name | Description |
 | --- | --- |
-| [ColumnName](columnname) { get; set; } | Corresponds to a column name in the ADO recordset. |
-| [ContextType](contexttype) { get; set; } | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table. |
-| [ContextTypeLabel](contexttypelabel) { get; set; } | If the ContextType value is 2 or 3, this attribute is required to define a comparison. For ContextType = 2, ContextTypeLabel must be the shape data item label, and if ContextType = 3, ContextTypeLabel must be the local row name. |
+| [ColumnName](../../aspose.diagram/autolinkcomparison/columnname) { get; set; } | Corresponds to a column name in the ADO recordset. |
+| [ContextType](../../aspose.diagram/autolinkcomparison/contexttype) { get; set; } | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table. |
+| [ContextTypeLabel](../../aspose.diagram/autolinkcomparison/contexttypelabel) { get; set; } | If the ContextType value is 2 or 3, this attribute is required to define a comparison. For ContextType = 2, ContextTypeLabel must be the shape data item label, and if ContextType = 3, ContextTypeLabel must be the local row name. |
 
 ### See Also
 

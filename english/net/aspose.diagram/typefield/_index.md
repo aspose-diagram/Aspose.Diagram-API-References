@@ -24,16 +24,16 @@ public class TypeField
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Type specifies a data type for the text field value. |
+| [Ufe](../../aspose.diagram/typefield/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/typefield/value) { get; set; } | Type specifies a data type for the text field value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/typefield/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/typefield/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/typefield/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

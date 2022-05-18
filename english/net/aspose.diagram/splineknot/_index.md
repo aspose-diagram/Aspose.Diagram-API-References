@@ -24,11 +24,17 @@ public class SplineKnot : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | One of the spline's knots (other than the last one or the first two). |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of a control point. |
-| [Y](y) { get; set; } | The y-coordinate of a control point. |
+| [A](../../aspose.diagram/splineknot/a) { get; set; } | One of the spline's knots (other than the last one or the first two). |
+| override [Del](../../aspose.diagram/splineknot/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/splineknot/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/splineknot/x) { get; set; } | The x-coordinate of a control point. |
+| [Y](../../aspose.diagram/splineknot/y) { get; set; } | The y-coordinate of a control point. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

@@ -24,12 +24,18 @@ public class InfiniteLine : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | An x-coordinate of a point on the infinite line paired with the y-coordinate represented by the B element. |
-| [B](b) { get; set; } | A y-coordinate of a point on an infinite line paired with an x-coordinate represented by the A element. |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | An x-coordinate of a point on the infinite line. |
-| [Y](y) { get; set; } | A y-coordinate of a point on the infinite line. |
+| [A](../../aspose.diagram/infiniteline/a) { get; set; } | An x-coordinate of a point on the infinite line paired with the y-coordinate represented by the B element. |
+| [B](../../aspose.diagram/infiniteline/b) { get; set; } | A y-coordinate of a point on an infinite line paired with an x-coordinate represented by the A element. |
+| override [Del](../../aspose.diagram/infiniteline/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/infiniteline/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/infiniteline/x) { get; set; } | An x-coordinate of a point on the infinite line. |
+| [Y](../../aspose.diagram/infiniteline/y) { get; set; } | A y-coordinate of a point on the infinite line. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

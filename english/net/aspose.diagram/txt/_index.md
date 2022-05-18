@@ -24,8 +24,8 @@ public class Txt : FormatTxt
 
 | Name | Description |
 | --- | --- |
-| [Text](text) { get; set; } | Contains the text of a shape. |
-| override [Value](value) { get; } | Value |
+| [Text](../../aspose.diagram/txt/text) { get; set; } | Contains the text of a shape. |
+| override [Value](../../aspose.diagram/txt/value) { get; } | Value |
 
 ### See Also
 

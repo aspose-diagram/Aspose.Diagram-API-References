@@ -25,14 +25,14 @@ public class SolutionXML : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; set; } | A unique name to identify the XML data set. |
-| [XmlValue](xmlvalue) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
+| [Name](../../aspose.diagram/solutionxml/name) { get; set; } | A unique name to identify the XML data set. |
+| [XmlValue](../../aspose.diagram/solutionxml/xmlvalue) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/solutionxml/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

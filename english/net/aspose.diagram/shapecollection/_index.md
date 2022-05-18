@@ -18,20 +18,24 @@ public class ShapeCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/shapecollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Shape) | Add the shape in the collection. |
-| [GetShape](getshape)(long) | Gets the element at the specified ID. |
-| [GetShape](getshape)(string) | Gets the element at the specified name. |
-| [GetShapeIncludingChild](getshapeincludingchild)(int) | Gets the element including it's child shape at the specified id. |
-| [GetShapeIncludingChild](getshapeincludingchild)(string) | Gets the element including it's child shape at the specified name. |
-| [Group](group)(Shape[]) | Group the shapes. |
-| [Remove](remove)(Shape) | Remove the shape from the collection. |
-| [RemoveDependsOn](removedependson)(Shape) | Remove the shapes including DEPENDSON shapes from the collection. |
+| [Add](../../aspose.diagram/shapecollection/add)(Shape) | Add the shape in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [GetShape](../../aspose.diagram/shapecollection/getshape)(long) | Gets the element at the specified ID. |
+| [GetShape](../../aspose.diagram/shapecollection/getshape)(string) | Gets the element at the specified name. |
+| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild)(int) | Gets the element including it's child shape at the specified id. |
+| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild)(string) | Gets the element including it's child shape at the specified name. |
+| [Group](../../aspose.diagram/shapecollection/group)(Shape[]) | Group the shapes. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/shapecollection/remove)(Shape) | Remove the shape from the collection. |
+| [RemoveDependsOn](../../aspose.diagram/shapecollection/removedependson)(Shape) | Remove the shapes including DEPENDSON shapes from the collection. |
 
 ### See Also
 

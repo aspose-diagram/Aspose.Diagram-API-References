@@ -24,14 +24,18 @@ public class FloatPointNumCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/floatpointnumcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(double) | Add the doubling point number in the collection. |
-| [Remove](remove)(double) | Remove the doubling point number from the collection. |
+| [Add](../../aspose.diagram/floatpointnumcollection/add)(double) | Add the doubling point number in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/floatpointnumcollection/remove)(double) | Remove the doubling point number from the collection. |
 
 ### See Also
 

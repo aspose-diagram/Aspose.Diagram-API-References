@@ -18,9 +18,9 @@ public class Help
 
 | Name | Description |
 | --- | --- |
-| [Copyright](copyright) { get; } | Contains a string representing a human-readable copyright statement. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [HelpTopic](helptopic) { get; } | Specifies the Shape element's Help topic ID. |
+| [Copyright](../../aspose.diagram/help/copyright) { get; } | Contains a string representing a human-readable copyright statement. |
+| [Del](../../aspose.diagram/help/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [HelpTopic](../../aspose.diagram/help/helptopic) { get; } | Specifies the Shape element's Help topic ID. |
 
 ### See Also
 

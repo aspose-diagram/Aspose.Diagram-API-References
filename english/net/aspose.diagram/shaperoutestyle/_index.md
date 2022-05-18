@@ -24,15 +24,15 @@ public class ShapeRouteStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the routing style and direction for a connector on the drawing page. |
+| [Ufe](../../aspose.diagram/shaperoutestyle/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/shaperoutestyle/value) { get; set; } | Specifies the routing style and direction for a connector on the drawing page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/shaperoutestyle/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/shaperoutestyle/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

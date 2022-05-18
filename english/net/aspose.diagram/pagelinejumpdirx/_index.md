@@ -24,15 +24,15 @@ public class PageLineJumpDirX
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the direction of line jumps on horizontal segments of dynamic connectors on the drawing page for which you haven't applied a local jump direction. |
+| [Ufe](../../aspose.diagram/pagelinejumpdirx/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/pagelinejumpdirx/value) { get; set; } | Specifies the direction of line jumps on horizontal segments of dynamic connectors on the drawing page for which you haven't applied a local jump direction. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/pagelinejumpdirx/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/pagelinejumpdirx/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

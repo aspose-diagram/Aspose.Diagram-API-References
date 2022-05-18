@@ -18,31 +18,31 @@ public class Fill : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [FillBkgnd](fillbkgnd) { get; set; } | Specifies the color used for the background of the shape's fill pattern. |
-| [FillBkgndTrans](fillbkgndtrans) { get; set; } | Specifies the transparency level for the background (fill) color of the shape's fill pattern, from 0 (completely opaque) to 1 (completely transparent). |
-| [FillForegnd](fillforegnd) { get; set; } | Specifies the color used for the foreground (stroke) of the shape's fill pattern. |
-| [FillForegndTrans](fillforegndtrans) { get; set; } | Specifies the transparency level for the foreground (fill) color of the shape's fill pattern, from 0 (completely opaque) to 1 (completely transparent). |
-| [FillPattern](fillpattern) { get; set; } | Specifies the fill pattern for the shape. |
-| [GradientFill](gradientfill) { get; } | Contains the current gradient fill formatting values for the shape |
-| [ShapeShdwBlur](shapeshdwblur) { get; set; } | Specifies the shadow blur size of a shape. cannot draw blur now, but can parse from vsdx now. |
-| [ShapeShdwObliqueAngle](shapeshdwobliqueangle) { get; set; } | Specifies the angle of oblique direction of a shape's shadow. |
-| [ShapeShdwOffsetX](shapeshdwoffsetx) { get; set; } | Determines the distance in page units that a shape's shadow is offset horizontally from the shape. |
-| [ShapeShdwOffsetY](shapeshdwoffsety) { get; set; } | Determines the distance in page units that a shape's shadow is offset vertically from the shape. |
-| [ShapeShdwScaleFactor](shapeshdwscalefactor) { get; set; } | Specifies the percentage by which the shadow of a shape can be enlarged or reduced. |
-| [ShapeShdwShow](shapeshdwshow) { get; set; } | Specifies the type of shadow for a shape. |
-| [ShapeShdwType](shapeshdwtype) { get; set; } | Specifies the type of shadow for a shape. |
-| [ShdwBkgnd](shdwbkgnd) { get; set; } | Specifies the color used for the background (fill) of the shape's drop shadow fill pattern. |
-| [ShdwBkgndTrans](shdwbkgndtrans) { get; set; } | Specifies transparency level for the background (fill) of the shape's drop shadow fill pattern, from 0.0 (completely opaque) to 1.0 (completely transparent). |
-| [ShdwForegnd](shdwforegnd) { get; set; } | Specifies the color used for the foreground (stroke) of the shape's drop shadow fill pattern. |
-| [ShdwForegndTrans](shdwforegndtrans) { get; set; } | Specifies transparency level for the foreground (stroke) of the shape's drop shadow fill pattern, from 0.0 (completely opaque) to 1.0 (completely transparent). |
-| [ShdwPattern](shdwpattern) { get; set; } | Specifies the fill pattern for a shape's shadow. |
+| [Del](../../aspose.diagram/fill/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [FillBkgnd](../../aspose.diagram/fill/fillbkgnd) { get; set; } | Specifies the color used for the background of the shape's fill pattern. |
+| [FillBkgndTrans](../../aspose.diagram/fill/fillbkgndtrans) { get; set; } | Specifies the transparency level for the background (fill) color of the shape's fill pattern, from 0 (completely opaque) to 1 (completely transparent). |
+| [FillForegnd](../../aspose.diagram/fill/fillforegnd) { get; set; } | Specifies the color used for the foreground (stroke) of the shape's fill pattern. |
+| [FillForegndTrans](../../aspose.diagram/fill/fillforegndtrans) { get; set; } | Specifies the transparency level for the foreground (fill) color of the shape's fill pattern, from 0 (completely opaque) to 1 (completely transparent). |
+| [FillPattern](../../aspose.diagram/fill/fillpattern) { get; set; } | Specifies the fill pattern for the shape. |
+| [GradientFill](../../aspose.diagram/fill/gradientfill) { get; } | Contains the current gradient fill formatting values for the shape |
+| [ShapeShdwBlur](../../aspose.diagram/fill/shapeshdwblur) { get; set; } | Specifies the shadow blur size of a shape. cannot draw blur now, but can parse from vsdx now. |
+| [ShapeShdwObliqueAngle](../../aspose.diagram/fill/shapeshdwobliqueangle) { get; set; } | Specifies the angle of oblique direction of a shape's shadow. |
+| [ShapeShdwOffsetX](../../aspose.diagram/fill/shapeshdwoffsetx) { get; set; } | Determines the distance in page units that a shape's shadow is offset horizontally from the shape. |
+| [ShapeShdwOffsetY](../../aspose.diagram/fill/shapeshdwoffsety) { get; set; } | Determines the distance in page units that a shape's shadow is offset vertically from the shape. |
+| [ShapeShdwScaleFactor](../../aspose.diagram/fill/shapeshdwscalefactor) { get; set; } | Specifies the percentage by which the shadow of a shape can be enlarged or reduced. |
+| [ShapeShdwShow](../../aspose.diagram/fill/shapeshdwshow) { get; set; } | Specifies the type of shadow for a shape. |
+| [ShapeShdwType](../../aspose.diagram/fill/shapeshdwtype) { get; set; } | Specifies the type of shadow for a shape. |
+| [ShdwBkgnd](../../aspose.diagram/fill/shdwbkgnd) { get; set; } | Specifies the color used for the background (fill) of the shape's drop shadow fill pattern. |
+| [ShdwBkgndTrans](../../aspose.diagram/fill/shdwbkgndtrans) { get; set; } | Specifies transparency level for the background (fill) of the shape's drop shadow fill pattern, from 0.0 (completely opaque) to 1.0 (completely transparent). |
+| [ShdwForegnd](../../aspose.diagram/fill/shdwforegnd) { get; set; } | Specifies the color used for the foreground (stroke) of the shape's drop shadow fill pattern. |
+| [ShdwForegndTrans](../../aspose.diagram/fill/shdwforegndtrans) { get; set; } | Specifies transparency level for the foreground (stroke) of the shape's drop shadow fill pattern, from 0.0 (completely opaque) to 1.0 (completely transparent). |
+| [ShdwPattern](../../aspose.diagram/fill/shdwpattern) { get; set; } | Specifies the fill pattern for a shape's shadow. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/fill/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class RulerDensity
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the horizontal subdivisions on the ruler for the page. |
+| [Ufe](../../aspose.diagram/rulerdensity/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/rulerdensity/value) { get; set; } | Specifies the horizontal subdivisions on the ruler for the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/rulerdensity/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/rulerdensity/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

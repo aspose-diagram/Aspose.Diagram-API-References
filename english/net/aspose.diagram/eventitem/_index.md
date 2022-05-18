@@ -24,12 +24,12 @@ public class EventItem
 
 | Name | Description |
 | --- | --- |
-| [Action](action) { get; set; } | Specifies the action code of the parent EventItem element.For an EventItem element to be saved in a DatadiagramML file, it must be persistable. Currently, the only valid action code a persistable event can have is 1 (ONEVENT_ACT_RUNADDON). |
-| [Enabled](enabled) { get; set; } | Represents a flag indicating if the event is enabled or disabled. |
-| [EventCode](eventcode) { get; set; } | A code indicating the event that triggers the add-on. For more information on event codes, see Event Codes in the Microsoft Visio 2007 Automation Reference. |
-| [ID](id) { get; set; } | The ID of the event. |
-| [Target](target) { get; set; } | Specifies the target of an event. |
-| [TargetArgs](targetargs) { get; set; } | Specifies a string containing arguments to be sent to the target of an event. |
+| [Action](../../aspose.diagram/eventitem/action) { get; set; } | Specifies the action code of the parent EventItem element.For an EventItem element to be saved in a DatadiagramML file, it must be persistable. Currently, the only valid action code a persistable event can have is 1 (ONEVENT_ACT_RUNADDON). |
+| [Enabled](../../aspose.diagram/eventitem/enabled) { get; set; } | Represents a flag indicating if the event is enabled or disabled. |
+| [EventCode](../../aspose.diagram/eventitem/eventcode) { get; set; } | A code indicating the event that triggers the add-on. For more information on event codes, see Event Codes in the Microsoft Visio 2007 Automation Reference. |
+| [ID](../../aspose.diagram/eventitem/id) { get; set; } | The ID of the event. |
+| [Target](../../aspose.diagram/eventitem/target) { get; set; } | Specifies the target of an event. |
+| [TargetArgs](../../aspose.diagram/eventitem/targetargs) { get; set; } | Specifies a string containing arguments to be sent to the target of an event. |
 
 ### See Also
 

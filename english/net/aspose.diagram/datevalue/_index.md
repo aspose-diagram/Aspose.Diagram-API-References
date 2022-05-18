@@ -24,15 +24,15 @@ public class DateValue
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Attributes of an element. |
-| [Value](value) { get; set; } | Date and time value. |
+| [Ufe](../../aspose.diagram/datevalue/ufe) { get; } | Attributes of an element. |
+| [Value](../../aspose.diagram/datevalue/value) { get; set; } | Date and time value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/datevalue/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/datevalue/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

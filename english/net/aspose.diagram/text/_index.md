@@ -24,13 +24,13 @@ public class Text
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; } | FormatTxt collection which contains the text of a shape. |
+| [Value](../../aspose.diagram/text/value) { get; } | FormatTxt collection which contains the text of a shape. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/text/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

@@ -24,19 +24,19 @@ public class SmartTagDef
 
 | Name | Description |
 | --- | --- |
-| [ButtonFace](buttonface) { get; } | It contains the ID of the button face image that appears on the smart tag button. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [Description](description) { get; } | Description element contains a string that describes the smart tag, which appears as a tool tip when the user pauses the mouse over the tag. |
-| [Disabled](disabled) { get; } | Disabled element determines whether the smart tag appears in the drawing window. |
-| [DisplayMode](displaymode) { get; } | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
-| [ID](id) { get; set; } | The unique ID of the element within its parent element. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [TagName](tagname) { get; } | It contains the name of the smart tag that is used as a key to associate the smart tag with its actions. |
-| [X](x) { get; } | The x-coordinate position in the shape's local coordinates around which the smart tag button is placed. |
-| [XJustify](xjustify) { get; } | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |
-| [Y](y) { get; } | The y-coordinate position in the shape's local coordinates around which the smart tag button is placed. |
-| [YJustify](yjustify) { get; } | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
+| [ButtonFace](../../aspose.diagram/smarttagdef/buttonface) { get; } | It contains the ID of the button face image that appears on the smart tag button. |
+| [Del](../../aspose.diagram/smarttagdef/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [Description](../../aspose.diagram/smarttagdef/description) { get; } | Description element contains a string that describes the smart tag, which appears as a tool tip when the user pauses the mouse over the tag. |
+| [Disabled](../../aspose.diagram/smarttagdef/disabled) { get; } | Disabled element determines whether the smart tag appears in the drawing window. |
+| [DisplayMode](../../aspose.diagram/smarttagdef/displaymode) { get; } | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
+| [ID](../../aspose.diagram/smarttagdef/id) { get; set; } | The unique ID of the element within its parent element. |
+| [Name](../../aspose.diagram/smarttagdef/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/smarttagdef/nameu) { get; set; } | The universal name of the element. |
+| [TagName](../../aspose.diagram/smarttagdef/tagname) { get; } | It contains the name of the smart tag that is used as a key to associate the smart tag with its actions. |
+| [X](../../aspose.diagram/smarttagdef/x) { get; } | The x-coordinate position in the shape's local coordinates around which the smart tag button is placed. |
+| [XJustify](../../aspose.diagram/smarttagdef/xjustify) { get; } | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |
+| [Y](../../aspose.diagram/smarttagdef/y) { get; } | The y-coordinate position in the shape's local coordinates around which the smart tag button is placed. |
+| [YJustify](../../aspose.diagram/smarttagdef/yjustify) { get; } | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. |
 
 ### See Also
 

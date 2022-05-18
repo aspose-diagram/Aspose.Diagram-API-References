@@ -18,23 +18,23 @@ public class DocumentSheet
 
 | Name | Description |
 | --- | --- |
-| [Annotations](annotations) { get; } | Contains elements that contain information about comments inserted into a document page. |
-| [ConnectionABCDs](connectionabcds) { get; } | Contains a collection of ConnectionABCD elements. |
-| [Connections](connections) { get; } | Contains a collection of Connection elements. |
-| [DocProps](docprops) { get; } | Contains elements that control the document's preview quality, scope, and output format. |
-| [FillStyle](fillstyle) { get; set; } | StyleSheet element from which this style inherits fill formatting. |
-| [Foreign](foreign) { get; } | Contains elements specifying the width and height of an object from another program used in a Microsoft Visio document. Also includes elements specifying the distance the object's image is offset within its borders. |
-| [ForeignData](foreigndata) { get; } | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
-| [Hyperlinks](hyperlinks) { get; } | Contains a collection of Hyperlink elements. |
-| [LineStyle](linestyle) { get; set; } | StyleSheet element from which this style inherits line formatting. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [Props](props) { get; } | Contains a collection of Prop elements. |
-| [Reviewers](reviewers) { get; } | Contains elements that contain identifying information about a document reviewer. |
-| [Scratchs](scratchs) { get; } | Contains a collection of Scratch elements. |
-| [TextStyle](textstyle) { get; set; } | StyleSheet element from which this style inherits text formatting. |
-| [UniqueID](uniqueid) { get; set; } | A GUID (globally unique identifier) identifying the shape. |
-| [Users](users) { get; } | Contains a collection of User elements. |
+| [Annotations](../../aspose.diagram/documentsheet/annotations) { get; } | Contains elements that contain information about comments inserted into a document page. |
+| [ConnectionABCDs](../../aspose.diagram/documentsheet/connectionabcds) { get; } | Contains a collection of ConnectionABCD elements. |
+| [Connections](../../aspose.diagram/documentsheet/connections) { get; } | Contains a collection of Connection elements. |
+| [DocProps](../../aspose.diagram/documentsheet/docprops) { get; } | Contains elements that control the document's preview quality, scope, and output format. |
+| [FillStyle](../../aspose.diagram/documentsheet/fillstyle) { get; set; } | StyleSheet element from which this style inherits fill formatting. |
+| [Foreign](../../aspose.diagram/documentsheet/foreign) { get; } | Contains elements specifying the width and height of an object from another program used in a Microsoft Visio document. Also includes elements specifying the distance the object's image is offset within its borders. |
+| [ForeignData](../../aspose.diagram/documentsheet/foreigndata) { get; } | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
+| [Hyperlinks](../../aspose.diagram/documentsheet/hyperlinks) { get; } | Contains a collection of Hyperlink elements. |
+| [LineStyle](../../aspose.diagram/documentsheet/linestyle) { get; set; } | StyleSheet element from which this style inherits line formatting. |
+| [Name](../../aspose.diagram/documentsheet/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/documentsheet/nameu) { get; set; } | The universal name of the element. |
+| [Props](../../aspose.diagram/documentsheet/props) { get; } | Contains a collection of Prop elements. |
+| [Reviewers](../../aspose.diagram/documentsheet/reviewers) { get; } | Contains elements that contain identifying information about a document reviewer. |
+| [Scratchs](../../aspose.diagram/documentsheet/scratchs) { get; } | Contains a collection of Scratch elements. |
+| [TextStyle](../../aspose.diagram/documentsheet/textstyle) { get; set; } | StyleSheet element from which this style inherits text formatting. |
+| [UniqueID](../../aspose.diagram/documentsheet/uniqueid) { get; set; } | A GUID (globally unique identifier) identifying the shape. |
+| [Users](../../aspose.diagram/documentsheet/users) { get; } | Contains a collection of User elements. |
 
 ### See Also
 

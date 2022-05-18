@@ -24,16 +24,16 @@ public class Style : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the character formatting applied to a range of text in the shape's text block. |
+| [Ufe](../../aspose.diagram/style/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/style/value) { get; set; } | Specifies the character formatting applied to a range of text in the shape's text block. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/style/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/style/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/style/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,17 +24,17 @@ public class MilestoneHelper
 
 | Name | Description |
 | --- | --- |
-| [DateFormat](dateformat) { set; } | DateFormat of shape |
-| [DateFormatString](dateformatstring) { set; } | DateFormat string of shape |
-| [IsAutoUpdate](isautoupdate) { set; } | whether to update data for markers (milestones, intervals) as they are moved on timeline |
-| [MilestoneDate](milestonedate) { get; set; } | Milestone date |
-| [Type](type) { set; } | Type of shape |
+| [DateFormat](../../aspose.diagram/milestonehelper/dateformat) { set; } | DateFormat of shape |
+| [DateFormatString](../../aspose.diagram/milestonehelper/dateformatstring) { set; } | DateFormat string of shape |
+| [IsAutoUpdate](../../aspose.diagram/milestonehelper/isautoupdate) { set; } | whether to update data for markers (milestones, intervals) as they are moved on timeline |
+| [MilestoneDate](../../aspose.diagram/milestonehelper/milestonedate) { get; set; } | Milestone date |
+| [Type](../../aspose.diagram/milestonehelper/type) { set; } | Type of shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [RefreshMilestone](refreshmilestone)(Shape) | Refresh milestone |
+| [RefreshMilestone](../../aspose.diagram/milestonehelper/refreshmilestone)(Shape) | Refresh milestone |
 
 ### See Also
 

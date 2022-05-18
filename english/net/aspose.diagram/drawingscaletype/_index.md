@@ -24,15 +24,15 @@ public class DrawingScaleType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of drawing scale to use for a page. |
+| [Ufe](../../aspose.diagram/drawingscaletype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/drawingscaletype/value) { get; set; } | Specifies the type of drawing scale to use for a page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/drawingscaletype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/drawingscaletype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

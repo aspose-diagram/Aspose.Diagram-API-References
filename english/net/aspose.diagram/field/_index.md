@@ -24,24 +24,24 @@ public class Field
 
 | Name | Description |
 | --- | --- |
-| [Calendar](calendar) { get; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [DisplayValue](displayvalue) { get; } | Gets the formatted string value of this field . |
-| [EditMode](editmode) { get; } | Reserved for future use. |
-| [Format](format) { get; } | Format element specifies the formatting for a text field that is a string, number, date or time, duration, or currency. The text field type is specified in the corresponding Type element. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [ObjectKind](objectkind) { get; } | Indicates the type of text field. |
-| [Type](type) { get; } | Type specifies a data type for the text field value. |
-| [UICat](uicat) { get; } | Specifies the category of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
-| [UICod](uicod) { get; } | Specifies the code of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
-| [UIFmt](uifmt) { get; } | Specifies the format of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
-| [Value](value) { get; } | It contains the value for a text field. |
+| [Calendar](../../aspose.diagram/field/calendar) { get; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
+| [Del](../../aspose.diagram/field/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [DisplayValue](../../aspose.diagram/field/displayvalue) { get; } | Gets the formatted string value of this field . |
+| [EditMode](../../aspose.diagram/field/editmode) { get; } | Reserved for future use. |
+| [Format](../../aspose.diagram/field/format) { get; } | Format element specifies the formatting for a text field that is a string, number, date or time, duration, or currency. The text field type is specified in the corresponding Type element. |
+| [IX](../../aspose.diagram/field/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [ObjectKind](../../aspose.diagram/field/objectkind) { get; } | Indicates the type of text field. |
+| [Type](../../aspose.diagram/field/type) { get; } | Type specifies a data type for the text field value. |
+| [UICat](../../aspose.diagram/field/uicat) { get; } | Specifies the category of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
+| [UICod](../../aspose.diagram/field/uicod) { get; } | Specifies the code of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
+| [UIFmt](../../aspose.diagram/field/uifmt) { get; } | Specifies the format of an inserted field in versions of Microsoft Visio earlier than Visio 2000. |
+| [Value](../../aspose.diagram/field/value) { get; } | It contains the value for a text field. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/field/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

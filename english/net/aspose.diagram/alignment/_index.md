@@ -24,15 +24,15 @@ public class Alignment
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the tab alignment. |
+| [Ufe](../../aspose.diagram/alignment/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/alignment/value) { get; set; } | Specifies the tab alignment. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/alignment/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/alignment/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

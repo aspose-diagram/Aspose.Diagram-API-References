@@ -24,18 +24,18 @@ public class User : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [ID](id) { get; set; } | The unique ID of the element within its parent element. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [Prompt](prompt) { get; set; } | It specifies a descriptive prompt or comment for the user-defined element. |
-| [Value](value) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
+| [Del](../../aspose.diagram/user/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [ID](../../aspose.diagram/user/id) { get; set; } | The unique ID of the element within its parent element. |
+| [Name](../../aspose.diagram/user/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/user/nameu) { get; set; } | The universal name of the element. |
+| [Prompt](../../aspose.diagram/user/prompt) { get; set; } | It specifies a descriptive prompt or comment for the user-defined element. |
+| [Value](../../aspose.diagram/user/value) { get; set; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/user/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

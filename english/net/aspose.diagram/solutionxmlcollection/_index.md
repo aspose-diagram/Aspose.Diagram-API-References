@@ -18,14 +18,18 @@ public class SolutionXMLCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. (2 indexers) |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/solutionxmlcollection/item) { get; } | Gets the element at the specified index. (2 indexers) |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(SolutionXML) | Add the SolutionXML in the collection. |
-| [Remove](remove)(SolutionXML) | Remove the SolutionXML from the collection. |
+| [Add](../../aspose.diagram/solutionxmlcollection/add)(SolutionXML) | Add the SolutionXML in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/solutionxmlcollection/remove)(SolutionXML) | Remove the SolutionXML from the collection. |
 
 ### See Also
 

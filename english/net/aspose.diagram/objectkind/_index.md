@@ -24,16 +24,16 @@ public class ObjectKind
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Indicates the type of text field. |
+| [Ufe](../../aspose.diagram/objectkind/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/objectkind/value) { get; set; } | Indicates the type of text field. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/objectkind/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/objectkind/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/objectkind/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

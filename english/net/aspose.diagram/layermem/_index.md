@@ -18,8 +18,8 @@ public class LayerMem
 
 | Name | Description |
 | --- | --- |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [LayerMember](layermember) { get; } | Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based index of layers for the page. If a shape is assigned to more than one layer, each layer index appears separated by a semicolon. |
+| [Del](../../aspose.diagram/layermem/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [LayerMember](../../aspose.diagram/layermem/layermember) { get; } | Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based index of layers for the page. If a shape is assigned to more than one layer, each layer index appears separated by a semicolon. |
 
 ### See Also
 

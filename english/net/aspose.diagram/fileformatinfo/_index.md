@@ -24,8 +24,8 @@ public class FileFormatInfo
 
 | Name | Description |
 | --- | --- |
-| [FileFormatType](fileformattype) { get; } | Gets the detected file format. |
-| [LoadFormat](loadformat) { get; } | Gets the detected load format. |
+| [FileFormatType](../../aspose.diagram/fileformatinfo/fileformattype) { get; } | Gets the detected file format. |
+| [LoadFormat](../../aspose.diagram/fileformatinfo/loadformat) { get; } | Gets the detected load format. |
 
 ### See Also
 

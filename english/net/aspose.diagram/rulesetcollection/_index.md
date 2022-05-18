@@ -18,14 +18,18 @@ public class RuleSetCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/rulesetcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(RuleSet) | Add the ruleSet in the collection. |
-| [Remove](remove)(RuleSet) | Remove the ruleSet from the collection. |
+| [Add](../../aspose.diagram/rulesetcollection/add)(RuleSet) | Add the ruleSet in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/rulesetcollection/remove)(RuleSet) | Remove the ruleSet from the collection. |
 
 ### See Also
 

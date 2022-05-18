@@ -24,10 +24,16 @@ public class LineTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of the ending vertex of a straight line segment. |
-| [Y](y) { get; set; } | The y-coordinate of the ending vertex of a straight line segment. |
+| override [Del](../../aspose.diagram/lineto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/lineto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/lineto/x) { get; set; } | The x-coordinate of the ending vertex of a straight line segment. |
+| [Y](../../aspose.diagram/lineto/y) { get; set; } | The y-coordinate of the ending vertex of a straight line segment. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

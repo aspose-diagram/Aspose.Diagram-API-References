@@ -18,22 +18,22 @@ public class TextBlock : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [BottomMargin](bottommargin) { get; set; } | Determines the distance between the bottom border of the text block and the last line of text it contains. The default is 4 pt. This value is independent of the scale of the drawing. If the drawing is scaled, the bottom margin remains the same. |
-| [DefaultTabStop](defaulttabstop) { get; set; } | Specifies the interval of the default tab stops in a text block. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [LeftMargin](leftmargin) { get; set; } | Specifies the distance between the left border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled, the left margin remains the same. |
-| [RightMargin](rightmargin) { get; set; } | Specifies the distance between the right border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled, the right margin remains the same. |
-| [TextBkgnd](textbkgnd) { get; set; } | Specifies the text background color for a shape. |
-| [TextBkgndTrans](textbkgndtrans) { get; set; } | Specifies the transparency level for the background color of a shape's text block, from 0 (completely opaque) to 1 (completely transparent). |
-| [TextDirection](textdirection) { get; set; } | Specifies the direction of the characters in a text block. |
-| [TopMargin](topmargin) { get; set; } | Specifies the distance between the top border of the text block and the first line of text it contains. |
-| [VerticalAlign](verticalalign) { get; set; } | Specifies the vertical alignment of text within the text block. |
+| [BottomMargin](../../aspose.diagram/textblock/bottommargin) { get; set; } | Determines the distance between the bottom border of the text block and the last line of text it contains. The default is 4 pt. This value is independent of the scale of the drawing. If the drawing is scaled, the bottom margin remains the same. |
+| [DefaultTabStop](../../aspose.diagram/textblock/defaulttabstop) { get; set; } | Specifies the interval of the default tab stops in a text block. |
+| [Del](../../aspose.diagram/textblock/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [LeftMargin](../../aspose.diagram/textblock/leftmargin) { get; set; } | Specifies the distance between the left border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled, the left margin remains the same. |
+| [RightMargin](../../aspose.diagram/textblock/rightmargin) { get; set; } | Specifies the distance between the right border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled, the right margin remains the same. |
+| [TextBkgnd](../../aspose.diagram/textblock/textbkgnd) { get; set; } | Specifies the text background color for a shape. |
+| [TextBkgndTrans](../../aspose.diagram/textblock/textbkgndtrans) { get; set; } | Specifies the transparency level for the background color of a shape's text block, from 0 (completely opaque) to 1 (completely transparent). |
+| [TextDirection](../../aspose.diagram/textblock/textdirection) { get; set; } | Specifies the direction of the characters in a text block. |
+| [TopMargin](../../aspose.diagram/textblock/topmargin) { get; set; } | Specifies the distance between the top border of the text block and the first line of text it contains. |
+| [VerticalAlign](../../aspose.diagram/textblock/verticalalign) { get; set; } | Specifies the vertical alignment of text within the text block. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/textblock/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

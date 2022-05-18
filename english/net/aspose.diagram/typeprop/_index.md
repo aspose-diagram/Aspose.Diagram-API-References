@@ -24,15 +24,15 @@ public class TypeProp
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Type specifies a data type for the custom property value. |
+| [Ufe](../../aspose.diagram/typeprop/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/typeprop/value) { get; set; } | Type specifies a data type for the custom property value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/typeprop/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/typeprop/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

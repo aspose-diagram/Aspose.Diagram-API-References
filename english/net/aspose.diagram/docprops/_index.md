@@ -18,14 +18,14 @@ public class DocProps
 
 | Name | Description |
 | --- | --- |
-| [AddMarkup](addmarkup) { get; } | Indicates whether the document is being reviewed for markup. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [DocLangID](doclangid) { get; } | Indicates the default language for the document. |
-| [LockPreview](lockpreview) { get; } | Specifies whether a preview is saved each time you save a drawing. |
-| [OutputFormat](outputformat) { get; } | Specifies the output format for a drawing. |
-| [PreviewQuality](previewquality) { get; } | Specifies whether the drawing preview is draft quality or detailed. |
-| [PreviewScope](previewscope) { get; } | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
-| [ViewMarkup](viewmarkup) { get; } | Determines whether markup appears in the drawing window. |
+| [AddMarkup](../../aspose.diagram/docprops/addmarkup) { get; } | Indicates whether the document is being reviewed for markup. |
+| [Del](../../aspose.diagram/docprops/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [DocLangID](../../aspose.diagram/docprops/doclangid) { get; } | Indicates the default language for the document. |
+| [LockPreview](../../aspose.diagram/docprops/lockpreview) { get; } | Specifies whether a preview is saved each time you save a drawing. |
+| [OutputFormat](../../aspose.diagram/docprops/outputformat) { get; } | Specifies the output format for a drawing. |
+| [PreviewQuality](../../aspose.diagram/docprops/previewquality) { get; } | Specifies whether the drawing preview is draft quality or detailed. |
+| [PreviewScope](../../aspose.diagram/docprops/previewscope) { get; } | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
+| [ViewMarkup](../../aspose.diagram/docprops/viewmarkup) { get; } | Determines whether markup appears in the drawing window. |
 
 ### See Also
 

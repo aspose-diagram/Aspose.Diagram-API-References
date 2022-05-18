@@ -24,15 +24,15 @@ public class HorzAlign
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the horizontal alignment of text in the shape's text block. |
+| [Ufe](../../aspose.diagram/horzalign/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/horzalign/value) { get; set; } | Specifies the horizontal alignment of text in the shape's text block. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/horzalign/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/horzalign/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

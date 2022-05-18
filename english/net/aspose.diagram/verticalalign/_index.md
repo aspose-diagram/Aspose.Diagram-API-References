@@ -24,16 +24,16 @@ public class VerticalAlign : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the vertical alignment of text within the text block. |
+| [Ufe](../../aspose.diagram/verticalalign/ufe) { get; set; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/verticalalign/value) { get; set; } | Specifies the vertical alignment of text within the text block. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/verticalalign/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/verticalalign/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/verticalalign/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

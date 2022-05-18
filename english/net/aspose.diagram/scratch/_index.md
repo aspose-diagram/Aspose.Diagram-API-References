@@ -24,20 +24,20 @@ public class Scratch : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | A general-purpose element. |
-| [B](b) { get; set; } | A general-purpose scratch element. |
-| [C](c) { get; set; } | A general-purpose element. |
-| [D](d) { get; set; } | A general-purpose element. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | Specifies an x-coordinate on a shape in local coordinates. The following table describes the X element based on the element that contains it. |
-| [Y](y) { get; set; } | Specifies a y-coordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape, instead of the page. |
+| [A](../../aspose.diagram/scratch/a) { get; set; } | A general-purpose element. |
+| [B](../../aspose.diagram/scratch/b) { get; set; } | A general-purpose scratch element. |
+| [C](../../aspose.diagram/scratch/c) { get; set; } | A general-purpose element. |
+| [D](../../aspose.diagram/scratch/d) { get; set; } | A general-purpose element. |
+| [Del](../../aspose.diagram/scratch/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [IX](../../aspose.diagram/scratch/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/scratch/x) { get; set; } | Specifies an x-coordinate on a shape in local coordinates. The following table describes the X element based on the element that contains it. |
+| [Y](../../aspose.diagram/scratch/y) { get; set; } | Specifies a y-coordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape, instead of the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/scratch/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

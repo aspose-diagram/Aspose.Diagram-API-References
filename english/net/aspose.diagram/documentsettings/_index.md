@@ -18,23 +18,23 @@ public class DocumentSettings
 
 | Name | Description |
 | --- | --- |
-| [AttachedToolbars](attachedtoolbars) { get; set; } | A MIME (Multipurpose Internet Mail Extensions) encoded Microsoft Visio user interface (VSU) file representing custom toolbars. |
-| [CustomMenusFile](custommenusfile) { get; set; } | Contains the name of the Microsoft Visio user interface (.vsu) file that defines custom menus and accelerators for a document. |
-| [CustomToolbarsFile](customtoolbarsfile) { get; set; } | Contains the name of the Microsoft Visio user interface (.vsu) file that defines custom toolbars and status bars for a document. |
-| [DefaultFillStyle](defaultfillstyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its fill style from the specified StyleSheet element. |
-| [DefaultGuideStyle](defaultguidestyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a guide, the guide inherits its guide style from the specified StyleSheet element. |
-| [DefaultLineStyle](defaultlinestyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its line style from the specified StyleSheet element. |
-| [DefaultTextStyle](defaulttextstyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its text style from the specified StyleSheet element. |
-| [DynamicGridEnabled](dynamicgridenabled) { get; set; } | Specifies whether the dynamic grid feature is enabled for a document or window. |
-| [GlueSettings](gluesettings) { get; set; } | Specifies the objects that shapes glue to when glue is enabled in the document. |
-| [ProtectBkgnds](protectbkgnds) { get; set; } | Specifies whether the user is prevented from deleting or editing background pages. |
-| [ProtectMasters](protectmasters) { get; set; } | Specifies whether the user is prevented from creating, editing, or deleting masters. Regardless of this setting, the user can still create instances of masters. |
-| [ProtectShapes](protectshapes) { get; set; } | Specifies whether the user is prevented from selecting shapes that have their LockSelect element set to 1. |
-| [ProtectStyles](protectstyles) { get; set; } | Specifies whether the user is prevented from creating or editing styles. However, regardless of this setting, the user can still apply styles. |
-| [SnapAngles](snapangles) { get; set; } | Contains a collection of SnapAngle elements. |
-| [SnapExtensions](snapextensions) { get; set; } | Specifies whether a specific snap extension setting is enabled or disabled for the active window. |
-| [SnapSettings](snapsettings) { get; set; } | Specifies the objects that shapes snap to when snap is active in the window. |
-| [TopPage](toppage) { get; set; } | Specifies the ID of the page that should be displayed when the document is opened by Microsoft Visio. |
+| [AttachedToolbars](../../aspose.diagram/documentsettings/attachedtoolbars) { get; set; } | A MIME (Multipurpose Internet Mail Extensions) encoded Microsoft Visio user interface (VSU) file representing custom toolbars. |
+| [CustomMenusFile](../../aspose.diagram/documentsettings/custommenusfile) { get; set; } | Contains the name of the Microsoft Visio user interface (.vsu) file that defines custom menus and accelerators for a document. |
+| [CustomToolbarsFile](../../aspose.diagram/documentsettings/customtoolbarsfile) { get; set; } | Contains the name of the Microsoft Visio user interface (.vsu) file that defines custom toolbars and status bars for a document. |
+| [DefaultFillStyle](../../aspose.diagram/documentsettings/defaultfillstyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its fill style from the specified StyleSheet element. |
+| [DefaultGuideStyle](../../aspose.diagram/documentsettings/defaultguidestyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a guide, the guide inherits its guide style from the specified StyleSheet element. |
+| [DefaultLineStyle](../../aspose.diagram/documentsettings/defaultlinestyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its line style from the specified StyleSheet element. |
+| [DefaultTextStyle](../../aspose.diagram/documentsettings/defaulttextstyle) { get; set; } | Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool, the shape inherits its text style from the specified StyleSheet element. |
+| [DynamicGridEnabled](../../aspose.diagram/documentsettings/dynamicgridenabled) { get; set; } | Specifies whether the dynamic grid feature is enabled for a document or window. |
+| [GlueSettings](../../aspose.diagram/documentsettings/gluesettings) { get; set; } | Specifies the objects that shapes glue to when glue is enabled in the document. |
+| [ProtectBkgnds](../../aspose.diagram/documentsettings/protectbkgnds) { get; set; } | Specifies whether the user is prevented from deleting or editing background pages. |
+| [ProtectMasters](../../aspose.diagram/documentsettings/protectmasters) { get; set; } | Specifies whether the user is prevented from creating, editing, or deleting masters. Regardless of this setting, the user can still create instances of masters. |
+| [ProtectShapes](../../aspose.diagram/documentsettings/protectshapes) { get; set; } | Specifies whether the user is prevented from selecting shapes that have their LockSelect element set to 1. |
+| [ProtectStyles](../../aspose.diagram/documentsettings/protectstyles) { get; set; } | Specifies whether the user is prevented from creating or editing styles. However, regardless of this setting, the user can still apply styles. |
+| [SnapAngles](../../aspose.diagram/documentsettings/snapangles) { get; set; } | Contains a collection of SnapAngle elements. |
+| [SnapExtensions](../../aspose.diagram/documentsettings/snapextensions) { get; set; } | Specifies whether a specific snap extension setting is enabled or disabled for the active window. |
+| [SnapSettings](../../aspose.diagram/documentsettings/snapsettings) { get; set; } | Specifies the objects that shapes snap to when snap is active in the window. |
+| [TopPage](../../aspose.diagram/documentsettings/toppage) { get; set; } | Specifies the ID of the page that should be displayed when the document is opened by Microsoft Visio. |
 
 ### See Also
 

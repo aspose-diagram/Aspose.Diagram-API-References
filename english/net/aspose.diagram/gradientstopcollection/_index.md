@@ -18,13 +18,17 @@ public class GradientStopCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; set; } | Gets the gradient stop by the index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/gradientstopcollection/item) { get; set; } | Gets the gradient stop by the index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(DoubleValue, ColorValue) | Add a gradient stop. |
+| [Add](../../aspose.diagram/gradientstopcollection/add)(DoubleValue, ColorValue) | Add a gradient stop. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 
 ### See Also
 

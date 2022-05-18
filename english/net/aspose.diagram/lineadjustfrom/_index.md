@@ -24,15 +24,15 @@ public class LineAdjustFrom
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies which dynamic connectors to space apart if they route on top of each other. |
+| [Ufe](../../aspose.diagram/lineadjustfrom/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/lineadjustfrom/value) { get; set; } | Specifies which dynamic connectors to space apart if they route on top of each other. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/lineadjustfrom/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/lineadjustfrom/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

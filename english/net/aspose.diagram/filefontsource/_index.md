@@ -24,8 +24,8 @@ public class FileFontSource : FontSourceBase
 
 | Name | Description |
 | --- | --- |
-| [FilePath](filepath) { get; } | Path to font file. |
-| override [Type](type) { get; } | Returns the type of the font source. |
+| [FilePath](../../aspose.diagram/filefontsource/filepath) { get; } | Path to font file. |
+| override [Type](../../aspose.diagram/filefontsource/type) { get; } | Returns the type of the font source. |
 
 ### See Also
 

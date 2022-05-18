@@ -18,14 +18,14 @@ public abstract class Coordinate : ICloneable
 
 | Name | Description |
 | --- | --- |
-| abstract [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| abstract [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
+| abstract [Del](../../aspose.diagram/coordinate/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| abstract [IX](../../aspose.diagram/coordinate/ix) { get; set; } | The zero-based index of the element within its parent element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

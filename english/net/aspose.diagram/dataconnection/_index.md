@@ -24,12 +24,12 @@ public class DataConnection
 
 | Name | Description |
 | --- | --- |
-| [AlwaysUseConnectionFile](alwaysuseconnectionfile) { get; set; } | The default value is false. See Remarks for more information. |
-| [Command](command) { get; set; } | The command string used to query the data source. |
-| [ConnectionString](connectionstring) { get; set; } | The connection string that defines the parameters necessary to connect to a data source. |
-| [FileName](filename) { get; set; } | The name of the connection file. See Remarks for more information. |
-| [ID](id) { get; set; } | The ID assigned by Visio for a given connection, unique within the document. |
-| [Timeout](timeout) { get; set; } | wait time in minutes while trying to establish a connection before terminating the attempt. |
+| [AlwaysUseConnectionFile](../../aspose.diagram/dataconnection/alwaysuseconnectionfile) { get; set; } | The default value is false. See Remarks for more information. |
+| [Command](../../aspose.diagram/dataconnection/command) { get; set; } | The command string used to query the data source. |
+| [ConnectionString](../../aspose.diagram/dataconnection/connectionstring) { get; set; } | The connection string that defines the parameters necessary to connect to a data source. |
+| [FileName](../../aspose.diagram/dataconnection/filename) { get; set; } | The name of the connection file. See Remarks for more information. |
+| [ID](../../aspose.diagram/dataconnection/id) { get; set; } | The ID assigned by Visio for a given connection, unique within the document. |
+| [Timeout](../../aspose.diagram/dataconnection/timeout) { get; set; } | wait time in minutes while trying to establish a connection before terminating the attempt. |
 
 ### See Also
 

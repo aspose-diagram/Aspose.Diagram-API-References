@@ -24,15 +24,15 @@ public class SelectMode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies how the user selects a group shape and its members. |
+| [Ufe](../../aspose.diagram/selectmode/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/selectmode/value) { get; set; } | Specifies how the user selects a group shape and its members. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/selectmode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/selectmode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

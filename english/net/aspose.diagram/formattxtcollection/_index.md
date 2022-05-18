@@ -18,16 +18,20 @@ public class FormatTxtCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
-| [Text](text) { get; } | Contains the text of a shape with formating. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/formattxtcollection/item) { get; } | Gets the element at the specified index. |
+| [Text](../../aspose.diagram/formattxtcollection/text) { get; } | Contains the text of a shape with formating. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(FormatTxt) | Add the FormatTxt object in the collection. |
-| [Remove](remove)(FormatTxt) | Remove the FormatTxt object from the collection. |
-| [SetWholeText](setwholetext)(string) | Set the text of a shape without formating. |
+| [Add](../../aspose.diagram/formattxtcollection/add)(FormatTxt) | Add the FormatTxt object in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/formattxtcollection/remove)(FormatTxt) | Remove the FormatTxt object from the collection. |
+| [SetWholeText](../../aspose.diagram/formattxtcollection/setwholetext)(string) | Set the text of a shape without formating. |
 
 ### See Also
 

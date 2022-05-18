@@ -18,10 +18,10 @@ public class VbaProject
 
 | Name | Description |
 | --- | --- |
-| [IsSigned](issigned) { get; } | Indicates whether VBAcode is signed or not. |
-| [Modules](modules) { get; } | Gets all [`VbaModule`](../vbamodule) objects. |
-| [Name](name) { get; set; } | Gets and sets the name of the VBA project. |
-| [References](references) { get; } | Gets all references of VBA project. |
+| [IsSigned](../../aspose.diagram.vba/vbaproject/issigned) { get; } | Indicates whether VBAcode is signed or not. |
+| [Modules](../../aspose.diagram.vba/vbaproject/modules) { get; } | Gets all [`VbaModule`](../vbamodule) objects. |
+| [Name](../../aspose.diagram.vba/vbaproject/name) { get; set; } | Gets and sets the name of the VBA project. |
+| [References](../../aspose.diagram.vba/vbaproject/references) { get; } | Gets all references of VBA project. |
 
 ### See Also
 

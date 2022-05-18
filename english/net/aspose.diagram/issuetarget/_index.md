@@ -24,8 +24,8 @@ public class IssueTarget
 
 | Name | Description |
 | --- | --- |
-| [PageId](pageid) { get; set; } | Specifies the unique identifier of the page that is associated with the parent validation issue. If the target is the document, the PageID value can be 0xFFFFFFFF. |
-| [ShapeId](shapeid) { get; set; } | Specifies the unique identifier of the shape that is associated with the parent validation issue. If the target is the document or a page, the ShapeID value can be 0xFFFFFFFF. |
+| [PageId](../../aspose.diagram/issuetarget/pageid) { get; set; } | Specifies the unique identifier of the page that is associated with the parent validation issue. If the target is the document, the PageID value can be 0xFFFFFFFF. |
+| [ShapeId](../../aspose.diagram/issuetarget/shapeid) { get; set; } | Specifies the unique identifier of the shape that is associated with the parent validation issue. If the target is the document or a page, the ShapeID value can be 0xFFFFFFFF. |
 
 ### See Also
 

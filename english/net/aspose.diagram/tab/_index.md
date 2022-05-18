@@ -18,17 +18,17 @@ public class Tab : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Alignment](alignment) { get; set; } | Specifies the tab alignment. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Leader](leader) { get; set; } | Specified the leader. |
-| [Position](position) { get; set; } | Specifies the position of a tab stop. |
+| [Alignment](../../aspose.diagram/tab/alignment) { get; set; } | Specifies the tab alignment. |
+| [Del](../../aspose.diagram/tab/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [IX](../../aspose.diagram/tab/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [Leader](../../aspose.diagram/tab/leader) { get; set; } | Specified the leader. |
+| [Position](../../aspose.diagram/tab/position) { get; set; } | Specifies the position of a tab stop. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/tab/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

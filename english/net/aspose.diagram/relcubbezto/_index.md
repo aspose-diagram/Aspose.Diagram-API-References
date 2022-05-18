@@ -24,14 +24,20 @@ public class RelCubBezTo : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The x-coordinate of the control point at the beginning of the curve in relative coordinates. |
-| [B](b) { get; set; } | The y-coordinate of the control point at the beginning of the curve in relative coordinates. |
-| [C](c) { get; set; } | The x-coordinate of the control point at the end of the curve in relative coordinates. |
-| [D](d) { get; set; } | The y-coordinate of the control point at the end of the curve in relative coordinates. |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of the endpoint in relative coordinates. |
-| [Y](y) { get; set; } | The y-coordinate of the endpoint in relative coordinates. |
+| [A](../../aspose.diagram/relcubbezto/a) { get; set; } | The x-coordinate of the control point at the beginning of the curve in relative coordinates. |
+| [B](../../aspose.diagram/relcubbezto/b) { get; set; } | The y-coordinate of the control point at the beginning of the curve in relative coordinates. |
+| [C](../../aspose.diagram/relcubbezto/c) { get; set; } | The x-coordinate of the control point at the end of the curve in relative coordinates. |
+| [D](../../aspose.diagram/relcubbezto/d) { get; set; } | The y-coordinate of the control point at the end of the curve in relative coordinates. |
+| override [Del](../../aspose.diagram/relcubbezto/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/relcubbezto/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/relcubbezto/x) { get; set; } | The x-coordinate of the endpoint in relative coordinates. |
+| [Y](../../aspose.diagram/relcubbezto/y) { get; set; } | The y-coordinate of the endpoint in relative coordinates. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

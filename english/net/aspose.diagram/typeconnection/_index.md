@@ -24,16 +24,16 @@ public class TypeConnection
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies various types, based on the element in which it is contained. |
+| [Ufe](../../aspose.diagram/typeconnection/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/typeconnection/value) { get; set; } | Specifies various types, based on the element in which it is contained. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/typeconnection/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/typeconnection/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/typeconnection/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

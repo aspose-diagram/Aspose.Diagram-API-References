@@ -24,11 +24,13 @@ public class SWFSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PageCount](pagecount) { get; set; } | Gets or sets the number of pages to render in XPS. Default is MaxValue which means all pages of the diagram will be rendered. |
-| [PageIndex](pageindex) { get; set; } | Gets or sets the 0-based index of the first page to render. Default is 0. |
-| [SaveForegroundPagesOnly](saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be saved in image or only foreground. |
-| override [SaveFormat](saveformat) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`XPS`](../../aspose.diagram/savefileformat) only. |
-| [ViewerIncluded](viewerincluded) { get; set; } | Specifies whether the generated SWF document should include the integrated document viewer or not. Default value is `true`. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
+| [PageCount](../../aspose.diagram.saving/swfsaveoptions/pagecount) { get; set; } | Gets or sets the number of pages to render in XPS. Default is MaxValue which means all pages of the diagram will be rendered. |
+| [PageIndex](../../aspose.diagram.saving/swfsaveoptions/pageindex) { get; set; } | Gets or sets the 0-based index of the first page to render. Default is 0. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/swfsaveoptions/saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be saved in image or only foreground. |
+| override [SaveFormat](../../aspose.diagram.saving/swfsaveoptions/saveformat) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`XPS`](../../aspose.diagram/savefileformat) only. |
+| [ViewerIncluded](../../aspose.diagram.saving/swfsaveoptions/viewerincluded) { get; set; } | Specifies whether the generated SWF document should include the integrated document viewer or not. Default value is `true`. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
 
 ### See Also
 

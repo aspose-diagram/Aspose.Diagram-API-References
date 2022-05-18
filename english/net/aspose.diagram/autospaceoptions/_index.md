@@ -24,8 +24,8 @@ public class AutoSpaceOptions
 
 | Name | Description |
 | --- | --- |
-| [DistanceInHorizontal](distanceinhorizontal) { get; set; } | Defines the distance between the shapes in horizontal direction in inches. |
-| [DistanceInVertical](distanceinvertical) { get; set; } | Defines the distance between the shapes in vertical direction in inches. |
+| [DistanceInHorizontal](../../aspose.diagram/autospaceoptions/distanceinhorizontal) { get; set; } | Defines the distance between the shapes in horizontal direction in inches. |
+| [DistanceInVertical](../../aspose.diagram/autospaceoptions/distanceinvertical) { get; set; } | Defines the distance between the shapes in vertical direction in inches. |
 
 ### See Also
 

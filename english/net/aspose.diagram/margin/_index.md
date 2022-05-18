@@ -24,15 +24,15 @@ public class Margin
 
 | Name | Description |
 | --- | --- |
-| [Unit](unit) { get; set; } | Represents a unit of measure. The default is DP. |
-| [Value](value) { get; set; } | Specifies the margin. |
+| [Unit](../../aspose.diagram/margin/unit) { get; set; } | Represents a unit of measure. The default is DP. |
+| [Value](../../aspose.diagram/margin/value) { get; set; } | Specifies the margin. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/margin/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/margin/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

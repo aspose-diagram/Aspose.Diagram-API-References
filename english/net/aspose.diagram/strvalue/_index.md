@@ -26,16 +26,16 @@ public class StrValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; set; } | Attributes of an element. |
-| [Value](value) { get; set; } | String value. |
+| [Ufe](../../aspose.diagram/strvalue/ufe) { get; set; } | Attributes of an element. |
+| [Value](../../aspose.diagram/strvalue/value) { get; set; } | String value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/strvalue/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/strvalue/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/strvalue/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

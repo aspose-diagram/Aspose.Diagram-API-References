@@ -24,17 +24,17 @@ public class BoolValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [IsThemed](isthemed) { get; set; } |  |
-| [Ufe](ufe) { get; set; } | Attributes of an element. |
-| [Value](value) { get; set; } | Boolean value |
+| [IsThemed](../../aspose.diagram/boolvalue/isthemed) { get; set; } |  |
+| [Ufe](../../aspose.diagram/boolvalue/ufe) { get; set; } | Attributes of an element. |
+| [Value](../../aspose.diagram/boolvalue/value) { get; set; } | Boolean value |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/boolvalue/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/boolvalue/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/boolvalue/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class OutputFormat
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the output format for a drawing. |
+| [Ufe](../../aspose.diagram/outputformat/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/outputformat/value) { get; set; } | Specifies the output format for a drawing. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/outputformat/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/outputformat/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

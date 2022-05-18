@@ -24,15 +24,15 @@ public class DynFeedback
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, the resulting connector shape is not affected by this setting. This element does not apply to routable connectors. |
+| [Ufe](../../aspose.diagram/dynfeedback/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/dynfeedback/value) { get; set; } | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, the resulting connector shape is not affected by this setting. This element does not apply to routable connectors. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/dynfeedback/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/dynfeedback/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

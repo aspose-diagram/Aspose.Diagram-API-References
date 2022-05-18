@@ -25,14 +25,17 @@ public class Str2Value : StrValue
 
 | Name | Description |
 | --- | --- |
-| [Ufev](ufev) { get; set; } | Attributes of an element. |
+| [Ufe](../../aspose.diagram/strvalue/ufe) { get; set; } | Attributes of an element. |
+| [Ufev](../../aspose.diagram/str2value/ufev) { get; set; } | Attributes of an element. |
+| [Value](../../aspose.diagram/strvalue/value) { get; set; } | String value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| [Clone](../../aspose.diagram/strvalue/clone)() | Creates deep copy of this instance. |
+| override [Equals](../../aspose.diagram/str2value/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/str2value/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

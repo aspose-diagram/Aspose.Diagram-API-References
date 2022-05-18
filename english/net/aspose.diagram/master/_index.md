@@ -24,29 +24,29 @@ public class Master : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AlignName](alignname) { get; set; } | Specifies whether the master's text in the stencil window is aligned left, right, or center. |
-| [BaseID](baseid) { get; set; } | A GUID (globally unique identifier) that identifies the master across documents. |
-| [Connects](connects) { get; } | Contains a Connect element for each connection between two shapes in a drawing. |
-| [Hidden](hidden) { get; set; } | Specifies whether the master is hidden in the user interface. |
-| [Icon](icon) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
-| [IconSize](iconsize) { get; set; } | The size of the element's icon. |
-| [IconUpdate](iconupdate) { get; set; } | Specifies whether the icon is automatically generated from the master itself. |
-| [ID](id) { get; set; } | The unique ID of the element within its parent element. |
-| [MatchByName](matchbyname) { get; set; } | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [PageSheet](pagesheet) { get; } | Contains elements that define the page sheet for a Page or Master element. |
-| [PatternFlags](patternflags) { get; set; } | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
-| [Prompt](prompt) { get; set; } | The status bar and tool tip prompt for the element. |
-| [Shapes](shapes) { get; } | Collection of Shape objects. |
-| [UniqueID](uniqueid) { get; set; } | A GUID that identifies the master within the document. |
+| [AlignName](../../aspose.diagram/master/alignname) { get; set; } | Specifies whether the master's text in the stencil window is aligned left, right, or center. |
+| [BaseID](../../aspose.diagram/master/baseid) { get; set; } | A GUID (globally unique identifier) that identifies the master across documents. |
+| [Connects](../../aspose.diagram/master/connects) { get; } | Contains a Connect element for each connection between two shapes in a drawing. |
+| [Hidden](../../aspose.diagram/master/hidden) { get; set; } | Specifies whether the master is hidden in the user interface. |
+| [Icon](../../aspose.diagram/master/icon) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
+| [IconSize](../../aspose.diagram/master/iconsize) { get; set; } | The size of the element's icon. |
+| [IconUpdate](../../aspose.diagram/master/iconupdate) { get; set; } | Specifies whether the icon is automatically generated from the master itself. |
+| [ID](../../aspose.diagram/master/id) { get; set; } | The unique ID of the element within its parent element. |
+| [MatchByName](../../aspose.diagram/master/matchbyname) { get; set; } | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. |
+| [Name](../../aspose.diagram/master/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/master/nameu) { get; set; } | The universal name of the element. |
+| [PageSheet](../../aspose.diagram/master/pagesheet) { get; } | Contains elements that define the page sheet for a Page or Master element. |
+| [PatternFlags](../../aspose.diagram/master/patternflags) { get; set; } | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
+| [Prompt](../../aspose.diagram/master/prompt) { get; set; } | The status bar and tool tip prompt for the element. |
+| [Shapes](../../aspose.diagram/master/shapes) { get; } | Collection of Shape objects. |
+| [UniqueID](../../aspose.diagram/master/uniqueid) { get; set; } | A GUID that identifies the master within the document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [Clone](../../aspose.diagram/master/clone)() | Creates deep copy of this instance. |
+| [Dispose](../../aspose.diagram/master/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 
 ### See Also
 

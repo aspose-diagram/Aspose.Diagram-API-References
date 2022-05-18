@@ -18,7 +18,7 @@ public class GlowEffect
 
 | Name | Description |
 | --- | --- |
-| [Size](size) { get; set; } | Gets and sets the radius of the glow, in unit of points. |
+| [Size](../../aspose.diagram/gloweffect/size) { get; set; } | Gets and sets the radius of the glow, in unit of points. |
 
 ### See Also
 

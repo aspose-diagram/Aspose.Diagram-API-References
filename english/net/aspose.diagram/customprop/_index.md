@@ -24,9 +24,9 @@ public class CustomProp
 
 | Name | Description |
 | --- | --- |
-| [CustomValue](customvalue) { get; set; } | Value of property. |
-| [Name](name) { get; set; } | The name of the custom property. |
-| [PropType](proptype) { get; set; } | The data type of the custom property. |
+| [CustomValue](../../aspose.diagram/customprop/customvalue) { get; set; } | Value of property. |
+| [Name](../../aspose.diagram/customprop/name) { get; set; } | The name of the custom property. |
+| [PropType](../../aspose.diagram/customprop/proptype) { get; set; } | The data type of the custom property. |
 
 ### See Also
 

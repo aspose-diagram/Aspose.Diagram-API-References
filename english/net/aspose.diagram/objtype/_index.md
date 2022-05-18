@@ -24,15 +24,15 @@ public class ObjType
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the drawing page. |
+| [Ufe](../../aspose.diagram/objtype/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/objtype/value) { get; set; } | Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the drawing page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/objtype/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/objtype/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

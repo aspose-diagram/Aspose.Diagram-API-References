@@ -18,14 +18,18 @@ public class RuleCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/rulecollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Rule) | Add the rule in the collection. |
-| [Remove](remove)(Rule) | Remove the rule from the collection. |
+| [Add](../../aspose.diagram/rulecollection/add)(Rule) | Add the rule in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/rulecollection/remove)(Rule) | Remove the rule from the collection. |
 
 ### See Also
 

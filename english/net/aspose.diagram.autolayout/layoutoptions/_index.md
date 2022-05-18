@@ -24,10 +24,10 @@ public class LayoutOptions
 
 | Name | Description |
 | --- | --- |
-| [Direction](direction) { get; set; } | Used to set direction of shapes layout. |
-| [EnlargePage](enlargepage) { get; set; } | Defines whether need enlarge page to fit drawing or not. |
-| [LayoutStyle](layoutstyle) { get; set; } | Used to specify style of layout. |
-| [SpaceShapes](spaceshapes) { get; set; } | Defines the spacing between the shapes in inches. |
+| [Direction](../../aspose.diagram.autolayout/layoutoptions/direction) { get; set; } | Used to set direction of shapes layout. |
+| [EnlargePage](../../aspose.diagram.autolayout/layoutoptions/enlargepage) { get; set; } | Defines whether need enlarge page to fit drawing or not. |
+| [LayoutStyle](../../aspose.diagram.autolayout/layoutoptions/layoutstyle) { get; set; } | Used to specify style of layout. |
+| [SpaceShapes](../../aspose.diagram.autolayout/layoutoptions/spaceshapes) { get; set; } | Defines the spacing between the shapes in inches. |
 
 ### See Also
 

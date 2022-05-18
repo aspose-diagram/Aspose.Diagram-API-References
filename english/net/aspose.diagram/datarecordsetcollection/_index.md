@@ -18,16 +18,20 @@ public class DataRecordSetCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [ActiveRecordsetId](activerecordsetid) { get; set; } | ActiveRecordsetID |
-| [Item](item) { get; } | Gets the element at the specified index. |
-| [NextId](nextid) { get; set; } | NextID |
+| [ActiveRecordsetId](../../aspose.diagram/datarecordsetcollection/activerecordsetid) { get; set; } | ActiveRecordsetID |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/datarecordsetcollection/item) { get; } | Gets the element at the specified index. |
+| [NextId](../../aspose.diagram/datarecordsetcollection/nextid) { get; set; } | NextID |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(DataRecordSet) | Add the dataRecordSet in the collection. |
-| [Remove](remove)(DataRecordSet) | Remove the dataRecordSet from the collection. |
+| [Add](../../aspose.diagram/datarecordsetcollection/add)(DataRecordSet) | Add the dataRecordSet in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/datarecordsetcollection/remove)(DataRecordSet) | Remove the dataRecordSet from the collection. |
 
 ### See Also
 

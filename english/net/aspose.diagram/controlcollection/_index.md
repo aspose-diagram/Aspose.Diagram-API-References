@@ -18,17 +18,21 @@ public class ControlCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Gets the element at the specified index. |
+| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
+| [Item](../../aspose.diagram/controlcollection/item) { get; } | Gets the element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(Control) | Add the Control object in the collection. |
-| [GetControl](getcontrol)(int) | Gets the element at the specified index IX. |
-| [GetControlFromId](getcontrolfromid)(int) | Gets the element at the specified ID. |
-| [GetControlFromName](getcontrolfromname)(string) | Gets the element at the specified name. |
-| [Remove](remove)(Control) | Remove the Control object from the collection. |
+| [Add](../../aspose.diagram/controlcollection/add)(Control) | Add the Control object in the collection. |
+| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
+| [GetControl](../../aspose.diagram/controlcollection/getcontrol)(int) | Gets the element at the specified index IX. |
+| [GetControlFromId](../../aspose.diagram/controlcollection/getcontrolfromid)(int) | Gets the element at the specified ID. |
+| [GetControlFromName](../../aspose.diagram/controlcollection/getcontrolfromname)(string) | Gets the element at the specified name. |
+| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
+| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
+| [Remove](../../aspose.diagram/controlcollection/remove)(Control) | Remove the Control object from the collection. |
 
 ### See Also
 

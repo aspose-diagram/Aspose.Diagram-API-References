@@ -24,24 +24,24 @@ public class Connection
 
 | Name | Description |
 | --- | --- |
-| [AutoGen](autogen) { get; } | Specifies if the connection point is generated automatically. A value of 1 indicates that the connection point is generated automatically. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [DirX](dirx) { get; } | Specifies the x-component for the required alignment vector of a matching connection point. The DirX element is also used to orient the attached leg of a dynamic connector. |
-| [DirY](diry) { get; } | Specifies the y-component for the required alignment vector of a matching connection point. The DirY element is also used to orient the attached leg of a dynamic connector. |
-| [ID](id) { get; set; } | The unique ID of the element within its parent element. |
-| [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Name](name) { get; set; } | The name of the element. |
-| [NameU](nameu) { get; set; } | The universal name of the element. |
-| [Prompt](prompt) { get; } | Contains varying prompt information, based on the element in which it is contained. |
-| [Type](type) { get; } | Specifies various types, based on the element in which it is contained. |
-| [X](x) { get; } | Specifies an x-coordinate on a shape in local coordinates. |
-| [Y](y) { get; } | Specifies a y-coordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape, instead of the page. |
+| [AutoGen](../../aspose.diagram/connection/autogen) { get; } | Specifies if the connection point is generated automatically. A value of 1 indicates that the connection point is generated automatically. |
+| [Del](../../aspose.diagram/connection/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [DirX](../../aspose.diagram/connection/dirx) { get; } | Specifies the x-component for the required alignment vector of a matching connection point. The DirX element is also used to orient the attached leg of a dynamic connector. |
+| [DirY](../../aspose.diagram/connection/diry) { get; } | Specifies the y-component for the required alignment vector of a matching connection point. The DirY element is also used to orient the attached leg of a dynamic connector. |
+| [ID](../../aspose.diagram/connection/id) { get; set; } | The unique ID of the element within its parent element. |
+| [IX](../../aspose.diagram/connection/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [Name](../../aspose.diagram/connection/name) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/connection/nameu) { get; set; } | The universal name of the element. |
+| [Prompt](../../aspose.diagram/connection/prompt) { get; } | Contains varying prompt information, based on the element in which it is contained. |
+| [Type](../../aspose.diagram/connection/type) { get; } | Specifies various types, based on the element in which it is contained. |
+| [X](../../aspose.diagram/connection/x) { get; } | Specifies an x-coordinate on a shape in local coordinates. |
+| [Y](../../aspose.diagram/connection/y) { get; } | Specifies a y-coordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape, instead of the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/connection/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

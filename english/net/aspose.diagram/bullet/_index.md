@@ -24,15 +24,15 @@ public class Bullet
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the bullet style. |
+| [Ufe](../../aspose.diagram/bullet/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/bullet/value) { get; set; } | Determines the bullet style. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/bullet/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/bullet/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

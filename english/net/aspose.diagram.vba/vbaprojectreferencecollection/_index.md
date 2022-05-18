@@ -18,15 +18,15 @@ public class VbaProjectReferenceCollection : CollectionBase
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Get the reference in the list by the index. |
+| [Item](../../aspose.diagram.vba/vbaprojectreferencecollection/item) { get; } | Get the reference in the list by the index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddControlRefrernce](addcontrolrefrernce)(string, string, string, string) | Add a reference to a twiddled type library and its extended type library. |
-| [AddProjectRefrernce](addprojectrefrernce)(string, string, string) | Add a reference to an external VBA project. |
-| [AddRegisteredReference](addregisteredreference)(string, string) | Add a reference to an Automation type library. |
+| [AddControlRefrernce](../../aspose.diagram.vba/vbaprojectreferencecollection/addcontrolrefrernce)(string, string, string, string) | Add a reference to a twiddled type library and its extended type library. |
+| [AddProjectRefrernce](../../aspose.diagram.vba/vbaprojectreferencecollection/addprojectrefrernce)(string, string, string) | Add a reference to an external VBA project. |
+| [AddRegisteredReference](../../aspose.diagram.vba/vbaprojectreferencecollection/addregisteredreference)(string, string) | Add a reference to an Automation type library. |
 
 ### See Also
 

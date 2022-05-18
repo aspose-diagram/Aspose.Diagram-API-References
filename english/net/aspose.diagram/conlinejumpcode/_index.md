@@ -24,15 +24,15 @@ public class ConLineJumpCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines whether a connector jumps when two connectors cross. |
+| [Ufe](../../aspose.diagram/conlinejumpcode/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/conlinejumpcode/value) { get; set; } | Determines whether a connector jumps when two connectors cross. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/conlinejumpcode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/conlinejumpcode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

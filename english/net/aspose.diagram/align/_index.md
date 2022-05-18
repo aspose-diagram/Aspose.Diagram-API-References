@@ -18,19 +18,19 @@ public class Align
 
 | Name | Description |
 | --- | --- |
-| [AlignBottom](alignbottom) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's bottom border is aligned. |
-| [AlignCenter](aligncenter) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's horizontal center is aligned. |
-| [AlignLeft](alignleft) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's left border is aligned. |
-| [AlignMiddle](alignmiddle) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's vertical center is aligned. |
-| [AlignRight](alignright) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's right border is aligned. |
-| [AlignTop](aligntop) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's top border is aligned. |
-| [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [AlignBottom](../../aspose.diagram/align/alignbottom) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's bottom border is aligned. |
+| [AlignCenter](../../aspose.diagram/align/aligncenter) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's horizontal center is aligned. |
+| [AlignLeft](../../aspose.diagram/align/alignleft) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's left border is aligned. |
+| [AlignMiddle](../../aspose.diagram/align/alignmiddle) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's vertical center is aligned. |
+| [AlignRight](../../aspose.diagram/align/alignright) { get; } | Determines the horizontal position, relative to the origin of its parent, of a vertical guide or guide point to which the shape's right border is aligned. |
+| [AlignTop](../../aspose.diagram/align/aligntop) { get; } | Determines the vertical position, relative to the origin of its parent, of a horizontal guide or guide point to which the shape's top border is aligned. |
+| [Del](../../aspose.diagram/align/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/align/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

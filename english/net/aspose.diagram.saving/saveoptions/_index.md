@@ -18,15 +18,15 @@ public abstract class SaveOptions
 
 | Name | Description |
 | --- | --- |
-| virtual [DefaultFont](defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
-| virtual [SaveFormat](saveformat) { get; set; } | Specifies the format in which the document will be saved if this save options object is used. |
-| [WarningCallback](warningcallback) { get; set; } | Gets or sets warning callback. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
+| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat) { get; set; } | Specifies the format in which the document will be saved if this save options object is used. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateSaveOptions](createsaveoptions)(SaveFileFormat) | Creates a save options object of a class suitable for the specified save format. |
+| static [CreateSaveOptions](../../aspose.diagram.saving/saveoptions/createsaveoptions)(SaveFileFormat) | Creates a save options object of a class suitable for the specified save format. |
 
 ### Remarks
 

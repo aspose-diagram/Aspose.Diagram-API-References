@@ -24,15 +24,15 @@ public class GradientStop
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Gets the color of this gradient stop. |
-| [Position](position) { get; set; } | The position of the stop. |
-| [Transparency](transparency) { get; set; } | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
+| [Color](../../aspose.diagram/gradientstop/color) { get; set; } | Gets the color of this gradient stop. |
+| [Position](../../aspose.diagram/gradientstop/position) { get; set; } | The position of the stop. |
+| [Transparency](../../aspose.diagram/gradientstop/transparency) { get; set; } | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/gradientstop/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

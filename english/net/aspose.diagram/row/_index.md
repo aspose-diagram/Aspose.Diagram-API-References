@@ -24,9 +24,9 @@ public class Row
 
 | Name | Description |
 | --- | --- |
-| [PageID](pageid) { get; set; } | Page ID of the shape. |
-| [RowID](rowid) { get; set; } | The original row ID. |
-| [ShapeID](shapeid) { get; set; } | Shape ID of the shape. |
+| [PageID](../../aspose.diagram/row/pageid) { get; set; } | Page ID of the shape. |
+| [RowID](../../aspose.diagram/row/rowid) { get; set; } | The original row ID. |
+| [ShapeID](../../aspose.diagram/row/shapeid) { get; set; } | Shape ID of the shape. |
 
 ### See Also
 

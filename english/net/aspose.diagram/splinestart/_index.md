@@ -24,14 +24,20 @@ public class SplineStart : Coordinate
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | The second knot of the spline. |
-| [B](b) { get; set; } | The first knot of a spline. |
-| [C](c) { get; set; } | The last knot of the spline. |
-| [D](d) { get; set; } | The degree of the spline (an integer from 1 to 25). |
-| override [Del](del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| override [IX](ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [X](x) { get; set; } | The x-coordinate of a spline's second control point. |
-| [Y](y) { get; set; } | The y-coordinate of a spline's second control point. |
+| [A](../../aspose.diagram/splinestart/a) { get; set; } | The second knot of the spline. |
+| [B](../../aspose.diagram/splinestart/b) { get; set; } | The first knot of a spline. |
+| [C](../../aspose.diagram/splinestart/c) { get; set; } | The last knot of the spline. |
+| [D](../../aspose.diagram/splinestart/d) { get; set; } | The degree of the spline (an integer from 1 to 25). |
+| override [Del](../../aspose.diagram/splinestart/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| override [IX](../../aspose.diagram/splinestart/ix) { get; set; } | The zero-based index of the element within its parent element. |
+| [X](../../aspose.diagram/splinestart/x) { get; set; } | The x-coordinate of a spline's second control point. |
+| [Y](../../aspose.diagram/splinestart/y) { get; set; } | The y-coordinate of a spline's second control point. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/coordinate/clone)() | Creates deep copy of this instance. |
 
 ### See Also
 

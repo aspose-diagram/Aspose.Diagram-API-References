@@ -24,15 +24,15 @@ public class LineJumpCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Determines the dynamic connectors to which you want to add jumps. |
+| [Ufe](../../aspose.diagram/linejumpcode/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/linejumpcode/value) { get; set; } | Determines the dynamic connectors to which you want to add jumps. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/linejumpcode/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/linejumpcode/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 

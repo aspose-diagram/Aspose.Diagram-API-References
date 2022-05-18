@@ -24,15 +24,15 @@ public class WalkPreference
 
 | Name | Description |
 | --- | --- |
-| [Ufe](ufe) { get; } | Specifies attributes of an element. |
-| [Value](value) { get; set; } | Specifies whether an endpoint of a 1-D shape moves to a horizontal or vertical connection point on the shape it is glued to, using dynamic glue, when the shape is moved to an ambiguous position. |
+| [Ufe](../../aspose.diagram/walkpreference/ufe) { get; } | Specifies attributes of an element. |
+| [Value](../../aspose.diagram/walkpreference/value) { get; set; } | Specifies whether an endpoint of a 1-D shape moves to a horizontal or vertical connection point on the shape it is glued to, using dynamic glue, when the shape is moved to an ambiguous position. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Are objects equal. |
-| override [GetHashCode](gethashcode)() | Serves as a hash function for a particular type. |
+| override [Equals](../../aspose.diagram/walkpreference/equals)(object) | Are objects equal. |
+| override [GetHashCode](../../aspose.diagram/walkpreference/gethashcode)() | Serves as a hash function for a particular type. |
 
 ### See Also
 
