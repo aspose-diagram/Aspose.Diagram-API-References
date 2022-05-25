@@ -14,7 +14,7 @@ Allows to configure options for the connections to the database.
 public enum DataConnectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

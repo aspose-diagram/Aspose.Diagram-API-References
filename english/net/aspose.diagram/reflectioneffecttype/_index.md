@@ -12,7 +12,7 @@ url: /net/aspose.diagram/reflectioneffecttype/
 public enum ReflectionEffectType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

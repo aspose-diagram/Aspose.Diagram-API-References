@@ -14,7 +14,7 @@ Represents style of drawing lines.
 public enum CompoundTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

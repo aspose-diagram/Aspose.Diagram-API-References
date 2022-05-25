@@ -14,7 +14,7 @@ Specifies the line jump style for all connectors on the drawing page that don't 
 public enum LineJumpStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

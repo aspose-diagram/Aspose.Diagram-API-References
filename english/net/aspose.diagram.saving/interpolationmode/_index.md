@@ -14,7 +14,7 @@ The InterpolationMode enumeration specifies the algorithm that is used when imag
 public enum InterpolationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

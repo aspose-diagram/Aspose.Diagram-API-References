@@ -14,7 +14,7 @@ Specifies the output format for a drawing.
 public enum OutputFormatValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

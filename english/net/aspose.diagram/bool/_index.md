@@ -14,7 +14,7 @@ Boolean.
 public enum BOOL
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

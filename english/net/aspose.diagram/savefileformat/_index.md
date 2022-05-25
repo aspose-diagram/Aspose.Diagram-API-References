@@ -14,7 +14,7 @@ Enumeration for saving diagram format selection.
 public enum SaveFileFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies the type of shadow for a shape.
 public enum ShapeShdwTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

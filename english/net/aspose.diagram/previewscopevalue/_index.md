@@ -14,7 +14,7 @@ Specifies whether the document includes a preview, and, if so, whether the previ
 public enum PreviewScopeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

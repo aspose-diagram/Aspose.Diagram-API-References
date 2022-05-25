@@ -19,7 +19,7 @@ public long[] ConnectedShapes(ConnectedShapesFlags flag, string categoryFilter)
 | flag | ConnectedShapesFlags | Filters the array of returned shape IDs by the directionality of the connectors. See Remarks for possible values[`ConnectedShapesFlags`](../../connectedshapesflags). |
 | categoryFilter | String | Filters the array of returned shape IDs by limiting it to the IDs of shapes that match the specified categoryString. |
 
-## Return Value
+### Return Value
 
 IDs arrayInt64.
 

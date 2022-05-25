@@ -14,7 +14,7 @@ Specifies the size of the arrowhead of the line.
 public enum ArrowSizeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

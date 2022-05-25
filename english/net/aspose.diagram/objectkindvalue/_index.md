@@ -14,7 +14,7 @@ Indicates the type of text field.
 public enum ObjectKindValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

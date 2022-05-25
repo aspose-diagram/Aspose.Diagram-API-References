@@ -14,7 +14,7 @@ The part of a shape to which a connection is made.
 public enum ToPartValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

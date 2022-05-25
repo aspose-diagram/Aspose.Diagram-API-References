@@ -26,7 +26,7 @@ public Shape AddText(double pinX, double pinY, double width, double height, stri
 | fontColor | String | text font color. |
 | size | Double | text font size. |
 
-## Return Value
+### Return Value
 
 Returns a shape object that represents the new text object.
 
@@ -53,7 +53,7 @@ public Shape AddText(double pinX, double pinY, double width, double height, stri
 | pinY | Specifies the y-coordinate of the text's pin (center of rotation) in relation to the page. |
 | text | text string. |
 
-## Return Value
+### Return Value
 
 Returns a shape object that represents the new text object.
 

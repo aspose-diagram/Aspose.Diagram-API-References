@@ -14,7 +14,7 @@ Specifies the horizontal alignment of text in the shape's text block.
 public enum HorzAlignValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

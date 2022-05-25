@@ -14,7 +14,7 @@ Enumeration for saving paper size format selection.
 public enum PaperSizeFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

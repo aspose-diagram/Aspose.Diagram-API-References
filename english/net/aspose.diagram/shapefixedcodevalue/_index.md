@@ -14,7 +14,7 @@ Specifies placement behavior for a placeable shape.
 public enum ShapeFixedCodeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

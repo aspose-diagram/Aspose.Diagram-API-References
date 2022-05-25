@@ -14,7 +14,7 @@ The x-offset of the smart tag button relative to the point defined by the X and 
 public enum XJustifyValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -15,7 +15,7 @@ Optional unsigned integer. Options to apply to the data recordset. Possible valu
 public enum OptionsValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

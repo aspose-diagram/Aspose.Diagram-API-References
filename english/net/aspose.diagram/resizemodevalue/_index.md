@@ -14,7 +14,7 @@ Specifies the current resize behavior setting for the shape when contained in a 
 public enum ResizeModeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

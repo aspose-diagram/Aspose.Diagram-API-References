@@ -14,7 +14,7 @@ Specifies the position of the shape's text relative to the baseline.
 public enum PosValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

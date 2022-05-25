@@ -14,7 +14,7 @@ Optional enumeration. The type of a shape.
 public enum TypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

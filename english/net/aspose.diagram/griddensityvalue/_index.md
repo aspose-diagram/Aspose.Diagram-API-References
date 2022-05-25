@@ -14,7 +14,7 @@ Specifies the type of horizontal/vertical grid to use for a page.
 public enum GridDensityValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

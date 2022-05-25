@@ -14,7 +14,7 @@ Type of Property.
 public enum PropType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

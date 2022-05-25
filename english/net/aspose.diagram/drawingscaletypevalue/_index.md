@@ -14,7 +14,7 @@ Specifies the type of drawing scale to use for a page.
 public enum DrawingScaleTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

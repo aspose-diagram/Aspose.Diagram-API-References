@@ -14,7 +14,7 @@ Specifies the direction of line jumps on vertical dynamic connectors on the draw
 public enum PageLineJumpDirYValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Optional int. Specifies whether the master's text in the stencil window is align
 public enum AlignNameValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

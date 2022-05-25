@@ -14,7 +14,7 @@ Specifies whether the shape text should be localized (translated into another la
 public enum LocalizeFontValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

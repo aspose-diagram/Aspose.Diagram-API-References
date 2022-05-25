@@ -14,7 +14,7 @@ Determines the case of a shape's text. All capital (uppercase) letters (1) and i
 public enum CaseValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

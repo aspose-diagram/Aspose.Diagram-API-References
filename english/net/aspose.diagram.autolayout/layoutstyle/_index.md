@@ -14,7 +14,7 @@ Used to specify style of layout.
 public enum LayoutStyle
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

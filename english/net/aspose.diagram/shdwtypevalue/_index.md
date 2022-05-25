@@ -14,7 +14,7 @@ Indicates the default shadow type for a page.
 public enum ShdwTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

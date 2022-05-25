@@ -14,7 +14,7 @@ Specifies the type of behavior the x or y-coordinate of the control handle exhib
 public enum ConValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

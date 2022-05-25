@@ -14,7 +14,7 @@ Specifies various types, based on the element in which it is contained.
 public enum TypeConnectionValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

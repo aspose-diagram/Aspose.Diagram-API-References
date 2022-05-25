@@ -14,7 +14,7 @@ Determines the placement style for children.
 public enum ShapePlaceStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

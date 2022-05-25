@@ -14,7 +14,7 @@ The part of a shape from which a connection originates.
 public enum FromPartValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

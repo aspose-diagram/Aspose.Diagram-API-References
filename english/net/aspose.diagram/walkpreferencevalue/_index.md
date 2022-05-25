@@ -14,7 +14,7 @@ Specifies whether an endpoint of a 1-D shape moves to a horizontal or vertical c
 public enum WalkPreferenceValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies constants that identify which shapes to return, based on the dimension
 public enum GluedShapesFlags
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

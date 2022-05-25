@@ -20,6 +20,14 @@ public sealed class BuildVersionInfo
 | --- | --- |
 | [BuildVersionInfo](buildversioninfo)() | The default constructor. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| static readonly [AssemblyVersion](../../aspose.diagram/buildversioninfo/assemblyversion) | Assembly version, read only string. |
+| static readonly [FileVersion](../../aspose.diagram/buildversioninfo/fileversion) | File version, read only string. |
+| static readonly [Product](../../aspose.diagram/buildversioninfo/product) | Product name, read only string. |
+
 ### See Also
 
 * namespace [Aspose.Diagram](../../aspose.diagram)

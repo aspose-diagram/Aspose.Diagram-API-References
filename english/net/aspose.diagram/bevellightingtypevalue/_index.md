@@ -14,7 +14,7 @@ Represents a preset light right that can be applied to a shape
 public enum BevelLightingTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

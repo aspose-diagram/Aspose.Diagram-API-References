@@ -22,7 +22,7 @@ public long DrawBezier(double pinX, double pinY, double width, double height, Po
 | height | Double | Specifies the height of the shape |
 | points | PointF[] | Specifies the points of the bezier |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 

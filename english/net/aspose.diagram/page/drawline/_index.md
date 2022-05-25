@@ -21,7 +21,7 @@ public long DrawLine(double beginX, double beginY, double endX, double endY)
 | endX | Double | Specifies the end x-coordinate of the shape's position in relation to the page. |
 | endY | Double | Specifies the end y-coordinate of the shape's position in relation to the page. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 
@@ -49,7 +49,7 @@ public long DrawLine(double pinX, double pinY, double width, double height, Poin
 | height | Double | Specifies the height of the shape |
 | points | PointF[] | Specifies the points of the line |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 

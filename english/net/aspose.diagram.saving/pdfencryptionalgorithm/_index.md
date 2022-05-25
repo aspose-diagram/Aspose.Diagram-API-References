@@ -14,7 +14,7 @@ Specifies the encryption algorithm to use for encrypting a PDF document.
 public enum PdfEncryptionAlgorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

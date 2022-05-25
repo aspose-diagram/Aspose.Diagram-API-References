@@ -14,7 +14,7 @@ Specifies the type of projection of the effect properties of a shape
 public enum RotationTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

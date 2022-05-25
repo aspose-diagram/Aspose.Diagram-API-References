@@ -14,7 +14,7 @@ Specifies the pin position for the shape.
 public enum PinPosValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

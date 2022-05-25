@@ -14,7 +14,7 @@ Used to set direction of layout.
 public enum LayoutDirection
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies the tab alignment.
 public enum UIVisibilityValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

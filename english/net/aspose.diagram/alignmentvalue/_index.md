@@ -14,7 +14,7 @@ Specifies the tab alignment.
 public enum AlignmentValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

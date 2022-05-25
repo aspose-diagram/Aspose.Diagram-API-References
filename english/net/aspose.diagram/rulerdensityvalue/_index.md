@@ -14,7 +14,7 @@ Specifies the horizontal subdivisions on the ruler for the page.
 public enum RulerDensityValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

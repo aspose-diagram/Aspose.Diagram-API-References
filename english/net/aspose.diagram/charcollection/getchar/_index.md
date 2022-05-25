@@ -18,7 +18,7 @@ public Char GetChar(int IX)
 | --- | --- | --- |
 | IX | Int32 | Int32The zero-based index of the element within its parent element. |
 
-## Return Value
+### Return Value
 
 [`Char`](../../char)Char.
 

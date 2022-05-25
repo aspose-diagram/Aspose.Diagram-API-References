@@ -15,7 +15,7 @@ An integer specifying bit flags. This attribute can be a sum of the following va
 public enum WindowStateValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

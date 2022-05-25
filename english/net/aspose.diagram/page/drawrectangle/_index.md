@@ -21,7 +21,7 @@ public long DrawRectangle(double pinX, double pinY, double width, double height)
 | width | Double | Specifies the width of the shape |
 | height | Double | Specifies the height of the shape |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 

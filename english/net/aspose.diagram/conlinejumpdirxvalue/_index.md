@@ -14,7 +14,7 @@ Determines the line jump direction for line jumps occurring on a horizontal segm
 public enum ConLineJumpDirXValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

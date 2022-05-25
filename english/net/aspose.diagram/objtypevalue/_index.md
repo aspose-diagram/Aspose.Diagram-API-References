@@ -14,7 +14,7 @@ Specifies whether objects are placeable or routable in diagrams when you use Mic
 public enum ObjTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies the type of the fill color gradient of a shape
 public enum GradientFillDir
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

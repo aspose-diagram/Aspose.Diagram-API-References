@@ -18,7 +18,7 @@ public DataConnection GetDataConnection(uint ID)
 | --- | --- | --- |
 | ID | UInt32 | ID of DataConnectionUInt32. |
 
-## Return Value
+### Return Value
 
 DataConnection [`DataConnection`](../../dataconnection).
 

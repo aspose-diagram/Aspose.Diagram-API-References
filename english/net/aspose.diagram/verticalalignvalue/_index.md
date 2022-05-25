@@ -14,7 +14,7 @@ Specifies the vertical alignment of text within the text block.
 public enum VerticalAlignValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

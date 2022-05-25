@@ -12,7 +12,7 @@ url: /net/aspose.diagram/presetquickstylevalue/
 public enum PresetQuickStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

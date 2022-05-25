@@ -14,7 +14,7 @@ Specifies how placeable shapes flip and/or rotate on a page when shapes are laid
 public enum PlaceFlipValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

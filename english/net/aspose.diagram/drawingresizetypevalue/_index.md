@@ -14,7 +14,7 @@ Determines whether the drawing page resizes automatically to fit the diagram.
 public enum DrawingResizeTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

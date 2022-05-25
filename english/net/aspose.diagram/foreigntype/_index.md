@@ -14,7 +14,7 @@ Data type.
 public enum ForeignType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

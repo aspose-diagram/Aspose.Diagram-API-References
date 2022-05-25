@@ -19,7 +19,7 @@ public int AddMaster(Diagram srcDiagram, string masterName)
 | srcDiagram | Diagram | source diagram. |
 | masterName | String | Master's Name or NameU. |
 
-## Return Value
+### Return Value
 
 The unique ID of the master within masters collection in this diagram.
 
@@ -44,7 +44,7 @@ public int AddMaster(Stream templateStream, string masterName)
 | templateStream | Stream | template stream. |
 | masterName | String | Master's Name or NameU. |
 
-## Return Value
+### Return Value
 
 The unique ID of the master within masters collection in this diagram.
 
@@ -69,7 +69,7 @@ public int AddMaster(Stream templateStream, int masterID)
 | templateStream | Stream | template stream. |
 | masterID | Int32 | The unique ID of the master within masters collection in template. |
 
-## Return Value
+### Return Value
 
 The unique ID of the master within masters collection in this diagram.
 
@@ -94,7 +94,7 @@ public int AddMaster(string templateFilePath, string masterName)
 | templateFilePath | String | Path to template file(can be vdx, vst or vsd format). |
 | masterName | String | Master's Name or NameU. |
 
-## Return Value
+### Return Value
 
 The unique ID of the master within masters collection in this diagram.
 
@@ -119,7 +119,7 @@ public int AddMaster(string templateFilePath, int masterID)
 | templateFilePath | String | Path to template file(can be vdx, vst or vsd format). |
 | masterID | Int32 | The unique ID of the master within masters collection in template. |
 
-## Return Value
+### Return Value
 
 The unique ID of the master within masters collection in this diagram.
 

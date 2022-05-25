@@ -14,7 +14,7 @@ Specifies whether dynamic (shape-to-shape) glue is allowed when connecting to a 
 public enum GlueTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

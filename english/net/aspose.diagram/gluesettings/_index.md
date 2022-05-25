@@ -15,7 +15,7 @@ The bit values indicate that a specific glue setting is on or off. The value may
 public enum GlueSettings
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

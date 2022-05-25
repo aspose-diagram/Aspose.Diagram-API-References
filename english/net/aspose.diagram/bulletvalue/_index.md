@@ -14,7 +14,7 @@ Determines the bullet style.
 public enum BulletValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

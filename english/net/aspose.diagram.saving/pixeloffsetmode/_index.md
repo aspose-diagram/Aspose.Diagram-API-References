@@ -14,7 +14,7 @@ Specifies how pixels are offset during rendering.
 public enum PixelOffsetMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
