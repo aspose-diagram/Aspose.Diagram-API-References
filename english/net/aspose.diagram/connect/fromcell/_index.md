@@ -8,7 +8,7 @@ url: /net/aspose.diagram/connect/fromcell/
 ---
 ## Connect.FromCell property
 
-The ID of the shape to which one or more connections are made.
+The cell from which a connection is made.
 
 ```csharp
 public string FromCell { get; set; }

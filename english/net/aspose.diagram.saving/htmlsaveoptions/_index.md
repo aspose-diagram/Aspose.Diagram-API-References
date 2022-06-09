@@ -34,6 +34,7 @@ public class HTMLSaveOptions : RenderingSaveOptions
 | [PageCount](../../aspose.diagram.saving/htmlsaveoptions/pagecount) { get; set; } | Gets or sets the number of pages to render in HTML. Default is MaxValue which means all pages of the diagram will be rendered. |
 | [PageIndex](../../aspose.diagram.saving/htmlsaveoptions/pageindex) { get; set; } | Gets or sets the 0-based index of the first page to render. Default is 0. |
 | [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Gets or sets the page size for the generated images. Can be [`PageSize`](../pagesize) or null. |
+| [Resolution](../../aspose.diagram.saving/htmlsaveoptions/resolution) { get; set; } | Gets or sets the resolution for the generated html, in dots per inch. |
 | [SaveAsSingleFile](../../aspose.diagram.saving/htmlsaveoptions/saveassinglefile) { get; set; } | Indicates whether save the html as single file. The default value is false. |
 | [SaveForegroundPagesOnly](../../aspose.diagram.saving/htmlsaveoptions/saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be saved in image or only foreground. |
 | override [SaveFormat](../../aspose.diagram.saving/htmlsaveoptions/saveformat) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`HTML`](../../aspose.diagram/savefileformat) only. |
