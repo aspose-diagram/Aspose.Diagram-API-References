@@ -15,7 +15,7 @@ Specifies user permissions for PDF document.
 public enum PdfPermissions
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

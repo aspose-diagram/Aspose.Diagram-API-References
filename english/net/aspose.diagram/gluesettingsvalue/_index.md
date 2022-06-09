@@ -15,7 +15,7 @@ Specifies the objects that shapes glue to when glue is enabled in the document.
 public enum GlueSettingsValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

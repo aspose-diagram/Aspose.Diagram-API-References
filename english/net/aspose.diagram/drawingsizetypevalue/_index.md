@@ -14,7 +14,7 @@ Specifies the drawing size of a page.
 public enum DrawingSizeTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

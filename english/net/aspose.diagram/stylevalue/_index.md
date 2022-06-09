@@ -15,7 +15,7 @@ Specifies the character formatting applied to a range of text in the shape's tex
 public enum StyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -3,7 +3,7 @@ title: SaveTitle
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.diagram.saving/htmlsaveoptions/savetitle/
 ---
 ## HTMLSaveOptions.SaveTitle property

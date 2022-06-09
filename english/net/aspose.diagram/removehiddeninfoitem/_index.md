@@ -14,7 +14,7 @@ Specifies the remove hidden info for the diagram.
 public enum RemoveHiddenInfoItem
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

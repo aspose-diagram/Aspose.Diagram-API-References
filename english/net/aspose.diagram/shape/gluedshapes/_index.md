@@ -20,7 +20,7 @@ public long[] GluedShapes(GluedShapesFlags flag, string categoryFilter, Shape ot
 | categoryFilter | String | Filters the array of returned shape IDs by limiting it to the IDs of shapes that match the specified categoryString. |
 | otherShape | Shape | Optional: additional shape to which returned shapes must also be glued, can be [`Shape`](../../shape) or null. |
 
-## Return Value
+### Return Value
 
 IDs arrayInt64.
 

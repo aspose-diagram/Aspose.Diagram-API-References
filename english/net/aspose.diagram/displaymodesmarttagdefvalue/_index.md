@@ -14,7 +14,7 @@ DisplayMode element determines whether the smart tag appears when the user pause
 public enum DisplayModeSmartTagDefValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

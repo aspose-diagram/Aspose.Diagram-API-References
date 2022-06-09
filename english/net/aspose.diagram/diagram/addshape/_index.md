@@ -20,7 +20,7 @@ public long AddShape(Shape newShape, string masterName, int pageNumber)
 | masterName | String | Master's name. |
 | pageNumber | Int32 | Index of page. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 
@@ -48,7 +48,7 @@ public long AddShape(double pinX, double pinY, string masterName, int pageNumber
 | masterName | String | Master's name. |
 | pageNumber | Int32 | Index of page. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 
@@ -78,7 +78,7 @@ public long AddShape(double pinX, double pinY, double width, double height, stri
 | masterName | String | Master's name. |
 | pageNumber | Int32 | Index of page. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 

@@ -14,7 +14,7 @@ Enumeration for loading diagram format selection.
 public enum LoadFileFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies how the user selects a group shape and its members.
 public enum SelectModeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

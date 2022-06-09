@@ -14,7 +14,7 @@ Determines whether the page is printed in portrait or landscape orientation.
 public enum PrintPageOrientationValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

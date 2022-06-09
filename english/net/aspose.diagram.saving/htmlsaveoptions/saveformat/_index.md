@@ -3,7 +3,7 @@ title: SaveFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.diagram.saving/htmlsaveoptions/saveformat/
 ---
 ## HTMLSaveOptions.SaveFormat property

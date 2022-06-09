@@ -14,7 +14,7 @@ Specifies which dynamic connectors to space apart if they route on top of each o
 public enum LineAdjustFromValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

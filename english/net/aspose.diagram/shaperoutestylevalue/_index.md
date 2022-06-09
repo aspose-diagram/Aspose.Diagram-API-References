@@ -14,7 +14,7 @@ Specifies the routing style and direction for a connector on the drawing page.
 public enum ShapeRouteStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

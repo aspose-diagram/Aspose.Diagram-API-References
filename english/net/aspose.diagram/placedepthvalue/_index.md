@@ -14,7 +14,7 @@ For a drawing that is laid out automatically, specifies the method by which the 
 public enum PlaceDepthValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

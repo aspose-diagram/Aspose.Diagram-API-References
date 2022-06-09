@@ -14,7 +14,7 @@ Specifies the direction of the characters in a text block.
 public enum TextDirectionValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

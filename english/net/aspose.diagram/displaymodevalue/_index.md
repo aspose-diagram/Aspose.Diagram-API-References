@@ -14,7 +14,7 @@ When it is contained in a Group element, the DisplayMode element specifies how a
 public enum DisplayModeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

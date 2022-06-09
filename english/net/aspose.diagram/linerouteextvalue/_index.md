@@ -14,7 +14,7 @@ Specifies the default appearance for all connectors on a page.
 public enum LineRouteExtValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

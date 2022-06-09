@@ -14,7 +14,7 @@ Type specifies a data type for the custom property value.
 public enum TypePropValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

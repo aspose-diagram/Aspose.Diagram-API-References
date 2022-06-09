@@ -15,7 +15,7 @@ Specifies the objects that shapes snap to when snap is active in the window. The
 public enum SnapSettings
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Specifies properties of the group or shape to use for the comparison. Possible v
 public enum ContextTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

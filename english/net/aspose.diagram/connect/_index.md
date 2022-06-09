@@ -24,7 +24,7 @@ public class Connect
 
 | Name | Description |
 | --- | --- |
-| [FromCell](../../aspose.diagram/connect/fromcell) { get; set; } | The ID of the shape to which one or more connections are made. |
+| [FromCell](../../aspose.diagram/connect/fromcell) { get; set; } | The cell from which a connection is made. |
 | [FromPart](../../aspose.diagram/connect/frompart) { get; set; } | The cell from which a connection originates. |
 | [FromSheet](../../aspose.diagram/connect/fromsheet) { get; set; } | The ID of the shape from which a connection or connections originate. |
 | [ToCell](../../aspose.diagram/connect/tocell) { get; set; } | The cell to which a connection is made. |

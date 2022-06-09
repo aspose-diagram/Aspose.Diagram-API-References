@@ -14,7 +14,7 @@ Type specifies a data type for the text field value.
 public enum TypeFieldValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

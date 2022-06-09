@@ -14,7 +14,7 @@ Specifies the location on the shape where connector will be connected.
 public enum ConnectionPointPlace
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

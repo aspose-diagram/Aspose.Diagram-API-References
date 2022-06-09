@@ -14,7 +14,7 @@ Optional int. The size of the element's icon.
 public enum IconSizeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

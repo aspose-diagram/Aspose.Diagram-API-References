@@ -14,7 +14,7 @@ Specifies the direction of line jumps on horizontal segments of dynamic connecto
 public enum PageLineJumpDirXValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

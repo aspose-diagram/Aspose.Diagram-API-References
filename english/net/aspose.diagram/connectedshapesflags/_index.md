@@ -14,7 +14,7 @@ Filters the array of returned shape IDs by the directionality of the connectors.
 public enum ConnectedShapesFlags
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

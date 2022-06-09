@@ -14,7 +14,7 @@ Determines the line jump style for line jumps on a dynamic connector.
 public enum ConLineJumpStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

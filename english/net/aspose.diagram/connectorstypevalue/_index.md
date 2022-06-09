@@ -14,7 +14,7 @@ May be one of the following values: RightAngle, StraightLines, or CurvedLines. O
 public enum ConnectorsTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

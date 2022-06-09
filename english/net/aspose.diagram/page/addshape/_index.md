@@ -20,7 +20,7 @@ public long AddShape(double pinX, double pinY, string masterName)
 | pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
 | masterName | String | Master's name. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 
@@ -48,7 +48,7 @@ public long AddShape(double pinX, double pinY, double width, double height, stri
 | height | Double | Specifies the height of the shape in inches. |
 | masterName | String | Master's name. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 
@@ -102,7 +102,7 @@ public long AddShape(Shape newShape, string masterName)
 | newShape | Shape | New shape object[`Shape`](../../shape). |
 | masterName | String | Master's name. |
 
-## Return Value
+### Return Value
 
 The unique ID of the shape within shapes collection on the specified page.
 

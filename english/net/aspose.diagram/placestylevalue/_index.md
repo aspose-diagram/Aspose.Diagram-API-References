@@ -14,7 +14,7 @@ Specifies how shapes are placed on the page when shapes are laid out when a user
 public enum PlaceStyleValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -1,22 +1,25 @@
 ---
-title: StreamProvider
+title: Resolution
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 110
-url: /net/aspose.diagram.saving/htmlsaveoptions/streamprovider/
+weight: 50
+url: /net/aspose.diagram.saving/htmlsaveoptions/resolution/
 ---
-## HTMLSaveOptions.StreamProvider property
+## HTMLSaveOptions.Resolution property
 
-Gets or sets the IStreamProvider for exporting objects.
+Gets or sets the resolution for the generated html, in dots per inch.
 
 ```csharp
-public IStreamProvider StreamProvider { get; set; }
+public int Resolution { get; set; }
 ```
+
+### Remarks
+
+This property has effect only when saving to html. The default value is 96.
 
 ### See Also
 
-* interface [IStreamProvider](../../istreamprovider)
 * class [HTMLSaveOptions](../../htmlsaveoptions)
 * namespace [Aspose.Diagram.Saving](../../htmlsaveoptions)
 * assembly [Aspose.Diagram](../../../)

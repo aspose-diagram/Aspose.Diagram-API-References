@@ -14,7 +14,7 @@ Specifies the y-offset of the smart tag button relative to the point defined by 
 public enum YJustifyValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

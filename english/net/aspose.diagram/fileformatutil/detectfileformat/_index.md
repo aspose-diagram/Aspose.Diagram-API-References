@@ -18,7 +18,7 @@ public static FileFormatInfo DetectFileFormat(Stream stream)
 | --- | --- | --- |
 | stream | Stream |  |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 
@@ -43,7 +43,7 @@ public static FileFormatInfo DetectFileFormat(string filePath)
 | --- | --- | --- |
 | filePath | String | The file path. |
 
-## Return Value
+### Return Value
 
 A [`FileFormatInfo`](../../fileformatinfo) object that contains the detected information.
 

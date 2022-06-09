@@ -14,7 +14,7 @@ Specifies contents that define the target of the validation rule; passed to and 
 public enum VisRuleTargetsValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

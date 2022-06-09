@@ -15,7 +15,7 @@ If the ForeignType attribute is "Object", the ForeignData element must also have
 public enum ObjectType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

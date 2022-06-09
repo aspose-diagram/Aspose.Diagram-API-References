@@ -14,7 +14,7 @@ This attribute is only meaningful if the foreign data is a raster-based foreign 
 public enum CompressionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

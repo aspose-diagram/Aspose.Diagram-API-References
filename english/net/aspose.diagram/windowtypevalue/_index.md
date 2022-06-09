@@ -14,7 +14,7 @@ An enumerated value that may be one of the following: Drawing, Sheet, Stencil, o
 public enum WindowTypeValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

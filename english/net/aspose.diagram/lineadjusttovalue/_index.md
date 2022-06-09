@@ -14,7 +14,7 @@ Specifies which dynamic connectors to line up on top of one another if they rout
 public enum LineAdjustToValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

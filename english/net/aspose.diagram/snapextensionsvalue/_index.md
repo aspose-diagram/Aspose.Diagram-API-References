@@ -14,7 +14,7 @@ Specifies whether a specific snap extension setting is enabled or disabled for t
 public enum SnapExtensionsValue
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |
