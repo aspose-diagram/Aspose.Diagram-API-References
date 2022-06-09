@@ -62,4 +62,4 @@ Aspose.Diagram for Python via Java API offers all the useful features of Aspose.
 {{% /alert %}} 
 
 These are links to some useful resources:
-- [Aspose.Diagram for Python via Java API Reference](/diagram/python-java/)
+- [Aspose.Diagram for Python via Java API Reference](/diagram/python-java/) 
