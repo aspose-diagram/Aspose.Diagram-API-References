@@ -3,7 +3,7 @@ title: StreamProvider
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.diagram.saving/htmlsaveoptions/streamprovider/
 ---
 ## HTMLSaveOptions.StreamProvider property

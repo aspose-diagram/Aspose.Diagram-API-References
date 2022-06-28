@@ -1,0 +1,279 @@
+---
+title: Add
+second_title: Aspose.Diagram for .NET API 参考
+description: 在集合中添加坐标对象
+type: docs
+weight: 170
+url: /zh/net/aspose.diagram/coordinatecollection/add/
+---
+## Add(Coordinate) {#add_1}
+
+在集合中添加坐标对象。
+
+```csharp
+public int Add(Coordinate item)
+```
+
+### 也可以看看
+
+* class [Coordinate](../../coordinate)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(MoveTo) {#add_6}
+
+在集合中添加 MoveTo 对象。
+
+```csharp
+public int Add(MoveTo item)
+```
+
+### 也可以看看
+
+* class [MoveTo](../../moveto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(LineTo) {#add_5}
+
+在集合中添加 LineTo 对象。
+
+```csharp
+public int Add(LineTo item)
+```
+
+### 也可以看看
+
+* class [LineTo](../../lineto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(ArcTo) {#add}
+
+在集合中添加 ArcTo 对象。
+
+```csharp
+public int Add(ArcTo item)
+```
+
+### 也可以看看
+
+* class [ArcTo](../../arcto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(InfiniteLine) {#add_4}
+
+在集合中添加 InfiniteLine 对象。
+
+```csharp
+public int Add(InfiniteLine item)
+```
+
+### 也可以看看
+
+* class [InfiniteLine](../../infiniteline)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(Ellipse) {#add_2}
+
+在集合中添加 Ellipse 对象。
+
+```csharp
+public int Add(Ellipse item)
+```
+
+### 也可以看看
+
+* class [Ellipse](../../ellipse)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(EllipticalArcTo) {#add_3}
+
+在集合中添加 EllipticalArcTo 对象。
+
+```csharp
+public int Add(EllipticalArcTo item)
+```
+
+### 也可以看看
+
+* class [EllipticalArcTo](../../ellipticalarcto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(SplineStart) {#add_15}
+
+在集合中添加 SplineStart 对象。
+
+```csharp
+public int Add(SplineStart item)
+```
+
+### 也可以看看
+
+* class [SplineStart](../../splinestart)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(SplineKnot) {#add_14}
+
+在集合中添加 SplineKnot 对象。
+
+```csharp
+public int Add(SplineKnot item)
+```
+
+### 也可以看看
+
+* class [SplineKnot](../../splineknot)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(PolylineTo) {#add_8}
+
+在集合中添加 PolylineTo 对象。
+
+```csharp
+public int Add(PolylineTo item)
+```
+
+### 也可以看看
+
+* class [PolylineTo](../../polylineto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(NURBSTo) {#add_7}
+
+在集合中添加 NURBSTo 对象。
+
+```csharp
+public int Add(NURBSTo item)
+```
+
+### 也可以看看
+
+* class [NURBSTo](../../nurbsto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelCubBezTo) {#add_9}
+
+在集合中添加 RelCubBezTo 对象。
+
+```csharp
+public int Add(RelCubBezTo item)
+```
+
+### 也可以看看
+
+* class [RelCubBezTo](../../relcubbezto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelQuadBezTo) {#add_13}
+
+在集合中添加 RelQuadBezTo 对象。
+
+```csharp
+public int Add(RelQuadBezTo item)
+```
+
+### 也可以看看
+
+* class [RelQuadBezTo](../../relquadbezto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelMoveTo) {#add_12}
+
+在集合中添加 RelMoveTo 对象。
+
+```csharp
+public int Add(RelMoveTo item)
+```
+
+### 也可以看看
+
+* class [RelMoveTo](../../relmoveto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelLineTo) {#add_11}
+
+在集合中添加 RelLineTo 对象。
+
+```csharp
+public int Add(RelLineTo item)
+```
+
+### 也可以看看
+
+* class [RelLineTo](../../rellineto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelEllipticalArcTo) {#add_10}
+
+在集合中添加 RelEllipticalArcTo 对象。
+
+```csharp
+public int Add(RelEllipticalArcTo item)
+```
+
+### 也可以看看
+
+* class [RelEllipticalArcTo](../../relellipticalarcto)
+* class [CoordinateCollection](../../coordinatecollection)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* 部件 [Aspose.Diagram](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
