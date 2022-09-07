@@ -1,7 +1,7 @@
 ---
 title: DisplayWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Width of the data column in the External Data window.
 type: docs
 weight: 80
 url: /net/aspose.diagram/datacolumn/displaywidth/

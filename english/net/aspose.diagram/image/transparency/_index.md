@@ -1,7 +1,7 @@
 ---
 title: Transparency
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the transparency level for a layer color from 0 opaque to 1 completely transparent.
 type: docs
 weight: 80
 url: /net/aspose.diagram/image/transparency/

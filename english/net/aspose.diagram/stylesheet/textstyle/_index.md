@@ -1,7 +1,7 @@
 ---
 title: TextStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: StyleSheet element from which this style inherits text formatting.
 type: docs
 weight: 270
 url: /net/aspose.diagram/stylesheet/textstyle/

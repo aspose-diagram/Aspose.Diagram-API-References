@@ -1,12 +1,12 @@
 ---
 title: Print
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Prints the whole document to the default printer.
 type: docs
 weight: 400
 url: /net/aspose.diagram/diagram/print/
 ---
-## Diagram.Print method (1 of 10)
+## Print(PrintSaveOptions) {#print_1}
 
 Prints the whole document to the default printer.
 
@@ -27,7 +27,7 @@ public void Print(PrintSaveOptions options)
 
 ---
 
-## Diagram.Print method (2 of 10)
+## Print() {#print}
 
 Prints the whole document to the default printer.
 
@@ -43,7 +43,7 @@ public void Print()
 
 ---
 
-## Diagram.Print method (3 of 10)
+## Print(string) {#print_6}
 
 Print the whole document to the specified printer,using the standard (no User Interface) print controller.
 
@@ -67,7 +67,7 @@ If printerName is Null or empty will be used default printer.
 
 ---
 
-## Diagram.Print method (4 of 10)
+## Print(string, PrintSaveOptions) {#print_7}
 
 Print the whole document to the specified printer,using the standard (no User Interface) print controller.
 
@@ -93,7 +93,7 @@ If printerName is Null or empty will be used default printer.
 
 ---
 
-## Diagram.Print method (5 of 10)
+## Print(PrinterSettings, PrintSaveOptions) {#print_3}
 
 Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
 
@@ -119,7 +119,7 @@ The System.Drawing.Printing.PrinterSettingsobject allows you to specify the prin
 
 ---
 
-## Diagram.Print method (6 of 10)
+## Print(PrinterSettings) {#print_2}
 
 Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
 
@@ -143,7 +143,7 @@ The System.Drawing.Printing.PrinterSettingsobject allows you to specify the prin
 
 ---
 
-## Diagram.Print method (7 of 10)
+## Print(PrinterSettings, string, PrintSaveOptions) {#print_5}
 
 Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name.
 
@@ -166,7 +166,7 @@ public void Print(PrinterSettings printerSettings, string documentName, PrintSav
 
 ---
 
-## Diagram.Print method (8 of 10)
+## Print(PrinterSettings, string) {#print_4}
 
 Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name.
 
@@ -187,7 +187,7 @@ public void Print(PrinterSettings printerSettings, string documentName)
 
 ---
 
-## Diagram.Print method (9 of 10)
+## Print(string, string, PrintSaveOptions) {#print_9}
 
 Prints the document,using the standard (no User Interface) print controller and a document name.
 
@@ -210,7 +210,7 @@ public void Print(string printerName, string documentName, PrintSaveOptions opti
 
 ---
 
-## Diagram.Print method (10 of 10)
+## Print(string, string) {#print_8}
 
 Prints the document,using the standard (no User Interface) print controller and a document name.
 

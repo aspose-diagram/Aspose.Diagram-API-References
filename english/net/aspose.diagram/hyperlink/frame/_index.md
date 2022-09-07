@@ -1,7 +1,7 @@
 ---
 title: Frame
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the name of a frame to target when Microsoft Visio is open as an active document in a container application. The default is an empty string.
 type: docs
 weight: 70
 url: /net/aspose.diagram/hyperlink/frame/

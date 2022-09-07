@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when rendering diagram pages to images.
 type: docs
 weight: 3270
 url: /net/aspose.diagram.saving/imagesaveoptions/

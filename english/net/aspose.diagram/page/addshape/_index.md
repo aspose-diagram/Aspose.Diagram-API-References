@@ -1,12 +1,12 @@
 ---
 title: AddShape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adds shape created by master on page with defined PinX and PinY.
 type: docs
 weight: 210
 url: /net/aspose.diagram/page/addshape/
 ---
-## Page.AddShape method (1 of 5)
+## AddShape(double, double, string) {#addshape_4}
 
 Adds shape created by master on page with defined PinX and PinY.
 
@@ -32,7 +32,7 @@ The unique ID of the shape within shapes collection on the specified page.
 
 ---
 
-## Page.AddShape method (2 of 5)
+## AddShape(double, double, double, double, string) {#addshape_3}
 
 Adds shape created by master on page with defined PinX,PinY,Width and Height.
 
@@ -60,7 +60,7 @@ The unique ID of the shape within shapes collection on the specified page.
 
 ---
 
-## Page.AddShape method (3 of 5)
+## AddShape(double, double, double, double, Stream, Stream) {#addshape_2}
 
 ```csharp
 public long AddShape(double pinX, double pinY, double width, double height, Stream imageStream, 
@@ -75,7 +75,7 @@ public long AddShape(double pinX, double pinY, double width, double height, Stre
 
 ---
 
-## Page.AddShape method (4 of 5)
+## AddShape(double, double, double, double, Stream) {#addshape_1}
 
 ```csharp
 public long AddShape(double pinX, double pinY, double width, double height, Stream stream)
@@ -89,7 +89,7 @@ public long AddShape(double pinX, double pinY, double width, double height, Stre
 
 ---
 
-## Page.AddShape method (5 of 5)
+## AddShape(Shape, string) {#addshape}
 
 Adds shape created by master to specific page.
 

@@ -1,7 +1,7 @@
 ---
 title: PrintGrid
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether to print the grid when printing a document page.
 type: docs
 weight: 130
 url: /net/aspose.diagram/printprops/printgrid/

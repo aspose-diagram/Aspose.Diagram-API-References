@@ -1,7 +1,7 @@
 ---
 title: ActivePage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the active page
 type: docs
 weight: 20
 url: /net/aspose.diagram/diagram/activepage/

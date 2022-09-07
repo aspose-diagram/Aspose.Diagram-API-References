@@ -1,7 +1,7 @@
 ---
 title: PinPos
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the pin position of the shape
 type: docs
 weight: 80
 url: /net/aspose.diagram/xform/pinpos/

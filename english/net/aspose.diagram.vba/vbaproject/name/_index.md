@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the name of the VBA project.
 type: docs
 weight: 30
 url: /net/aspose.diagram.vba/vbaproject/name/

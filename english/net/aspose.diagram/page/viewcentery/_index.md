@@ -1,7 +1,7 @@
 ---
 title: ViewCenterY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: ViewCenterX and ViewCenterY specify a center point on a page that a new view window assumes when it is opened initially.
 type: docs
 weight: 170
 url: /net/aspose.diagram/page/viewcentery/

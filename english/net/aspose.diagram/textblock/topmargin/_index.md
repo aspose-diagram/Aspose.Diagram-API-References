@@ -1,7 +1,7 @@
 ---
 title: TopMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance between the top border of the text block and the first line of text it contains.
 type: docs
 weight: 90
 url: /net/aspose.diagram/textblock/topmargin/

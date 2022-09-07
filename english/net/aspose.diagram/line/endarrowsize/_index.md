@@ -1,7 +1,7 @@
 ---
 title: EndArrowSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the size of the arrowhead at the end of the line.
 type: docs
 weight: 60
 url: /net/aspose.diagram/line/endarrowsize/

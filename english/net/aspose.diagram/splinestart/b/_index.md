@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The first knot of a spline.
 type: docs
 weight: 30
 url: /net/aspose.diagram/splinestart/b/

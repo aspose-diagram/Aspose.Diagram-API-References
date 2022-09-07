@@ -1,7 +1,7 @@
 ---
 title: PageSavingCallback
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Control/Indicate progress of page saving process.
 type: docs
 weight: 100
 url: /net/aspose.diagram.saving/pdfsaveoptions/pagesavingcallback/

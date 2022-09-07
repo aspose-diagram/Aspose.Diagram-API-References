@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Boolean value
 type: docs
 weight: 40
 url: /net/aspose.diagram/boolvalue/value/

@@ -1,7 +1,7 @@
 ---
 title: ConnectionString
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The connection string that defines the parameters necessary to connect to a data source.
 type: docs
 weight: 40
 url: /net/aspose.diagram/dataconnection/connectionstring/

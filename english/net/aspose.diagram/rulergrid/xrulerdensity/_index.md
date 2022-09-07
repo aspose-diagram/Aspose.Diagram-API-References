@@ -1,7 +1,7 @@
 ---
 title: XRulerDensity
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the horizontal subdivisions on the ruler for the page.
 type: docs
 weight: 50
 url: /net/aspose.diagram/rulergrid/xrulerdensity/

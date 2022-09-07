@@ -1,7 +1,7 @@
 ---
 title: MoveToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: MoveTo collection.
 type: docs
 weight: 2370
 url: /net/aspose.diagram/movetocollection/

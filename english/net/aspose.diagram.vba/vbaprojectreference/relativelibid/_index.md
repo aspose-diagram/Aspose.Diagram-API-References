@@ -1,7 +1,7 @@
 ---
 title: RelativeLibid
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the referenced VBA projects identifier with an relative path.
 type: docs
 weight: 40
 url: /net/aspose.diagram.vba/vbaprojectreference/relativelibid/

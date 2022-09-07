@@ -1,7 +1,7 @@
 ---
 title: LockMoveY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the vertical position of the shape is locked so that it cannot be moved vertically.
 type: docs
 weight: 140
 url: /net/aspose.diagram/protection/lockmovey/

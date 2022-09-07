@@ -1,7 +1,7 @@
 ---
 title: Weight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the weight of the font. Equivalent to the GDI LOGFONT lfWeight field.
 type: docs
 weight: 130
 url: /net/aspose.diagram/headerfooterfont/weight/

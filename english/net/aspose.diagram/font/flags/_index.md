@@ -1,7 +1,7 @@
 ---
 title: Flags
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Flags that indicate the following missing font default font asian font complex font vertical font and font type.
 type: docs
 weight: 30
 url: /net/aspose.diagram/font/flags/

@@ -1,7 +1,7 @@
 ---
 title: NextId
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: NextID
 type: docs
 weight: 30
 url: /net/aspose.diagram/datarecordsetcollection/nextid/

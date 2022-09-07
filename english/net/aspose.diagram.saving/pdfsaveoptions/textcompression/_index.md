@@ -1,7 +1,7 @@
 ---
 title: TextCompression
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies compression type to be used for all content streams except images. Default is PdfTextCompressionCore.Flate.
 type: docs
 weight: 140
 url: /net/aspose.diagram.saving/pdfsaveoptions/textcompression/

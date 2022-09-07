@@ -1,7 +1,7 @@
 ---
 title: PresetThemeVariant
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Apply a preset theme variant to this shape
 type: docs
 weight: 510
 url: /net/aspose.diagram/shape/presetthemevariant/

@@ -1,7 +1,7 @@
 ---
 title: Orientation
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the orientation of the font. Equivalent to the GDI LOGFONT lfOrientation field.
 type: docs
 weight: 70
 url: /net/aspose.diagram/headerfooterfont/orientation/

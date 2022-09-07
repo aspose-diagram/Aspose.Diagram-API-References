@@ -1,7 +1,7 @@
 ---
 title: FileFontSource
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the single TrueType font file stored in the file system.
 type: docs
 weight: 1440
 url: /net/aspose.diagram/filefontsource/

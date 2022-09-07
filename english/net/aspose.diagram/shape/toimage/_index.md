@@ -1,12 +1,12 @@
 ---
 title: ToImage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates the shape image and saves it to a file. The extension of the file name determines the format of the image.
 type: docs
 weight: 960
 url: /net/aspose.diagram/shape/toimage/
 ---
-## Shape.ToImage method (1 of 2)
+## ToImage(string, ImageSaveOptions) {#toimage_1}
 
 Creates the shape image and saves it to a file. The extension of the file name determines the format of the image.
 
@@ -32,7 +32,7 @@ The format of the image is specified by using the extension of the file name. Fo
 
 ---
 
-## Shape.ToImage method (2 of 2)
+## ToImage(Stream, ImageSaveOptions) {#toimage}
 
 Creates the shape image and saves it to a stream in the specified format.
 

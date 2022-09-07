@@ -1,7 +1,7 @@
 ---
 title: SolutionXMLCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: SolutionXML collection.
 type: docs
 weight: 3810
 url: /net/aspose.diagram/solutionxmlcollection/

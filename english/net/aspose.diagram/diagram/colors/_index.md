@@ -1,7 +1,7 @@
 ---
 title: Colors
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the documents color table. Each document contains a single color table which lists the 24 standard colors that are available for application to objects such as shapes text and layers in the document.
 type: docs
 weight: 40
 url: /net/aspose.diagram/diagram/colors/

@@ -1,7 +1,7 @@
 ---
 title: EventItemCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: EventItem collection.
 type: docs
 weight: 1410
 url: /net/aspose.diagram/eventitemcollection/

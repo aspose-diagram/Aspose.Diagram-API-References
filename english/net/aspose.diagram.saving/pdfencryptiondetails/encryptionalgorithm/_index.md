@@ -1,7 +1,7 @@
 ---
 title: EncryptionAlgorithm
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the encryption mode.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/pdfencryptiondetails/encryptionalgorithm/

@@ -1,7 +1,7 @@
 ---
 title: ShapePlaceStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the placement style for children.
 type: docs
 weight: 150
 url: /net/aspose.diagram/layout/shapeplacestyle/

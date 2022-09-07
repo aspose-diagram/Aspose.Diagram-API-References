@@ -1,7 +1,7 @@
 ---
 title: EllipseCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Ellipse collection.
 type: docs
 weight: 1350
 url: /net/aspose.diagram/ellipsecollection/

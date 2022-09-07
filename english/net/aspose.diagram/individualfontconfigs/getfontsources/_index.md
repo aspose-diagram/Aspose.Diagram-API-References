@@ -1,7 +1,7 @@
 ---
 title: GetFontSources
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets a copy of the array that contains the list of sources
 type: docs
 weight: 20
 url: /net/aspose.diagram/individualfontconfigs/getfontsources/

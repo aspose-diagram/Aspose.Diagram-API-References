@@ -1,7 +1,7 @@
 ---
 title: Misc
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains various elements of shapes and groups such as those that control selection highlighting and visibility.
 type: docs
 weight: 2350
 url: /net/aspose.diagram/misc/

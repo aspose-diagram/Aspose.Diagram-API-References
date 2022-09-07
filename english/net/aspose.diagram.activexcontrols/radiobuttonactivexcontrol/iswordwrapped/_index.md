@@ -1,7 +1,7 @@
 ---
 title: IsWordWrapped
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the contents of the control automatically wrap at the end of a line.
 type: docs
 weight: 30
 url: /net/aspose.diagram.activexcontrols/radiobuttonactivexcontrol/iswordwrapped/

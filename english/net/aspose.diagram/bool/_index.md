@@ -1,7 +1,7 @@
 ---
 title: BOOL
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Boolean.
 type: docs
 weight: 500
 url: /net/aspose.diagram/bool/

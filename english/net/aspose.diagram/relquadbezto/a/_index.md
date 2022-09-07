@@ -1,7 +1,7 @@
 ---
 title: A
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The x-coordinate of the control point in relative coordinates.
 type: docs
 weight: 20
 url: /net/aspose.diagram/relquadbezto/a/

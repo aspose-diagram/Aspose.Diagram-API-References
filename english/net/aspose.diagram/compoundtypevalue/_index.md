@@ -1,7 +1,7 @@
 ---
 title: CompoundTypeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents style of drawing lines.
 type: docs
 weight: 740
 url: /net/aspose.diagram/compoundtypevalue/

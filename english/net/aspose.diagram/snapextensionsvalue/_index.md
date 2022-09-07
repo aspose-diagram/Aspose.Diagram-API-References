@@ -1,7 +1,7 @@
 ---
 title: SnapExtensionsValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a specific snap extension setting is enabled or disabled for the active window. The value can be a sum of the values in the following table.
 type: docs
 weight: 3770
 url: /net/aspose.diagram/snapextensionsvalue/

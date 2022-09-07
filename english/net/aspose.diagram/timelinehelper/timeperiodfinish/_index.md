@@ -1,7 +1,7 @@
 ---
 title: TimePeriodFinish
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Time Period for finish of timeline shape
 type: docs
 weight: 140
 url: /net/aspose.diagram/timelinehelper/timeperiodfinish/

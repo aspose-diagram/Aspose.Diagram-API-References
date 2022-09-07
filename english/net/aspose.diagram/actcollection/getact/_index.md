@@ -1,7 +1,7 @@
 ---
 title: GetAct
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified ID.
 type: docs
 weight: 30
 url: /net/aspose.diagram/actcollection/getact/

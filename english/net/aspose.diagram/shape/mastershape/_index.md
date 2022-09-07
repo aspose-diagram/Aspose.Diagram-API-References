@@ -1,7 +1,7 @@
 ---
 title: MasterShape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This attribute may only be present in shapes that are members of a group shape and the group is an instance of a master. The attribute contains an ID that references the corresponding sub-shape in the master.
 type: docs
 weight: 410
 url: /net/aspose.diagram/shape/mastershape/

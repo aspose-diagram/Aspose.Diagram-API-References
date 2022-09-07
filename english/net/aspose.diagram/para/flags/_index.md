@@ -1,7 +1,7 @@
 ---
 title: Flags
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the text direction is left to right or right to left.
 type: docs
 weight: 70
 url: /net/aspose.diagram/para/flags/

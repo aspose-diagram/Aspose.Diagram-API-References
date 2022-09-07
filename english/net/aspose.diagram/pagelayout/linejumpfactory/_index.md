@@ -1,7 +1,7 @@
 ---
 title: LineJumpFactorY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the size of line jumps on vertical segments of dynamic connectors on the page as a percentage of the value of the LineToLineY element which specifies the vertical clearance between all connectors on the drawing page. This element can contain a value from 0 to 10.
 type: docs
 weight: 140
 url: /net/aspose.diagram/pagelayout/linejumpfactory/

@@ -1,7 +1,7 @@
 ---
 title: RadioButtonActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a RadioButton ActiveX control.
 type: docs
 weight: 280
 url: /net/aspose.diagram.activexcontrols/radiobuttonactivexcontrol/

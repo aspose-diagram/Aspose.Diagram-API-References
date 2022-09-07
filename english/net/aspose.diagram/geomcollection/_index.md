@@ -1,7 +1,7 @@
 ---
 title: GeomCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Geom collection.
 type: docs
 weight: 1650
 url: /net/aspose.diagram/geomcollection/

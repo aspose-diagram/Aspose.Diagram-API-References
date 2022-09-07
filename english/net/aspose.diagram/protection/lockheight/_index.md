@@ -1,7 +1,7 @@
 ---
 title: LockHeight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the height of the shape is locked. If locked its height remains unchanged when the shape is resized.
 type: docs
 weight: 120
 url: /net/aspose.diagram/protection/lockheight/

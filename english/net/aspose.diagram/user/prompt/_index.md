@@ -1,7 +1,7 @@
 ---
 title: Prompt
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: It specifies a descriptive prompt or comment for the user-defined element.
 type: docs
 weight: 60
 url: /net/aspose.diagram/user/prompt/

@@ -1,7 +1,7 @@
 ---
 title: PaperKind
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of paper on which to print the page.
 type: docs
 weight: 110
 url: /net/aspose.diagram/printprops/paperkind/

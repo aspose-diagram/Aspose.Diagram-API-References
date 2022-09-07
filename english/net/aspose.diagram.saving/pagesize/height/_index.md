@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the page height in points for the the generated images.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/pagesize/height/

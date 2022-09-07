@@ -1,7 +1,7 @@
 ---
 title: SVGSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when rendering diagram pages to SVG.
 type: docs
 weight: 3450
 url: /net/aspose.diagram.saving/svgsaveoptions/

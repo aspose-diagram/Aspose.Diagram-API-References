@@ -1,7 +1,7 @@
 ---
 title: XGridSpacing
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance between horizontal lines in a fixed grid that is a RulerGrid element where the XGridDensity element is set to 0.
 type: docs
 weight: 40
 url: /net/aspose.diagram/rulergrid/xgridspacing/

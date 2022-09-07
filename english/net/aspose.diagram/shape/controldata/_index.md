@@ -1,7 +1,7 @@
 ---
 title: ControlData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the data of control.
 type: docs
 weight: 90
 url: /net/aspose.diagram/shape/controldata/

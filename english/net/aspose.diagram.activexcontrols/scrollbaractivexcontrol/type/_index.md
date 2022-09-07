@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the type of the ActiveX control.
 type: docs
 weight: 20
 url: /net/aspose.diagram.activexcontrols/scrollbaractivexcontrol/type/

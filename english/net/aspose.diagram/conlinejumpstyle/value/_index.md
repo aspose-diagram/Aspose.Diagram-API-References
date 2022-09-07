@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the line jump style for line jumps on a dynamic connector.
 type: docs
 weight: 30
 url: /net/aspose.diagram/conlinejumpstyle/value/

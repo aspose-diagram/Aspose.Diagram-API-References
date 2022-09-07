@@ -1,7 +1,7 @@
 ---
 title: HyperlinkCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Hyperlink collection.
 type: docs
 weight: 1880
 url: /net/aspose.diagram/hyperlinkcollection/

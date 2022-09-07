@@ -1,7 +1,7 @@
 ---
 title: ShdwBkgndTrans
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies transparency level for the background fill of the shapes drop shadow fill pattern from 0.0 completely opaque to 1.0 completely transparent.
 type: docs
 weight: 160
 url: /net/aspose.diagram/fill/shdwbkgndtrans/

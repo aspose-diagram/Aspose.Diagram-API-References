@@ -1,7 +1,7 @@
 ---
 title: PageLayout
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains Diagram that control the page layout settings for shapes and connectors such as spacing between all shapes on the page spacing between all connectors on the page and routing style for all connectors on the page.
 type: docs
 weight: 200
 url: /net/aspose.diagram/stylesheet/pagelayout/

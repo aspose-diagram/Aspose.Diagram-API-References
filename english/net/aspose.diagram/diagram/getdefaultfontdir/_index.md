@@ -1,7 +1,7 @@
 ---
 title: GetDefaultFontDir
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Get the Default Fonts folder path
 type: docs
 weight: 360
 url: /net/aspose.diagram/diagram/getdefaultfontdir/

@@ -1,7 +1,7 @@
 ---
 title: RuleCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Rule collection.
 type: docs
 weight: 3120
 url: /net/aspose.diagram/rulecollection/

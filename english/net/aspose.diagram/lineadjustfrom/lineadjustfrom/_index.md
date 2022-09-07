@@ -1,7 +1,7 @@
 ---
 title: LineAdjustFrom
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/lineadjustfrom/lineadjustfrom/

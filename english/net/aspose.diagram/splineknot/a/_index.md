@@ -1,7 +1,7 @@
 ---
 title: A
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: One of the splines knots other than the last one or the first two.
 type: docs
 weight: 20
 url: /net/aspose.diagram/splineknot/a/

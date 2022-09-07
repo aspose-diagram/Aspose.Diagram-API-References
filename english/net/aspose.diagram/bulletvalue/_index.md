@@ -1,7 +1,7 @@
 ---
 title: BulletValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the bullet style.
 type: docs
 weight: 620
 url: /net/aspose.diagram/bulletvalue/

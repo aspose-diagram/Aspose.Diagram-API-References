@@ -1,7 +1,7 @@
 ---
 title: GetDoubleStringFromDateTime
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Convert the date time to double value.
 type: docs
 weight: 180
 url: /net/aspose.diagram/timelinehelper/getdoublestringfromdatetime/

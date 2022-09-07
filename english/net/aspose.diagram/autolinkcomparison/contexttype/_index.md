@@ -1,7 +1,7 @@
 ---
 title: ContextType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table.
 type: docs
 weight: 20
 url: /net/aspose.diagram/autolinkcomparison/contexttype/

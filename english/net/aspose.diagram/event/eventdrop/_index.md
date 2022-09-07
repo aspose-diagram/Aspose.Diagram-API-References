@@ -1,7 +1,7 @@
 ---
 title: EventDrop
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: An event element that is evaluated when a shape is dropped on the drawing page either as an instance or when a shape is duplicated or pasted.
 type: docs
 weight: 30
 url: /net/aspose.diagram/event/eventdrop/

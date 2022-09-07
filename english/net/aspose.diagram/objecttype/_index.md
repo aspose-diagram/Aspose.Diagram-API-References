@@ -1,7 +1,7 @@
 ---
 title: ObjectType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: If the ForeignType attribute is Object the ForeignData element must also have an ObjectType attribute.
 type: docs
 weight: 2440
 url: /net/aspose.diagram/objecttype/

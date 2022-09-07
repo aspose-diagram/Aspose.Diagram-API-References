@@ -1,7 +1,7 @@
 ---
 title: RTLText
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines if the text direction of the current character run is left to right or right to left.
 type: docs
 weight: 330
 url: /net/aspose.diagram/char/rtltext/

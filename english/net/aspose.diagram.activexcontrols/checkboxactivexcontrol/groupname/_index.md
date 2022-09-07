@@ -1,7 +1,7 @@
 ---
 title: GroupName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the groups name.
 type: docs
 weight: 40
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/groupname/

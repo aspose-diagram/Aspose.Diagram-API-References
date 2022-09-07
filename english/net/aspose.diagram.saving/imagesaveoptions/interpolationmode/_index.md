@@ -1,7 +1,7 @@
 ---
 title: InterpolationMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the algorithm that is used when images are scaled or rotated.
 type: docs
 weight: 80
 url: /net/aspose.diagram.saving/imagesaveoptions/interpolationmode/

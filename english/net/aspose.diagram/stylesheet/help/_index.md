@@ -1,7 +1,7 @@
 ---
 title: Help
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying the Shape elements Help file topic and copyright information.
 type: docs
 weight: 110
 url: /net/aspose.diagram/stylesheet/help/

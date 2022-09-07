@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the value of the control.
 type: docs
 weight: 230
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/value/

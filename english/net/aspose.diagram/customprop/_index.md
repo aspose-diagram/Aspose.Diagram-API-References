@@ -1,7 +1,7 @@
 ---
 title: CustomProp
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: CustomProp structure.
 type: docs
 weight: 1050
 url: /net/aspose.diagram/customprop/

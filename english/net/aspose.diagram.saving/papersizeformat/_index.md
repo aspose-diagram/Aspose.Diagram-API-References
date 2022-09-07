@@ -1,7 +1,7 @@
 ---
 title: PaperSizeFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Enumeration for saving paper size format selection.
 type: docs
 weight: 3330
 url: /net/aspose.diagram.saving/papersizeformat/

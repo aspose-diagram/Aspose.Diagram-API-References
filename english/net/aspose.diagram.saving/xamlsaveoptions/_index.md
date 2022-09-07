@@ -1,7 +1,7 @@
 ---
 title: XAMLSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when rendering diagram pages to XAML.
 type: docs
 weight: 3500
 url: /net/aspose.diagram.saving/xamlsaveoptions/

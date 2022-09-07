@@ -1,7 +1,7 @@
 ---
 title: FolderPath
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Path to fonts folder.
 type: docs
 weight: 20
 url: /net/aspose.diagram/folderfontsource/folderpath/

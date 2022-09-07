@@ -1,7 +1,7 @@
 ---
 title: UserCustomUI
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The Ribbon XML string that is passed to the document to customize the Quick Access toolbar or the ribbon.
 type: docs
 weight: 250
 url: /net/aspose.diagram/diagram/usercustomui/

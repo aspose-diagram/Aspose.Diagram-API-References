@@ -1,7 +1,7 @@
 ---
 title: DistanceInVertical
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines the distance between the shapes in vertical direction in inches.
 type: docs
 weight: 30
 url: /net/aspose.diagram/autospaceoptions/distanceinvertical/

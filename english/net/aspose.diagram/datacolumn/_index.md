@@ -1,7 +1,7 @@
 ---
 title: DataColumn
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines how a data column appears in the External Data window in the Visio user interface and qualifies the data in the column by defining its data type and formatting.
 type: docs
 weight: 1080
 url: /net/aspose.diagram/datacolumn/

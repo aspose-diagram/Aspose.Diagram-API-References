@@ -1,7 +1,7 @@
 ---
 title: SpAfter
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the amount of space inserted after each paragraph in the shapes text block.
 type: docs
 weight: 140
 url: /net/aspose.diagram/para/spafter/

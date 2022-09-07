@@ -1,7 +1,7 @@
 ---
 title: AlignNameValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Optional int. Specifies whether the masters text in the stencil window is aligned left right or center.
 type: docs
 weight: 360
 url: /net/aspose.diagram/alignnamevalue/

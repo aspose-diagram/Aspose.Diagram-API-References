@@ -1,7 +1,7 @@
 ---
 title: CustomImagePath
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The user custom pathURL saved in generated svg file for the image. If not defined by user Current directory will be used.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/svgsaveoptions/customimagepath/

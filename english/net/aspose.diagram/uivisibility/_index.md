@@ -1,7 +1,7 @@
 ---
 title: UIVisibility
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the tab alignment.
 type: docs
 weight: 4150
 url: /net/aspose.diagram/uivisibility/

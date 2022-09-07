@@ -1,7 +1,7 @@
 ---
 title: InheritLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the line formatting values for the shape inherit by the parent style and the master shape.
 type: docs
 weight: 300
 url: /net/aspose.diagram/shape/inheritline/

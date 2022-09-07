@@ -1,7 +1,7 @@
 ---
 title: ForeignData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a MIME Multipurpose Internet Mail Extensions encoded BLOB of picture data such as Windows metafile bitmap or OLE data.
 type: docs
 weight: 90
 url: /net/aspose.diagram/stylesheet/foreigndata/

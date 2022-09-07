@@ -1,7 +1,7 @@
 ---
 title: HeaderFooterColor
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The RGB value of the text color for the header and footer.
 type: docs
 weight: 60
 url: /net/aspose.diagram/headerfooter/headerfootercolor/

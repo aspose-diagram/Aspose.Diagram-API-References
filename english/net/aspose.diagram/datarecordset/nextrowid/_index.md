@@ -1,7 +1,7 @@
 ---
 title: NextRowID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The next available Visio row ID.
 type: docs
 weight: 100
 url: /net/aspose.diagram/datarecordset/nextrowid/

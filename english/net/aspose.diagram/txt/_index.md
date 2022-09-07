@@ -1,7 +1,7 @@
 ---
 title: Txt
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Text of the shape
 type: docs
 weight: 4070
 url: /net/aspose.diagram/txt/

@@ -1,7 +1,7 @@
 ---
 title: YGridOrigin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the vertical origin of the grid on the page.
 type: docs
 weight: 80
 url: /net/aspose.diagram/rulergrid/ygridorigin/

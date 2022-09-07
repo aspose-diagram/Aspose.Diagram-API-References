@@ -1,7 +1,7 @@
 ---
 title: LoadFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the format of the diagram to be loaded. Default is VSDaspose.diagram/loadfileformat. Read/write LoadFileFormataspose.diagram/loadfileformat.
 type: docs
 weight: 40
 url: /net/aspose.diagram/loadoptions/loadformat/

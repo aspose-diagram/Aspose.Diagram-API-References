@@ -1,7 +1,7 @@
 ---
 title: LineJumpCodeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the dynamic connectors to which you want to add jumps.
 type: docs
 weight: 2130
 url: /net/aspose.diagram/linejumpcodevalue/

@@ -1,7 +1,7 @@
 ---
 title: AttachedToolbars
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A MIME Multipurpose Internet Mail Extensions encoded Microsoft Visio user interface VSU file representing custom toolbars.
 type: docs
 weight: 10
 url: /net/aspose.diagram/documentsettings/attachedtoolbars/

@@ -1,7 +1,7 @@
 ---
 title: RemoveMacro
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Removes VBA/macro from this diagram.
 type: docs
 weight: 430
 url: /net/aspose.diagram/diagram/removemacro/

@@ -1,7 +1,7 @@
 ---
 title: PatternFlags
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The PatternFlags attribute determines whether a master behaves as a custom pattern.
 type: docs
 weight: 140
 url: /net/aspose.diagram/master/patternflags/

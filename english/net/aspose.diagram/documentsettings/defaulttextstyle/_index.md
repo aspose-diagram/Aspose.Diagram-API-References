@@ -1,7 +1,7 @@
 ---
 title: DefaultTextStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool the shape inherits its text style from the specified StyleSheet element.
 type: docs
 weight: 70
 url: /net/aspose.diagram/documentsettings/defaulttextstyle/

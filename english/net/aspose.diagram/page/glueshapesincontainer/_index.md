@@ -1,12 +1,12 @@
 ---
 title: GlueShapesInContainer
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Glue shapes in container using connection name
 type: docs
 weight: 390
 url: /net/aspose.diagram/page/glueshapesincontainer/
 ---
-## Page.GlueShapesInContainer method (1 of 2)
+## GlueShapesInContainer(long, string, string, long) {#glueshapesincontainer_1}
 
 Glue shapes in container using connection name
 
@@ -30,7 +30,7 @@ public void GlueShapesInContainer(long shapeFromId, string shapeToBeginConnectio
 
 ---
 
-## Page.GlueShapesInContainer method (2 of 2)
+## GlueShapesInContainer(long, int, int, long) {#glueshapesincontainer}
 
 Glue shapes in container
 

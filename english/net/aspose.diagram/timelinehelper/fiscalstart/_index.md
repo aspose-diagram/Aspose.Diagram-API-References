@@ -1,7 +1,7 @@
 ---
 title: FiscalStart
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: First day of fiscal year
 type: docs
 weight: 80
 url: /net/aspose.diagram/timelinehelper/fiscalstart/

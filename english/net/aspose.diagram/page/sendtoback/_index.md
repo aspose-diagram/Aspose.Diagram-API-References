@@ -1,7 +1,7 @@
 ---
 title: SendToBack
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Moves a shapedefined by ID to the back of the z-order.
 type: docs
 weight: 460
 url: /net/aspose.diagram/page/sendtoback/

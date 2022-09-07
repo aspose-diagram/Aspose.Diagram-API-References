@@ -1,7 +1,7 @@
 ---
 title: DiagramSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Can be used to specify additional options when saving a diagram into Visio VDXVSX format.
 type: docs
 weight: 3220
 url: /net/aspose.diagram.saving/diagramsaveoptions/
@@ -18,8 +18,8 @@ public class DiagramSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [DiagramSaveOptions](diagramsaveoptions)() | Initializes a new instance of this class that can be used to save a diagram in the VDX format. |
-| [DiagramSaveOptions](diagramsaveoptions)(SaveFileFormat) | Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format. |
+| [DiagramSaveOptions](diagramsaveoptions#constructor)() | Initializes a new instance of this class that can be used to save a diagram in the VDX format. |
+| [DiagramSaveOptions](diagramsaveoptions#constructor_1)(SaveFileFormat) | Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format. |
 
 ## Properties
 

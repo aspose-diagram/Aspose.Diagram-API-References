@@ -1,7 +1,7 @@
 ---
 title: DefaultGuideStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the ID of a StyleSheet element. The next time the user creates a guide the guide inherits its guide style from the specified StyleSheet element.
 type: docs
 weight: 50
 url: /net/aspose.diagram/documentsettings/defaultguidestyle/

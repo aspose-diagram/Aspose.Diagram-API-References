@@ -1,7 +1,7 @@
 ---
 title: ExportGuideShapes
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines whether need exporting the guide shapes or not.
 type: docs
 weight: 40
 url: /net/aspose.diagram.saving/renderingsaveoptions/exportguideshapes/

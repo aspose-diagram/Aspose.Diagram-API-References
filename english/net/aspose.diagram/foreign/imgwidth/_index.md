@@ -1,7 +1,7 @@
 ---
 title: ImgWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the width of the objects image within its border. The default formula is FWidth1.
 type: docs
 weight: 50
 url: /net/aspose.diagram/foreign/imgwidth/

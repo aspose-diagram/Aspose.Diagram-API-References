@@ -1,7 +1,7 @@
 ---
 title: ColorEntry
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a color table entry. Each color table entry specifies a standard color that is available for application to objects such as shapes text and layers in the document.
 type: docs
 weight: 700
 url: /net/aspose.diagram/colorentry/

@@ -1,7 +1,7 @@
 ---
 title: WindowHeight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Height of the window rectangle.
 type: docs
 weight: 270
 url: /net/aspose.diagram/window/windowheight/

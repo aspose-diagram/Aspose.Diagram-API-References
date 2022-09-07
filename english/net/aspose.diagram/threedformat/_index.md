@@ -1,7 +1,7 @@
 ---
 title: ThreeDFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a shapes three-dimensional formatting.
 type: docs
 weight: 4030
 url: /net/aspose.diagram/threedformat/

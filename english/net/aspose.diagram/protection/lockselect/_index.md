@@ -1,7 +1,7 @@
 ---
 title: LockSelect
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a shapes selection rectangle is locked so it cannot be recalculated when a vertex is edited or an element type is changed in the Geom element.
 type: docs
 weight: 160
 url: /net/aspose.diagram/protection/lockselect/

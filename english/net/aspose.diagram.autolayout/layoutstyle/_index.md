@@ -1,7 +1,7 @@
 ---
 title: LayoutStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Used to specify style of layout.
 type: docs
 weight: 470
 url: /net/aspose.diagram.autolayout/layoutstyle/

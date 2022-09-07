@@ -1,7 +1,7 @@
 ---
 title: Picture
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the data of the picture.
 type: docs
 weight: 50
 url: /net/aspose.diagram.activexcontrols/imageactivexcontrol/picture/

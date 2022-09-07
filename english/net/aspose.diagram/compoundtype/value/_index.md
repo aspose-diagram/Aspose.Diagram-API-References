@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the size of the arrowhead of the line.
 type: docs
 weight: 30
 url: /net/aspose.diagram/compoundtype/value/

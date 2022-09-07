@@ -1,7 +1,7 @@
 ---
 title: Invisible
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Invisible element indicates whether the action is visible on the smart tag or shortcut menu.
 type: docs
 weight: 100
 url: /net/aspose.diagram/act/invisible/

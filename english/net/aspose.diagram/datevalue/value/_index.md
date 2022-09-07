@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Date and time value.
 type: docs
 weight: 30
 url: /net/aspose.diagram/datevalue/value/

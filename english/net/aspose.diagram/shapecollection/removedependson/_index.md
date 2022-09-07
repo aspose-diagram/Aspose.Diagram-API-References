@@ -1,7 +1,7 @@
 ---
 title: RemoveDependsOn
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Remove the shapes including DEPENDSON shapes from the collection.
 type: docs
 weight: 70
 url: /net/aspose.diagram/shapecollection/removedependson/

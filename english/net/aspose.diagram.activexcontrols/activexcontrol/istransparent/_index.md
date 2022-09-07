@@ -1,7 +1,7 @@
 ---
 title: IsTransparent
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the control is transparent.
 type: docs
 weight: 60
 url: /net/aspose.diagram.activexcontrols/activexcontrol/istransparent/

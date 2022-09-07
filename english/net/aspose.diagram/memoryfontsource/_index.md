@@ -1,7 +1,7 @@
 ---
 title: MemoryFontSource
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the single TrueType font file stored in memory.
 type: docs
 weight: 2320
 url: /net/aspose.diagram/memoryfontsource/

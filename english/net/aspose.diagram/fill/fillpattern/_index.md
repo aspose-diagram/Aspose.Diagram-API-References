@@ -1,7 +1,7 @@
 ---
 title: FillPattern
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the fill pattern for the shape.
 type: docs
 weight: 60
 url: /net/aspose.diagram/fill/fillpattern/

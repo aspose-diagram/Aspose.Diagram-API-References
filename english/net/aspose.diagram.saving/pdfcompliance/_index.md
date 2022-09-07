@@ -1,7 +1,7 @@
 ---
 title: PdfCompliance
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the PDF compliance level to output file.
 type: docs
 weight: 3340
 url: /net/aspose.diagram.saving/pdfcompliance/

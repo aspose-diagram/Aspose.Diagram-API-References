@@ -1,7 +1,7 @@
 ---
 title: RelEllipticalArcToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: RelEllipticalArcTo collection.
 type: docs
 weight: 2930
 url: /net/aspose.diagram/relellipticalarctocollection/

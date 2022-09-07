@@ -1,7 +1,7 @@
 ---
 title: ShapeRouteStyleValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the routing style and direction for a connector on the drawing page.
 type: docs
 weight: 3670
 url: /net/aspose.diagram/shaperoutestylevalue/

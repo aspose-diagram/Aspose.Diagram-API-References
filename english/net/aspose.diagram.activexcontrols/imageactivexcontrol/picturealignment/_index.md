@@ -1,7 +1,7 @@
 ---
 title: PictureAlignment
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the alignment of the picture inside the Form or Image.
 type: docs
 weight: 60
 url: /net/aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment/

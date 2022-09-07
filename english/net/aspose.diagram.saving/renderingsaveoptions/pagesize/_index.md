@@ -1,7 +1,7 @@
 ---
 title: PageSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the page size for the generated images. Can be PageSizeaspose.diagram.saving/pagesize or null.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/renderingsaveoptions/pagesize/

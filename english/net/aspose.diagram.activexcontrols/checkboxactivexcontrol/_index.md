@@ -1,7 +1,7 @@
 ---
 title: CheckBoxActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a CheckBox ActiveX control.
 type: docs
 weight: 70
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/

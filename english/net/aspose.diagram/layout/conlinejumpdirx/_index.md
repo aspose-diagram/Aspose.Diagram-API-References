@@ -1,7 +1,7 @@
 ---
 title: ConLineJumpDirX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector.
 type: docs
 weight: 30
 url: /net/aspose.diagram/layout/conlinejumpdirx/

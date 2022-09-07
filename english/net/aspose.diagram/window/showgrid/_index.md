@@ -1,7 +1,7 @@
 ---
 title: ShowGrid
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a grid is shown in the drawing window.
 type: docs
 weight: 140
 url: /net/aspose.diagram/window/showgrid/

@@ -1,7 +1,7 @@
 ---
 title: YGridDensity
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of vertical grid to use for a page.
 type: docs
 weight: 70
 url: /net/aspose.diagram/rulergrid/ygriddensity/

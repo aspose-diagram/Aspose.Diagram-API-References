@@ -1,7 +1,7 @@
 ---
 title: RelQuadBezToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: RelQuadBezTo collection.
 type: docs
 weight: 2990
 url: /net/aspose.diagram/relquadbeztocollection/

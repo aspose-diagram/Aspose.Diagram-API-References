@@ -1,7 +1,7 @@
 ---
 title: Format
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Format element specifies the formatting for a text field that is a string number date or time duration or currency. The text field type is specified in the corresponding Type element.
 type: docs
 weight: 60
 url: /net/aspose.diagram/field/format/

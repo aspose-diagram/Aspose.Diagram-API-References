@@ -1,7 +1,7 @@
 ---
 title: GradientStopCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the gradient stop collection.
 type: docs
 weight: 1770
 url: /net/aspose.diagram/gradientstopcollection/

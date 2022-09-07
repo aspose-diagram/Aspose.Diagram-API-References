@@ -1,7 +1,7 @@
 ---
 title: Controls
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Control elements.
 type: docs
 weight: 100
 url: /net/aspose.diagram/shape/controls/

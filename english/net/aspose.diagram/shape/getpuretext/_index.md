@@ -1,7 +1,7 @@
 ---
 title: GetPureText
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Get the text string of a shape.
 type: docs
 weight: 770
 url: /net/aspose.diagram/shape/getpuretext/

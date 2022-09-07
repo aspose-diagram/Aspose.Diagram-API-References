@@ -1,7 +1,7 @@
 ---
 title: PageHeight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the height of the page in drawing units.
 type: docs
 weight: 70
 url: /net/aspose.diagram/pageprops/pageheight/

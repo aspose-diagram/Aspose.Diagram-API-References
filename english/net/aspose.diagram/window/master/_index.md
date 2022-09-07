@@ -1,7 +1,7 @@
 ---
 title: Master
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Master ID if this window is displaying a master.
 type: docs
 weight: 80
 url: /net/aspose.diagram/window/master/

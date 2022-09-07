@@ -1,7 +1,7 @@
 ---
 title: RightMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance between the right border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled the right margin remains the same.
 type: docs
 weight: 50
 url: /net/aspose.diagram/textblock/rightmargin/

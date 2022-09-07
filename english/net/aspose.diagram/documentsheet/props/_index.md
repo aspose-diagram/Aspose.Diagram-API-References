@@ -1,7 +1,7 @@
 ---
 title: Props
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Prop elements.
 type: docs
 weight: 120
 url: /net/aspose.diagram/documentsheet/props/

@@ -1,7 +1,7 @@
 ---
 title: AlignName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the elements text in the stencil window is aligned left right or center.
 type: docs
 weight: 20
 url: /net/aspose.diagram/mastershortcut/alignname/

@@ -1,7 +1,7 @@
 ---
 title: MoveTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Moves shape on new absolute position on the page.
 type: docs
 weight: 850
 url: /net/aspose.diagram/shape/moveto/

@@ -1,7 +1,7 @@
 ---
 title: SolutionXMLs
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: XML value.
 type: docs
 weight: 220
 url: /net/aspose.diagram/diagram/solutionxmls/

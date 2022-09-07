@@ -1,7 +1,7 @@
 ---
 title: EditMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Reserved for future use.
 type: docs
 weight: 50
 url: /net/aspose.diagram/field/editmode/

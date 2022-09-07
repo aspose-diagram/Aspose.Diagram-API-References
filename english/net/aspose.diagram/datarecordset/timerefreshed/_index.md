@@ -1,7 +1,7 @@
 ---
 title: TimeRefreshed
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The date and time the data recordset was last refreshed.
 type: docs
 weight: 200
 url: /net/aspose.diagram/datarecordset/timerefreshed/

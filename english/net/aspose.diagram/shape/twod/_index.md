@@ -1,7 +1,7 @@
 ---
 title: TwoD
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether the shape behaves as a two-dimensional 2-D object.
 type: docs
 weight: 630
 url: /net/aspose.diagram/shape/twod/

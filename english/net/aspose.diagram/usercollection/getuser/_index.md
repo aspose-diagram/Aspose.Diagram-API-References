@@ -1,12 +1,12 @@
 ---
 title: GetUser
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified ID.
 type: docs
 weight: 30
 url: /net/aspose.diagram/usercollection/getuser/
 ---
-## UserCollection.GetUser method (1 of 2)
+## GetUser(string) {#getuser_1}
 
 Gets the element at the specified ID.
 
@@ -27,7 +27,7 @@ public User GetUser(string name)
 
 ---
 
-## UserCollection.GetUser method (2 of 2)
+## GetUser(int) {#getuser}
 
 Gets the element at the specified ID.
 

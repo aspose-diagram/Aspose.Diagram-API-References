@@ -1,7 +1,7 @@
 ---
 title: LockCustProp
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether the user can add delete or modify custom properties in the user interface UI by using the Define Custom Properties dialog box.
 type: docs
 weight: 60
 url: /net/aspose.diagram/protection/lockcustprop/

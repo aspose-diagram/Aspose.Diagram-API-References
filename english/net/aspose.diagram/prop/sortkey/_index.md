@@ -1,7 +1,7 @@
 ---
 title: SortKey
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: It specifies a key that determines the order in which custom properties are listed in the applications user interface.
 type: docs
 weight: 130
 url: /net/aspose.diagram/prop/sortkey/

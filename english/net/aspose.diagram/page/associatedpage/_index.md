@@ -1,7 +1,7 @@
 ---
 title: AssociatedPage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ID of the original drawing page that was marked up on separate markup overlays by reviewers of the drawing.
 type: docs
 weight: 20
 url: /net/aspose.diagram/page/associatedpage/

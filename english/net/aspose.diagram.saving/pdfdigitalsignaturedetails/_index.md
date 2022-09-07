@@ -1,7 +1,7 @@
 ---
 title: PdfDigitalSignatureDetails
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains details for a pdf digital signature.
 type: docs
 weight: 3350
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/

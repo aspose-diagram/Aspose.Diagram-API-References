@@ -1,7 +1,7 @@
 ---
 title: NoSnap
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether other shapes snap to a path.
 type: docs
 weight: 100
 url: /net/aspose.diagram/geom/nosnap/

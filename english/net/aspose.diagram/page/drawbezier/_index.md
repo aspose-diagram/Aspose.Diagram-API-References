@@ -1,7 +1,7 @@
 ---
 title: DrawBezier
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The process of drawing bezier. The length of points should be equal or greater than 3.
 type: docs
 weight: 320
 url: /net/aspose.diagram/page/drawbezier/

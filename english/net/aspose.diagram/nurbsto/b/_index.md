@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The last weight of the nonuniform rational B-spline NURBS.
 type: docs
 weight: 30
 url: /net/aspose.diagram/nurbsto/b/

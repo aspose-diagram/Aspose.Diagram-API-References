@@ -1,7 +1,7 @@
 ---
 title: ImgOffsetX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the distance the object is offset horizontally from the origin of the objects border. The default value is 0 the default formula is FImgWidth0.
 type: docs
 weight: 30
 url: /net/aspose.diagram/foreign/imgoffsetx/

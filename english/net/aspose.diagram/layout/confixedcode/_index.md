@@ -1,7 +1,7 @@
 ---
 title: ConFixedCode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines when a connector reroutes.
 type: docs
 weight: 10
 url: /net/aspose.diagram/layout/confixedcode/

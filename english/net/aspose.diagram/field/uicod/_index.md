@@ -1,7 +1,7 @@
 ---
 title: UICod
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the code of an inserted field in versions of Microsoft Visio earlier than Visio 2000.
 type: docs
 weight: 110
 url: /net/aspose.diagram/field/uicod/

@@ -1,7 +1,7 @@
 ---
 title: EventXFMod
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: An event element that is evaluated when a shapes position or orientation on the page is transformed.
 type: docs
 weight: 50
 url: /net/aspose.diagram/event/eventxfmod/

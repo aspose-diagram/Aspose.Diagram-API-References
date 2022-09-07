@@ -1,7 +1,7 @@
 ---
 title: SplineKnot
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains x- and y-coordinates for a splines control point and a splines knot represented by the X Y and A elements respectively.
 type: docs
 weight: 3820
 url: /net/aspose.diagram/splineknot/

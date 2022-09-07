@@ -1,7 +1,7 @@
 ---
 title: BevelTopWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the width of the top bevel on a 3D shape.
 type: docs
 weight: 130
 url: /net/aspose.diagram/threedformat/beveltopwidth/

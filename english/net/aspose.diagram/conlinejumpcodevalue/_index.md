@@ -1,7 +1,7 @@
 ---
 title: ConLineJumpCodeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether a connector jumps when two connectors cross.
 type: docs
 weight: 790
 url: /net/aspose.diagram/conlinejumpcodevalue/

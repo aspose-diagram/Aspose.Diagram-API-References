@@ -1,7 +1,7 @@
 ---
 title: GetRelationshipData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the relationship data.
 type: docs
 weight: 40
 url: /net/aspose.diagram.activexcontrols/unknowncontrol/getrelationshipdata/

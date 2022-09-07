@@ -1,12 +1,12 @@
 ---
 title: Page
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/page/page/
 ---
-## Page constructor (1 of 2)
+## Page() {#constructor}
 
 Constructor.
 
@@ -22,7 +22,7 @@ public Page()
 
 ---
 
-## Page constructor (2 of 2)
+## Page(int) {#constructor_1}
 
 Constructor.
 

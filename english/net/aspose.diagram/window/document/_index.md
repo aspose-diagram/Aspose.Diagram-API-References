@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: File path of the document displayed in this window. This attribute is relevant for windows whose WindowType is specified as Stencil.
 type: docs
 weight: 40
 url: /net/aspose.diagram/window/document/

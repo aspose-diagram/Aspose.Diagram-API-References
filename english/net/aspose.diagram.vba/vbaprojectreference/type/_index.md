@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the type of this reference.
 type: docs
 weight: 60
 url: /net/aspose.diagram.vba/vbaprojectreference/type/

@@ -1,7 +1,7 @@
 ---
 title: FormatTxtCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: FormatTxt collection which contains the text of a shape.
 type: docs
 weight: 1620
 url: /net/aspose.diagram/formattxtcollection/

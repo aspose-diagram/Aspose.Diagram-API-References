@@ -1,7 +1,7 @@
 ---
 title: ShapePermeableY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a connector can route vertically through a shape.
 type: docs
 weight: 130
 url: /net/aspose.diagram/layout/shapepermeabley/

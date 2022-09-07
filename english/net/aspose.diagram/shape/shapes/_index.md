@@ -1,7 +1,7 @@
 ---
 title: Shapes
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Shape elements.
 type: docs
 weight: 550
 url: /net/aspose.diagram/shape/shapes/

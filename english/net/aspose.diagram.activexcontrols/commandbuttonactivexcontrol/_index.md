@@ -1,7 +1,7 @@
 ---
 title: CommandButtonActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a command button.
 type: docs
 weight: 100
 url: /net/aspose.diagram.activexcontrols/commandbuttonactivexcontrol/

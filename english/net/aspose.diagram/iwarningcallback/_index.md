@@ -1,7 +1,7 @@
 ---
 title: IWarningCallback
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Callback interface of warning.
 type: docs
 weight: 1890
 url: /net/aspose.diagram/iwarningcallback/

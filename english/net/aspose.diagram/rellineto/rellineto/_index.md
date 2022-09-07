@@ -1,7 +1,7 @@
 ---
 title: RelLineTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of the LineToaspose.diagram/lineto class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/rellineto/rellineto/

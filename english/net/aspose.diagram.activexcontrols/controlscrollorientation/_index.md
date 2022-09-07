@@ -1,7 +1,7 @@
 ---
 title: ControlScrollOrientation
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents type of scroll orientation
 type: docs
 weight: 200
 url: /net/aspose.diagram.activexcontrols/controlscrollorientation/

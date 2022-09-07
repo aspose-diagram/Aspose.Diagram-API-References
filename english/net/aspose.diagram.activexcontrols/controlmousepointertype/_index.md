@@ -1,7 +1,7 @@
 ---
 title: ControlMousePointerType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the type of icon displayed as the mouse pointer for the control.
 type: docs
 weight: 150
 url: /net/aspose.diagram.activexcontrols/controlmousepointertype/

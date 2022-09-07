@@ -1,7 +1,7 @@
 ---
 title: PaperSource
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the paper source for the page.
 type: docs
 weight: 120
 url: /net/aspose.diagram/printprops/papersource/

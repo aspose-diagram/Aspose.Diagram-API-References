@@ -1,7 +1,7 @@
 ---
 title: Page
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that define a page in the document.
 type: docs
 weight: 2480
 url: /net/aspose.diagram/page/
@@ -18,8 +18,8 @@ public class Page : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Page](page)() | Constructor. |
-| [Page](page)(int) | Constructor. |
+| [Page](page#constructor)() | Constructor. |
+| [Page](page#constructor_1)(int) | Constructor. |
 
 ## Properties
 
@@ -48,39 +48,39 @@ public class Page : IDisposable
 | Name | Description |
 | --- | --- |
 | [AddActiveXControl](../../aspose.diagram/page/addactivexcontrol)(ControlType, double, double, double, double) | Creates an Activex Control. |
-| [AddComment](../../aspose.diagram/page/addcomment)(long, string) | Adds comment to a shape with shape's id. |
-| [AddComment](../../aspose.diagram/page/addcomment)(Shape, string) | Adds comment to a shape. |
-| [AddComment](../../aspose.diagram/page/addcomment)(double, double, string) | Adds comment with defined PinX and PinY. |
-| [AddShape](../../aspose.diagram/page/addshape)(Shape, string) | Adds shape created by master to specific page. |
-| [AddShape](../../aspose.diagram/page/addshape)(double, double, string) | Adds shape created by master on page with defined PinX and PinY. |
-| [AddShape](../../aspose.diagram/page/addshape)(double, double, double, double, Stream) |  |
-| [AddShape](../../aspose.diagram/page/addshape)(double, double, double, double, string) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
-| [AddShape](../../aspose.diagram/page/addshape)(double, double, double, double, Stream, Stream) |  |
-| [AddText](../../aspose.diagram/page/addtext)(double, double, double, double, string) | Adds Text with defined PinX and PinY. |
-| [AddText](../../aspose.diagram/page/addtext)(double, double, double, double, string, string, string, double) | Adds Text with defined PinX and PinY. |
+| [AddComment](../../aspose.diagram/page/addcomment#addcomment_2)(long, string) | Adds comment to a shape with shape's id. |
+| [AddComment](../../aspose.diagram/page/addcomment#addcomment)(Shape, string) | Adds comment to a shape. |
+| [AddComment](../../aspose.diagram/page/addcomment#addcomment_1)(double, double, string) | Adds comment with defined PinX and PinY. |
+| [AddShape](../../aspose.diagram/page/addshape#addshape)(Shape, string) | Adds shape created by master to specific page. |
+| [AddShape](../../aspose.diagram/page/addshape#addshape_4)(double, double, string) | Adds shape created by master on page with defined PinX and PinY. |
+| [AddShape](../../aspose.diagram/page/addshape#addshape_1)(double, double, double, double, Stream) |  |
+| [AddShape](../../aspose.diagram/page/addshape#addshape_3)(double, double, double, double, string) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
+| [AddShape](../../aspose.diagram/page/addshape#addshape_2)(double, double, double, double, Stream, Stream) |  |
+| [AddText](../../aspose.diagram/page/addtext#addtext)(double, double, double, double, string) | Adds Text with defined PinX and PinY. |
+| [AddText](../../aspose.diagram/page/addtext#addtext_1)(double, double, double, double, string, string, string, double) | Adds Text with defined PinX and PinY. |
 | [ApplyStyle](../../aspose.diagram/page/applystyle)(int, int, int) | Applies style for full page. |
 | [AutoSpaceShapes](../../aspose.diagram/page/autospaceshapes)(ShapeCollection, AutoSpaceOptions) | Auto space shapes |
 | [BringForward](../../aspose.diagram/page/bringforward)(long) | Brings a shape,defined by ID, forward one position in the z-order. |
 | [BringToFront](../../aspose.diagram/page/bringtofront)(long) | Brings a shape,defined by ID, to the front of the z-order. |
 | [CenterDrawing](../../aspose.diagram/page/centerdrawing)() | Centers a page's shapes with respect to the extent of the page. Centering shapes does not change their position relative to each other. |
-| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector)(long, ConnectionPointPlace, long, ConnectionPointPlace, long) | Connect shapes via connector. |
-| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector)(long, string, long, string, long) | Connect shapes via connector. |
-| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector)(Shape, ConnectionPointPlace, Shape, ConnectionPointPlace, Shape) | Connect shapes via connector. |
-| [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex)(long, int, long, int, long) | Connect shapes via connector index. |
-| [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex)(Shape, int, Shape, int, Shape) | Connect shapes via connector index. |
+| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector#connectshapesviaconnector_1)(long, ConnectionPointPlace, long, ConnectionPointPlace, long) | Connect shapes via connector. |
+| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector#connectshapesviaconnector_2)(long, string, long, string, long) | Connect shapes via connector. |
+| [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector#connectshapesviaconnector)(Shape, ConnectionPointPlace, Shape, ConnectionPointPlace, Shape) | Connect shapes via connector. |
+| [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex#connectshapesviaconnectorindex_1)(long, int, long, int, long) | Connect shapes via connector index. |
+| [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex#connectshapesviaconnectorindex)(Shape, int, Shape, int, Shape) | Connect shapes via connector index. |
 | [Copy](../../aspose.diagram/page/copy)(Page) |  |
 | [Dispose](../../aspose.diagram/page/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [DrawBezier](../../aspose.diagram/page/drawbezier)(double, double, double, double, PointF[]) | The process of drawing bezier. The length of points should be equal or greater than 3. |
 | [DrawEllipse](../../aspose.diagram/page/drawellipse)(double, double, double, double) | The process of drawing Ellipse. |
-| [DrawLine](../../aspose.diagram/page/drawline)(double, double, double, double) | The process of drawing a single line. |
-| [DrawLine](../../aspose.diagram/page/drawline)(double, double, double, double, PointF[]) | The process of drawing line. |
+| [DrawLine](../../aspose.diagram/page/drawline#drawline)(double, double, double, double) | The process of drawing a single line. |
+| [DrawLine](../../aspose.diagram/page/drawline#drawline_1)(double, double, double, double, PointF[]) | The process of drawing line. |
 | [DrawPolyline](../../aspose.diagram/page/drawpolyline)(double, double, double, double, PointF[]) | The process of drawing polyline. |
 | [DrawRectangle](../../aspose.diagram/page/drawrectangle)(double, double, double, double) | The process of drawing rectangle. |
 | [DrawSpline](../../aspose.diagram/page/drawspline)(double, double, double, double, PointF[]) | The process of drawing spline. |
-| [GlueShapes](../../aspose.diagram/page/glueshapes)(long, ConnectionPointPlace, long) | Glue shapes |
-| [GlueShapes](../../aspose.diagram/page/glueshapes)(Shape, ConnectionPointPlace, Shape) | Glue shapes. |
-| [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer)(long, int, int, long) | Glue shapes in container |
-| [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer)(long, string, string, long) | Glue shapes in container using connection name |
+| [GlueShapes](../../aspose.diagram/page/glueshapes#glueshapes_1)(long, ConnectionPointPlace, long) | Glue shapes |
+| [GlueShapes](../../aspose.diagram/page/glueshapes#glueshapes)(Shape, ConnectionPointPlace, Shape) | Glue shapes. |
+| [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer#glueshapesincontainer)(long, int, int, long) | Glue shapes in container |
+| [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer#glueshapesincontainer_1)(long, string, string, long) | Glue shapes in container using connection name |
 | [GlueShapesInContainerByID](../../aspose.diagram/page/glueshapesincontainerbyid)(long, int, int, long) | Glue shapes by connection id in container |
 | [GlueShapeToConnectorBeginX](../../aspose.diagram/page/glueshapetoconnectorbeginx)(long, string, long) | Glue shape to Connector's BeginX |
 | [GlueShapeToConnectorEndX](../../aspose.diagram/page/glueshapetoconnectorendx)(long, string, long) | Glue shape to Connector's EndX |

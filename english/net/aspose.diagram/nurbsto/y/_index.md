@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The y-coordinate of the last control point of a nonuniform rational B-spline NURBS.
 type: docs
 weight: 100
 url: /net/aspose.diagram/nurbsto/y/

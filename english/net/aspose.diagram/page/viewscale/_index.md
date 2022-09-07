@@ -1,7 +1,7 @@
 ---
 title: ViewScale
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The default magnification factor to use when a new view window of the page is opened. For example 1  100 1.5  150 and so on.
 type: docs
 weight: 180
 url: /net/aspose.diagram/page/viewscale/

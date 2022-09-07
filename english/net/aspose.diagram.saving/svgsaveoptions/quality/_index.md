@@ -1,7 +1,7 @@
 ---
 title: Quality
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets a value determining the quality of the generated images to apply only when saving pages to the Jpeg format. The default value is 100
 type: docs
 weight: 80
 url: /net/aspose.diagram.saving/svgsaveoptions/quality/

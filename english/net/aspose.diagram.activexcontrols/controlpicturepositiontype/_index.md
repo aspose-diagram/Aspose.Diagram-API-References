@@ -1,7 +1,7 @@
 ---
 title: ControlPicturePositionType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the location of the controls picture relative to its caption.
 type: docs
 weight: 170
 url: /net/aspose.diagram.activexcontrols/controlpicturepositiontype/

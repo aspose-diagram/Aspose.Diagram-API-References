@@ -1,7 +1,7 @@
 ---
 title: InputMethodEditorMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the default run-time mode of the Input Method Editor.
 type: docs
 weight: 250
 url: /net/aspose.diagram.activexcontrols/inputmethodeditormode/

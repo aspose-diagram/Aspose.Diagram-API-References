@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the size of the text in the shapes text block.
 type: docs
 weight: 340
 url: /net/aspose.diagram/char/size/

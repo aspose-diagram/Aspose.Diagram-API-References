@@ -1,7 +1,7 @@
 ---
 title: LayerCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Layer collection.
 type: docs
 weight: 2020
 url: /net/aspose.diagram/layercollection/

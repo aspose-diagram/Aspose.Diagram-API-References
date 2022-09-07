@@ -1,7 +1,7 @@
 ---
 title: ImageActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the image control.
 type: docs
 weight: 240
 url: /net/aspose.diagram.activexcontrols/imageactivexcontrol/

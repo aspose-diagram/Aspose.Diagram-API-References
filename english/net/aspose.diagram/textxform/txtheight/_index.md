@@ -1,7 +1,7 @@
 ---
 title: TxtHeight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the height of the text block. The default formula which evaluates to the height of the shape is FHeight1.
 type: docs
 weight: 30
 url: /net/aspose.diagram/textxform/txtheight/

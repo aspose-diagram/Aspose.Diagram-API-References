@@ -1,7 +1,7 @@
 ---
 title: GetControlFromName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified name.
 type: docs
 weight: 50
 url: /net/aspose.diagram/controlcollection/getcontrolfromname/

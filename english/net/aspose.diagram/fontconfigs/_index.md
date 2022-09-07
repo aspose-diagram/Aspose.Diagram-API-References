@@ -1,7 +1,7 @@
 ---
 title: FontConfigs
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies font settings
 type: docs
 weight: 1550
 url: /net/aspose.diagram/fontconfigs/

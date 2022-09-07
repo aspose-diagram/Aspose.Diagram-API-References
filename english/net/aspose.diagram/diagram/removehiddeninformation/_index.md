@@ -1,7 +1,7 @@
 ---
 title: RemoveHiddenInformation
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Remove unused information
 type: docs
 weight: 420
 url: /net/aspose.diagram/diagram/removehiddeninformation/

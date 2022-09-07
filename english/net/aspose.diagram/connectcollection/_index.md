@@ -1,7 +1,7 @@
 ---
 title: ConnectCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Connect collection.
 type: docs
 weight: 910
 url: /net/aspose.diagram/connectcollection/

@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents different information based on its parent element.
 type: docs
 weight: 40
 url: /net/aspose.diagram/connectionabcd/c/

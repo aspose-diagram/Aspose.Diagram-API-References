@@ -1,7 +1,7 @@
 ---
 title: BevelMaterialType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of shadow for a shape.
 type: docs
 weight: 540
 url: /net/aspose.diagram/bevelmaterialtype/

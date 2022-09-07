@@ -1,7 +1,7 @@
 ---
 title: Issues
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains all the Issue elements for the document.
 type: docs
 weight: 10
 url: /net/aspose.diagram/validation/issues/

@@ -1,7 +1,7 @@
 ---
 title: RuleSet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents one set of diagram validation rules.
 type: docs
 weight: 3140
 url: /net/aspose.diagram/ruleset/

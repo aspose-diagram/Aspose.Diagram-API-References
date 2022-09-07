@@ -1,7 +1,7 @@
 ---
 title: Group
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Group the shapes.
 type: docs
 weight: 50
 url: /net/aspose.diagram/shapecollection/group/

@@ -1,7 +1,7 @@
 ---
 title: DateFormatString
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: DateFormat string of shape
 type: docs
 weight: 30
 url: /net/aspose.diagram/milestonehelper/dateformatstring/

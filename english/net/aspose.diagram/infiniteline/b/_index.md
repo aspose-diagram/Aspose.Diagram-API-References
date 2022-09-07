@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A y-coordinate of a point on an infinite line paired with an x-coordinate represented by the A element.
 type: docs
 weight: 30
 url: /net/aspose.diagram/infiniteline/b/

@@ -1,7 +1,7 @@
 ---
 title: Description
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: the description of the validation rule that appears in the user interface. Default is Unknown.
 type: docs
 weight: 30
 url: /net/aspose.diagram/rule/description/

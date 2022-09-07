@@ -1,7 +1,7 @@
 ---
 title: WindowWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Width of the window rectangle.
 type: docs
 weight: 320
 url: /net/aspose.diagram/window/windowwidth/

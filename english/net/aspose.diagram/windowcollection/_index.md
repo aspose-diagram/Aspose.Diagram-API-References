@@ -1,7 +1,7 @@
 ---
 title: WindowCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Window collection.
 type: docs
 weight: 4390
 url: /net/aspose.diagram/windowcollection/

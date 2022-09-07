@@ -1,7 +1,7 @@
 ---
 title: RowCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Row collection.
 type: docs
 weight: 3100
 url: /net/aspose.diagram/rowcollection/

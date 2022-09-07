@@ -1,7 +1,7 @@
 ---
 title: CtrlAsInput
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines which shape is the parent when using shapes by control handles. This element sets the behavior for all the shapes on the drawing page.
 type: docs
 weight: 60
 url: /net/aspose.diagram/pagelayout/ctrlasinput/

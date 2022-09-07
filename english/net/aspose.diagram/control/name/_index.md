@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The name of the element.
 type: docs
 weight: 60
 url: /net/aspose.diagram/control/name/

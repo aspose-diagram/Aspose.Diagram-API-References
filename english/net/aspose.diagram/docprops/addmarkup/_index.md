@@ -1,7 +1,7 @@
 ---
 title: AddMarkup
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the document is being reviewed for markup.
 type: docs
 weight: 10
 url: /net/aspose.diagram/docprops/addmarkup/

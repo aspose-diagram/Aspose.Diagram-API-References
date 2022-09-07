@@ -1,7 +1,7 @@
 ---
 title: BringForward
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Brings the shape forward one position in the z-order.
 type: docs
 weight: 700
 url: /net/aspose.diagram/shape/bringforward/

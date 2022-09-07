@@ -1,7 +1,7 @@
 ---
 title: TopPage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the ID of the page that should be displayed when the document is opened by Microsoft Visio.
 type: docs
 weight: 170
 url: /net/aspose.diagram/documentsettings/toppage/

@@ -1,7 +1,7 @@
 ---
 title: RelQuadBezTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of RelCubBezToaspose.diagram/relcubbezto class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/relquadbezto/relquadbezto/

@@ -1,7 +1,7 @@
 ---
 title: PropCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Prop collection.
 type: docs
 weight: 2850
 url: /net/aspose.diagram/propcollection/
@@ -28,8 +28,8 @@ public class PropCollection : Collection
 | [Add](../../aspose.diagram/propcollection/add)(Prop) | Add the Prop object in the collection. |
 | [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [GetProp](../../aspose.diagram/propcollection/getprop)(int) | Gets the element at the specified ID. |
-| [GetProp](../../aspose.diagram/propcollection/getprop)(string) | Gets the element at the specified name. |
+| [GetProp](../../aspose.diagram/propcollection/getprop#getprop)(int) | Gets the element at the specified ID. |
+| [GetProp](../../aspose.diagram/propcollection/getprop#getprop_1)(string) | Gets the element at the specified name. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/propcollection/remove)(Prop) | Remove the Prop object from the collection. |
 

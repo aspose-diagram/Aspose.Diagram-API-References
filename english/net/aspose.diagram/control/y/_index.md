@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The y-coordinate that indicates the location of a shapes control handle.
 type: docs
 weight: 120
 url: /net/aspose.diagram/control/y/

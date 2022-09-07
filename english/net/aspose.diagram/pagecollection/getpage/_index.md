@@ -1,12 +1,12 @@
 ---
 title: GetPage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified ID.
 type: docs
 weight: 40
 url: /net/aspose.diagram/pagecollection/getpage/
 ---
-## PageCollection.GetPage method (1 of 2)
+## GetPage(int) {#getpage}
 
 Gets the element at the specified ID.
 
@@ -27,7 +27,7 @@ public Page GetPage(int ID)
 
 ---
 
-## PageCollection.GetPage method (2 of 2)
+## GetPage(string) {#getpage_1}
 
 Gets the element at the specified name.
 

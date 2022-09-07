@@ -1,7 +1,7 @@
 ---
 title: Combine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Combines another Diagram object.
 type: docs
 weight: 330
 url: /net/aspose.diagram/diagram/combine/

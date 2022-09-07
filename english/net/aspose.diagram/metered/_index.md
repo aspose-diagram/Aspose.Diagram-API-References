@@ -1,7 +1,7 @@
 ---
 title: Metered
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Provides methods to set metered key.
 type: docs
 weight: 2330
 url: /net/aspose.diagram/metered/

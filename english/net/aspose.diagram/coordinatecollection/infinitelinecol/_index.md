@@ -1,7 +1,7 @@
 ---
 title: InfiniteLineCol
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying the x- and y-coordinates of two points on an infinite line. The X and Y elements specify the x- and y-coordinates of the first point and the A and B elements specify the x- and y-coordinates of the second point.
 type: docs
 weight: 40
 url: /net/aspose.diagram/coordinatecollection/infinitelinecol/

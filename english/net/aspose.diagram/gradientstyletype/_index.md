@@ -1,7 +1,7 @@
 ---
 title: GradientStyleType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents gradient shading style.
 type: docs
 weight: 1780
 url: /net/aspose.diagram/gradientstyletype/

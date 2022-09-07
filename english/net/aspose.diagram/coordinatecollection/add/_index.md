@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Add the Coordinate object in the collection.
 type: docs
 weight: 170
 url: /net/aspose.diagram/coordinatecollection/add/
 ---
-## CoordinateCollection.Add method (1 of 16)
+## Add(Coordinate) {#add_1}
 
 Add the Coordinate object in the collection.
 
@@ -23,7 +23,7 @@ public int Add(Coordinate item)
 
 ---
 
-## CoordinateCollection.Add method (2 of 16)
+## Add(MoveTo) {#add_6}
 
 Add the MoveTo object in the collection.
 
@@ -40,7 +40,7 @@ public int Add(MoveTo item)
 
 ---
 
-## CoordinateCollection.Add method (3 of 16)
+## Add(LineTo) {#add_5}
 
 Add the LineTo object in the collection.
 
@@ -57,7 +57,7 @@ public int Add(LineTo item)
 
 ---
 
-## CoordinateCollection.Add method (4 of 16)
+## Add(ArcTo) {#add}
 
 Add the ArcTo object in the collection.
 
@@ -74,7 +74,7 @@ public int Add(ArcTo item)
 
 ---
 
-## CoordinateCollection.Add method (5 of 16)
+## Add(InfiniteLine) {#add_4}
 
 Add the InfiniteLine object in the collection.
 
@@ -91,7 +91,7 @@ public int Add(InfiniteLine item)
 
 ---
 
-## CoordinateCollection.Add method (6 of 16)
+## Add(Ellipse) {#add_2}
 
 Add the Ellipse object in the collection.
 
@@ -108,7 +108,7 @@ public int Add(Ellipse item)
 
 ---
 
-## CoordinateCollection.Add method (7 of 16)
+## Add(EllipticalArcTo) {#add_3}
 
 Add the EllipticalArcTo object in the collection.
 
@@ -125,7 +125,7 @@ public int Add(EllipticalArcTo item)
 
 ---
 
-## CoordinateCollection.Add method (8 of 16)
+## Add(SplineStart) {#add_15}
 
 Add the SplineStart object in the collection.
 
@@ -142,7 +142,7 @@ public int Add(SplineStart item)
 
 ---
 
-## CoordinateCollection.Add method (9 of 16)
+## Add(SplineKnot) {#add_14}
 
 Add the SplineKnot object in the collection.
 
@@ -159,7 +159,7 @@ public int Add(SplineKnot item)
 
 ---
 
-## CoordinateCollection.Add method (10 of 16)
+## Add(PolylineTo) {#add_8}
 
 Add the PolylineTo object in the collection.
 
@@ -176,7 +176,7 @@ public int Add(PolylineTo item)
 
 ---
 
-## CoordinateCollection.Add method (11 of 16)
+## Add(NURBSTo) {#add_7}
 
 Add the NURBSTo object in the collection.
 
@@ -193,7 +193,7 @@ public int Add(NURBSTo item)
 
 ---
 
-## CoordinateCollection.Add method (12 of 16)
+## Add(RelCubBezTo) {#add_9}
 
 Add the RelCubBezTo object in the collection.
 
@@ -210,7 +210,7 @@ public int Add(RelCubBezTo item)
 
 ---
 
-## CoordinateCollection.Add method (13 of 16)
+## Add(RelQuadBezTo) {#add_13}
 
 Add the RelQuadBezTo object in the collection.
 
@@ -227,7 +227,7 @@ public int Add(RelQuadBezTo item)
 
 ---
 
-## CoordinateCollection.Add method (14 of 16)
+## Add(RelMoveTo) {#add_12}
 
 Add the RelMoveTo object in the collection.
 
@@ -244,7 +244,7 @@ public int Add(RelMoveTo item)
 
 ---
 
-## CoordinateCollection.Add method (15 of 16)
+## Add(RelLineTo) {#add_11}
 
 Add the RelLineTo object in the collection.
 
@@ -261,7 +261,7 @@ public int Add(RelLineTo item)
 
 ---
 
-## CoordinateCollection.Add method (16 of 16)
+## Add(RelEllipticalArcTo) {#add_10}
 
 Add the RelEllipticalArcTo object in the collection.
 

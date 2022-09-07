@@ -1,7 +1,7 @@
 ---
 title: InfiniteLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of the InfiniteLineaspose.diagram/infiniteline class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/infiniteline/infiniteline/

@@ -1,7 +1,7 @@
 ---
 title: Command
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The command string used to query the data source.
 type: docs
 weight: 30
 url: /net/aspose.diagram/dataconnection/command/

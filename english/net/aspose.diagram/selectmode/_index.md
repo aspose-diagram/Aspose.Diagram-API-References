@@ -1,7 +1,7 @@
 ---
 title: SelectMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies how the user selects a group shape and its members.
 type: docs
 weight: 3540
 url: /net/aspose.diagram/selectmode/

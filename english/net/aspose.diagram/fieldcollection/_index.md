@@ -1,7 +1,7 @@
 ---
 title: FieldCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Field collection.
 type: docs
 weight: 1430
 url: /net/aspose.diagram/fieldcollection/

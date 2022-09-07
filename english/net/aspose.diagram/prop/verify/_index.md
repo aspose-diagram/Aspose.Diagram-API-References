@@ -1,7 +1,7 @@
 ---
 title: Verify
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the user is queried to enter custom property information for a shape when an instance is created or the shape is duplicated or copied.
 type: docs
 weight: 160
 url: /net/aspose.diagram/prop/verify/

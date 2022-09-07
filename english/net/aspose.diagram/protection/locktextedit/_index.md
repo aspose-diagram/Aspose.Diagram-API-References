@@ -1,7 +1,7 @@
 ---
 title: LockTextEdit
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the text of a shape is locked so that it cannot be edited. However the text may still be formatted by applying a style using the Style options on the Font tab of the Text dialog box.
 type: docs
 weight: 170
 url: /net/aspose.diagram/protection/locktextedit/

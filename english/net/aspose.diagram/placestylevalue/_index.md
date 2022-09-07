@@ -1,7 +1,7 @@
 ---
 title: PlaceStyleValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes Shape menu.
 type: docs
 weight: 2650
 url: /net/aspose.diagram/placestylevalue/

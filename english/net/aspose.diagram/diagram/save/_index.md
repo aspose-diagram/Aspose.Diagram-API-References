@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Saves the diagram data to the file.
 type: docs
 weight: 440
 url: /net/aspose.diagram/diagram/save/
 ---
-## Diagram.Save method (1 of 4)
+## Save(string, SaveFileFormat) {#save_2}
 
 Saves the diagram data to the file.
 
@@ -28,7 +28,7 @@ public void Save(string filename, SaveFileFormat format)
 
 ---
 
-## Diagram.Save method (2 of 4)
+## Save(Stream, SaveFileFormat) {#save}
 
 Saves the diagram data to the stream.
 
@@ -50,7 +50,7 @@ public void Save(Stream stream, SaveFileFormat format)
 
 ---
 
-## Diagram.Save method (3 of 4)
+## Save(string, SaveOptions) {#save_3}
 
 Saves the document to a file using the specified save options.
 
@@ -72,7 +72,7 @@ public void Save(string filename, SaveOptions options)
 
 ---
 
-## Diagram.Save method (4 of 4)
+## Save(Stream, SaveOptions) {#save_1}
 
 Saves the diagram to a stream using the specified save options.
 

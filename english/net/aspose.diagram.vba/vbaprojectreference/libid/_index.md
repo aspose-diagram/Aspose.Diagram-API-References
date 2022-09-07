@@ -1,7 +1,7 @@
 ---
 title: Libid
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the Libid of the reference.
 type: docs
 weight: 20
 url: /net/aspose.diagram.vba/vbaprojectreference/libid/

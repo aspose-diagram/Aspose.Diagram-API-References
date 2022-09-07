@@ -1,7 +1,7 @@
 ---
 title: PageCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Page collection.
 type: docs
 weight: 2490
 url: /net/aspose.diagram/pagecollection/
@@ -29,8 +29,8 @@ public class PageCollection : Collection, IDisposable
 | [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
 | [Dispose](../../aspose.diagram/pagecollection/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [GetPage](../../aspose.diagram/pagecollection/getpage)(int) | Gets the element at the specified ID. |
-| [GetPage](../../aspose.diagram/pagecollection/getpage)(string) | Gets the element at the specified name. |
+| [GetPage](../../aspose.diagram/pagecollection/getpage#getpage)(int) | Gets the element at the specified ID. |
+| [GetPage](../../aspose.diagram/pagecollection/getpage#getpage_1)(string) | Gets the element at the specified name. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/pagecollection/remove)(Page) | Remove the page from the collection. |
 

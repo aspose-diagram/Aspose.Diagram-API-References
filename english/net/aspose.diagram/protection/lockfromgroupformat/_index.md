@@ -1,7 +1,7 @@
 ---
 title: LockFromGroupFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows a subshape to block formatting changes that get applied to a parent group shape in the Visio user interface and would otherwise cascade down to individual group shapes.
 type: docs
 weight: 100
 url: /net/aspose.diagram/protection/lockfromgroupformat/

@@ -1,7 +1,7 @@
 ---
 title: Issue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a single validation issue in the document.
 type: docs
 weight: 1980
 url: /net/aspose.diagram/issue/

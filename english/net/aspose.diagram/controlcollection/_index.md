@@ -1,7 +1,7 @@
 ---
 title: ControlCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Control collection.
 type: docs
 weight: 1010
 url: /net/aspose.diagram/controlcollection/

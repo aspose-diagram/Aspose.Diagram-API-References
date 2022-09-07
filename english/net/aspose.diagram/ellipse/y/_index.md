@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The y-coordinate of the center of the ellipse.
 type: docs
 weight: 90
 url: /net/aspose.diagram/ellipse/y/

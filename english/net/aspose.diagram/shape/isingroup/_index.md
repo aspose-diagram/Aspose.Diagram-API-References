@@ -1,7 +1,7 @@
 ---
 title: IsInGroup
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether this shape is in a group shape.
 type: docs
 weight: 820
 url: /net/aspose.diagram/shape/isingroup/

@@ -1,7 +1,7 @@
 ---
 title: RuleTest
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the logical expression that determines whether the target object satisfies the validation rule
 type: docs
 weight: 90
 url: /net/aspose.diagram/rule/ruletest/

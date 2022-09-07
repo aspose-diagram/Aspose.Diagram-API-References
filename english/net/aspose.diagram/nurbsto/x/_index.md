@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The x-coordinate of the last control point of a nonuniform rational B-spline NURBS.
 type: docs
 weight: 90
 url: /net/aspose.diagram/nurbsto/x/

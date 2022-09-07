@@ -1,7 +1,7 @@
 ---
 title: ControlPictureSizeMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents how to display the picture.
 type: docs
 weight: 180
 url: /net/aspose.diagram.activexcontrols/controlpicturesizemode/

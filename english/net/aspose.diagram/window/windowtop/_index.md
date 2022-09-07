@@ -1,7 +1,7 @@
 ---
 title: WindowTop
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Top coordinate of the window rectangle.
 type: docs
 weight: 300
 url: /net/aspose.diagram/window/windowtop/

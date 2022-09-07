@@ -1,7 +1,7 @@
 ---
 title: ListBoxActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a ListBox ActiveX control.
 type: docs
 weight: 270
 url: /net/aspose.diagram.activexcontrols/listboxactivexcontrol/

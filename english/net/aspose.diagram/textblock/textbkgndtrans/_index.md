@@ -1,7 +1,7 @@
 ---
 title: TextBkgndTrans
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the transparency level for the background color of a shapes text block from 0 completely opaque to 1 completely transparent.
 type: docs
 weight: 70
 url: /net/aspose.diagram/textblock/textbkgndtrans/

@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The name of the font as a UTF-16 Unicode string.
 type: docs
 weight: 50
 url: /net/aspose.diagram/font/name/

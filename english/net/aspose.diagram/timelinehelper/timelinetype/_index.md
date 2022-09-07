@@ -1,7 +1,7 @@
 ---
 title: TimeLineType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Begin week of timeline shape
 type: docs
 weight: 130
 url: /net/aspose.diagram/timelinehelper/timelinetype/

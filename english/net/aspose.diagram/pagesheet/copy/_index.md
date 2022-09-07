@@ -1,7 +1,7 @@
 ---
 title: Copy
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Copies pagesheet from a source object.
 type: docs
 weight: 220
 url: /net/aspose.diagram/pagesheet/copy/

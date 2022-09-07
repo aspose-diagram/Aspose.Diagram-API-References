@@ -1,7 +1,7 @@
 ---
 title: Pages
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the index of the pages to be loaded.
 type: docs
 weight: 50
 url: /net/aspose.diagram/loadoptions/pages/

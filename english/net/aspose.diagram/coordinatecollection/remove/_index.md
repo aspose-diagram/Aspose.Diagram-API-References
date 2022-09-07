@@ -1,12 +1,12 @@
 ---
 title: Remove
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Remove the Coordinate object from the collection.
 type: docs
 weight: 180
 url: /net/aspose.diagram/coordinatecollection/remove/
 ---
-## CoordinateCollection.Remove method (1 of 16)
+## Remove(Coordinate) {#remove_1}
 
 Remove the Coordinate object from the collection.
 
@@ -23,7 +23,7 @@ public void Remove(Coordinate item)
 
 ---
 
-## CoordinateCollection.Remove method (2 of 16)
+## Remove(MoveTo) {#remove_6}
 
 Remove the MoveTo object from the collection.
 
@@ -40,7 +40,7 @@ public void Remove(MoveTo item)
 
 ---
 
-## CoordinateCollection.Remove method (3 of 16)
+## Remove(LineTo) {#remove_5}
 
 Remove the LineTo object from the collection.
 
@@ -57,7 +57,7 @@ public void Remove(LineTo item)
 
 ---
 
-## CoordinateCollection.Remove method (4 of 16)
+## Remove(ArcTo) {#remove}
 
 Remove the ArcTo object from the collection.
 
@@ -74,7 +74,7 @@ public void Remove(ArcTo item)
 
 ---
 
-## CoordinateCollection.Remove method (5 of 16)
+## Remove(InfiniteLine) {#remove_4}
 
 Remove the InfiniteLine object from the collection.
 
@@ -91,7 +91,7 @@ public void Remove(InfiniteLine item)
 
 ---
 
-## CoordinateCollection.Remove method (6 of 16)
+## Remove(Ellipse) {#remove_2}
 
 Remove the Ellipse object from the collection.
 
@@ -108,7 +108,7 @@ public void Remove(Ellipse item)
 
 ---
 
-## CoordinateCollection.Remove method (7 of 16)
+## Remove(EllipticalArcTo) {#remove_3}
 
 Remove the EllipticalArcTo object from the collection.
 
@@ -125,7 +125,7 @@ public void Remove(EllipticalArcTo item)
 
 ---
 
-## CoordinateCollection.Remove method (8 of 16)
+## Remove(SplineStart) {#remove_15}
 
 Remove the SplineStart object from the collection.
 
@@ -142,7 +142,7 @@ public void Remove(SplineStart item)
 
 ---
 
-## CoordinateCollection.Remove method (9 of 16)
+## Remove(SplineKnot) {#remove_14}
 
 Remove the SplineKnot object from the collection.
 
@@ -159,7 +159,7 @@ public void Remove(SplineKnot item)
 
 ---
 
-## CoordinateCollection.Remove method (10 of 16)
+## Remove(PolylineTo) {#remove_8}
 
 Remove the PolylineTo object from the collection.
 
@@ -176,7 +176,7 @@ public void Remove(PolylineTo item)
 
 ---
 
-## CoordinateCollection.Remove method (11 of 16)
+## Remove(NURBSTo) {#remove_7}
 
 Remove the NURBSTo object from the collection.
 
@@ -193,7 +193,7 @@ public void Remove(NURBSTo item)
 
 ---
 
-## CoordinateCollection.Remove method (12 of 16)
+## Remove(RelCubBezTo) {#remove_9}
 
 Remove the RelCubBezTo object from the collection.
 
@@ -210,7 +210,7 @@ public void Remove(RelCubBezTo item)
 
 ---
 
-## CoordinateCollection.Remove method (13 of 16)
+## Remove(RelQuadBezTo) {#remove_13}
 
 Remove the RelQuadBezTo object from the collection.
 
@@ -227,7 +227,7 @@ public void Remove(RelQuadBezTo item)
 
 ---
 
-## CoordinateCollection.Remove method (14 of 16)
+## Remove(RelMoveTo) {#remove_12}
 
 Remove the RelMoveTo object from the collection.
 
@@ -244,7 +244,7 @@ public void Remove(RelMoveTo item)
 
 ---
 
-## CoordinateCollection.Remove method (15 of 16)
+## Remove(RelLineTo) {#remove_11}
 
 Remove the RelLineTo object from the collection.
 
@@ -261,7 +261,7 @@ public void Remove(RelLineTo item)
 
 ---
 
-## CoordinateCollection.Remove method (16 of 16)
+## Remove(RelEllipticalArcTo) {#remove_10}
 
 Remove the RelEllipticalArcTo object from the collection.
 

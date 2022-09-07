@@ -1,7 +1,7 @@
 ---
 title: SendBackward
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Moves a shapedefined by ID back one position in the z-order.
 type: docs
 weight: 450
 url: /net/aspose.diagram/page/sendbackward/

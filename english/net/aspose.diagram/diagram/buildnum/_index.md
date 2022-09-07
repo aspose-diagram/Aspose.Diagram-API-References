@@ -1,7 +1,7 @@
 ---
 title: Buildnum
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The build number of the Visio instance used to create the document.
 type: docs
 weight: 30
 url: /net/aspose.diagram/diagram/buildnum/

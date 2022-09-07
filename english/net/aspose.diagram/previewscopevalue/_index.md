@@ -1,7 +1,7 @@
 ---
 title: PreviewScopeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the document includes a preview and if so whether the preview shows only the first page or all the pages in the document.
 type: docs
 weight: 2790
 url: /net/aspose.diagram/previewscopevalue/

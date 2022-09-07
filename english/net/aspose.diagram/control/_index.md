@@ -1,7 +1,7 @@
 ---
 title: Control
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements for the x- and y-coordinates of each control handle defined for a shape and elements that specify the way the control handle should behave.
 type: docs
 weight: 1000
 url: /net/aspose.diagram/control/

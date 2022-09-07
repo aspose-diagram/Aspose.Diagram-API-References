@@ -1,7 +1,7 @@
 ---
 title: Position
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The position of the stop.
 type: docs
 weight: 30
 url: /net/aspose.diagram/gradientstop/position/

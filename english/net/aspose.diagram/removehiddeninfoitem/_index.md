@@ -1,7 +1,7 @@
 ---
 title: RemoveHiddenInfoItem
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the remove hidden info for the diagram.
 type: docs
 weight: 3000
 url: /net/aspose.diagram/removehiddeninfoitem/

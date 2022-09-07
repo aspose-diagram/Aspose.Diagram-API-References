@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Add the doubling point number in the collection.
 type: docs
 weight: 30
 url: /net/aspose.diagram/floatpointnumcollection/add/

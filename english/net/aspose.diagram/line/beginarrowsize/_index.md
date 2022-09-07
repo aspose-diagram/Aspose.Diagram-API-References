@@ -1,7 +1,7 @@
 ---
 title: BeginArrowSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the size of the arrowhead at the beginning of the line. Enter a number from 0 to 6.
 type: docs
 weight: 20
 url: /net/aspose.diagram/line/beginarrowsize/

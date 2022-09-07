@@ -1,7 +1,7 @@
 ---
 title: FlipY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the shape has been flipped vertically.
 type: docs
 weight: 40
 url: /net/aspose.diagram/xform/flipy/

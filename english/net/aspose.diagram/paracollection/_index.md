@@ -1,7 +1,7 @@
 ---
 title: ParaCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Para collection.
 type: docs
 weight: 2580
 url: /net/aspose.diagram/paracollection/

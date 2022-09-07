@@ -1,7 +1,7 @@
 ---
 title: AddProjectRefrernce
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Add a reference to an external VBA project.
 type: docs
 weight: 30
 url: /net/aspose.diagram.vba/vbaprojectreferencecollection/addprojectrefrernce/

@@ -1,7 +1,7 @@
 ---
 title: IX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The zero-based index of the element within its parent element.
 type: docs
 weight: 20
 url: /net/aspose.diagram/coordinate/ix/

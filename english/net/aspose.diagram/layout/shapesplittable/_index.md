@@ -1,7 +1,7 @@
 ---
 title: ShapeSplittable
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether this 1-D shape can be split.
 type: docs
 weight: 190
 url: /net/aspose.diagram/layout/shapesplittable/

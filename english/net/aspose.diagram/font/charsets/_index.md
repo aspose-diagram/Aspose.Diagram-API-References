@@ -1,7 +1,7 @@
 ---
 title: CharSets
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The supported character sets of the font.
 type: docs
 weight: 20
 url: /net/aspose.diagram/font/charsets/

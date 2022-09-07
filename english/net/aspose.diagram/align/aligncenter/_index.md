@@ -1,7 +1,7 @@
 ---
 title: AlignCenter
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the horizontal position relative to the origin of its parent of a vertical guide or guide point to which the shapes horizontal center is aligned.
 type: docs
 weight: 20
 url: /net/aspose.diagram/align/aligncenter/

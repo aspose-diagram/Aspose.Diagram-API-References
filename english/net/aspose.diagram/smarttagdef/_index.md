@@ -1,7 +1,7 @@
 ---
 title: SmartTagDef
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that contain information for each smart tag defined for a shape or page.
 type: docs
 weight: 3740
 url: /net/aspose.diagram/smarttagdef/

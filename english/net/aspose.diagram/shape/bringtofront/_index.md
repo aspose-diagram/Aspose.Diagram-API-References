@@ -1,7 +1,7 @@
 ---
 title: BringToFront
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Brings the shape to the front of the z-order.
 type: docs
 weight: 710
 url: /net/aspose.diagram/shape/bringtofront/

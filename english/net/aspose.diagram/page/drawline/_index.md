@@ -1,12 +1,12 @@
 ---
 title: DrawLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The process of drawing a single line.
 type: docs
 weight: 340
 url: /net/aspose.diagram/page/drawline/
 ---
-## Page.DrawLine method (1 of 2)
+## DrawLine(double, double, double, double) {#drawline}
 
 The process of drawing a single line.
 
@@ -33,7 +33,7 @@ The unique ID of the shape within shapes collection on the specified page.
 
 ---
 
-## Page.DrawLine method (2 of 2)
+## DrawLine(double, double, double, double, PointF[]) {#drawline_1}
 
 The process of drawing line.
 

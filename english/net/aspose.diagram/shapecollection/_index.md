@@ -1,7 +1,7 @@
 ---
 title: ShapeCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Collection of Shapes.
 type: docs
 weight: 3570
 url: /net/aspose.diagram/shapecollection/
@@ -28,10 +28,10 @@ public class ShapeCollection : Collection
 | [Add](../../aspose.diagram/shapecollection/add)(Shape) | Add the shape in the collection. |
 | [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [GetShape](../../aspose.diagram/shapecollection/getshape)(long) | Gets the element at the specified ID. |
-| [GetShape](../../aspose.diagram/shapecollection/getshape)(string) | Gets the element at the specified name. |
-| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild)(int) | Gets the element including it's child shape at the specified id. |
-| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild)(string) | Gets the element including it's child shape at the specified name. |
+| [GetShape](../../aspose.diagram/shapecollection/getshape#getshape)(long) | Gets the element at the specified ID. |
+| [GetShape](../../aspose.diagram/shapecollection/getshape#getshape_1)(string) | Gets the element at the specified name. |
+| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild#getshapeincludingchild)(int) | Gets the element including it's child shape at the specified id. |
+| [GetShapeIncludingChild](../../aspose.diagram/shapecollection/getshapeincludingchild#getshapeincludingchild_1)(string) | Gets the element including it's child shape at the specified name. |
 | [Group](../../aspose.diagram/shapecollection/group)(Shape[]) | Group the shapes. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/shapecollection/remove)(Shape) | Remove the shape from the collection. |

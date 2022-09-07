@@ -1,7 +1,7 @@
 ---
 title: IsTextEditTarget
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies how to assign text to a group.
 type: docs
 weight: 60
 url: /net/aspose.diagram/group/istextedittarget/

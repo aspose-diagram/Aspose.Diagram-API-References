@@ -1,7 +1,7 @@
 ---
 title: SnapAngles
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of SnapAngle elements.
 type: docs
 weight: 140
 url: /net/aspose.diagram/documentsettings/snapangles/

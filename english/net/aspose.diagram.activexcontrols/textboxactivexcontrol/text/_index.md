@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and set text of the control.
 type: docs
 weight: 200
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/text/

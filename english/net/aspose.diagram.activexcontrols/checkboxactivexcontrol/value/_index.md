@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates if the control is checked or not.
 type: docs
 weight: 120
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/value/

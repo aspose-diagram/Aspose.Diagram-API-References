@@ -1,7 +1,7 @@
 ---
 title: License
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
 weight: 2050
 url: /net/aspose.diagram/license/
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.diagram/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.diagram/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.diagram/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.diagram/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 

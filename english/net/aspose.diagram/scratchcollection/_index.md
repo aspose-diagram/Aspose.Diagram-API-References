@@ -1,7 +1,7 @@
 ---
 title: ScratchCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Scratch collection.
 type: docs
 weight: 3530
 url: /net/aspose.diagram/scratchcollection/

@@ -1,7 +1,7 @@
 ---
 title: DataRecordSet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Stores formats refreshes and exposes data queried from a database in Microsoft Visio.
 type: docs
 weight: 1120
 url: /net/aspose.diagram/datarecordset/
@@ -48,8 +48,8 @@ public class DataRecordSet
 
 | Name | Description |
 | --- | --- |
-| [Refresh](../../aspose.diagram/datarecordset/refresh)() | Executes the query string associated with the connected (non-XML-based) DataRecordset and updates linked shapes with new data from the data source returned by the query. |
-| [Refresh](../../aspose.diagram/datarecordset/refresh)(DataConnectionType) | Executes the query string associated with the connected (non-XML-based) DataRecordset and updates linked shapes with new data from the data source returned by the query. |
+| [Refresh](../../aspose.diagram/datarecordset/refresh#refresh)() | Executes the query string associated with the connected (non-XML-based) DataRecordset and updates linked shapes with new data from the data source returned by the query. |
+| [Refresh](../../aspose.diagram/datarecordset/refresh#refresh_1)(DataConnectionType) | Executes the query string associated with the connected (non-XML-based) DataRecordset and updates linked shapes with new data from the data source returned by the query. |
 
 ### See Also
 

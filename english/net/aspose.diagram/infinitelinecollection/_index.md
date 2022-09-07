@@ -1,7 +1,7 @@
 ---
 title: InfiniteLineCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: InfiniteLine collection.
 type: docs
 weight: 1940
 url: /net/aspose.diagram/infinitelinecollection/

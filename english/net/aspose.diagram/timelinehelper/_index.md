@@ -1,7 +1,7 @@
 ---
 title: TimeLineHelper
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: TimeLineHelper to set property of timeline shape.
 type: docs
 weight: 4040
 url: /net/aspose.diagram/timelinehelper/

@@ -1,7 +1,7 @@
 ---
 title: Shape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
 weight: 3560
 url: /net/aspose.diagram/shape/
@@ -122,12 +122,12 @@ public class Shape
 | [SetHeight](../../aspose.diagram/shape/setheight)(double) | Sets new height of shape. |
 | [SetPresetThemeStyleMatrics](../../aspose.diagram/shape/setpresetthemestylematrics)(PresetStyleMatricsValue, PresetColorMatricsValue) | pply a preset theme variant quickstyle to this shape, like theme styles options in shape styles dropdown list |
 | [SetWidth](../../aspose.diagram/shape/setwidth)(double) | Sets new width of shape. |
-| [ToHTML](../../aspose.diagram/shape/tohtml)(Stream, HTMLSaveOptions) | Creates the shape html and saves it to a stream in the specified format. |
-| [ToHTML](../../aspose.diagram/shape/tohtml)(string, HTMLSaveOptions) | Creates the html and saves it to a file. |
-| [ToImage](../../aspose.diagram/shape/toimage)(Stream, ImageSaveOptions) | Creates the shape image and saves it to a stream in the specified format. |
-| [ToImage](../../aspose.diagram/shape/toimage)(string, ImageSaveOptions) | Creates the shape image and saves it to a file. The extension of the file name determines the format of the image. |
-| [ToPdf](../../aspose.diagram/shape/topdf)(Stream) | Creates the shape pdf and saves it to a stream. |
-| [ToPdf](../../aspose.diagram/shape/topdf)(string) | Saves the shape to a pdf file. |
+| [ToHTML](../../aspose.diagram/shape/tohtml#tohtml)(Stream, HTMLSaveOptions) | Creates the shape html and saves it to a stream in the specified format. |
+| [ToHTML](../../aspose.diagram/shape/tohtml#tohtml_1)(string, HTMLSaveOptions) | Creates the html and saves it to a file. |
+| [ToImage](../../aspose.diagram/shape/toimage#toimage)(Stream, ImageSaveOptions) | Creates the shape image and saves it to a stream in the specified format. |
+| [ToImage](../../aspose.diagram/shape/toimage#toimage_1)(string, ImageSaveOptions) | Creates the shape image and saves it to a file. The extension of the file name determines the format of the image. |
+| [ToPdf](../../aspose.diagram/shape/topdf#topdf)(Stream) | Creates the shape pdf and saves it to a stream. |
+| [ToPdf](../../aspose.diagram/shape/topdf#topdf_1)(string) | Saves the shape to a pdf file. |
 | [ToSvg](../../aspose.diagram/shape/tosvg)(string, SVGSaveOptions) | Saves the shape to a svg file. |
 
 ### See Also

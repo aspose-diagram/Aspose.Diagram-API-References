@@ -1,7 +1,7 @@
 ---
 title: Background
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A flag indicating if the page is a background page.
 type: docs
 weight: 30
 url: /net/aspose.diagram/page/background/

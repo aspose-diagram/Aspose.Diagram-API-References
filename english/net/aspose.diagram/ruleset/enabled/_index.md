@@ -1,7 +1,7 @@
 ---
 title: Enabled
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the rules in the specified validation rule set are checked when validation is triggered for the current document. Default is True.
 type: docs
 weight: 30
 url: /net/aspose.diagram/ruleset/enabled/

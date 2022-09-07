@@ -1,7 +1,7 @@
 ---
 title: Alignment
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the tab alignment.
 type: docs
 weight: 370
 url: /net/aspose.diagram/alignment/

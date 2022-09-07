@@ -1,7 +1,7 @@
 ---
 title: Compliance
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Desired conformance level for generated PDF document. Default is Pdf15.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/pdfsaveoptions/compliance/

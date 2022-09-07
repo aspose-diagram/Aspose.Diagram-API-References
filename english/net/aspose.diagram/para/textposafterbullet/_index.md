@@ -1,7 +1,7 @@
 ---
 title: TextPosAfterBullet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the distance between the first line of the paragraph and the bullet.
 type: docs
 weight: 170
 url: /net/aspose.diagram/para/textposafterbullet/

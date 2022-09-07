@@ -1,7 +1,7 @@
 ---
 title: PolylineTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains x- and y-coordinates of the last point of a polyline and a polyline formula. The coordinates are specified in the X and Y elements and the formula is specified in the A element.
 type: docs
 weight: 2660
 url: /net/aspose.diagram/polylineto/

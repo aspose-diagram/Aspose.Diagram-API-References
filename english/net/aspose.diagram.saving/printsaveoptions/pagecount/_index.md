@@ -1,7 +1,7 @@
 ---
 title: PageCount
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the number of pages to render when saving to a multipage file. Default is MaxValue which means all pages of the diagram will be printed.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/printsaveoptions/pagecount/

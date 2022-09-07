@@ -1,7 +1,7 @@
 ---
 title: RotationZAngle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the counterclockwise rotation angle of a shape around the z-axis.
 type: docs
 weight: 200
 url: /net/aspose.diagram/threedformat/rotationzangle/

@@ -1,7 +1,7 @@
 ---
 title: ButtonFace
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: It identifies the icon that appears next to an item on a shortcut menu.
 type: docs
 weight: 40
 url: /net/aspose.diagram/act/buttonface/

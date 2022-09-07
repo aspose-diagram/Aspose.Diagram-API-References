@@ -1,7 +1,7 @@
 ---
 title: Language
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the language
 type: docs
 weight: 110
 url: /net/aspose.diagram/documentproperties/language/

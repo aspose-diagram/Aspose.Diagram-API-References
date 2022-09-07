@@ -1,7 +1,7 @@
 ---
 title: DropOnPageScale
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the percentage by which a shape is scaled when it is dropped on the drawing page.
 type: docs
 weight: 50
 url: /net/aspose.diagram/misc/droponpagescale/

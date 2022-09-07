@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Rule value.
 type: docs
 weight: 30
 url: /net/aspose.diagram/rulevalue/value/

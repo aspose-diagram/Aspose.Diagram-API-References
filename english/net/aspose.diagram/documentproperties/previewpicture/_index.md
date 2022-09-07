@@ -1,7 +1,7 @@
 ---
 title: PreviewPicture
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a metafile stream that serves as a preview of the document.
 type: docs
 weight: 130
 url: /net/aspose.diagram/documentproperties/previewpicture/

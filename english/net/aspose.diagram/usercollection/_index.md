@@ -1,7 +1,7 @@
 ---
 title: UserCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: User collection.
 type: docs
 weight: 4200
 url: /net/aspose.diagram/usercollection/
@@ -28,8 +28,8 @@ public class UserCollection : Collection
 | [Add](../../aspose.diagram/usercollection/add)(User) | Add the User object in the collection. |
 | [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [GetUser](../../aspose.diagram/usercollection/getuser)(int) | Gets the element at the specified ID. |
-| [GetUser](../../aspose.diagram/usercollection/getuser)(string) | Gets the element at the specified ID. |
+| [GetUser](../../aspose.diagram/usercollection/getuser#getuser)(int) | Gets the element at the specified ID. |
+| [GetUser](../../aspose.diagram/usercollection/getuser#getuser_1)(string) | Gets the element at the specified ID. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/usercollection/remove)(User) | Remove the User object from the collection. |
 

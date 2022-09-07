@@ -1,7 +1,7 @@
 ---
 title: EllipticalArcTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of the EllipticalArcToaspose.diagram/ellipticalarcto class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/ellipticalarcto/ellipticalarcto/

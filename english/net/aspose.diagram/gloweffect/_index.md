@@ -1,7 +1,7 @@
 ---
 title: GlowEffect
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This class specifies a glow effect in which a color blurred outline is added outside the edges of the object.
 type: docs
 weight: 1660
 url: /net/aspose.diagram/gloweffect/

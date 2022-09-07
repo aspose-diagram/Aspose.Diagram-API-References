@@ -1,7 +1,7 @@
 ---
 title: DataConnection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Abstracts communication between one or more DataRecordset elements and a non-XML data source.
 type: docs
 weight: 1100
 url: /net/aspose.diagram/dataconnection/

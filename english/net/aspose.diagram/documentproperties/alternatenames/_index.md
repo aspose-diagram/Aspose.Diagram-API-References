@@ -1,7 +1,7 @@
 ---
 title: AlternateNames
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the alternate names for a document.
 type: docs
 weight: 10
 url: /net/aspose.diagram/documentproperties/alternatenames/

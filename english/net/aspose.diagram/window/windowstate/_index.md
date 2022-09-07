@@ -1,7 +1,7 @@
 ---
 title: WindowState
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This attribute can be a sum of the following values.
 type: docs
 weight: 290
 url: /net/aspose.diagram/window/windowstate/

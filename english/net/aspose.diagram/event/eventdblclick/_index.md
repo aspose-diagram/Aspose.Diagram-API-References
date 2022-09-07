@@ -1,7 +1,7 @@
 ---
 title: EventDblClick
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: An event element that is evaluated when a shape is double-clicked.
 type: docs
 weight: 20
 url: /net/aspose.diagram/event/eventdblclick/

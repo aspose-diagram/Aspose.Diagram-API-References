@@ -1,7 +1,7 @@
 ---
 title: RectangleAlignmentType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents how to position two rectangles relative to each other.
 type: docs
 weight: 2880
 url: /net/aspose.diagram/rectanglealignmenttype/

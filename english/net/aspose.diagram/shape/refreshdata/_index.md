@@ -1,7 +1,7 @@
 ---
 title: RefreshData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Refreshes shapes position including xform connection and geom when changing shapes text or others .
 type: docs
 weight: 860
 url: /net/aspose.diagram/shape/refreshdata/

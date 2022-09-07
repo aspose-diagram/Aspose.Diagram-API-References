@@ -1,7 +1,7 @@
 ---
 title: SWFSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when rendering diagram pages to SWF.
 type: docs
 weight: 3460
 url: /net/aspose.diagram.saving/swfsaveoptions/

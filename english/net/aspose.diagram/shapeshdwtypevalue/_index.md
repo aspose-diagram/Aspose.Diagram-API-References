@@ -1,7 +1,7 @@
 ---
 title: ShapeShdwTypeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of shadow for a shape.
 type: docs
 weight: 3710
 url: /net/aspose.diagram/shapeshdwtypevalue/

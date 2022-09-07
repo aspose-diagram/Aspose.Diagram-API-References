@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the width of the font. Equivalent to the GDI LOGFONT lfWidth field.
 type: docs
 weight: 140
 url: /net/aspose.diagram/headerfooterfont/width/

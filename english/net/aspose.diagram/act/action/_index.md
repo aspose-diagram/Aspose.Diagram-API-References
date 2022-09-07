@@ -1,7 +1,7 @@
 ---
 title: Action
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the formula to execute when a user clicks the command name defined in the corresponding Menu element.
 type: docs
 weight: 20
 url: /net/aspose.diagram/act/action/

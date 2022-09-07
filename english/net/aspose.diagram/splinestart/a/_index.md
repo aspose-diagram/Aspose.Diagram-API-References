@@ -1,7 +1,7 @@
 ---
 title: A
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The second knot of the spline.
 type: docs
 weight: 20
 url: /net/aspose.diagram/splinestart/a/

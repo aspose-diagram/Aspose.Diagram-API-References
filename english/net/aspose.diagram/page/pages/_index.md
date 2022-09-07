@@ -1,7 +1,7 @@
 ---
 title: Pages
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Page collection.
 type: docs
 weight: 90
 url: /net/aspose.diagram/page/pages/

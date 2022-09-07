@@ -1,7 +1,7 @@
 ---
 title: IsIntersect
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether this shape is intersect another shape.
 type: docs
 weight: 830
 url: /net/aspose.diagram/shape/isintersect/

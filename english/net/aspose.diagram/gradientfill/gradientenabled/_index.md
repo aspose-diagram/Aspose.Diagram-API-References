@@ -1,7 +1,7 @@
 ---
 title: GradientEnabled
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the fill color gradient is visible.
 type: docs
 weight: 30
 url: /net/aspose.diagram/gradientfill/gradientenabled/

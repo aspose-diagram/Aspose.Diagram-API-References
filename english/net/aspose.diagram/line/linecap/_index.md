@@ -1,7 +1,7 @@
 ---
 title: LineCap
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a line has rounded or square line ends.
 type: docs
 weight: 80
 url: /net/aspose.diagram/line/linecap/

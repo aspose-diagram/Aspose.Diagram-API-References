@@ -1,7 +1,7 @@
 ---
 title: PageWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the width of the page in drawing units.
 type: docs
 weight: 90
 url: /net/aspose.diagram/pageprops/pagewidth/

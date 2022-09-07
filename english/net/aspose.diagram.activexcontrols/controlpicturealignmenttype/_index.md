@@ -1,7 +1,7 @@
 ---
 title: ControlPictureAlignmentType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the alignment of the picture inside the Form or Image.
 type: docs
 weight: 160
 url: /net/aspose.diagram.activexcontrols/controlpicturealignmenttype/

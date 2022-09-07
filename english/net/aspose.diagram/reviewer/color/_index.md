@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Color element specifies an RGB value representing the color assigned to a document reviewers markup.
 type: docs
 weight: 20
 url: /net/aspose.diagram/reviewer/color/

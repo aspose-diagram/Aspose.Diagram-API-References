@@ -1,7 +1,7 @@
 ---
 title: SVGFitToViewPort
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: if this property is true the generated svg will fit to view port.
 type: docs
 weight: 90
 url: /net/aspose.diagram.saving/svgsaveoptions/svgfittoviewport/

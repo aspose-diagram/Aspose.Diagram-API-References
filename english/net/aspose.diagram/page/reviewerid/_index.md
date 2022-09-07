@@ -1,7 +1,7 @@
 ---
 title: ReviewerID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ID of the reviewer associated with the markup overlay.
 type: docs
 weight: 140
 url: /net/aspose.diagram/page/reviewerid/

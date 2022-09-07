@@ -1,7 +1,7 @@
 ---
 title: ActiveXPersistenceType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the persistence method to persist an ActiveX control.
 type: docs
 weight: 60
 url: /net/aspose.diagram.activexcontrols/activexpersistencetype/

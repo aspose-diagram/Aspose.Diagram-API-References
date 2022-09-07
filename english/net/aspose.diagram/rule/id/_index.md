@@ -1,7 +1,7 @@
 ---
 title: ID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the unique identifier of the validation rule.
 type: docs
 weight: 40
 url: /net/aspose.diagram/rule/id/

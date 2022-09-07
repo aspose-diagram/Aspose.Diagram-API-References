@@ -1,7 +1,7 @@
 ---
 title: LockThemeEffects
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Prevents users from applying theme effects to the shape.
 type: docs
 weight: 190
 url: /net/aspose.diagram/protection/lockthemeeffects/

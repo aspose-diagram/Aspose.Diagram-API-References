@@ -1,7 +1,7 @@
 ---
 title: LockWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the width of the shape is locked so that it remains unchanged when the shape is resized.
 type: docs
 weight: 210
 url: /net/aspose.diagram/protection/lockwidth/

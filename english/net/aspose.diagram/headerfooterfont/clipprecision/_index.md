@@ -1,7 +1,7 @@
 ---
 title: ClipPrecision
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the clipping precision of the font. Equivalent to the GDI LOGFONT lfClipPrecision field.
 type: docs
 weight: 20
 url: /net/aspose.diagram/headerfooterfont/clipprecision/

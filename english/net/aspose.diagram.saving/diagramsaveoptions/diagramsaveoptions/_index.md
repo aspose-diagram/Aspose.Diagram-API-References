@@ -1,12 +1,12 @@
 ---
 title: DiagramSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Initializes a new instance of this class that can be used to save a diagram in the VDX format.
 type: docs
 weight: 10
 url: /net/aspose.diagram.saving/diagramsaveoptions/diagramsaveoptions/
 ---
-## DiagramSaveOptions constructor (1 of 2)
+## DiagramSaveOptions() {#constructor}
 
 Initializes a new instance of this class that can be used to save a diagram in the VDX format.
 
@@ -22,7 +22,7 @@ public DiagramSaveOptions()
 
 ---
 
-## DiagramSaveOptions constructor (2 of 2)
+## DiagramSaveOptions(SaveFileFormat) {#constructor_1}
 
 Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format.
 

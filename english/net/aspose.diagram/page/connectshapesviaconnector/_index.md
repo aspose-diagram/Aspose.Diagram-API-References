@@ -1,12 +1,12 @@
 ---
 title: ConnectShapesViaConnector
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Connect shapes via connector.
 type: docs
 weight: 280
 url: /net/aspose.diagram/page/connectshapesviaconnector/
 ---
-## Page.ConnectShapesViaConnector method (1 of 3)
+## ConnectShapesViaConnector(Shape, ConnectionPointPlace, Shape, ConnectionPointPlace, Shape) {#connectshapesviaconnector}
 
 Connect shapes via connector.
 
@@ -33,7 +33,7 @@ public void ConnectShapesViaConnector(Shape shapeFrom, ConnectionPointPlace plac
 
 ---
 
-## Page.ConnectShapesViaConnector method (2 of 3)
+## ConnectShapesViaConnector(long, ConnectionPointPlace, long, ConnectionPointPlace, long) {#connectshapesviaconnector_1}
 
 Connect shapes via connector.
 
@@ -59,7 +59,7 @@ public void ConnectShapesViaConnector(long shapeFromId, ConnectionPointPlace pla
 
 ---
 
-## Page.ConnectShapesViaConnector method (3 of 3)
+## ConnectShapesViaConnector(long, string, long, string, long) {#connectshapesviaconnector_2}
 
 Connect shapes via connector.
 

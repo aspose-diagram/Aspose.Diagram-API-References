@@ -1,7 +1,7 @@
 ---
 title: HasMorePages
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets a value indicating whether having more pages to be output. The default value is true.
 type: docs
 weight: 10
 url: /net/aspose.diagram.saving/pageendsavingargs/hasmorepages/

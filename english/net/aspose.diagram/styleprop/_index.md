@@ -1,7 +1,7 @@
 ---
 title: StyleProp
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that control style behavior such as whether a style includes text line and fill attributes.
 type: docs
 weight: 3900
 url: /net/aspose.diagram/styleprop/

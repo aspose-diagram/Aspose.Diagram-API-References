@@ -1,7 +1,7 @@
 ---
 title: DateFormatForIntm
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: DateFormat for Intm of timeline shape
 type: docs
 weight: 50
 url: /net/aspose.diagram/timelinehelper/dateformatforintm/

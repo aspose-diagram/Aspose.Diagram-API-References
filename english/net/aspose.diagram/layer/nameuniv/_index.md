@@ -1,7 +1,7 @@
 ---
 title: NameUniv
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the universal name of a layer.
 type: docs
 weight: 110
 url: /net/aspose.diagram/layer/nameuniv/

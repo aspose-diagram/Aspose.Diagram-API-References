@@ -1,7 +1,7 @@
 ---
 title: ViewerIncluded
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the generated SWF document should include the integrated document viewer or not. Default value is true.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/swfsaveoptions/viewerincluded/

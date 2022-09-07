@@ -1,7 +1,7 @@
 ---
 title: SaveTitle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines whether need exporting the title or not.
 type: docs
 weight: 90
 url: /net/aspose.diagram.saving/htmlsaveoptions/savetitle/

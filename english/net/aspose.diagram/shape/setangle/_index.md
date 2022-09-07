@@ -1,7 +1,7 @@
 ---
 title: SetAngle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Sets new angle of shape. The angles unit is radian.
 type: docs
 weight: 900
 url: /net/aspose.diagram/shape/setangle/

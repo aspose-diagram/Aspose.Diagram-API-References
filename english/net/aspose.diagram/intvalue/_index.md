@@ -1,7 +1,7 @@
 ---
 title: IntValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Integer value
 type: docs
 weight: 1950
 url: /net/aspose.diagram/intvalue/

@@ -1,7 +1,7 @@
 ---
 title: PageSheet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that define the page sheet for a Page or Master element.
 type: docs
 weight: 100
 url: /net/aspose.diagram/page/pagesheet/
