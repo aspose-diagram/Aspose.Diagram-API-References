@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.Diagram for .NET API Reference
-description: A general-purpose element.
+description: A generalpurpose element.
 type: docs
 weight: 40
 url: /net/aspose.diagram/scratch/c/

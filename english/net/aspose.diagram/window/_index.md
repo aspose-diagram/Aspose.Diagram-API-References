@@ -1,7 +1,7 @@
 ---
 title: Window
 second_title: Aspose.Diagram for .NET API Reference
-description: Represents an open window in a Microsoft Visio instance. This element contains information necessary to exactly re-create a user interface window in the application workspace when the DatadiagramML file is initially opened by Visio.
+description: Represents an open window in a Microsoft Visio instance. This element contains information necessary to exactly recreate a user interface window in the application workspace when the DatadiagramML file is initially opened by Visio.
 type: docs
 weight: 4380
 url: /net/aspose.diagram/window/

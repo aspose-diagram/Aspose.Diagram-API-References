@@ -3,7 +3,7 @@ title: TextBlock
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify the alignment margins and default tab stop positions of text in a shapes text block.
 type: docs
-weight: 590
+weight: 600
 url: /net/aspose.diagram/shape/textblock/
 ---
 ## Shape.TextBlock property

@@ -1,14 +1,14 @@
 ---
 title: GetPureText
 second_title: Aspose.Diagram for .NET API Reference
-description: Get the text string of a shape.
+description: Get the text string
 type: docs
-weight: 770
+weight: 790
 url: /net/aspose.diagram/shape/getpuretext/
 ---
 ## Shape.GetPureText method
 
-Get the text string of a shape.
+Get the text string
 
 ```csharp
 public string GetPureText()

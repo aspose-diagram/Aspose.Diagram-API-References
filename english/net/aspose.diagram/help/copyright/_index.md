@@ -1,7 +1,7 @@
 ---
 title: Copyright
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains a string representing a human-readable copyright statement.
+description: Contains a string representing a humanreadable copyright statement.
 type: docs
 weight: 10
 url: /net/aspose.diagram/help/copyright/

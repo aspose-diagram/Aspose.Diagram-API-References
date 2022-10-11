@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: The x-coordinate of the center of the ellipse.
+description: The xcoordinate of the center of the ellipse.
 type: docs
 weight: 80
 url: /net/aspose.diagram/ellipse/x/

@@ -1,7 +1,7 @@
 ---
 title: TxtPinY
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies the y-coordinate of the text blocks center of rotation in relation to the origin of the shape. The default formula which evaluates to the vertical center of the shape is FHeight0.5.
+description: Specifies the ycoordinate of the text blocks center of rotation in relation to the origin of the shape. The default formula which evaluates to the vertical center of the shape is FHeight0.5.
 type: docs
 weight: 70
 url: /net/aspose.diagram/textxform/txtpiny/

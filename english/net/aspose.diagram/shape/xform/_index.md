@@ -3,7 +3,7 @@ title: XForm
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements specifying general positioning information about a shape.
 type: docs
-weight: 670
+weight: 680
 url: /net/aspose.diagram/shape/xform/
 ---
 ## Shape.XForm property

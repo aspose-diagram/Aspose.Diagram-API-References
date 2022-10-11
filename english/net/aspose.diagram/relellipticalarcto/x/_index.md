@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: The x-coordinate of the ending vertex of an elliptical arc.
+description: The xcoordinate of the ending vertex of an elliptical arc.
 type: docs
 weight: 80
 url: /net/aspose.diagram/relellipticalarcto/x/

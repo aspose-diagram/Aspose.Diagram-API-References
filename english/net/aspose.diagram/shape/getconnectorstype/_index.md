@@ -3,7 +3,7 @@ title: GetConnectorsType
 second_title: Aspose.Diagram for .NET API Reference
 description: Get Connectors type
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.diagram/shape/getconnectorstype/
 ---
 ## Shape.GetConnectorsType method

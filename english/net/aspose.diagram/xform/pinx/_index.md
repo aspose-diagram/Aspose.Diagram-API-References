@@ -1,7 +1,7 @@
 ---
 title: PinX
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies the x-coordinate of the shapes pin center of rotation in relation to the origin of its parent.
+description: Specifies the xcoordinate of the shapes pin center of rotation in relation to the origin of its parent.
 type: docs
 weight: 90
 url: /net/aspose.diagram/xform/pinx/

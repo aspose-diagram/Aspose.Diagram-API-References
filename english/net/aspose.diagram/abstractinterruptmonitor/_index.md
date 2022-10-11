@@ -1,7 +1,7 @@
 ---
 title: AbstractInterruptMonitor
 second_title: Aspose.Diagram for .NET API Reference
-description: Monitor for interruption requests in all time-consuming operations.
+description: Monitor for interruption requests in all timeconsuming operations.
 type: docs
 weight: 10
 url: /net/aspose.diagram/abstractinterruptmonitor/

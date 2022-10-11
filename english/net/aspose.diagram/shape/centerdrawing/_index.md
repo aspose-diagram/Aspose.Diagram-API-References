@@ -3,7 +3,7 @@ title: CenterDrawing
 second_title: Aspose.Diagram for .NET API Reference
 description: Center the shape with respect to the extent of the page
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.diagram/shape/centerdrawing/
 ---
 ## Shape.CenterDrawing method

@@ -1,7 +1,7 @@
 ---
 title: Coordinate
 second_title: Aspose.Diagram for .NET API Reference
-description: Abstract class for the x- and y-coordinates.
+description: Abstract class for the x and ycoordinates.
 type: docs
 weight: 1020
 url: /net/aspose.diagram/coordinate/

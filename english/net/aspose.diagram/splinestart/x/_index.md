@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: The x-coordinate of a splines second control point.
+description: The xcoordinate of a splines second control point.
 type: docs
 weight: 80
 url: /net/aspose.diagram/splinestart/x/

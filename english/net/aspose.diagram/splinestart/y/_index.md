@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: The y-coordinate of a splines second control point.
+description: The ycoordinate of a splines second control point.
 type: docs
 weight: 90
 url: /net/aspose.diagram/splinestart/y/

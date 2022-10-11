@@ -1,9 +1,9 @@
 ---
 title: OneD
 second_title: Aspose.Diagram for .NET API Reference
-description: Determines whether the shape behaves as a one-dimensional 1-D object. Read-only.
+description: Determines whether the shape behaves as a onedimensional 1D object. Readonly.
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.diagram/shape/oned/
 ---
 ## Shape.OneD property

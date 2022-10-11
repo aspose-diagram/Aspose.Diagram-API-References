@@ -1,7 +1,7 @@
 ---
 title: XCon
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies the type of behavior the x-coordinate of the control handle exhibits after the handle is moved.
+description: Specifies the type of behavior the xcoordinate of the control handle exhibits after the handle is moved.
 type: docs
 weight: 100
 url: /net/aspose.diagram/control/xcon/

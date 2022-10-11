@@ -52,6 +52,7 @@ public class Shape
 | [Image](../../aspose.diagram/shape/image) { get; } | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
 | [InheritChars](../../aspose.diagram/shape/inheritchars) { get; } | Contains the char values for the shape inherit by the master shape. |
 | [InheritFill](../../aspose.diagram/shape/inheritfill) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
+| [InheritGeoms](../../aspose.diagram/shape/inheritgeoms) { get; } | Contains the Geoms values for the shape inherit by the master shape. |
 | [InheritLine](../../aspose.diagram/shape/inheritline) { get; } | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritParas](../../aspose.diagram/shape/inheritparas) { get; } | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [InheritProps](../../aspose.diagram/shape/inheritprops) { get; } | Contains the props for the shape inherit by the master shape. |
@@ -104,7 +105,8 @@ public class Shape
 | [Copy](../../aspose.diagram/shape/copy)(Shape) |  |
 | [DependsOnShapes](../../aspose.diagram/shape/dependsonshapes)() | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
 | [GetConnectorsType](../../aspose.diagram/shape/getconnectorstype)() | Get Connectors type |
-| [GetPureText](../../aspose.diagram/shape/getpuretext)() | Get the text string of a shape. |
+| [GetDisplayText](../../aspose.diagram/shape/getdisplaytext)() | Get the text displayed on the interface |
+| [GetPureText](../../aspose.diagram/shape/getpuretext)() | Get the text string |
 | [GluedShapes](../../aspose.diagram/shape/gluedshapes)(GluedShapesFlags, string, Shape) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
 | [IsConnected](../../aspose.diagram/shape/isconnected)(Shape) | Indicates whether this two shapes are connected. |
 | [IsContain](../../aspose.diagram/shape/iscontain)(Shape) | Indicates whether this shape is contain another shape. |

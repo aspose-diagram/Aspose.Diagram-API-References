@@ -1,9 +1,9 @@
 ---
 title: ZOrderIndex
 second_title: Aspose.Diagram for .NET API Reference
-description: Returns the index of a shape in the z-order except the guide shape.
+description: Returns the index of a shape in the zorder except the guide shape.
 type: docs
-weight: 690
+weight: 700
 url: /net/aspose.diagram/shape/zorderindex/
 ---
 ## Shape.ZOrderIndex property

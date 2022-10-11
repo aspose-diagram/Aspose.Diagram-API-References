@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Diagram for .NET API Reference
-description: The y-coordinate of the control point at the beginning of the curve in relative coordinates.
+description: The ycoordinate of the control point at the beginning of the curve in relative coordinates.
 type: docs
 weight: 30
 url: /net/aspose.diagram/relcubbezto/b/

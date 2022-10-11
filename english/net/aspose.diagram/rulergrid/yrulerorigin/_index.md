@@ -1,7 +1,7 @@
 ---
 title: YRulerOrigin
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies the zero point on the y-axis vertical ruler for the page.
+description: Specifies the zero point on the yaxis vertical ruler for the page.
 type: docs
 weight: 110
 url: /net/aspose.diagram/rulergrid/yrulerorigin/

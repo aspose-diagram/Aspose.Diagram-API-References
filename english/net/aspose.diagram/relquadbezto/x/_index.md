@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: The x-coordinate of the endpoint in relative coordinates.
+description: The xcoordinate of the endpoint in relative coordinates.
 type: docs
 weight: 60
 url: /net/aspose.diagram/relquadbezto/x/

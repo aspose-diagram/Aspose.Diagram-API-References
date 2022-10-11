@@ -1,7 +1,7 @@
 ---
 title: A
 second_title: Aspose.Diagram for .NET API Reference
-description: The second-to-last knot of the nonuniform rational B-spline NURBS.
+description: The secondtolast knot of the nonuniform rational Bspline NURBS.
 type: docs
 weight: 20
 url: /net/aspose.diagram/nurbsto/a/

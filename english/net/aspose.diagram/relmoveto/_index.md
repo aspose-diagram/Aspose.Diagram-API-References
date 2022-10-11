@@ -1,7 +1,7 @@
 ---
 title: RelMoveTo
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains the x- and y-coordinates of the first vertex of a shape or contains the x- and y-coordinates of the first vertex after a break in a path.Coordinates are specified as relative coordinates.
+description: Contains the x and ycoordinates of the first vertex of a shape or contains the x and ycoordinates of the first vertex after a break in a path.Coordinates are specified as relative coordinates.
 type: docs
 weight: 2960
 url: /net/aspose.diagram/relmoveto/

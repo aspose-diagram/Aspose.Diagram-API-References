@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: The type of a shape. It may be one of the following values Group Shape Guide or Foreign.
 type: docs
-weight: 640
+weight: 650
 url: /net/aspose.diagram/shape/type/
 ---
 ## Shape.Type property

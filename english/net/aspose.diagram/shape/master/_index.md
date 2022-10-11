@@ -3,7 +3,7 @@ title: Master
 second_title: Aspose.Diagram for .NET API Reference
 description: The Master from which the shape inherits its data.
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.diagram/shape/master/
 ---
 ## Shape.Master property

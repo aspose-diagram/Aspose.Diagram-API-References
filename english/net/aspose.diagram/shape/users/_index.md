@@ -3,7 +3,7 @@ title: Users
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of User elements.
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.diagram/shape/users/
 ---
 ## Shape.Users property

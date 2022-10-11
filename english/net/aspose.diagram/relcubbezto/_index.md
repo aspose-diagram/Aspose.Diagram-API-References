@@ -1,7 +1,7 @@
 ---
 title: RelCubBezTo
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains x- and y-coordinates for a RelCubBezTos points.
+description: Contains x and ycoordinates for a RelCubBezTos points.
 type: docs
 weight: 2900
 url: /net/aspose.diagram/relcubbezto/

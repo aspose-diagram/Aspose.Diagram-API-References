@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: Y element represents the y-coordinate of the first vertex of a path. If the MoveTo element appears between two elements the Y element represents the y-coordinate of the first vertex after the break in the path.
+description: Y element represents the ycoordinate of the first vertex of a path. If the MoveTo element appears between two elements the Y element represents the ycoordinate of the first vertex after the break in the path.
 type: docs
 weight: 50
 url: /net/aspose.diagram/moveto/y/

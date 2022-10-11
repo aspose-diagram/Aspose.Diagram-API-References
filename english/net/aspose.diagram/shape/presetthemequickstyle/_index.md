@@ -3,7 +3,7 @@ title: PresetThemeQuickStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Apply a preset theme variant quickstyle to this shape
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.diagram/shape/presetthemequickstyle/
 ---
 ## Shape.PresetThemeQuickStyle property

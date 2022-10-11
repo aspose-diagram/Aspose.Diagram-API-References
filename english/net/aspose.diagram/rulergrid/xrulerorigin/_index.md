@@ -1,7 +1,7 @@
 ---
 title: XRulerOrigin
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies the zero point on the x-axis horizontal ruler for the page.
+description: Specifies the zero point on the xaxis horizontal ruler for the page.
 type: docs
 weight: 60
 url: /net/aspose.diagram/rulergrid/xrulerorigin/

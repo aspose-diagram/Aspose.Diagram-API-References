@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies a y-coordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape instead of the page.
+description: Specifies a ycoordinate on a shape in local coordinates. Local coordinates are those whose frame of reference is the shape instead of the page.
 type: docs
 weight: 120
 url: /net/aspose.diagram/connectionabcd/y/

@@ -1,7 +1,7 @@
 ---
 title: GlueType
 second_title: Aspose.Diagram for .NET API Reference
-description: Specifies whether dynamic shape-to-shape glue is allowed when connecting to a shape
+description: Specifies whether dynamic shapetoshape glue is allowed when connecting to a shape
 type: docs
 weight: 80
 url: /net/aspose.diagram/misc/gluetype/

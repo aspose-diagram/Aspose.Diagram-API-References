@@ -3,7 +3,7 @@ title: ToPdf
 second_title: Aspose.Diagram for .NET API Reference
 description: Saves the shape to a pdf file.
 type: docs
-weight: 970
+weight: 990
 url: /net/aspose.diagram/shape/topdf/
 ---
 ## ToPdf(string) {#topdf_1}

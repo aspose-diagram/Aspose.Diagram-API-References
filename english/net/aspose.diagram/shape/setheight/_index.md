@@ -3,7 +3,7 @@ title: SetHeight
 second_title: Aspose.Diagram for .NET API Reference
 description: Sets new height of shape.
 type: docs
-weight: 920
+weight: 940
 url: /net/aspose.diagram/shape/setheight/
 ---
 ## Shape.SetHeight method

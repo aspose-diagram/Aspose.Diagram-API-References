@@ -1,7 +1,7 @@
 ---
 title: Locale
 second_title: Aspose.Diagram for .NET API Reference
-description: It specified the locale of the text run for spell-checking purposes.
+description: It specified the locale of the text run for spellchecking purposes.
 type: docs
 weight: 280
 url: /net/aspose.diagram/char/locale/

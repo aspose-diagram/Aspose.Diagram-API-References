@@ -3,7 +3,7 @@ title: InheritUsers
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the users for the shape inherit by the master shape.
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.diagram/shape/inheritusers/
 ---
 ## Shape.InheritUsers property

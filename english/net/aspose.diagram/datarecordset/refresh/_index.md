@@ -1,7 +1,7 @@
 ---
 title: Refresh
 second_title: Aspose.Diagram for .NET API Reference
-description: Executes the query string associated with the connected non-XML-based DataRecordset and updates linked shapes with new data from the data source returned by the query.
+description: Executes the query string associated with the connected nonXMLbased DataRecordset and updates linked shapes with new data from the data source returned by the query.
 type: docs
 weight: 210
 url: /net/aspose.diagram/datarecordset/refresh/

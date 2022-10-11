@@ -1,7 +1,7 @@
 ---
 title: EventItem
 second_title: Aspose.Diagram for .NET API Reference
-description: Encapsulates an event code. An EventItem element can trigger two kinds of actions it can run an add-on or it can send a notification of the event to the calling program.
+description: Encapsulates an event code. An EventItem element can trigger two kinds of actions it can run an addon or it can send a notification of the event to the calling program.
 type: docs
 weight: 1400
 url: /net/aspose.diagram/eventitem/

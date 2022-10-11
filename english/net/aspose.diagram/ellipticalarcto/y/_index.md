@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: The y-coordinate of the ending vertex of an elliptical arc.
+description: The ycoordinate of the ending vertex of an elliptical arc.
 type: docs
 weight: 90
 url: /net/aspose.diagram/ellipticalarcto/y/

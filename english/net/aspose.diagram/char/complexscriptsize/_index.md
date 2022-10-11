@@ -1,7 +1,7 @@
 ---
 title: ComplexScriptSize
 second_title: Aspose.Diagram for .NET API Reference
-description: The size of the font used to format text composed of complex script characters. Complex scripts are languages whose characters require ligation or shaping such as the right-to-left languages Arabic Farsi Hebrew and Urdu and several South Asian languages.
+description: The size of the font used to format text composed of complex script characters. Complex scripts are languages whose characters require ligation or shaping such as the righttoleft languages Arabic Farsi Hebrew and Urdu and several South Asian languages.
 type: docs
 weight: 90
 url: /net/aspose.diagram/char/complexscriptsize/

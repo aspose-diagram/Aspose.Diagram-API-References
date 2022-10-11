@@ -1,9 +1,9 @@
 ---
 title: XForm1D
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains x- and y-coordinates of the begin point and end point of a 1-D shape. This element appears for 1-D shapes only.
+description: Contains x and ycoordinates of the begin point and end point of a 1D shape. This element appears for 1D shapes only.
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.diagram/shape/xform1d/
 ---
 ## Shape.XForm1D property

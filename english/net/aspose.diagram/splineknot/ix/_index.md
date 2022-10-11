@@ -1,7 +1,7 @@
 ---
 title: IX
 second_title: Aspose.Diagram for .NET API Reference
-description: The zero-based index of the element within its parent element.
+description: The zerobased index of the element within its parent element.
 type: docs
 weight: 40
 url: /net/aspose.diagram/splineknot/ix/

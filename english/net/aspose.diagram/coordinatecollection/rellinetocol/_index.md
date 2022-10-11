@@ -1,7 +1,7 @@
 ---
 title: RelLineToCol
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains x- and y-coordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements respectively.Coordinates are specified as relative coordinates.
+description: Contains x and ycoordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements respectively.Coordinates are specified as relative coordinates.
 type: docs
 weight: 120
 url: /net/aspose.diagram/coordinatecollection/rellinetocol/

@@ -3,7 +3,7 @@ title: ConnectedShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: Returns an array that contains the identifiers IDs of the shapes that are connected to the shape.
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.diagram/shape/connectedshapes/
 ---
 ## Shape.ConnectedShapes method
