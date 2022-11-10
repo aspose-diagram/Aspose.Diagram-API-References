@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to specify additional options when rendering diagram pages to SVG.
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.diagram.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -34,6 +34,7 @@ public class SVGSaveOptions : RenderingSaveOptions
 | [ExportHiddenPage](../../aspose.diagram.saving/svgsaveoptions/exporthiddenpage) { get; set; } | Defines whether need exporting the hidden page or not. |
 | [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Defines whether need exporting the comments or not. |
 | [IsExportScaleInMatrix](../../aspose.diagram.saving/svgsaveoptions/isexportscaleinmatrix) { get; set; } | Defines whether need export scale in matrix or not. |
+| [IsSavingCustomLinePattern](../../aspose.diagram.saving/svgsaveoptions/issavingcustomlinepattern) { get; set; } | Defines whether Saving custom line pattern. |
 | [IsSavingImageSeparately](../../aspose.diagram.saving/svgsaveoptions/issavingimageseparately) { get; set; } | Defines whether Saving Image Separately. |
 | [PageIndex](../../aspose.diagram.saving/svgsaveoptions/pageindex) { get; set; } | Gets or sets the 0-based index of the page to render. Default is 0. |
 | [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Gets or sets the page size for the generated images. Can be [`PageSize`](../pagesize) or null. |

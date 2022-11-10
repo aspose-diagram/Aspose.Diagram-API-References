@@ -3,7 +3,7 @@ title: DataConnectionType
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to configure options for the connections to the database.
 type: docs
-weight: 2250
+weight: 2260
 url: /net/aspose.diagram.manipulation/dataconnectiontype/
 ---
 ## DataConnectionType enumeration

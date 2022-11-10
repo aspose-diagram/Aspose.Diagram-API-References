@@ -3,7 +3,7 @@ title: PageCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Page collection.
 type: docs
-weight: 2490
+weight: 2500
 url: /net/aspose.diagram/pagecollection/
 ---
 ## PageCollection class

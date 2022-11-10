@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of Font elements.
 type: docs
-weight: 1540
+weight: 1550
 url: /net/aspose.diagram/fontcollection/
 ---
 ## FontCollection class

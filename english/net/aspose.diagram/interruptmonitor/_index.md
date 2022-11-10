@@ -3,7 +3,7 @@ title: InterruptMonitor
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents all operator about the interrupt.
 type: docs
-weight: 1970
+weight: 1980
 url: /net/aspose.diagram/interruptmonitor/
 ---
 ## InterruptMonitor class

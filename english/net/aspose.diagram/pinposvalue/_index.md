@@ -3,7 +3,7 @@ title: PinPosValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the pin position for the shape.
 type: docs
-weight: 2590
+weight: 2600
 url: /net/aspose.diagram/pinposvalue/
 ---
 ## PinPosValue enumeration

@@ -3,7 +3,7 @@ title: ShapePlaceFlip
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes Shapes menu.
 type: docs
-weight: 3600
+weight: 3610
 url: /net/aspose.diagram/shapeplaceflip/
 ---
 ## ShapePlaceFlip class

@@ -20,8 +20,8 @@ public enum LayoutStyle
 | --- | --- | --- |
 | FlowChart | `0` | Flowchart style. |
 | CompactTree | `1` | Tree style. |
-| Radial | `2` | Not supported yet. |
-| Circular | `3` | Not supported yet. |
+| Radial | `2` | Radial style. |
+| Circular | `3` | Circular style. |
 
 ### See Also
 

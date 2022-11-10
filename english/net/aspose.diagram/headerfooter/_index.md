@@ -3,7 +3,7 @@ title: HeaderFooter
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements for a documents header and footer.
 type: docs
-weight: 1820
+weight: 1830
 url: /net/aspose.diagram/headerfooter/
 ---
 ## HeaderFooter class

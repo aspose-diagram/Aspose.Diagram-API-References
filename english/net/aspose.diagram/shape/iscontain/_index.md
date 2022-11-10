@@ -3,7 +3,7 @@ title: IsContain
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether this shape is contain another shape.
 type: docs
-weight: 820
+weight: 840
 url: /net/aspose.diagram/shape/iscontain/
 ---
 ## Shape.IsContain method

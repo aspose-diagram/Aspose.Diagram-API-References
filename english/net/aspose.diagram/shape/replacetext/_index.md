@@ -3,7 +3,7 @@ title: ReplaceText
 second_title: Aspose.Diagram for .NET API Reference
 description: Replace the text string of a shape .
 type: docs
-weight: 890
+weight: 910
 url: /net/aspose.diagram/shape/replacetext/
 ---
 ## Shape.ReplaceText method

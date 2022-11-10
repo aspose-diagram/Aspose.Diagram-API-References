@@ -3,7 +3,7 @@ title: GetDisplayText
 second_title: Aspose.Diagram for .NET API Reference
 description: Get the text displayed on the interface
 type: docs
-weight: 780
+weight: 800
 url: /net/aspose.diagram/shape/getdisplaytext/
 ---
 ## Shape.GetDisplayText method

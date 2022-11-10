@@ -3,7 +3,7 @@ title: IsSavingImageSeparately
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether Saving Image Separately.
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.diagram.saving/svgsaveoptions/issavingimageseparately/
 ---
 ## SVGSaveOptions.IsSavingImageSeparately property

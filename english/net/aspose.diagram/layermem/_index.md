@@ -3,7 +3,7 @@ title: LayerMem
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the LayerMember element which specifies each layer to which the shape is assigned.
 type: docs
-weight: 2030
+weight: 2040
 url: /net/aspose.diagram/layermem/
 ---
 ## LayerMem class

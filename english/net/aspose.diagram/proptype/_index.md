@@ -3,7 +3,7 @@ title: PropType
 second_title: Aspose.Diagram for .NET API Reference
 description: Type of Property.
 type: docs
-weight: 2860
+weight: 2870
 url: /net/aspose.diagram/proptype/
 ---
 ## PropType enumeration

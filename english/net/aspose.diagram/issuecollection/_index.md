@@ -3,7 +3,7 @@ title: IssueCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Issue collection.
 type: docs
-weight: 1990
+weight: 2000
 url: /net/aspose.diagram/issuecollection/
 ---
 ## IssueCollection class

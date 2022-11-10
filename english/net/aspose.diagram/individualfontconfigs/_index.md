@@ -3,7 +3,7 @@ title: IndividualFontConfigs
 second_title: Aspose.Diagram for .NET API Reference
 description: Font configs for each Diagram./diagram object.
 type: docs
-weight: 1920
+weight: 1930
 url: /net/aspose.diagram/individualfontconfigs/
 ---
 ## IndividualFontConfigs class

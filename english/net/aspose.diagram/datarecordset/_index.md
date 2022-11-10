@@ -3,7 +3,7 @@ title: DataRecordSet
 second_title: Aspose.Diagram for .NET API Reference
 description: Stores formats refreshes and exposes data queried from a database in Microsoft Visio.
 type: docs
-weight: 1120
+weight: 1130
 url: /net/aspose.diagram/datarecordset/
 ---
 ## DataRecordSet class

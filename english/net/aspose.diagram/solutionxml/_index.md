@@ -3,7 +3,7 @@ title: SolutionXML
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains solutionspecific wellformed XML data that is prefixed in an explicit namespace and is stored with a document.
 type: docs
-weight: 3800
+weight: 3810
 url: /net/aspose.diagram/solutionxml/
 ---
 ## SolutionXML class

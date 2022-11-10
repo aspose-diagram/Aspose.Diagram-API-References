@@ -3,7 +3,7 @@ title: Event
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify formulas that control shape events.
 type: docs
-weight: 1390
+weight: 1400
 url: /net/aspose.diagram/event/
 ---
 ## Event class

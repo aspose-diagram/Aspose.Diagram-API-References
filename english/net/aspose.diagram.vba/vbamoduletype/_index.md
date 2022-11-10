@@ -3,7 +3,7 @@ title: VbaModuleType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the type of VBA module.
 type: docs
-weight: 4260
+weight: 4270
 url: /net/aspose.diagram.vba/vbamoduletype/
 ---
 ## VbaModuleType enumeration

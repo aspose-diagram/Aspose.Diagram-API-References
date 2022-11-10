@@ -3,7 +3,7 @@ title: GridDensity
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of horizontal/vertical grid to use for a page.
 type: docs
-weight: 1790
+weight: 1800
 url: /net/aspose.diagram/griddensity/
 ---
 ## GridDensity class

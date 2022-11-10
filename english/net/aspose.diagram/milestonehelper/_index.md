@@ -3,7 +3,7 @@ title: MilestoneHelper
 second_title: Aspose.Diagram for .NET API Reference
 description: MilestoneHelper to set property of milestone shape.
 type: docs
-weight: 2340
+weight: 2350
 url: /net/aspose.diagram/milestonehelper/
 ---
 ## MilestoneHelper class

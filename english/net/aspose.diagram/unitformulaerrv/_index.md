@@ -3,7 +3,7 @@ title: UnitFormulaErrV
 second_title: Aspose.Diagram for .NET API Reference
 description: Specified attributes of an element.
 type: docs
-weight: 4180
+weight: 4190
 url: /net/aspose.diagram/unitformulaerrv/
 ---
 ## UnitFormulaErrV class

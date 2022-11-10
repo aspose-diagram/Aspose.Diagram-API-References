@@ -3,7 +3,7 @@ title: Fill
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the current fill formatting values for the shape and the shapes drop shadow including pattern foreground color and background color.
 type: docs
-weight: 1480
+weight: 1490
 url: /net/aspose.diagram/fill/
 ---
 ## Fill class

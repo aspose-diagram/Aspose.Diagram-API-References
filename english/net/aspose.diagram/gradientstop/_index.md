@@ -3,7 +3,7 @@ title: GradientStop
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the gradient stop.
 type: docs
-weight: 1760
+weight: 1770
 url: /net/aspose.diagram/gradientstop/
 ---
 ## GradientStop class

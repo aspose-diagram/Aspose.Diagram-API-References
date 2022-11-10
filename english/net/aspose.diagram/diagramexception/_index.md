@@ -3,7 +3,7 @@ title: DiagramException
 second_title: Aspose.Diagram for .NET API Reference
 description: Base class for all Aspose.Diagram exceptions
 type: docs
-weight: 1160
+weight: 1170
 url: /net/aspose.diagram/diagramexception/
 ---
 ## DiagramException class

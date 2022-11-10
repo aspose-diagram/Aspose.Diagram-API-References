@@ -3,7 +3,7 @@ title: DataRecordSetCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: DataRecordSet collection.
 type: docs
-weight: 1130
+weight: 1140
 url: /net/aspose.diagram/datarecordsetcollection/
 ---
 ## DataRecordSetCollection class

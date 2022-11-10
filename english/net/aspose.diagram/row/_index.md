@@ -3,7 +3,7 @@ title: Row
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates a row in the data recordset.
 type: docs
-weight: 3090
+weight: 3100
 url: /net/aspose.diagram/row/
 ---
 ## Row class

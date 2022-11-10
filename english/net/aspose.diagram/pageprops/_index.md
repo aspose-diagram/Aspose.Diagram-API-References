@@ -3,7 +3,7 @@ title: PageProps
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains cells that control page attributes such as the page width height and scale.
 type: docs
-weight: 2550
+weight: 2560
 url: /net/aspose.diagram/pageprops/
 ---
 ## PageProps class

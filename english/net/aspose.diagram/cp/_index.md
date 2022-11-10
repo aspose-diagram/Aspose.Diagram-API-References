@@ -3,7 +3,7 @@ title: Cp
 second_title: Aspose.Diagram for .NET API Reference
 description: Marks the beginning of a character properties run that is formatted according to the corresponding Char element. The run is defined to the end of the text or until the next
 type: docs
-weight: 1040
+weight: 1050
 url: /net/aspose.diagram/cp/
 ---
 ## Cp class

@@ -3,7 +3,7 @@ title: PlaceDepthValue
 second_title: Aspose.Diagram for .NET API Reference
 description: For a drawing that is laid out automatically specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout.
 type: docs
-weight: 2610
+weight: 2620
 url: /net/aspose.diagram/placedepthvalue/
 ---
 ## PlaceDepthValue enumeration

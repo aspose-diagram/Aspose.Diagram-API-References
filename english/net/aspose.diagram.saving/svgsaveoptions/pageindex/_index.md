@@ -3,7 +3,7 @@ title: PageIndex
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the 0based index of the page to render. Default is 0.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.diagram.saving/svgsaveoptions/pageindex/
 ---
 ## SVGSaveOptions.PageIndex property

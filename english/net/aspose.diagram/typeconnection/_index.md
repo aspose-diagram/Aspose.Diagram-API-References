@@ -3,7 +3,7 @@ title: TypeConnection
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies various types based on the element in which it is contained.
 type: docs
-weight: 4080
+weight: 4090
 url: /net/aspose.diagram/typeconnection/
 ---
 ## TypeConnection class

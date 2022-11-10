@@ -3,7 +3,7 @@ title: PageLineJumpDirXValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the direction of line jumps on horizontal segments of dynamic connectors on the drawing page for which you havent applied a local jump direction.
 type: docs
-weight: 2520
+weight: 2530
 url: /net/aspose.diagram/pagelinejumpdirxvalue/
 ---
 ## PageLineJumpDirXValue enumeration

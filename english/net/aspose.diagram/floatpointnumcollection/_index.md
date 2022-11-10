@@ -3,7 +3,7 @@ title: FloatPointNumCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of doubling point numbers
 type: docs
-weight: 1510
+weight: 1520
 url: /net/aspose.diagram/floatpointnumcollection/
 ---
 ## FloatPointNumCollection class

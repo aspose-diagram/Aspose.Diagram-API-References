@@ -3,7 +3,7 @@ title: RelEllipticalArcTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify information about an elliptical arc.Coordinates are specified as relative coordinates.
 type: docs
-weight: 2920
+weight: 2930
 url: /net/aspose.diagram/relellipticalarcto/
 ---
 ## RelEllipticalArcTo class

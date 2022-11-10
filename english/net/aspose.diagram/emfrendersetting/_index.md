@@ -3,7 +3,7 @@ title: EmfRenderSetting
 second_title: Aspose.Diagram for .NET API Reference
 description: Setting for rendering Emf metafile.
 type: docs
-weight: 1380
+weight: 1390
 url: /net/aspose.diagram/emfrendersetting/
 ---
 ## EmfRenderSetting enumeration

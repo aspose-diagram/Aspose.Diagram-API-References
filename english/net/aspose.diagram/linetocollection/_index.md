@@ -3,7 +3,7 @@ title: LineToCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: LineTo collection.
 type: docs
-weight: 2190
+weight: 2200
 url: /net/aspose.diagram/linetocollection/
 ---
 ## LineToCollection class

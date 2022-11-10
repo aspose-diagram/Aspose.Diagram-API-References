@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to specify additional options when rendering diagram pages to PDF.
 type: docs
-weight: 3400
+weight: 3410
 url: /net/aspose.diagram.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

@@ -3,7 +3,7 @@ title: ShapeCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection of Shapes.
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.diagram/shapecollection/
 ---
 ## ShapeCollection class

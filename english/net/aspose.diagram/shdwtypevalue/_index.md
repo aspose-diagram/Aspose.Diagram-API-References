@@ -3,7 +3,7 @@ title: ShdwTypeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates the default shadow type for a page.
 type: docs
-weight: 3730
+weight: 3740
 url: /net/aspose.diagram/shdwtypevalue/
 ---
 ## ShdwTypeValue enumeration

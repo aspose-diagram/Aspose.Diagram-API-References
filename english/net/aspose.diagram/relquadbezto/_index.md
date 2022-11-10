@@ -3,7 +3,7 @@ title: RelQuadBezTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains x and ycoordinates for a RelQuadBezTos points.
 type: docs
-weight: 2980
+weight: 2990
 url: /net/aspose.diagram/relquadbezto/
 ---
 ## RelQuadBezTo class

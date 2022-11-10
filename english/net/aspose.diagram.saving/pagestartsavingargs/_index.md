@@ -3,7 +3,7 @@ title: PageStartSavingArgs
 second_title: Aspose.Diagram for .NET API Reference
 description: Info for a page starts saving process.
 type: docs
-weight: 3320
+weight: 3330
 url: /net/aspose.diagram.saving/pagestartsavingargs/
 ---
 ## PageStartSavingArgs class

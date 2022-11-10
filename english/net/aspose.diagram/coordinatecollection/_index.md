@@ -3,7 +3,7 @@ title: CoordinateCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Coordinate collection.
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.diagram/coordinatecollection/
 ---
 ## CoordinateCollection class

@@ -3,7 +3,7 @@ title: GluedShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: Returns an array that contains the identifiers of the shapes that are glued to a shape.
 type: docs
-weight: 800
+weight: 820
 url: /net/aspose.diagram/shape/gluedshapes/
 ---
 ## Shape.GluedShapes method

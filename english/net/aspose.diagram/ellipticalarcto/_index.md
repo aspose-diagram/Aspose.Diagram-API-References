@@ -3,7 +3,7 @@ title: EllipticalArcTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify information about an elliptical arc.
 type: docs
-weight: 1360
+weight: 1370
 url: /net/aspose.diagram/ellipticalarcto/
 ---
 ## EllipticalArcTo class

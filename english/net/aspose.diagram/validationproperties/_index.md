@@ -3,7 +3,7 @@ title: ValidationProperties
 second_title: Aspose.Diagram for .NET API Reference
 description: Encapsulates properties related to validation for the document.
 type: docs
-weight: 4220
+weight: 4230
 url: /net/aspose.diagram/validationproperties/
 ---
 ## ValidationProperties class

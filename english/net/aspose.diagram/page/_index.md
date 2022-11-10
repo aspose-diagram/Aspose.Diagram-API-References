@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 2480
+weight: 2490
 url: /net/aspose.diagram/page/
 ---
 ## Page class

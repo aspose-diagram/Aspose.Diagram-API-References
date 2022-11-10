@@ -3,7 +3,7 @@ title: PageSize
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains information about page size for the generated images.
 type: docs
-weight: 3310
+weight: 3320
 url: /net/aspose.diagram.saving/pagesize/
 ---
 ## PageSize class

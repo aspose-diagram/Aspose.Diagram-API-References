@@ -3,7 +3,7 @@ title: DoubleValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Double value
 type: docs
-weight: 1250
+weight: 1260
 url: /net/aspose.diagram/doublevalue/
 ---
 ## DoubleValue class

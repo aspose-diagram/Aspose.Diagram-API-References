@@ -3,7 +3,7 @@ title: FolderFontSource
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the folder that contains TrueType font files.
 type: docs
-weight: 1520
+weight: 1530
 url: /net/aspose.diagram/folderfontsource/
 ---
 ## FolderFontSource class

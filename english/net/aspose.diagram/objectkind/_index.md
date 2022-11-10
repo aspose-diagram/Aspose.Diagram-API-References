@@ -3,7 +3,7 @@ title: ObjectKind
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates the type of text field.
 type: docs
-weight: 2420
+weight: 2430
 url: /net/aspose.diagram/objectkind/
 ---
 ## ObjectKind class

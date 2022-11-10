@@ -3,7 +3,7 @@ title: Tab
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of Tab elements.
 type: docs
-weight: 3940
+weight: 3950
 url: /net/aspose.diagram/tab/
 ---
 ## Tab class

@@ -3,7 +3,7 @@ title: MasterCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Master collection.
 type: docs
-weight: 2280
+weight: 2290
 url: /net/aspose.diagram/mastercollection/
 ---
 ## MasterCollection class

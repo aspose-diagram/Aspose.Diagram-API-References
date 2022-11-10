@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 3560
+weight: 3570
 url: /net/aspose.diagram/shape/
 ---
 ## Shape class
@@ -77,6 +77,7 @@ public class Shape
 | [PresetThemeVariant](../../aspose.diagram/shape/presetthemevariant) { set; } | Apply a preset theme variant to this shape |
 | [Props](../../aspose.diagram/shape/props) { get; set; } | Contains a collection of Prop elements. |
 | [Protection](../../aspose.diagram/shape/protection) { get; } | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window. |
+| [RootShape](../../aspose.diagram/shape/rootshape) { get; } | Returns the top-level shape of an instance if this shape is part of a master instance. Read-only. |
 | [Scratchs](../../aspose.diagram/shape/scratchs) { get; } | Contains a collection of Scratch elements. |
 | [Shapes](../../aspose.diagram/shape/shapes) { get; } | Contains a collection of Shape elements. |
 | [SmartTagDefs](../../aspose.diagram/shape/smarttagdefs) { get; } | Contains a collection of SmartTagDef elements. |
@@ -104,6 +105,7 @@ public class Shape
 | [ConnectedShapes](../../aspose.diagram/shape/connectedshapes)(ConnectedShapesFlags, string) | Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape. |
 | [Copy](../../aspose.diagram/shape/copy)(Shape) |  |
 | [DependsOnShapes](../../aspose.diagram/shape/dependsonshapes)() | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
+| [GetConnectorRule](../../aspose.diagram/shape/getconnectorrule)() | Returns a connectorRule that contains the shape id and connecton that are connected to the shape. |
 | [GetConnectorsType](../../aspose.diagram/shape/getconnectorstype)() | Get Connectors type |
 | [GetDisplayText](../../aspose.diagram/shape/getdisplaytext)() | Get the text displayed on the interface |
 | [GetPureText](../../aspose.diagram/shape/getpuretext)() | Get the text string |

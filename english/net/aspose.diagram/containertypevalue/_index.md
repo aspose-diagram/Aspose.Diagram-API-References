@@ -3,7 +3,7 @@ title: ContainerTypeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: May be one of the following values Document Page or Master. Only relevant when WindowType is specified as Drawing or Sheet.
 type: docs
-weight: 980
+weight: 990
 url: /net/aspose.diagram/containertypevalue/
 ---
 ## ContainerTypeValue enumeration

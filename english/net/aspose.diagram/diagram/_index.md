@@ -3,7 +3,7 @@ title: Diagram
 second_title: Aspose.Diagram for .NET API Reference
 description: Root element of Visio objects hierarchy.
 type: docs
-weight: 1150
+weight: 1160
 url: /net/aspose.diagram/diagram/
 ---
 ## Diagram class

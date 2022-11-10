@@ -3,7 +3,7 @@ title: PrintPageOrientation
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether the page is printed in portrait or landscape orientation.
 type: docs
-weight: 2800
+weight: 2810
 url: /net/aspose.diagram/printpageorientation/
 ---
 ## PrintPageOrientation class

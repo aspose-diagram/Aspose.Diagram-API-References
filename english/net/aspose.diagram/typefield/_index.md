@@ -3,7 +3,7 @@ title: TypeField
 second_title: Aspose.Diagram for .NET API Reference
 description: Type specifies a data type for the text field value.
 type: docs
-weight: 4100
+weight: 4110
 url: /net/aspose.diagram/typefield/
 ---
 ## TypeField class

@@ -3,7 +3,7 @@ title: FillType
 second_title: Aspose.Diagram for .NET API Reference
 description: Fill format type.
 type: docs
-weight: 1490
+weight: 1500
 url: /net/aspose.diagram/filltype/
 ---
 ## FillType enumeration

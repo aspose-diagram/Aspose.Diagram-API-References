@@ -3,7 +3,7 @@ title: Geom
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify the coordinates of the vertices for the lines and arcs that make up the shape. If the shape has more than one path there is a Geom element for each path.
 type: docs
-weight: 1640
+weight: 1650
 url: /net/aspose.diagram/geom/
 ---
 ## Geom class

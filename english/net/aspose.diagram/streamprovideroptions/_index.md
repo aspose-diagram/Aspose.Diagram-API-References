@@ -3,7 +3,7 @@ title: StreamProviderOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the stream options.
 type: docs
-weight: 3880
+weight: 3890
 url: /net/aspose.diagram/streamprovideroptions/
 ---
 ## StreamProviderOptions class

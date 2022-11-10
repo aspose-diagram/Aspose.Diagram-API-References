@@ -3,7 +3,7 @@ title: VerticalAlign
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the vertical alignment of text within the text block.
 type: docs
-weight: 4310
+weight: 4320
 url: /net/aspose.diagram/verticalalign/
 ---
 ## VerticalAlign class

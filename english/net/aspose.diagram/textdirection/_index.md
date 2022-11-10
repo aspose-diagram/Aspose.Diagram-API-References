@@ -3,7 +3,7 @@ title: TextDirection
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the direction of the characters in a text block.
 type: docs
-weight: 4000
+weight: 4010
 url: /net/aspose.diagram/textdirection/
 ---
 ## TextDirection class

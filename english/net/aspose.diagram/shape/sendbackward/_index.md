@@ -3,7 +3,7 @@ title: SendBackward
 second_title: Aspose.Diagram for .NET API Reference
 description: Moves the shape back one position in the zorder.
 type: docs
-weight: 900
+weight: 920
 url: /net/aspose.diagram/shape/sendbackward/
 ---
 ## Shape.SendBackward method

@@ -3,7 +3,7 @@ title: UserCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: User collection.
 type: docs
-weight: 4200
+weight: 4210
 url: /net/aspose.diagram/usercollection/
 ---
 ## UserCollection class

@@ -3,7 +3,7 @@ title: GradientFill
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the gradient fill.
 type: docs
-weight: 1730
+weight: 1740
 url: /net/aspose.diagram/gradientfill/
 ---
 ## GradientFill class

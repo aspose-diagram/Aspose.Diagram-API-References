@@ -3,7 +3,7 @@ title: DocumentSettings
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify document settings.
 type: docs
-weight: 1230
+weight: 1240
 url: /net/aspose.diagram/documentsettings/
 ---
 ## DocumentSettings class
