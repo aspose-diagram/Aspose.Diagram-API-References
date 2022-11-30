@@ -1,11 +1,14 @@
 ---
 title: com.aspose.diagram
 second_title: Aspose.Diagram for Java API Reference
-description: 
+description: The com.aspose.diagram package provides classes for generating converting modifying rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
 type: docs
 weight: 10
 url: /java/com.aspose.diagram/
 ---
+
+
+The com.aspose.diagram package provides classes for generating, converting, modifying, rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
 
 
 ## Classes
