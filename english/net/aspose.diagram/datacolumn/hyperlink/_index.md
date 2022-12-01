@@ -1,7 +1,7 @@
 ---
 title: Hyperlink
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Whether the data column creates a hyperlink in a shape when the shape is linked to data.
 type: docs
 weight: 90
 url: /net/aspose.diagram/datacolumn/hyperlink/

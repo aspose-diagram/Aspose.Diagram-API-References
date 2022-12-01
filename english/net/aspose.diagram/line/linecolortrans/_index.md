@@ -1,7 +1,7 @@
 ---
 title: LineColorTrans
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the transparency level of a shapes line color from 0 opaque to 1 completely transparent. The default is 0.
 type: docs
 weight: 100
 url: /net/aspose.diagram/line/linecolortrans/

@@ -1,7 +1,7 @@
 ---
 title: LangID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The language ID of the data column
 type: docs
 weight: 110
 url: /net/aspose.diagram/datacolumn/langid/

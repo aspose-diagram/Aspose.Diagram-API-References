@@ -1,7 +1,7 @@
 ---
 title: SplineKnot
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of the SplineKnotaspose.diagram/splineknot class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/splineknot/splineknot/

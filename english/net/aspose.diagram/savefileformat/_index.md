@@ -1,9 +1,9 @@
 ---
 title: SaveFileFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Enumeration for saving diagram format selection.
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.diagram/savefileformat/
 ---
 ## SaveFileFormat enumeration

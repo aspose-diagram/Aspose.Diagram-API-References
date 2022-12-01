@@ -1,7 +1,7 @@
 ---
 title: Min
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the minimum acceptable value.
 type: docs
 weight: 20
 url: /net/aspose.diagram.activexcontrols/spinbuttonactivexcontrol/min/

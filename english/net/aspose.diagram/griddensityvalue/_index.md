@@ -1,9 +1,9 @@
 ---
 title: GridDensityValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of horizontal/vertical grid to use for a page.
 type: docs
-weight: 1800
+weight: 1810
 url: /net/aspose.diagram/griddensityvalue/
 ---
 ## GridDensityValue enumeration

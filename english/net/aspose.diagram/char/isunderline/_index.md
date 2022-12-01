@@ -1,7 +1,7 @@
 ---
 title: IsUnderline
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicating whether the font is underline.
 type: docs
 weight: 240
 url: /net/aspose.diagram/char/isunderline/

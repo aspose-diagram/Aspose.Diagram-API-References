@@ -1,12 +1,12 @@
 ---
 title: AddComment
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adds comment with defined PinX and PinY.
 type: docs
 weight: 200
 url: /net/aspose.diagram/page/addcomment/
 ---
-## Page.AddComment method (1 of 3)
+## AddComment(double, double, string) {#addcomment_1}
 
 Adds comment with defined PinX and PinY.
 
@@ -28,7 +28,7 @@ public void AddComment(double pinX, double pinY, string comment)
 
 ---
 
-## Page.AddComment method (2 of 3)
+## AddComment(long, string) {#addcomment_2}
 
 Adds comment to a shape with shape's id.
 
@@ -49,7 +49,7 @@ public void AddComment(long shapeID, string comment)
 
 ---
 
-## Page.AddComment method (3 of 3)
+## AddComment(Shape, string) {#addcomment}
 
 Adds comment to a shape.
 

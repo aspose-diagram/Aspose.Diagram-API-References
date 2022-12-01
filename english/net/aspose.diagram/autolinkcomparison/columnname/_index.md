@@ -1,7 +1,7 @@
 ---
 title: ColumnName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Corresponds to a column name in the ADO recordset.
 type: docs
 weight: 10
 url: /net/aspose.diagram/autolinkcomparison/columnname/

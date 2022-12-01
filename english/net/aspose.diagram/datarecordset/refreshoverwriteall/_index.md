@@ -1,7 +1,7 @@
 ---
 title: RefreshOverwriteAll
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Whether to overwrite user changes to shape data items in shapes linked to data when the data recordset is refreshed.
 type: docs
 weight: 160
 url: /net/aspose.diagram/datarecordset/refreshoverwriteall/

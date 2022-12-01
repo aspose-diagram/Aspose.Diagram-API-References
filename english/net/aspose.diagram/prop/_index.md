@@ -1,9 +1,9 @@
 ---
 title: Prop
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements for defining custom properties and elements for associating data with a shape.
 type: docs
-weight: 2840
+weight: 2850
 url: /net/aspose.diagram/prop/
 ---
 ## Prop class

@@ -1,9 +1,9 @@
 ---
 title: PolylineToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: PolylineTo collection.
 type: docs
-weight: 2670
+weight: 2680
 url: /net/aspose.diagram/polylinetocollection/
 ---
 ## PolylineToCollection class

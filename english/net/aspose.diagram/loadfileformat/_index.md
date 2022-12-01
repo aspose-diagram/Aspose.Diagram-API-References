@@ -1,9 +1,9 @@
 ---
 title: LoadFileFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Enumeration for loading diagram format selection.
 type: docs
-weight: 2200
+weight: 2210
 url: /net/aspose.diagram/loadfileformat/
 ---
 ## LoadFileFormat enumeration

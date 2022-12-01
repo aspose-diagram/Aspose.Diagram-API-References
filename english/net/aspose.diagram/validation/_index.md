@@ -1,9 +1,9 @@
 ---
 title: Validation
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Stores information about diagram validation for the document.
 type: docs
-weight: 4210
+weight: 4220
 url: /net/aspose.diagram/validation/
 ---
 ## Validation class

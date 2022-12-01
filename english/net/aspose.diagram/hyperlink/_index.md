@@ -1,9 +1,9 @@
 ---
 title: Hyperlink
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements for creating multiple jumps between a shape or drawing page and another drawing page another file or a Web site.
 type: docs
-weight: 1870
+weight: 1880
 url: /net/aspose.diagram/hyperlink/
 ---
 ## Hyperlink class

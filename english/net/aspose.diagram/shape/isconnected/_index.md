@@ -1,9 +1,9 @@
 ---
 title: IsConnected
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether this two shapes are connected.
 type: docs
-weight: 790
+weight: 830
 url: /net/aspose.diagram/shape/isconnected/
 ---
 ## Shape.IsConnected method

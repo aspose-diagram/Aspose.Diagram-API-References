@@ -1,9 +1,9 @@
 ---
 title: GluedShapesFlags
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies constants that identify which shapes to return based on the dimensionality and directionality of the connection points that are glued to a particular shape passed to the Shape.GluedShapes method.
 type: docs
-weight: 1710
+weight: 1720
 url: /net/aspose.diagram/gluedshapesflags/
 ---
 ## GluedShapesFlags enumeration

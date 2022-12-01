@@ -1,7 +1,7 @@
 ---
 title: LockEnd
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the end point of a 1D shape is locked to a specific location.
 type: docs
 weight: 80
 url: /net/aspose.diagram/protection/lockend/

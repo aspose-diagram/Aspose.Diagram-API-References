@@ -1,7 +1,7 @@
 ---
 title: ToSheet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ID of the shape to which one or more connections are made
 type: docs
 weight: 70
 url: /net/aspose.diagram/connect/tosheet/

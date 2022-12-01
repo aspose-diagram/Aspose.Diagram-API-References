@@ -1,7 +1,7 @@
 ---
 title: Act
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines custom command names that appear on an objects shortcut menu and specifies the actions that the commands take.
 type: docs
 weight: 20
 url: /net/aspose.diagram/act/

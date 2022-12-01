@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The xcoordinate of the control point at the end of the curve in relative coordinates.
 type: docs
 weight: 40
 url: /net/aspose.diagram/relcubbezto/c/

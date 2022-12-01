@@ -1,7 +1,7 @@
 ---
 title: CurrentIndex
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates the value of the MarkerIndex element that will be added when the current reviewer adds another comment to the document.
 type: docs
 weight: 30
 url: /net/aspose.diagram/reviewer/currentindex/

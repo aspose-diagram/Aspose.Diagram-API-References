@@ -1,7 +1,7 @@
 ---
 title: RuleSetFlags
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the rule set appears in the Rules to Check list.
 type: docs
 weight: 80
 url: /net/aspose.diagram/ruleset/rulesetflags/

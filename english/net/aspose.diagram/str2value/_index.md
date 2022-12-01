@@ -1,9 +1,9 @@
 ---
 title: Str2Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: String value.
 type: docs
-weight: 3860
+weight: 3870
 url: /net/aspose.diagram/str2value/
 ---
 ## Str2Value class
@@ -18,8 +18,8 @@ public class Str2Value : StrValue
 
 | Name | Description |
 | --- | --- |
-| [Str2Value](str2value)(string) | Constructor. |
-| [Str2Value](str2value)(string, UnitFormulaErrV) | Constructor. |
+| [Str2Value](str2value#constructor)(string) | Constructor. |
+| [Str2Value](str2value#constructor_1)(string, UnitFormulaErrV) | Constructor. |
 
 ## Properties
 

@@ -1,9 +1,9 @@
 ---
 title: RulerDensityValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the horizontal subdivisions on the ruler for the page.
 type: docs
-weight: 3180
+weight: 3190
 url: /net/aspose.diagram/rulerdensityvalue/
 ---
 ## RulerDensityValue enumeration

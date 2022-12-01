@@ -1,7 +1,7 @@
 ---
 title: RefreshMilestone
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Refresh milestone
 type: docs
 weight: 70
 url: /net/aspose.diagram/milestonehelper/refreshmilestone/

@@ -1,9 +1,9 @@
 ---
 title: Ellipse
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying the x and ycoordinates of the ellipses center point and two points on the ellipse.
 type: docs
-weight: 1340
+weight: 1350
 url: /net/aspose.diagram/ellipse/
 ---
 ## Ellipse class

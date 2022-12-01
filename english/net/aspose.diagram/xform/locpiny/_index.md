@@ -1,7 +1,7 @@
 ---
 title: LocPinY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the ycoordinate of the shapes pin center of rotation in relation to the origin of the shape. The default formula for determining LocPinY is FHeight  0.5.
 type: docs
 weight: 70
 url: /net/aspose.diagram/xform/locpiny/

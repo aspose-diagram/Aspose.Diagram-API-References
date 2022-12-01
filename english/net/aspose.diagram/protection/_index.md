@@ -1,9 +1,9 @@
 ---
 title: Protection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window.
 type: docs
-weight: 2870
+weight: 2880
 url: /net/aspose.diagram/protection/
 ---
 ## Protection class

@@ -1,9 +1,9 @@
 ---
 title: OptionsValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Optional unsigned integer. Options to apply to the data recordset. Possible values can be any combination of one or more of those shown in the following table.
 type: docs
-weight: 2450
+weight: 2460
 url: /net/aspose.diagram/optionsvalue/
 ---
 ## OptionsValue enumeration

@@ -1,7 +1,7 @@
 ---
 title: DropButtonStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the symbol displayed on the drop button.
 type: docs
 weight: 230
 url: /net/aspose.diagram.activexcontrols/dropbuttonstyle/

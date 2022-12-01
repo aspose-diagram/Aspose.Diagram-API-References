@@ -1,7 +1,7 @@
 ---
 title: TxtAngle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the text blocks current angle of rotation in relation to the xaxis of the shape. The default is 0 degrees.
 type: docs
 weight: 20
 url: /net/aspose.diagram/textxform/txtangle/

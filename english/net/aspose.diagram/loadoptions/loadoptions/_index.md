@@ -1,12 +1,12 @@
 ---
 title: LoadOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Initializes a new instance of this class with default values.
 type: docs
 weight: 10
 url: /net/aspose.diagram/loadoptions/loadoptions/
 ---
-## LoadOptions constructor (1 of 2)
+## LoadOptions() {#constructor}
 
 Initializes a new instance of this class with default values.
 
@@ -26,7 +26,7 @@ Default file format is set as [`VSD`](../../loadfileformat).
 
 ---
 
-## LoadOptions constructor (2 of 2)
+## LoadOptions(LoadFileFormat) {#constructor_1}
 
 Initializes a new instance of this class with the format specified.
 

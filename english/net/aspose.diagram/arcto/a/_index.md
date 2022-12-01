@@ -1,7 +1,7 @@
 ---
 title: A
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The distance from the arcs midpoint to the midpoint of its chord.
 type: docs
 weight: 20
 url: /net/aspose.diagram/arcto/a/

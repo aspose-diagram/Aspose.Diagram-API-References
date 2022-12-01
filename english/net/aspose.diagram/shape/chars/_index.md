@@ -1,7 +1,7 @@
 ---
 title: Chars
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Char elements.
 type: docs
 weight: 50
 url: /net/aspose.diagram/shape/chars/

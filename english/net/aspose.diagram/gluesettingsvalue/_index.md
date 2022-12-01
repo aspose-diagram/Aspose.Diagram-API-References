@@ -1,9 +1,9 @@
 ---
 title: GlueSettingsValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the objects that shapes glue to when glue is enabled in the document.
 type: docs
-weight: 1680
+weight: 1690
 url: /net/aspose.diagram/gluesettingsvalue/
 ---
 ## GlueSettingsValue enumeration

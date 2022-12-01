@@ -1,9 +1,9 @@
 ---
 title: OutputFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the output format for a drawing.
 type: docs
-weight: 2460
+weight: 2470
 url: /net/aspose.diagram/outputformat/
 ---
 ## OutputFormat class

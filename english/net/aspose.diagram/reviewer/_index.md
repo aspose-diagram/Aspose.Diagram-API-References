@@ -1,9 +1,9 @@
 ---
 title: Reviewer
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that contain identifying information about a document reviewer.
 type: docs
-weight: 3030
+weight: 3040
 url: /net/aspose.diagram/reviewer/
 ---
 ## Reviewer class

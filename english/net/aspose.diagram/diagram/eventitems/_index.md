@@ -1,7 +1,7 @@
 ---
 title: EventItems
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains an EventItem element for each event to which an object should respond.
 type: docs
 weight: 120
 url: /net/aspose.diagram/diagram/eventitems/

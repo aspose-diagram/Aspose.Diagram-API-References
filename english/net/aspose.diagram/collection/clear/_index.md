@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Removes all elements from collection.
 type: docs
 weight: 30
 url: /net/aspose.diagram/collection/clear/

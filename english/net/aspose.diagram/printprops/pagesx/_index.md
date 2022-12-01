@@ -1,7 +1,7 @@
 ---
 title: PagesX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the number of printer pages on which to fit the drawing page horizontally.
 type: docs
 weight: 80
 url: /net/aspose.diagram/printprops/pagesx/

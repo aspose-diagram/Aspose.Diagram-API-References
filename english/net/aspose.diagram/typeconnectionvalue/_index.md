@@ -1,9 +1,9 @@
 ---
 title: TypeConnectionValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies various types based on the element in which it is contained.
 type: docs
-weight: 4090
+weight: 4100
 url: /net/aspose.diagram/typeconnectionvalue/
 ---
 ## TypeConnectionValue enumeration

@@ -1,7 +1,7 @@
 ---
 title: ShapeShdwObliqueAngle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the angle of oblique direction of a shapes shadow.
 type: docs
 weight: 90
 url: /net/aspose.diagram/fill/shapeshdwobliqueangle/

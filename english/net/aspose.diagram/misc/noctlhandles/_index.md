@@ -1,7 +1,7 @@
 ---
 title: NoCtlHandles
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether control handles are displayed when the shape is selected.
 type: docs
 weight: 150
 url: /net/aspose.diagram/misc/noctlhandles/

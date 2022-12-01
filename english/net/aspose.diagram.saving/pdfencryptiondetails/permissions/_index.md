@@ -1,7 +1,7 @@
 ---
 title: Permissions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the permissions.
 type: docs
 weight: 40
 url: /net/aspose.diagram.saving/pdfencryptiondetails/permissions/

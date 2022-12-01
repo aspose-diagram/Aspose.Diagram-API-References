@@ -1,7 +1,7 @@
 ---
 title: ArcTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates an instance of the ArcToaspose.diagram/arcto class.
 type: docs
 weight: 10
 url: /net/aspose.diagram/arcto/arcto/

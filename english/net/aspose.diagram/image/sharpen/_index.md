@@ -1,7 +1,7 @@
 ---
 title: Sharpen
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the amount to sharpen a bitmap image. Sharpening an image focuses it by increasing the contrast of adjacent pixels.
 type: docs
 weight: 70
 url: /net/aspose.diagram/image/sharpen/

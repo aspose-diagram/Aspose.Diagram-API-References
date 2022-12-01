@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the height of the font. Equivalent to the GDI LOGFONT lfHeight field.
 type: docs
 weight: 50
 url: /net/aspose.diagram/headerfooterfont/height/

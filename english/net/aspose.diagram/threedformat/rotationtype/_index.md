@@ -1,7 +1,7 @@
 ---
 title: RotationType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of projection of the effect properties of a shape.
 type: docs
 weight: 170
 url: /net/aspose.diagram/threedformat/rotationtype/

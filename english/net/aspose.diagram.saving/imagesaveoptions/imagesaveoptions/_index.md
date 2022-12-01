@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Initializes a new instance of this class that can be used to save rendered images in the Tiffaspose.diagram/savefileformat Pngaspose.diagram/savefileformat Bmpaspose.diagram/savefileformat Emfaspose.diagram/savefileformat or Jpegaspose.diagram/savefileformat format.
 type: docs
 weight: 10
 url: /net/aspose.diagram.saving/imagesaveoptions/imagesaveoptions/

@@ -1,7 +1,7 @@
 ---
 title: AlignTop
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the vertical position relative to the origin of its parent of a horizontal guide or guide point to which the shapes top border is aligned.
 type: docs
 weight: 60
 url: /net/aspose.diagram/align/aligntop/

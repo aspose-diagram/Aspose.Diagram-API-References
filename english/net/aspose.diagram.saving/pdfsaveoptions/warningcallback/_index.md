@@ -1,7 +1,7 @@
 ---
 title: WarningCallback
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets warning callback.
 type: docs
 weight: 160
 url: /net/aspose.diagram.saving/pdfsaveoptions/warningcallback/

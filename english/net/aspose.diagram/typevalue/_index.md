@@ -1,9 +1,9 @@
 ---
 title: TypeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Optional enumeration. The type of a shape.
 type: docs
-weight: 4140
+weight: 4150
 url: /net/aspose.diagram/typevalue/
 ---
 ## TypeValue enumeration

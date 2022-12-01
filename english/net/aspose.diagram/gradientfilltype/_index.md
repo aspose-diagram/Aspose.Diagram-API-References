@@ -1,9 +1,9 @@
 ---
 title: GradientFillType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents all Gradient fill type.
 type: docs
-weight: 1750
+weight: 1760
 url: /net/aspose.diagram/gradientfilltype/
 ---
 ## GradientFillType enumeration

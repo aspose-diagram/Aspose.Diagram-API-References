@@ -1,7 +1,7 @@
 ---
 title: StrikeOut
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the font is a strikeout font. Equivalent to the GDI LOGFONT lfStrikeOut field.
 type: docs
 weight: 110
 url: /net/aspose.diagram/headerfooterfont/strikeout/

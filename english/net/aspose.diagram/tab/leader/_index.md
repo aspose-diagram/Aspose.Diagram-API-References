@@ -1,7 +1,7 @@
 ---
 title: Leader
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specified the leader.
 type: docs
 weight: 40
 url: /net/aspose.diagram/tab/leader/

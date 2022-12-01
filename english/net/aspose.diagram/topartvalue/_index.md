@@ -1,9 +1,9 @@
 ---
 title: ToPartValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The part of a shape to which a connection is made.
 type: docs
-weight: 4050
+weight: 4060
 url: /net/aspose.diagram/topartvalue/
 ---
 ## ToPartValue enumeration

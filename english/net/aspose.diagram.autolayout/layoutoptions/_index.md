@@ -1,7 +1,7 @@
 ---
 title: LayoutOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Used to specify style and additional options of layout of shapes to perform ReLayout of pagepages.
 type: docs
 weight: 460
 url: /net/aspose.diagram.autolayout/layoutoptions/

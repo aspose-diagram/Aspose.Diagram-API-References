@@ -1,9 +1,9 @@
 ---
 title: Diagram
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Root element of Visio objects hierarchy.
 type: docs
-weight: 1150
+weight: 1160
 url: /net/aspose.diagram/diagram/
 ---
 ## Diagram class
@@ -18,13 +18,13 @@ public class Diagram : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Diagram](diagram)() | The default constructor. |
-| [Diagram](diagram)(Stream) | Public Diagram class constructor, loads the diagram from the stream. |
-| [Diagram](diagram)(string) | Public Diagram class constructor, loads the diagram from the file. |
-| [Diagram](diagram)(Stream, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the stream using predefined format. |
-| [Diagram](diagram)(Stream, LoadOptions) | Public Diagram class constructor, loads the diagram from the stream using predefined load file options. |
-| [Diagram](diagram)(string, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the file using predefined format. |
-| [Diagram](diagram)(string, LoadOptions) | Public Diagram class constructor, loads the diagram from the file using predefined load file options. |
+| [Diagram](diagram#constructor)() | The default constructor. |
+| [Diagram](diagram#constructor_1)(Stream) | Public Diagram class constructor, loads the diagram from the stream. |
+| [Diagram](diagram#constructor_4)(string) | Public Diagram class constructor, loads the diagram from the file. |
+| [Diagram](diagram#constructor_2)(Stream, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the stream using predefined format. |
+| [Diagram](diagram#constructor_3)(Stream, LoadOptions) | Public Diagram class constructor, loads the diagram from the stream using predefined load file options. |
+| [Diagram](diagram#constructor_5)(string, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the file using predefined format. |
+| [Diagram](diagram#constructor_6)(string, LoadOptions) | Public Diagram class constructor, loads the diagram from the file using predefined load file options. |
 
 ## Properties
 
@@ -64,14 +64,14 @@ public class Diagram : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AddMaster](../../aspose.diagram/diagram/addmaster)(Diagram, string) | Adds master to diagram from source diagram by master's Name or NameU. |
-| [AddMaster](../../aspose.diagram/diagram/addmaster)(Stream, int) | Adds master to diagram from template stream by master's ID. |
-| [AddMaster](../../aspose.diagram/diagram/addmaster)(Stream, string) | Adds master to diagram from template stream by master's Name or NameU. |
-| [AddMaster](../../aspose.diagram/diagram/addmaster)(string, int) | Adds master to diagram from template file by master's ID. |
-| [AddMaster](../../aspose.diagram/diagram/addmaster)(string, string) | Adds master to diagram from template file by master's Name or NameU. |
-| [AddShape](../../aspose.diagram/diagram/addshape)(Shape, string, int) | Adds shape created by master to specific page. |
-| [AddShape](../../aspose.diagram/diagram/addshape)(double, double, string, int) | Adds shape created by master on page with defined PinX and PinY. |
-| [AddShape](../../aspose.diagram/diagram/addshape)(double, double, double, double, string, int) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
+| [AddMaster](../../aspose.diagram/diagram/addmaster#addmaster)(Diagram, string) | Adds master to diagram from source diagram by master's Name or NameU. |
+| [AddMaster](../../aspose.diagram/diagram/addmaster#addmaster_1)(Stream, int) | Adds master to diagram from template stream by master's ID. |
+| [AddMaster](../../aspose.diagram/diagram/addmaster#addmaster_2)(Stream, string) | Adds master to diagram from template stream by master's Name or NameU. |
+| [AddMaster](../../aspose.diagram/diagram/addmaster#addmaster_3)(string, int) | Adds master to diagram from template file by master's ID. |
+| [AddMaster](../../aspose.diagram/diagram/addmaster#addmaster_4)(string, string) | Adds master to diagram from template file by master's Name or NameU. |
+| [AddShape](../../aspose.diagram/diagram/addshape#addshape)(Shape, string, int) | Adds shape created by master to specific page. |
+| [AddShape](../../aspose.diagram/diagram/addshape#addshape_2)(double, double, string, int) | Adds shape created by master on page with defined PinX and PinY. |
+| [AddShape](../../aspose.diagram/diagram/addshape#addshape_1)(double, double, double, double, string, int) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
 | [Combine](../../aspose.diagram/diagram/combine)(Diagram) | Combines another Diagram object. |
 | [CopyTheme](../../aspose.diagram/diagram/copytheme)(Diagram) | Copies Theme from a source Diagram. |
 | [Dispose](../../aspose.diagram/diagram/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
@@ -79,27 +79,27 @@ public class Diagram : IDisposable
 | [GetUnusedStyles](../../aspose.diagram/diagram/getunusedstyles)() | Get unused Styles |
 | [HasHiddenInfo](../../aspose.diagram/diagram/hashiddeninfo)() | Indicates whether this diagram has hidden information. |
 | [Layout](../../aspose.diagram/diagram/layout)(LayoutOptions) | Lays out the shapes and/or reroutes the connectors for all pages of diagram. |
-| [Print](../../aspose.diagram/diagram/print)() | Prints the whole document to the default printer. |
-| [Print](../../aspose.diagram/diagram/print)(PrinterSettings) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
-| [Print](../../aspose.diagram/diagram/print)(PrintSaveOptions) | Prints the whole document to the default printer. |
-| [Print](../../aspose.diagram/diagram/print)(string) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
-| [Print](../../aspose.diagram/diagram/print)(PrinterSettings, PrintSaveOptions) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
-| [Print](../../aspose.diagram/diagram/print)(PrinterSettings, string) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name. |
-| [Print](../../aspose.diagram/diagram/print)(string, PrintSaveOptions) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
-| [Print](../../aspose.diagram/diagram/print)(string, string) | Prints the document,using the standard (no User Interface) print controller and a document name. |
-| [Print](../../aspose.diagram/diagram/print)(PrinterSettings, string, PrintSaveOptions) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name. |
-| [Print](../../aspose.diagram/diagram/print)(string, string, PrintSaveOptions) | Prints the document,using the standard (no User Interface) print controller and a document name. |
+| [Print](../../aspose.diagram/diagram/print#print)() | Prints the whole document to the default printer. |
+| [Print](../../aspose.diagram/diagram/print#print_2)(PrinterSettings) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print#print_1)(PrintSaveOptions) | Prints the whole document to the default printer. |
+| [Print](../../aspose.diagram/diagram/print#print_6)(string) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print#print_3)(PrinterSettings, PrintSaveOptions) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print#print_4)(PrinterSettings, string) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name. |
+| [Print](../../aspose.diagram/diagram/print#print_7)(string, PrintSaveOptions) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print#print_8)(string, string) | Prints the document,using the standard (no User Interface) print controller and a document name. |
+| [Print](../../aspose.diagram/diagram/print#print_5)(PrinterSettings, string, PrintSaveOptions) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name. |
+| [Print](../../aspose.diagram/diagram/print#print_9)(string, string, PrintSaveOptions) | Prints the document,using the standard (no User Interface) print controller and a document name. |
 | [Refresh](../../aspose.diagram/diagram/refresh)() | Invokes Refresh method for all DataRecordSet in the Diagram. |
 | [RemoveHiddenInformation](../../aspose.diagram/diagram/removehiddeninformation)(int) | Remove unused information |
 | [RemoveMacro](../../aspose.diagram/diagram/removemacro)() | Removes VBA/macro from this diagram. |
-| [Save](../../aspose.diagram/diagram/save)(Stream, SaveFileFormat) | Saves the diagram data to the stream. |
-| [Save](../../aspose.diagram/diagram/save)(Stream, SaveOptions) | Saves the diagram to a stream using the specified save options. |
-| [Save](../../aspose.diagram/diagram/save)(string, SaveFileFormat) | Saves the diagram data to the file. |
-| [Save](../../aspose.diagram/diagram/save)(string, SaveOptions) | Saves the document to a file using the specified save options. |
-| static [Export](../../aspose.diagram/diagram/export)(Stream, Stream) | Exports the diagram from vsd stream to vdw stream format. Not implemented yet. |
-| static [Export](../../aspose.diagram/diagram/export)(Stream, string) | Exports the diagram from vsd stream to *.vdw file format. Not implemented yet. |
-| static [Export](../../aspose.diagram/diagram/export)(string, Stream) | Exports the diagram from vsd file to vdw stream format. Not implemented yet. |
-| static [Export](../../aspose.diagram/diagram/export)(string, string) | Exports the diagram from vsd to vdw format. Not implemented yet. |
+| [Save](../../aspose.diagram/diagram/save#save)(Stream, SaveFileFormat) | Saves the diagram data to the stream. |
+| [Save](../../aspose.diagram/diagram/save#save_1)(Stream, SaveOptions) | Saves the diagram to a stream using the specified save options. |
+| [Save](../../aspose.diagram/diagram/save#save_2)(string, SaveFileFormat) | Saves the diagram data to the file. |
+| [Save](../../aspose.diagram/diagram/save#save_3)(string, SaveOptions) | Saves the document to a file using the specified save options. |
+| static [Export](../../aspose.diagram/diagram/export#export)(Stream, Stream) | Exports the diagram from vsd stream to vdw stream format. Not implemented yet. |
+| static [Export](../../aspose.diagram/diagram/export#export_1)(Stream, string) | Exports the diagram from vsd stream to *.vdw file format. Not implemented yet. |
+| static [Export](../../aspose.diagram/diagram/export#export_2)(string, Stream) | Exports the diagram from vsd file to vdw stream format. Not implemented yet. |
+| static [Export](../../aspose.diagram/diagram/export#export_3)(string, string) | Exports the diagram from vsd to vdw format. Not implemented yet. |
 
 ### See Also
 

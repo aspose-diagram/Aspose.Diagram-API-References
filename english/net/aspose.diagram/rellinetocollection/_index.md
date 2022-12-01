@@ -1,9 +1,9 @@
 ---
 title: RelLineToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: RelLineTo collection.
 type: docs
-weight: 2950
+weight: 2960
 url: /net/aspose.diagram/rellinetocollection/
 ---
 ## RelLineToCollection class

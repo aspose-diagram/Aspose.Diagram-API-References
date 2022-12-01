@@ -1,9 +1,9 @@
 ---
 title: ReviewerCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Reviewer collection.
 type: docs
-weight: 3040
+weight: 3050
 url: /net/aspose.diagram/reviewercollection/
 ---
 ## ReviewerCollection class

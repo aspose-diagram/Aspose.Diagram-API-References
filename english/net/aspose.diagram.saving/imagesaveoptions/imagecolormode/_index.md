@@ -1,7 +1,7 @@
 ---
 title: ImageColorMode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the color mode for the generated images.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/imagesaveoptions/imagecolormode/

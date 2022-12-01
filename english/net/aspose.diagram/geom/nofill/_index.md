@@ -1,7 +1,7 @@
 ---
 title: NoFill
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a path can be filled.
 type: docs
 weight: 60
 url: /net/aspose.diagram/geom/nofill/

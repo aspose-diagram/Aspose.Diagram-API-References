@@ -1,9 +1,9 @@
 ---
 title: UnitFormulaErrV
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specified attributes of an element.
 type: docs
-weight: 4180
+weight: 4190
 url: /net/aspose.diagram/unitformulaerrv/
 ---
 ## UnitFormulaErrV class
@@ -33,7 +33,7 @@ public class UnitFormulaErrV : UnitFormulaErr
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/unitformulaerrv/clone)() | Creates deep copy of this instance. (2 methods) |
+| [Clone](../../aspose.diagram/unitformulaerrv/clone#clone)() | Creates deep copy of this instance. (2 methods) |
 | override [Equals](../../aspose.diagram/unitformulaerrv/equals)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/unitformulaerrv/gethashcode)() | Serves as a hash function for a particular type. |
 

@@ -1,7 +1,7 @@
 ---
 title: LockGroup
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a group is locked so that it cannot be ungrouped.
 type: docs
 weight: 110
 url: /net/aspose.diagram/protection/lockgroup/

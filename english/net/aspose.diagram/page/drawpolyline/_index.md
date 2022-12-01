@@ -1,7 +1,7 @@
 ---
 title: DrawPolyline
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The process of drawing polyline.
 type: docs
 weight: 350
 url: /net/aspose.diagram/page/drawpolyline/

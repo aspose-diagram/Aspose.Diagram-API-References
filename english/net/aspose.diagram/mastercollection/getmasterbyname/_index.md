@@ -1,7 +1,7 @@
 ---
 title: GetMasterByName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Get master by name.
 type: docs
 weight: 50
 url: /net/aspose.diagram/mastercollection/getmasterbyname/

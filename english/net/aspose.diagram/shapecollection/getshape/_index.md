@@ -1,12 +1,12 @@
 ---
 title: GetShape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified name.
 type: docs
 weight: 30
 url: /net/aspose.diagram/shapecollection/getshape/
 ---
-## ShapeCollection.GetShape method (1 of 2)
+## GetShape(string) {#getshape_1}
 
 Gets the element at the specified name.
 
@@ -27,7 +27,7 @@ public Shape GetShape(string name)
 
 ---
 
-## ShapeCollection.GetShape method (2 of 2)
+## GetShape(long) {#getshape}
 
 Gets the element at the specified ID.
 

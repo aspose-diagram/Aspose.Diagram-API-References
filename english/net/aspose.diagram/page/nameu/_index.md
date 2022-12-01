@@ -1,7 +1,7 @@
 ---
 title: NameU
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The universal name of the element.
 type: docs
 weight: 80
 url: /net/aspose.diagram/page/nameu/

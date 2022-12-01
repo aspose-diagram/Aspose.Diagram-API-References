@@ -1,7 +1,7 @@
 ---
 title: FillStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: StyleSheet from which this shape inherits fill formatting.
 type: docs
 weight: 190
 url: /net/aspose.diagram/shape/fillstyle/

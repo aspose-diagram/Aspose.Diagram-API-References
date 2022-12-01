@@ -1,7 +1,7 @@
 ---
 title: SetFontFolders
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Sets the fonts folders
 type: docs
 weight: 40
 url: /net/aspose.diagram/individualfontconfigs/setfontfolders/

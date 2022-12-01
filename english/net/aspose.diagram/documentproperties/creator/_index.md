@@ -1,7 +1,7 @@
 ---
 title: Creator
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Identifies who created or last updated the file. The maximum length is 63 characters.
 type: docs
 weight: 60
 url: /net/aspose.diagram/documentproperties/creator/

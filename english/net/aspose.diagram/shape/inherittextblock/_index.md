@@ -1,9 +1,9 @@
 ---
 title: InheritTextBlock
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the textblock values for the shape inherit by the parent style and the master shape.
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.diagram/shape/inherittextblock/
 ---
 ## Shape.InheritTextBlock property

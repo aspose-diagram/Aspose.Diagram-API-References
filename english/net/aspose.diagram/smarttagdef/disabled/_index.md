@@ -1,7 +1,7 @@
 ---
 title: Disabled
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Disabled element determines whether the smart tag appears in the drawing window.
 type: docs
 weight: 50
 url: /net/aspose.diagram/smarttagdef/disabled/

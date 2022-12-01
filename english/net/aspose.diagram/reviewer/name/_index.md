@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Name element specifies the name of a document reviewer.
 type: docs
 weight: 70
 url: /net/aspose.diagram/reviewer/name/

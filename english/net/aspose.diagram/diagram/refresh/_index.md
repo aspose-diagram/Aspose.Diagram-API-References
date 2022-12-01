@@ -1,7 +1,7 @@
 ---
 title: Refresh
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Invokes Refresh method for all DataRecordSet in the Diagram.
 type: docs
 weight: 410
 url: /net/aspose.diagram/diagram/refresh/

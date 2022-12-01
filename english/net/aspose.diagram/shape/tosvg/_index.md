@@ -1,9 +1,9 @@
 ---
 title: ToSvg
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Saves the shape to a svg file.
 type: docs
-weight: 980
+weight: 1020
 url: /net/aspose.diagram/shape/tosvg/
 ---
 ## Shape.ToSvg method

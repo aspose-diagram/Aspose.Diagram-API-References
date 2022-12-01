@@ -1,9 +1,9 @@
 ---
 title: GlueSettings
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The bit values indicate that a specific glue setting is on or off. The value may be a sum of the values
 type: docs
-weight: 1670
+weight: 1680
 url: /net/aspose.diagram/gluesettings/
 ---
 ## GlueSettings enumeration

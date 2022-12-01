@@ -1,7 +1,7 @@
 ---
 title: Unit
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a unit of measure. The default is DP.
 type: docs
 weight: 20
 url: /net/aspose.diagram/margin/unit/

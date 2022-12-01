@@ -1,7 +1,7 @@
 ---
 title: Shapes
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets shapes to render. Default count is 0.
 type: docs
 weight: 70
 url: /net/aspose.diagram.saving/renderingsaveoptions/shapes/

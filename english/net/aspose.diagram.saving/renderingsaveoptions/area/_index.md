@@ -1,7 +1,7 @@
 ---
 title: Area
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the area of the shapes will be saved .
 type: docs
 weight: 10
 url: /net/aspose.diagram.saving/renderingsaveoptions/area/

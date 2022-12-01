@@ -1,7 +1,7 @@
 ---
 title: DrawingResizeType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether the drawing page resizes automatically to fit the diagram.
 type: docs
 weight: 20
 url: /net/aspose.diagram/pageprops/drawingresizetype/

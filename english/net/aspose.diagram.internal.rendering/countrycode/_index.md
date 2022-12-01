@@ -1,9 +1,9 @@
 ---
 title: CountryCode
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents Excel country identifiers.
 type: docs
-weight: 1960
+weight: 1970
 url: /net/aspose.diagram.internal.rendering/countrycode/
 ---
 ## CountryCode enumeration

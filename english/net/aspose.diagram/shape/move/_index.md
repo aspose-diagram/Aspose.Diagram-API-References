@@ -1,9 +1,9 @@
 ---
 title: Move
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Moves shape on the dX and dY inches from current position.
 type: docs
-weight: 840
+weight: 880
 url: /net/aspose.diagram/shape/move/
 ---
 ## Shape.Move method

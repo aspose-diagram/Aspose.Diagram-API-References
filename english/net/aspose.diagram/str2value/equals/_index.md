@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Are objects equal.
 type: docs
 weight: 30
 url: /net/aspose.diagram/str2value/equals/

@@ -1,9 +1,9 @@
 ---
 title: WarningInfo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Warning info
 type: docs
-weight: 4360
+weight: 4370
 url: /net/aspose.diagram/warninginfo/
 ---
 ## WarningInfo class

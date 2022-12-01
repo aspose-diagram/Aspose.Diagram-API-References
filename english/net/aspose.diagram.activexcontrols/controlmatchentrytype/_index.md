@@ -1,7 +1,7 @@
 ---
 title: ControlMatchEntryType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents how a ListBox or ComboBox searches its list as the user types.
 type: docs
 weight: 140
 url: /net/aspose.diagram.activexcontrols/controlmatchentrytype/

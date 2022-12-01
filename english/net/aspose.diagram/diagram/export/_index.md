@@ -1,12 +1,12 @@
 ---
 title: Export
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Exports the diagram from vsd to vdw format. Not implemented yet.
 type: docs
 weight: 450
 url: /net/aspose.diagram/diagram/export/
 ---
-## Diagram.Export method (1 of 4)
+## Export(string, string) {#export_3}
 
 Exports the diagram from vsd to vdw format. Not implemented yet.
 
@@ -27,7 +27,7 @@ public static void Export(string inputVsd, string outputVdw)
 
 ---
 
-## Diagram.Export method (2 of 4)
+## Export(string, Stream) {#export_2}
 
 Exports the diagram from vsd file to vdw stream format. Not implemented yet.
 
@@ -48,7 +48,7 @@ public static void Export(string inputVsd, Stream outputVdw)
 
 ---
 
-## Diagram.Export method (3 of 4)
+## Export(Stream, string) {#export_1}
 
 Exports the diagram from vsd stream to *.vdw file format. Not implemented yet.
 
@@ -69,7 +69,7 @@ public static void Export(Stream inputVsd, string outputVdw)
 
 ---
 
-## Diagram.Export method (4 of 4)
+## Export(Stream, Stream) {#export}
 
 Exports the diagram from vsd stream to vdw stream format. Not implemented yet.
 

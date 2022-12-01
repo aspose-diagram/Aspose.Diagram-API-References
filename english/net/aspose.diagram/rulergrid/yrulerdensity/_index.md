@@ -1,7 +1,7 @@
 ---
 title: YRulerDensity
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the vertical subdivisions on the ruler for the page.
 type: docs
 weight: 100
 url: /net/aspose.diagram/rulergrid/yrulerdensity/

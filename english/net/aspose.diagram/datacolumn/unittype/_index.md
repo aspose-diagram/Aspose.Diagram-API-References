@@ -1,7 +1,7 @@
 ---
 title: UnitType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Unit type of the data in the data column.
 type: docs
 weight: 150
 url: /net/aspose.diagram/datacolumn/unittype/

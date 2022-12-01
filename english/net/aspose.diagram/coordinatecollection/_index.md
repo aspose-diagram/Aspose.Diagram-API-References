@@ -1,9 +1,9 @@
 ---
 title: CoordinateCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Coordinate collection.
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.diagram/coordinatecollection/
 ---
 ## CoordinateCollection class
@@ -40,41 +40,41 @@ public class CoordinateCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.diagram/coordinatecollection/add)(ArcTo) | Add the ArcTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(Coordinate) | Add the Coordinate object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(Ellipse) | Add the Ellipse object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(EllipticalArcTo) | Add the EllipticalArcTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(InfiniteLine) | Add the InfiniteLine object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(LineTo) | Add the LineTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(MoveTo) | Add the MoveTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(NURBSTo) | Add the NURBSTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(PolylineTo) | Add the PolylineTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(RelCubBezTo) | Add the RelCubBezTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(RelEllipticalArcTo) | Add the RelEllipticalArcTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(RelLineTo) | Add the RelLineTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(RelMoveTo) | Add the RelMoveTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(RelQuadBezTo) | Add the RelQuadBezTo object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(SplineKnot) | Add the SplineKnot object in the collection. |
-| [Add](../../aspose.diagram/coordinatecollection/add)(SplineStart) | Add the SplineStart object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add)(ArcTo) | Add the ArcTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_1)(Coordinate) | Add the Coordinate object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_2)(Ellipse) | Add the Ellipse object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_3)(EllipticalArcTo) | Add the EllipticalArcTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_4)(InfiniteLine) | Add the InfiniteLine object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_5)(LineTo) | Add the LineTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_6)(MoveTo) | Add the MoveTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_7)(NURBSTo) | Add the NURBSTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_8)(PolylineTo) | Add the PolylineTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_9)(RelCubBezTo) | Add the RelCubBezTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_10)(RelEllipticalArcTo) | Add the RelEllipticalArcTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_11)(RelLineTo) | Add the RelLineTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_12)(RelMoveTo) | Add the RelMoveTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_13)(RelQuadBezTo) | Add the RelQuadBezTo object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_14)(SplineKnot) | Add the SplineKnot object in the collection. |
+| [Add](../../aspose.diagram/coordinatecollection/add#add_15)(SplineStart) | Add the SplineStart object in the collection. |
 | [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(ArcTo) | Remove the ArcTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(Coordinate) | Remove the Coordinate object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(Ellipse) | Remove the Ellipse object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(EllipticalArcTo) | Remove the EllipticalArcTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(InfiniteLine) | Remove the InfiniteLine object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(LineTo) | Remove the LineTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(MoveTo) | Remove the MoveTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(NURBSTo) | Remove the NURBSTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(PolylineTo) | Remove the PolylineTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(RelCubBezTo) | Remove the RelCubBezTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(RelEllipticalArcTo) | Remove the RelEllipticalArcTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(RelLineTo) | Remove the RelLineTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(RelMoveTo) | Remove the RelMoveTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(RelQuadBezTo) | Remove the RelQuadBezTo object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(SplineKnot) | Remove the SplineKnot object from the collection. |
-| [Remove](../../aspose.diagram/coordinatecollection/remove)(SplineStart) | Remove the SplineStart object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove)(ArcTo) | Remove the ArcTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_1)(Coordinate) | Remove the Coordinate object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_2)(Ellipse) | Remove the Ellipse object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_3)(EllipticalArcTo) | Remove the EllipticalArcTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_4)(InfiniteLine) | Remove the InfiniteLine object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_5)(LineTo) | Remove the LineTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_6)(MoveTo) | Remove the MoveTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_7)(NURBSTo) | Remove the NURBSTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_8)(PolylineTo) | Remove the PolylineTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_9)(RelCubBezTo) | Remove the RelCubBezTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_10)(RelEllipticalArcTo) | Remove the RelEllipticalArcTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_11)(RelLineTo) | Remove the RelLineTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_12)(RelMoveTo) | Remove the RelMoveTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_13)(RelQuadBezTo) | Remove the RelQuadBezTo object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_14)(SplineKnot) | Remove the SplineKnot object from the collection. |
+| [Remove](../../aspose.diagram/coordinatecollection/remove#remove_15)(SplineStart) | Remove the SplineStart object from the collection. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: UnknownControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Unknow control.
 type: docs
 weight: 340
 url: /net/aspose.diagram.activexcontrols/unknowncontrol/

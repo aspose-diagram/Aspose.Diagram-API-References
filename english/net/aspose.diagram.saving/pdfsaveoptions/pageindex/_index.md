@@ -1,7 +1,7 @@
 ---
 title: PageIndex
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the 0based index of the first page to render. Default is 0.
 type: docs
 weight: 90
 url: /net/aspose.diagram.saving/pdfsaveoptions/pageindex/

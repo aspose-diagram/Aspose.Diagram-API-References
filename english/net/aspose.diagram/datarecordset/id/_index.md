@@ -1,7 +1,7 @@
 ---
 title: ID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The data recordset ID unique within the document.
 type: docs
 weight: 80
 url: /net/aspose.diagram/datarecordset/id/

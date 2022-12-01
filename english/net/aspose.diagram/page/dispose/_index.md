@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Performs applicationdefined tasks associated with freeing releasing or resetting unmanaged resources.
 type: docs
 weight: 310
 url: /net/aspose.diagram/page/dispose/

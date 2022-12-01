@@ -1,7 +1,7 @@
 ---
 title: CenterDrawing
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Centers a pages shapes with respect to the extent of the page. Centering shapes does not change their position relative to each other.
 type: docs
 weight: 270
 url: /net/aspose.diagram/page/centerdrawing/

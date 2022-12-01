@@ -1,12 +1,12 @@
 ---
 title: DoubleValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/doublevalue/doublevalue/
 ---
-## DoubleValue constructor (1 of 2)
+## DoubleValue(double, MeasureConst) {#constructor_1}
 
 Constructor.
 
@@ -28,7 +28,7 @@ public DoubleValue(double value, MeasureConst unit)
 
 ---
 
-## DoubleValue constructor (2 of 2)
+## DoubleValue() {#constructor}
 
 Constructor.
 

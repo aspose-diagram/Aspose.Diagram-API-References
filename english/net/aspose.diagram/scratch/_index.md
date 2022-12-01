@@ -1,9 +1,9 @@
 ---
 title: Scratch
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a work area for entering and testing formulas that are referred to by other elements. This element is typically used to isolate repeated complex calculations.
 type: docs
-weight: 3520
+weight: 3530
 url: /net/aspose.diagram/scratch/
 ---
 ## Scratch class

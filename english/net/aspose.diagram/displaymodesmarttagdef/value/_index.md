@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag when the shape is selected or all the time.
 type: docs
 weight: 30
 url: /net/aspose.diagram/displaymodesmarttagdef/value/

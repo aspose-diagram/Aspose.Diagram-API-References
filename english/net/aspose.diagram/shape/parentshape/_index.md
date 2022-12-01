@@ -1,9 +1,9 @@
 ---
 title: ParentShape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Shapes parent.
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.diagram/shape/parentshape/
 ---
 ## Shape.ParentShape property

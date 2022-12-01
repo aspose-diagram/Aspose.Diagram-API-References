@@ -1,7 +1,7 @@
 ---
 title: NoLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a line is drawn around the boundary of the path.
 type: docs
 weight: 70
 url: /net/aspose.diagram/geom/noline/

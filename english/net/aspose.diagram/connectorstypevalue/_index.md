@@ -1,9 +1,9 @@
 ---
 title: ConnectorsTypeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: May be one of the following values RightAngle StraightLines or CurvedLines. Only relevant when WindowType is specified as Drawing or Sheet.
 type: docs
-weight: 970
+weight: 980
 url: /net/aspose.diagram/connectorstypevalue/
 ---
 ## ConnectorsTypeValue enumeration

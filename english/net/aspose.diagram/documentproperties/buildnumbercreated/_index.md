@@ -1,7 +1,7 @@
 ---
 title: BuildNumberCreated
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the full build number of the instance used to create the document.
 type: docs
 weight: 20
 url: /net/aspose.diagram/documentproperties/buildnumbercreated/

@@ -1,7 +1,7 @@
 ---
 title: PageBottomMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the margin at the bottom of the printed page.
 type: docs
 weight: 50
 url: /net/aspose.diagram/printprops/pagebottommargin/

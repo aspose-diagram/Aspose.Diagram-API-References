@@ -1,7 +1,7 @@
 ---
 title: IsSubscript
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicating whether the font is subscript.
 type: docs
 weight: 220
 url: /net/aspose.diagram/char/issubscript/

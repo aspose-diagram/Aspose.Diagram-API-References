@@ -1,7 +1,7 @@
 ---
 title: VerticalResolution
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the vertical resolution for generated images in dots per inch. Applies generating image method except Emf format image.
 type: docs
 weight: 150
 url: /net/aspose.diagram.saving/pdfsaveoptions/verticalresolution/

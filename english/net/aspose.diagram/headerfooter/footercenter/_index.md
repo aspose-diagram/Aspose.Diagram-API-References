@@ -1,7 +1,7 @@
 ---
 title: FooterCenter
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the text string that appears in the center portion of a documents footer.
 type: docs
 weight: 10
 url: /net/aspose.diagram/headerfooter/footercenter/

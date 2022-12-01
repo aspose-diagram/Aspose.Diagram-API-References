@@ -1,7 +1,7 @@
 ---
 title: IX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The zerobased index of the element within its parent element.
 type: docs
 weight: 70
 url: /net/aspose.diagram/relellipticalarcto/ix/

@@ -1,9 +1,9 @@
 ---
 title: Fld
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates a textfield insertion point for the corresponding Field element.
 type: docs
-weight: 1500
+weight: 1510
 url: /net/aspose.diagram/fld/
 ---
 ## Fld class

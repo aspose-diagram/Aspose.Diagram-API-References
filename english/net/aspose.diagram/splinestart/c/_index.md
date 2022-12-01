@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The last knot of the spline.
 type: docs
 weight: 40
 url: /net/aspose.diagram/splinestart/c/

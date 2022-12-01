@@ -1,9 +1,9 @@
 ---
 title: IsGlued
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether this two shapes are glued.
 type: docs
-weight: 810
+weight: 850
 url: /net/aspose.diagram/shape/isglued/
 ---
 ## Shape.IsGlued method

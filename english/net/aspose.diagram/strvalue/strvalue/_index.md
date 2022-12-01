@@ -1,12 +1,12 @@
 ---
 title: StrValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/strvalue/strvalue/
 ---
-## StrValue constructor (1 of 3)
+## StrValue(string) {#constructor}
 
 Constructor.
 
@@ -26,7 +26,7 @@ public StrValue(string value)
 
 ---
 
-## StrValue constructor (2 of 3)
+## StrValue(string, UnitFormulaErr) {#constructor_2}
 
 Constructor.
 
@@ -48,7 +48,7 @@ public StrValue(string value, UnitFormulaErr ufe)
 
 ---
 
-## StrValue constructor (3 of 3)
+## StrValue(string, MeasureConst) {#constructor_1}
 
 Constructor.
 

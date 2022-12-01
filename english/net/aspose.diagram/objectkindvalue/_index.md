@@ -1,9 +1,9 @@
 ---
 title: ObjectKindValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates the type of text field.
 type: docs
-weight: 2430
+weight: 2440
 url: /net/aspose.diagram/objectkindvalue/
 ---
 ## ObjectKindValue enumeration

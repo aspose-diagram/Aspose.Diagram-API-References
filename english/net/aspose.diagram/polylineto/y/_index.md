@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ycoordinate of the ending vertex of a polyline.
 type: docs
 weight: 60
 url: /net/aspose.diagram/polylineto/y/

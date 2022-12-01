@@ -1,9 +1,9 @@
 ---
 title: LightRigDirectionType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the light rig direction type.
 type: docs
-weight: 2060
+weight: 2070
 url: /net/aspose.diagram/lightrigdirectiontype/
 ---
 ## LightRigDirectionType enumeration

@@ -1,7 +1,7 @@
 ---
 title: Subject
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a userdefined text string that describes the contents of the document. Maximum length is 63 characters.
 type: docs
 weight: 140
 url: /net/aspose.diagram/documentproperties/subject/

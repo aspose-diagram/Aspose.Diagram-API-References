@@ -1,9 +1,9 @@
 ---
 title: XForm
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that control line attributes for a shape such as pattern weight and color. These elements determine whether the line ends are formatted for example with an arrowhead the size of line end formats radius of the rounding circle applied to the line and line cap style round or square.
 type: docs
-weight: 4420
+weight: 4430
 url: /net/aspose.diagram/xform/
 ---
 ## XForm class

@@ -1,9 +1,9 @@
 ---
 title: SplineKnotCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: SplineKnot collection.
 type: docs
-weight: 3830
+weight: 3840
 url: /net/aspose.diagram/splineknotcollection/
 ---
 ## SplineKnotCollection class

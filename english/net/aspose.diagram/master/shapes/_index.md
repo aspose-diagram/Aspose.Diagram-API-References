@@ -1,7 +1,7 @@
 ---
 title: Shapes
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Collection of Shape objects.
 type: docs
 weight: 160
 url: /net/aspose.diagram/master/shapes/

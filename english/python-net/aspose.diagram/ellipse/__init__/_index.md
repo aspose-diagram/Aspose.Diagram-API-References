@@ -1,0 +1,28 @@
+﻿---
+title: Ellipse constructor
+second_title: Aspose.Diagram for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.diagram/ellipse/__init__/
+is_root: false
+---
+
+## Ellipse() {#}
+
+Creates an instance of the [Ellipse](/diagram/python-net/aspose.diagram/ellipse) class.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [aspose.diagram](../../)
+* class [Ellipse](/diagram/python-net/aspose.diagram/ellipse)

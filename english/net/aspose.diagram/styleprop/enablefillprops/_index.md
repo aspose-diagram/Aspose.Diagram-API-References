@@ -1,7 +1,7 @@
 ---
 title: EnableFillProps
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a style includes fill properties.
 type: docs
 weight: 20
 url: /net/aspose.diagram/styleprop/enablefillprops/

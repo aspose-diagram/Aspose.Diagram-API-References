@@ -1,7 +1,7 @@
 ---
 title: ActCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Act collection.
 type: docs
 weight: 30
 url: /net/aspose.diagram/actcollection/

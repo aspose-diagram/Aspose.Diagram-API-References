@@ -1,9 +1,9 @@
 ---
 title: FontSourceBase
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This is an abstract base class for the classes that allow the user to specify various font sources
 type: docs
-weight: 1560
+weight: 1570
 url: /net/aspose.diagram/fontsourcebase/
 ---
 ## FontSourceBase class

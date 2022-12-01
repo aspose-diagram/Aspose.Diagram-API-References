@@ -1,7 +1,7 @@
 ---
 title: CharCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Char collection.
 type: docs
 weight: 680
 url: /net/aspose.diagram/charcollection/

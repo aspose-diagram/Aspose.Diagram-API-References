@@ -1,7 +1,7 @@
 ---
 title: PicturePosition
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and set the location of the controls picture relative to its caption.
 type: docs
 weight: 90
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/pictureposition/

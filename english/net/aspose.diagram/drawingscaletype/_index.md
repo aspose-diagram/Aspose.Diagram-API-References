@@ -1,9 +1,9 @@
 ---
 title: DrawingScaleType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of drawing scale to use for a page.
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.diagram/drawingscaletype/
 ---
 ## DrawingScaleType class

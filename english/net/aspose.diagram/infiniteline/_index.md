@@ -1,9 +1,9 @@
 ---
 title: InfiniteLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying the x and ycoordinates of two points on an infinite line. The X and Y elements specify the x and ycoordinates of the first point and the A and B elements specify the x and ycoordinates of the second point.
 type: docs
-weight: 1930
+weight: 1940
 url: /net/aspose.diagram/infiniteline/
 ---
 ## InfiniteLine class

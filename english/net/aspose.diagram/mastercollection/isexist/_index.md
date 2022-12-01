@@ -1,7 +1,7 @@
 ---
 title: IsExist
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Is exist master in the collection.
 type: docs
 weight: 70
 url: /net/aspose.diagram/mastercollection/isexist/

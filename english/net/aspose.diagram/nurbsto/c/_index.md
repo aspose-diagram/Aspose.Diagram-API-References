@@ -1,7 +1,7 @@
 ---
 title: C
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The first knot of the nonuniform rational Bspline NURBS.
 type: docs
 weight: 40
 url: /net/aspose.diagram/nurbsto/c/

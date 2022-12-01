@@ -1,7 +1,7 @@
 ---
 title: SortColumn
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The column on which to sort the data.
 type: docs
 weight: 30
 url: /net/aspose.diagram/datacolumncollection/sortcolumn/

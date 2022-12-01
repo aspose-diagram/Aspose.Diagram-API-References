@@ -1,9 +1,9 @@
 ---
 title: HorzAlign
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the horizontal alignment of text in the shapes text block.
 type: docs
-weight: 1850
+weight: 1860
 url: /net/aspose.diagram/horzalign/
 ---
 ## HorzAlign class

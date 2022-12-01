@@ -1,7 +1,7 @@
 ---
 title: DirY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the ycomponent for the required alignment vector of a matching connection point. The DirY element is also used to orient the attached leg of a dynamic connector.
 type: docs
 weight: 50
 url: /net/aspose.diagram/connection/diry/

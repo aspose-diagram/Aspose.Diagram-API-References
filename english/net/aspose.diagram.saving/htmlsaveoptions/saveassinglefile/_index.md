@@ -1,7 +1,7 @@
 ---
 title: SaveAsSingleFile
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether save the html as single file. The default value is false.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/htmlsaveoptions/saveassinglefile/

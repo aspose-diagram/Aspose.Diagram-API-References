@@ -1,9 +1,9 @@
 ---
 title: PrintSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when printing diagram.
 type: docs
-weight: 3430
+weight: 3440
 url: /net/aspose.diagram.saving/printsaveoptions/
 ---
 ## PrintSaveOptions class

@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies how the user selects a group shape and its members.
 type: docs
 weight: 30
 url: /net/aspose.diagram/selectmode/value/

@@ -1,7 +1,7 @@
 ---
 title: ScanSubFolders
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether or not to scan the subfolders.
 type: docs
 weight: 30
 url: /net/aspose.diagram/folderfontsource/scansubfolders/

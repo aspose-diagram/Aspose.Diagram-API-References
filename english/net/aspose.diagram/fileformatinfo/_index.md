@@ -1,9 +1,9 @@
 ---
 title: FileFormatInfo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains data returned by FileFormatUtil./fileformatutil file format detection methods.
 type: docs
-weight: 1450
+weight: 1460
 url: /net/aspose.diagram/fileformatinfo/
 ---
 ## FileFormatInfo class

@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the height of the control in unit of points.
 type: docs
 weight: 40
 url: /net/aspose.diagram.activexcontrols/activexcontrolbase/height/

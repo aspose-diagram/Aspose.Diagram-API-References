@@ -1,9 +1,9 @@
 ---
 title: PresetStyleMatricsValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Used to set Shape theme style property
 type: docs
-weight: 2750
+weight: 2760
 url: /net/aspose.diagram/presetstylematricsvalue/
 ---
 ## PresetStyleMatricsValue enumeration

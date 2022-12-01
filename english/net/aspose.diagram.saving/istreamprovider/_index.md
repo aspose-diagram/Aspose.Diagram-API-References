@@ -1,9 +1,9 @@
 ---
 title: IStreamProvider
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the exported stream provider.
 type: docs
-weight: 3250
+weight: 3260
 url: /net/aspose.diagram.saving/istreamprovider/
 ---
 ## IStreamProvider interface

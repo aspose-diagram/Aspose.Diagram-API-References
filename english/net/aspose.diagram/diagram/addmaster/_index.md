@@ -1,12 +1,12 @@
 ---
 title: AddMaster
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adds master to diagram from source diagram by masters Name or NameU.
 type: docs
 weight: 310
 url: /net/aspose.diagram/diagram/addmaster/
 ---
-## Diagram.AddMaster method (1 of 5)
+## AddMaster(Diagram, string) {#addmaster}
 
 Adds master to diagram from source diagram by master's Name or NameU.
 
@@ -31,7 +31,7 @@ The unique ID of the master within masters collection in this diagram.
 
 ---
 
-## Diagram.AddMaster method (2 of 5)
+## AddMaster(Stream, string) {#addmaster_2}
 
 Adds master to diagram from template stream by master's Name or NameU.
 
@@ -56,7 +56,7 @@ The unique ID of the master within masters collection in this diagram.
 
 ---
 
-## Diagram.AddMaster method (3 of 5)
+## AddMaster(Stream, int) {#addmaster_1}
 
 Adds master to diagram from template stream by master's ID.
 
@@ -81,7 +81,7 @@ The unique ID of the master within masters collection in this diagram.
 
 ---
 
-## Diagram.AddMaster method (4 of 5)
+## AddMaster(string, string) {#addmaster_4}
 
 Adds master to diagram from template file by master's Name or NameU.
 
@@ -106,7 +106,7 @@ The unique ID of the master within masters collection in this diagram.
 
 ---
 
-## Diagram.AddMaster method (5 of 5)
+## AddMaster(string, int) {#addmaster_3}
 
 Adds master to diagram from template file by master's ID.
 

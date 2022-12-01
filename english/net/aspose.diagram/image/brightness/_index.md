@@ -1,7 +1,7 @@
 ---
 title: Brightness
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adjusts the brightness of a bitmap image. The Brightness element contains a value between 0 and 1 the default value is 0.5.
 type: docs
 weight: 20
 url: /net/aspose.diagram/image/brightness/

@@ -1,7 +1,7 @@
 ---
 title: BorderStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and set the type of border used by the control.
 type: docs
 weight: 20
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/borderstyle/

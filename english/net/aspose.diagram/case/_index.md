@@ -1,7 +1,7 @@
 ---
 title: Case
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the case of a shapes text.
 type: docs
 weight: 650
 url: /net/aspose.diagram/case/

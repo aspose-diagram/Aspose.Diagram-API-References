@@ -1,7 +1,7 @@
 ---
 title: AssemblyVersion
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Assembly version read only string.
 type: docs
 weight: 20
 url: /net/aspose.diagram/buildversioninfo/assemblyversion/

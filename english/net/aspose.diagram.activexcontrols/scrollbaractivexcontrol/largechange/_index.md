@@ -1,7 +1,7 @@
 ---
 title: LargeChange
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the amount by which the Position property changes
 type: docs
 weight: 10
 url: /net/aspose.diagram.activexcontrols/scrollbaractivexcontrol/largechange/

@@ -1,7 +1,7 @@
 ---
 title: EnlargePage
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether enlarge page .
 type: docs
 weight: 30
 url: /net/aspose.diagram.saving/renderingsaveoptions/enlargepage/

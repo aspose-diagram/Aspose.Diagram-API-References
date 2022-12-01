@@ -1,7 +1,7 @@
 ---
 title: ControlType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents all type of ActiveX control.
 type: docs
 weight: 220
 url: /net/aspose.diagram.activexcontrols/controltype/

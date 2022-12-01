@@ -1,9 +1,9 @@
 ---
 title: ConnectionPointPlace
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the location on the shape where connector will be connected.
 type: docs
-weight: 2240
+weight: 2250
 url: /net/aspose.diagram.manipulation/connectionpointplace/
 ---
 ## ConnectionPointPlace enumeration

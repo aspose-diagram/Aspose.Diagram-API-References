@@ -1,9 +1,9 @@
 ---
 title: Pos
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the position of the shapes text relative to the baseline.
 type: docs
-weight: 2680
+weight: 2690
 url: /net/aspose.diagram/pos/
 ---
 ## Pos class

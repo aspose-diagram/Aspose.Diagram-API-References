@@ -1,7 +1,7 @@
 ---
 title: Ufev
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Attributes of an element.
 type: docs
 weight: 20
 url: /net/aspose.diagram/str2value/ufev/

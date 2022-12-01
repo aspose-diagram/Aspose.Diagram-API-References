@@ -1,7 +1,7 @@
 ---
 title: LineJumpStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the direction of line jumps on horizontal segments of dynamic connectors on the drawing page for which you havent applied a local jump direction.
 type: docs
 weight: 150
 url: /net/aspose.diagram/pagelayout/linejumpstyle/

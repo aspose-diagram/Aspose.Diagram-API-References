@@ -1,7 +1,7 @@
 ---
 title: DocumentProps
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains document property elements such as the documents title author and so on.
 type: docs
 weight: 80
 url: /net/aspose.diagram/diagram/documentprops/

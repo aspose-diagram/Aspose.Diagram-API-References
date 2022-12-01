@@ -1,7 +1,7 @@
 ---
 title: EnableLineProps
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a style includes line properties
 type: docs
 weight: 30
 url: /net/aspose.diagram/styleprop/enablelineprops/

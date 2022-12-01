@@ -1,7 +1,7 @@
 ---
 title: ShapeShdwBlur
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the shadow blur size of a shape. cannot draw blur now but can parse from vsdx now.
 type: docs
 weight: 80
 url: /net/aspose.diagram/fill/shapeshdwblur/

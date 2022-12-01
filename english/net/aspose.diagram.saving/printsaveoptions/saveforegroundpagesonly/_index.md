@@ -1,7 +1,7 @@
 ---
 title: SaveForegroundPagesOnly
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether all pages will be printed or only foreground.
 type: docs
 weight: 30
 url: /net/aspose.diagram.saving/printsaveoptions/saveforegroundpagesonly/

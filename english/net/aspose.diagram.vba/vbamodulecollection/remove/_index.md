@@ -1,12 +1,12 @@
 ---
 title: Remove
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Removes module for a page.
 type: docs
 weight: 30
 url: /net/aspose.diagram.vba/vbamodulecollection/remove/
 ---
-## VbaModuleCollection.Remove method (1 of 2)
+## Remove(Page) {#remove}
 
 Removes module for a page.
 
@@ -27,7 +27,7 @@ public void Remove(Page page)
 
 ---
 
-## VbaModuleCollection.Remove method (2 of 2)
+## Remove(string) {#remove_1}
 
 Remove the module by the name
 

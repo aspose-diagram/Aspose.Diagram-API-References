@@ -1,9 +1,9 @@
 ---
 title: PresetColorMatricsValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Used to set Shape theme styles color property
 type: docs
-weight: 2720
+weight: 2730
 url: /net/aspose.diagram/presetcolormatricsvalue/
 ---
 ## PresetColorMatricsValue enumeration

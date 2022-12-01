@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the character formatting applied to a range of text in the shapes text block.
 type: docs
 weight: 360
 url: /net/aspose.diagram/char/style/

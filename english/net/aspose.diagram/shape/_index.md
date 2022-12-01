@@ -1,9 +1,9 @@
 ---
 title: Shape
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 3560
+weight: 3570
 url: /net/aspose.diagram/shape/
 ---
 ## Shape class
@@ -52,6 +52,7 @@ public class Shape
 | [Image](../../aspose.diagram/shape/image) { get; } | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
 | [InheritChars](../../aspose.diagram/shape/inheritchars) { get; } | Contains the char values for the shape inherit by the master shape. |
 | [InheritFill](../../aspose.diagram/shape/inheritfill) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
+| [InheritGeoms](../../aspose.diagram/shape/inheritgeoms) { get; } | Contains the Geoms values for the shape inherit by the master shape. |
 | [InheritLine](../../aspose.diagram/shape/inheritline) { get; } | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritParas](../../aspose.diagram/shape/inheritparas) { get; } | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [InheritProps](../../aspose.diagram/shape/inheritprops) { get; } | Contains the props for the shape inherit by the master shape. |
@@ -76,6 +77,7 @@ public class Shape
 | [PresetThemeVariant](../../aspose.diagram/shape/presetthemevariant) { set; } | Apply a preset theme variant to this shape |
 | [Props](../../aspose.diagram/shape/props) { get; set; } | Contains a collection of Prop elements. |
 | [Protection](../../aspose.diagram/shape/protection) { get; } | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window. |
+| [RootShape](../../aspose.diagram/shape/rootshape) { get; } | Returns the top-level shape of an instance if this shape is part of a master instance. Read-only. |
 | [Scratchs](../../aspose.diagram/shape/scratchs) { get; } | Contains a collection of Scratch elements. |
 | [Shapes](../../aspose.diagram/shape/shapes) { get; } | Contains a collection of Shape elements. |
 | [SmartTagDefs](../../aspose.diagram/shape/smarttagdefs) { get; } | Contains a collection of SmartTagDef elements. |
@@ -103,8 +105,10 @@ public class Shape
 | [ConnectedShapes](../../aspose.diagram/shape/connectedshapes)(ConnectedShapesFlags, string) | Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape. |
 | [Copy](../../aspose.diagram/shape/copy)(Shape) |  |
 | [DependsOnShapes](../../aspose.diagram/shape/dependsonshapes)() | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
+| [GetConnectorRule](../../aspose.diagram/shape/getconnectorrule)() | Returns a connectorRule that contains the shape id and connecton that are connected to the shape. |
 | [GetConnectorsType](../../aspose.diagram/shape/getconnectorstype)() | Get Connectors type |
-| [GetPureText](../../aspose.diagram/shape/getpuretext)() | Get the text string of a shape. |
+| [GetDisplayText](../../aspose.diagram/shape/getdisplaytext)() | Get the text displayed on the interface |
+| [GetPureText](../../aspose.diagram/shape/getpuretext)() | Get the text string |
 | [GluedShapes](../../aspose.diagram/shape/gluedshapes)(GluedShapesFlags, string, Shape) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
 | [IsConnected](../../aspose.diagram/shape/isconnected)(Shape) | Indicates whether this two shapes are connected. |
 | [IsContain](../../aspose.diagram/shape/iscontain)(Shape) | Indicates whether this shape is contain another shape. |
@@ -122,12 +126,12 @@ public class Shape
 | [SetHeight](../../aspose.diagram/shape/setheight)(double) | Sets new height of shape. |
 | [SetPresetThemeStyleMatrics](../../aspose.diagram/shape/setpresetthemestylematrics)(PresetStyleMatricsValue, PresetColorMatricsValue) | pply a preset theme variant quickstyle to this shape, like theme styles options in shape styles dropdown list |
 | [SetWidth](../../aspose.diagram/shape/setwidth)(double) | Sets new width of shape. |
-| [ToHTML](../../aspose.diagram/shape/tohtml)(Stream, HTMLSaveOptions) | Creates the shape html and saves it to a stream in the specified format. |
-| [ToHTML](../../aspose.diagram/shape/tohtml)(string, HTMLSaveOptions) | Creates the html and saves it to a file. |
-| [ToImage](../../aspose.diagram/shape/toimage)(Stream, ImageSaveOptions) | Creates the shape image and saves it to a stream in the specified format. |
-| [ToImage](../../aspose.diagram/shape/toimage)(string, ImageSaveOptions) | Creates the shape image and saves it to a file. The extension of the file name determines the format of the image. |
-| [ToPdf](../../aspose.diagram/shape/topdf)(Stream) | Creates the shape pdf and saves it to a stream. |
-| [ToPdf](../../aspose.diagram/shape/topdf)(string) | Saves the shape to a pdf file. |
+| [ToHTML](../../aspose.diagram/shape/tohtml#tohtml)(Stream, HTMLSaveOptions) | Creates the shape html and saves it to a stream in the specified format. |
+| [ToHTML](../../aspose.diagram/shape/tohtml#tohtml_1)(string, HTMLSaveOptions) | Creates the html and saves it to a file. |
+| [ToImage](../../aspose.diagram/shape/toimage#toimage)(Stream, ImageSaveOptions) | Creates the shape image and saves it to a stream in the specified format. |
+| [ToImage](../../aspose.diagram/shape/toimage#toimage_1)(string, ImageSaveOptions) | Creates the shape image and saves it to a file. The extension of the file name determines the format of the image. |
+| [ToPdf](../../aspose.diagram/shape/topdf#topdf)(Stream) | Creates the shape pdf and saves it to a stream. |
+| [ToPdf](../../aspose.diagram/shape/topdf#topdf_1)(string) | Saves the shape to a pdf file. |
 | [ToSvg](../../aspose.diagram/shape/tosvg)(string, SVGSaveOptions) | Saves the shape to a svg file. |
 
 ### See Also

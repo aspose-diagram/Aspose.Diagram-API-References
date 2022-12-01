@@ -1,7 +1,7 @@
 ---
 title: ImageData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents image of ole object as byte array.
 type: docs
 weight: 60
 url: /net/aspose.diagram/foreigndata/imagedata/

@@ -1,7 +1,7 @@
 ---
 title: YGridSpacing
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance between vertical lines in a fixed grid that is a RulerGrid element where the YGridDensity element is set to 0.
 type: docs
 weight: 90
 url: /net/aspose.diagram/rulergrid/ygridspacing/

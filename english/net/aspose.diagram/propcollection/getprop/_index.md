@@ -1,12 +1,12 @@
 ---
 title: GetProp
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the element at the specified ID.
 type: docs
 weight: 30
 url: /net/aspose.diagram/propcollection/getprop/
 ---
-## PropCollection.GetProp method (1 of 2)
+## GetProp(int) {#getprop}
 
 Gets the element at the specified ID.
 
@@ -27,7 +27,7 @@ public Prop GetProp(int ID)
 
 ---
 
-## PropCollection.GetProp method (2 of 2)
+## GetProp(string) {#getprop_1}
 
 Gets the element at the specified name.
 

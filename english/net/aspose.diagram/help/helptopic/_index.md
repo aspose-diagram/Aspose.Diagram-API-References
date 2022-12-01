@@ -1,7 +1,7 @@
 ---
 title: HelpTopic
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the Shape elements Help topic ID.
 type: docs
 weight: 30
 url: /net/aspose.diagram/help/helptopic/

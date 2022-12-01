@@ -1,7 +1,7 @@
 ---
 title: FillBkgnd
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the color used for the background of the shapes fill pattern.
 type: docs
 weight: 20
 url: /net/aspose.diagram/fill/fillbkgnd/

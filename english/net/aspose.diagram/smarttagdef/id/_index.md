@@ -1,7 +1,7 @@
 ---
 title: ID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The unique ID of the element within its parent element.
 type: docs
 weight: 70
 url: /net/aspose.diagram/smarttagdef/id/

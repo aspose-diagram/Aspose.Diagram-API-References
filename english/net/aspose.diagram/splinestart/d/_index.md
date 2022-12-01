@@ -1,7 +1,7 @@
 ---
 title: D
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The degree of the spline an integer from 1 to 25.
 type: docs
 weight: 50
 url: /net/aspose.diagram/splinestart/d/

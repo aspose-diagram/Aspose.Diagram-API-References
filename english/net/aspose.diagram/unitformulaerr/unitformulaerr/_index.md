@@ -1,12 +1,12 @@
 ---
 title: UnitFormulaErr
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/unitformulaerr/unitformulaerr/
 ---
-## UnitFormulaErr constructor (1 of 2)
+## UnitFormulaErr(MeasureConst, string, string) {#constructor_1}
 
 Constructor.
 
@@ -29,7 +29,7 @@ public UnitFormulaErr(MeasureConst unit, string f, string err)
 
 ---
 
-## UnitFormulaErr constructor (2 of 2)
+## UnitFormulaErr() {#constructor}
 
 Constructor.
 

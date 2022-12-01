@@ -1,7 +1,7 @@
 ---
 title: ColorTrans
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the degree of transparency for a layer or shapes text color from 0 completely opaque to 1 completely transparent.
 type: docs
 weight: 40
 url: /net/aspose.diagram/layer/colortrans/

@@ -1,7 +1,7 @@
 ---
 title: EditDate
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies when a comment was last changed
 type: docs
 weight: 40
 url: /net/aspose.diagram/annotation/editdate/

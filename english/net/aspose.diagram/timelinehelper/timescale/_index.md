@@ -1,7 +1,7 @@
 ---
 title: TimeScale
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: scale of timeline shape
 type: docs
 weight: 160
 url: /net/aspose.diagram/timelinehelper/timescale/

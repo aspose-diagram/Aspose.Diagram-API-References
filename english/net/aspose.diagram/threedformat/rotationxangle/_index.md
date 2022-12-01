@@ -1,7 +1,7 @@
 ---
 title: RotationXAngle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the counterclockwise rotation angle of a shape around the yaxis.
 type: docs
 weight: 180
 url: /net/aspose.diagram/threedformat/rotationxangle/

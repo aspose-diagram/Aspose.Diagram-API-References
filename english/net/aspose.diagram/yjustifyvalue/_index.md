@@ -1,9 +1,9 @@
 ---
 title: YJustifyValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the yoffset of the smart tag button relative to the point defined by the X and Y elements.
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.diagram/yjustifyvalue/
 ---
 ## YJustifyValue enumeration

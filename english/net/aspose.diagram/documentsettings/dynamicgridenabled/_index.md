@@ -1,7 +1,7 @@
 ---
 title: DynamicGridEnabled
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the dynamic grid feature is enabled for a document or window.
 type: docs
 weight: 80
 url: /net/aspose.diagram/documentsettings/dynamicgridenabled/

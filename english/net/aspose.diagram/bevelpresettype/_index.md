@@ -1,7 +1,7 @@
 ---
 title: BevelPresetType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents a preset for a type of bevel which can be applied to a shape in 3D.
 type: docs
 weight: 560
 url: /net/aspose.diagram/bevelpresettype/

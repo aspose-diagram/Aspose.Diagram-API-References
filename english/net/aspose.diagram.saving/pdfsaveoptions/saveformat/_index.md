@@ -1,7 +1,7 @@
 ---
 title: SaveFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be PDFaspose.diagram/savefileformat only.
 type: docs
 weight: 120
 url: /net/aspose.diagram.saving/pdfsaveoptions/saveformat/

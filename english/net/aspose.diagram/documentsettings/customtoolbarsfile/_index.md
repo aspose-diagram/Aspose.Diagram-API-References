@@ -1,7 +1,7 @@
 ---
 title: CustomToolbarsFile
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the name of the Microsoft Visio user interface .vsu file that defines custom toolbars and status bars for a document.
 type: docs
 weight: 30
 url: /net/aspose.diagram/documentsettings/customtoolbarsfile/

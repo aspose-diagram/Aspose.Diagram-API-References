@@ -1,7 +1,7 @@
 ---
 title: NoLiveDynamics
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a shape dynamically resizes or rotates as the user manipulates it.
 type: docs
 weight: 160
 url: /net/aspose.diagram/misc/nolivedynamics/

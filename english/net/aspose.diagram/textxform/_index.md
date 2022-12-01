@@ -1,9 +1,9 @@
 ---
 title: TextXForm
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that specify positioning information about a shapes text block.
 type: docs
-weight: 4020
+weight: 4030
 url: /net/aspose.diagram/textxform/
 ---
 ## TextXForm class

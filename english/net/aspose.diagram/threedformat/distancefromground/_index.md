@@ -1,7 +1,7 @@
 ---
 title: DistanceFromGround
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance that a shape with 3D rotation properties
 type: docs
 weight: 140
 url: /net/aspose.diagram/threedformat/distancefromground/

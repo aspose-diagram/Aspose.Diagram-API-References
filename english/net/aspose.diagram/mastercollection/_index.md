@@ -1,9 +1,9 @@
 ---
 title: MasterCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Master collection.
 type: docs
-weight: 2280
+weight: 2290
 url: /net/aspose.diagram/mastercollection/
 ---
 ## MasterCollection class
@@ -33,7 +33,7 @@ public class MasterCollection : Collection
 | [GetMasterByName](../../aspose.diagram/mastercollection/getmasterbyname)(string) | Get master by name. |
 | [GetMaxRelID](../../aspose.diagram/mastercollection/getmaxrelid)() | get the max rel id in the collection. |
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
-| [IsExist](../../aspose.diagram/mastercollection/isexist)(string) | Is exist master in the collection. |
+| [IsExist](../../aspose.diagram/mastercollection/isexist#isexist_1)(string) | Is exist master in the collection. |
 | [IsExistRelId](../../aspose.diagram/mastercollection/isexistrelid)(string) | Is exist master rel id in the collection. |
 | [Remove](../../aspose.diagram/mastercollection/remove)(Master) | Remove the Master object from the collection. |
 

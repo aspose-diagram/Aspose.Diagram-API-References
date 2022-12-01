@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes Shapes menu.
 type: docs
 weight: 30
 url: /net/aspose.diagram/shapeplaceflip/value/

@@ -1,7 +1,7 @@
 ---
 title: Contrast
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the contrast of a bitmap image. The Contrast element contains a value between 0 and 1.
 type: docs
 weight: 30
 url: /net/aspose.diagram/image/contrast/

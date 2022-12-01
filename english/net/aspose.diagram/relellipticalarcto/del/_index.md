@@ -1,7 +1,7 @@
 ---
 title: Del
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally.
 type: docs
 weight: 60
 url: /net/aspose.diagram/relellipticalarcto/del/

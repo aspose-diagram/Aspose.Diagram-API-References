@@ -1,7 +1,7 @@
 ---
 title: PageTopMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the margin at the top of the printer page.
 type: docs
 weight: 100
 url: /net/aspose.diagram/printprops/pagetopmargin/

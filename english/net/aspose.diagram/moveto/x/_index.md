@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: X element represents the xcoordinate of the first vertex of a path. If the MoveTo element appears between two elements the X element represents the xcoordinate of the first vertex after the break in the path
 type: docs
 weight: 40
 url: /net/aspose.diagram/moveto/x/

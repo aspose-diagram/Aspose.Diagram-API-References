@@ -1,7 +1,7 @@
 ---
 title: NoShow
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a path is displayed on the drawing page.
 type: docs
 weight: 90
 url: /net/aspose.diagram/geom/noshow/

@@ -1,7 +1,7 @@
 ---
 title: Formula
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the elements formula. This attribute can contain one of the following strings someFormula if the formula exists locally No Formula if the formula is locally deleted or blocked or Inh if the formula is inherited. If the attribute is not present the elements formula is a simple constant. For example 5.
 type: docs
 weight: 20
 url: /net/aspose.diagram/rulevalue/formula/

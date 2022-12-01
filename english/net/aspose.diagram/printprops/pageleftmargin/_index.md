@@ -1,7 +1,7 @@
 ---
 title: PageLeftMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the margin at the left of the printed page.
 type: docs
 weight: 60
 url: /net/aspose.diagram/printprops/pageleftmargin/

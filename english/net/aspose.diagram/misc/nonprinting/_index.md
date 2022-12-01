@@ -1,7 +1,7 @@
 ---
 title: NonPrinting
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether a selected shape can be printed.
 type: docs
 weight: 170
 url: /net/aspose.diagram/misc/nonprinting/

@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the shape text should be localized translated into another language.
 type: docs
 weight: 30
 url: /net/aspose.diagram/localizefont/value/

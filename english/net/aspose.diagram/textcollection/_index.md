@@ -1,9 +1,9 @@
 ---
 title: TextCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the text of a shape. Each item is text with character paragraph and tabs properties.
 type: docs
-weight: 3990
+weight: 4000
 url: /net/aspose.diagram/textcollection/
 ---
 ## TextCollection class

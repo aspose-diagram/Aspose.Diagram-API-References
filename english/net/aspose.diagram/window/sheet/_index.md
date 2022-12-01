@@ -1,7 +1,7 @@
 ---
 title: Sheet
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: ID of sheet in container. Relevant only when Container is specified as Sheet.
 type: docs
 weight: 120
 url: /net/aspose.diagram/window/sheet/

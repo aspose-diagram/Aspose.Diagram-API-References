@@ -1,12 +1,12 @@
 ---
 title: ConnectShapesViaConnectorIndex
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Connect shapes via connector index.
 type: docs
 weight: 290
 url: /net/aspose.diagram/page/connectshapesviaconnectorindex/
 ---
-## Page.ConnectShapesViaConnectorIndex method (1 of 2)
+## ConnectShapesViaConnectorIndex(long, int, long, int, long) {#connectshapesviaconnectorindex_1}
 
 Connect shapes via connector index.
 
@@ -31,7 +31,7 @@ public void ConnectShapesViaConnectorIndex(long shapeFromId, int fromIndex, long
 
 ---
 
-## Page.ConnectShapesViaConnectorIndex method (2 of 2)
+## ConnectShapesViaConnectorIndex(Shape, int, Shape, int, Shape) {#connectshapesviaconnectorindex}
 
 Connect shapes via connector index.
 

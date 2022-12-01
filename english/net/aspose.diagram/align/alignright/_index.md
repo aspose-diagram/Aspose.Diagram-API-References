@@ -1,7 +1,7 @@
 ---
 title: AlignRight
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the horizontal position relative to the origin of its parent of a vertical guide or guide point to which the shapes right border is aligned.
 type: docs
 weight: 50
 url: /net/aspose.diagram/align/alignright/

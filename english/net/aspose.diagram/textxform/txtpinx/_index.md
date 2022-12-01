@@ -1,7 +1,7 @@
 ---
 title: TxtPinX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the xcoordinate of the text blocks center of rotation in relation to the origin of the shape. The default formula which evaluates to the horizontal center of the shape is FWidth0.5.
 type: docs
 weight: 60
 url: /net/aspose.diagram/textxform/txtpinx/

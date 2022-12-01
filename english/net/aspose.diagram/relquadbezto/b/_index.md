@@ -1,7 +1,7 @@
 ---
 title: B
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ycoordinate of the control point in relative coordinates.
 type: docs
 weight: 30
 url: /net/aspose.diagram/relquadbezto/b/

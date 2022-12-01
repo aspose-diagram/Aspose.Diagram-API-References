@@ -1,7 +1,7 @@
 ---
 title: BevelDepthSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the extrusion depth on a 3D shape
 type: docs
 weight: 70
 url: /net/aspose.diagram/threedformat/beveldepthsize/

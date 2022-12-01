@@ -1,9 +1,9 @@
 ---
 title: InheritParas
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the paras for the shape inherit by the parent style and the master shape.
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.diagram/shape/inheritparas/
 ---
 ## Shape.InheritParas property

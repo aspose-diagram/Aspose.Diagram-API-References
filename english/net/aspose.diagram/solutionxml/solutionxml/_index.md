@@ -1,12 +1,12 @@
 ---
 title: SolutionXML
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/solutionxml/solutionxml/
 ---
-## SolutionXML constructor (1 of 2)
+## SolutionXML(string, string) {#constructor_1}
 
 Constructor.
 
@@ -27,7 +27,7 @@ public SolutionXML(string name, string xmlValue)
 
 ---
 
-## SolutionXML constructor (2 of 2)
+## SolutionXML() {#constructor}
 
 Constructor.
 

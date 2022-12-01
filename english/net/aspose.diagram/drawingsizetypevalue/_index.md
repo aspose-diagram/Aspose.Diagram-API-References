@@ -1,9 +1,9 @@
 ---
 title: DrawingSizeTypeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the drawing size of a page.
 type: docs
-weight: 1310
+weight: 1320
 url: /net/aspose.diagram/drawingsizetypevalue/
 ---
 ## DrawingSizeTypeValue enumeration

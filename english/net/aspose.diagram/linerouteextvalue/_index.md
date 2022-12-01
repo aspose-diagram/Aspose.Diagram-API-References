@@ -1,9 +1,9 @@
 ---
 title: LineRouteExtValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the default appearance for all connectors on a page.
 type: docs
-weight: 2170
+weight: 2180
 url: /net/aspose.diagram/linerouteextvalue/
 ---
 ## LineRouteExtValue enumeration

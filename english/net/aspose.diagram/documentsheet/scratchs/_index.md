@@ -1,7 +1,7 @@
 ---
 title: Scratchs
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Scratch elements.
 type: docs
 weight: 140
 url: /net/aspose.diagram/documentsheet/scratchs/

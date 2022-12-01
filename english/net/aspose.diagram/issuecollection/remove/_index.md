@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Remove the issue from the collection.
 type: docs
 weight: 30
 url: /net/aspose.diagram/issuecollection/remove/

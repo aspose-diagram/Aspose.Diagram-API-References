@@ -1,9 +1,9 @@
 ---
 title: OutputFormatValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the output format for a drawing.
 type: docs
-weight: 2470
+weight: 2480
 url: /net/aspose.diagram/outputformatvalue/
 ---
 ## OutputFormatValue enumeration

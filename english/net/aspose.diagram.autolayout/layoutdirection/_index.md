@@ -1,7 +1,7 @@
 ---
 title: LayoutDirection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Used to set direction of layout.
 type: docs
 weight: 450
 url: /net/aspose.diagram.autolayout/layoutdirection/

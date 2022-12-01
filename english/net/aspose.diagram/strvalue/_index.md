@@ -1,9 +1,9 @@
 ---
 title: StrValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: String value
 type: docs
-weight: 3870
+weight: 3880
 url: /net/aspose.diagram/strvalue/
 ---
 ## StrValue class
@@ -18,9 +18,9 @@ public class StrValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [StrValue](strvalue)(string) | Constructor. |
-| [StrValue](strvalue)(string, MeasureConst) | Constructor. |
-| [StrValue](strvalue)(string, UnitFormulaErr) | Constructor. |
+| [StrValue](strvalue#constructor)(string) | Constructor. |
+| [StrValue](strvalue#constructor_1)(string, MeasureConst) | Constructor. |
+| [StrValue](strvalue#constructor_2)(string, UnitFormulaErr) | Constructor. |
 
 ## Properties
 

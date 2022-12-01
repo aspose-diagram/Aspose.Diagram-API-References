@@ -1,7 +1,7 @@
 ---
 title: IsBold
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicating whether the font is bold.
 type: docs
 weight: 170
 url: /net/aspose.diagram/char/isbold/

@@ -1,9 +1,9 @@
 ---
 title: FontSourceType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of a font source.
 type: docs
-weight: 1570
+weight: 1580
 url: /net/aspose.diagram/fontsourcetype/
 ---
 ## FontSourceType enumeration

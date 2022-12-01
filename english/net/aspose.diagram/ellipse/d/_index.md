@@ -1,7 +1,7 @@
 ---
 title: D
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A ycoordinate of a point on the ellipse paired with xcoordinate represented by the C element.
 type: docs
 weight: 50
 url: /net/aspose.diagram/ellipse/d/

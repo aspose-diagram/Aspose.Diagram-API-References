@@ -1,7 +1,7 @@
 ---
 title: FlipX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the shape has been flipped horizontally
 type: docs
 weight: 30
 url: /net/aspose.diagram/xform/flipx/

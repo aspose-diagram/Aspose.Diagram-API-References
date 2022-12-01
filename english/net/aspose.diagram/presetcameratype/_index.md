@@ -1,9 +1,9 @@
 ---
 title: PresetCameraType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represent different algorithmic methods for setting all camera properties including position.
 type: docs
-weight: 2710
+weight: 2720
 url: /net/aspose.diagram/presetcameratype/
 ---
 ## PresetCameraType enumeration

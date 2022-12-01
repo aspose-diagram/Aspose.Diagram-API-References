@@ -1,7 +1,7 @@
 ---
 title: AlwaysUseConnectionFile
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The default value is false. See Remarks for more information.
 type: docs
 weight: 20
 url: /net/aspose.diagram/dataconnection/alwaysuseconnectionfile/

@@ -1,7 +1,7 @@
 ---
 title: Timeout
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: wait time in minutes while trying to establish a connection before terminating the attempt.
 type: docs
 weight: 70
 url: /net/aspose.diagram/dataconnection/timeout/

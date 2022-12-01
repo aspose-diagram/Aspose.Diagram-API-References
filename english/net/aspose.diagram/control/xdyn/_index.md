@@ -1,7 +1,7 @@
 ---
 title: XDyn
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the xcoordinate for a control handles anchor point in local coordinates. The anchor point is used for rubberbanding during dynamics.
 type: docs
 weight: 110
 url: /net/aspose.diagram/control/xdyn/

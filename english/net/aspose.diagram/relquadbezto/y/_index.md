@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The ycoordinate of the endpoint in relative coordinates.
 type: docs
 weight: 70
 url: /net/aspose.diagram/relquadbezto/y/

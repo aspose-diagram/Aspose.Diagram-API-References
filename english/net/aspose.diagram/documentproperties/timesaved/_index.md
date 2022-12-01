@@ -1,7 +1,7 @@
 ---
 title: TimeSaved
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains date and time value indicating when the document was last saved.
 type: docs
 weight: 190
 url: /net/aspose.diagram/documentproperties/timesaved/

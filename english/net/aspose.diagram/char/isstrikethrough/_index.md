@@ -1,7 +1,7 @@
 ---
 title: IsStrikethrough
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicating whether the font is strikethrough.
 type: docs
 weight: 210
 url: /net/aspose.diagram/char/isstrikethrough/

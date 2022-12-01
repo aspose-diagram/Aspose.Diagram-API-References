@@ -1,7 +1,7 @@
 ---
 title: ProtectShapes
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the user is prevented from selecting shapes that have their LockSelect element set to 1.
 type: docs
 weight: 120
 url: /net/aspose.diagram/documentsettings/protectshapes/

@@ -1,7 +1,7 @@
 ---
 title: ReadOnly
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Readonly flag if this stencil is not a document stencil.
 type: docs
 weight: 110
 url: /net/aspose.diagram/window/readonly/

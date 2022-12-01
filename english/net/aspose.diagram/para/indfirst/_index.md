@@ -1,7 +1,7 @@
 ---
 title: IndFirst
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the distance the first line of each paragraph in the shapes text block is indented from the left indent of the paragraph. This value is independent of the scale of the drawing. If the drawing is scaled the first line indent remains the same.
 type: docs
 weight: 90
 url: /net/aspose.diagram/para/indfirst/

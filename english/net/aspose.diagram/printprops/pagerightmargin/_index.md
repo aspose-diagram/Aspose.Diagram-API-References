@@ -1,7 +1,7 @@
 ---
 title: PageRightMargin
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the margin at the right of the printed page.
 type: docs
 weight: 70
 url: /net/aspose.diagram/printprops/pagerightmargin/

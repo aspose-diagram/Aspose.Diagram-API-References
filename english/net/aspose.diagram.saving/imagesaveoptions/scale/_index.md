@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the zoom factor for the generated images.
 type: docs
 weight: 170
 url: /net/aspose.diagram.saving/imagesaveoptions/scale/

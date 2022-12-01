@@ -1,7 +1,7 @@
 ---
 title: Layout
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Lays out the shapes and/or reroutes the connectors for all pages of diagram.
 type: docs
 weight: 390
 url: /net/aspose.diagram/diagram/layout/

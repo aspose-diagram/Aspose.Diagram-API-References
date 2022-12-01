@@ -1,7 +1,7 @@
 ---
 title: SortAsc
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Whether to sort the SortColumn column in ascending 1 or descending 0 order.
 type: docs
 weight: 20
 url: /net/aspose.diagram/datacolumncollection/sortasc/

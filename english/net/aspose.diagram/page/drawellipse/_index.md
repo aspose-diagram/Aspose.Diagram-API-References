@@ -1,7 +1,7 @@
 ---
 title: DrawEllipse
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The process of drawing Ellipse.
 type: docs
 weight: 330
 url: /net/aspose.diagram/page/drawellipse/

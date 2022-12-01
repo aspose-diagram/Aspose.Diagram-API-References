@@ -1,7 +1,7 @@
 ---
 title: LastValidated
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The date and time the document was last validated
 type: docs
 weight: 20
 url: /net/aspose.diagram/validationproperties/lastvalidated/

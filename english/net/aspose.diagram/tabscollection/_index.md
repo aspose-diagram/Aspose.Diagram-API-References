@@ -1,9 +1,9 @@
 ---
 title: TabsCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of TabCollection elements
 type: docs
-weight: 3960
+weight: 3970
 url: /net/aspose.diagram/tabscollection/
 ---
 ## TabsCollection class

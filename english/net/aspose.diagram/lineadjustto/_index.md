@@ -1,9 +1,9 @@
 ---
 title: LineAdjustTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies which dynamic connectors to line up on top of one another if they route on top of each other.
 type: docs
-weight: 2100
+weight: 2110
 url: /net/aspose.diagram/lineadjustto/
 ---
 ## LineAdjustTo class

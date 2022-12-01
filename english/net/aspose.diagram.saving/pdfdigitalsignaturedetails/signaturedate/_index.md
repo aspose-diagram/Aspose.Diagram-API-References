@@ -1,7 +1,7 @@
 ---
 title: SignatureDate
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Date of signing.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/signaturedate/

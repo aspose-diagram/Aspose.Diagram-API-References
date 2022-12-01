@@ -1,7 +1,7 @@
 ---
 title: F
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the elements formula.
 type: docs
 weight: 30
 url: /net/aspose.diagram/unitformulaerr/f/

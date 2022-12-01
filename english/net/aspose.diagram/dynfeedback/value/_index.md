@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released the resulting connector shape is not affected by this setting. This element does not apply to routable connectors.
 type: docs
 weight: 30
 url: /net/aspose.diagram/dynfeedback/value/

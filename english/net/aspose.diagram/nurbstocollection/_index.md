@@ -1,9 +1,9 @@
 ---
 title: NURBSToCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: NURBSTo collection.
 type: docs
-weight: 2390
+weight: 2400
 url: /net/aspose.diagram/nurbstocollection/
 ---
 ## NURBSToCollection class

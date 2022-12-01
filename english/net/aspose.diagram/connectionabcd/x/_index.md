@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies an xcoordinate on a shape in local coordinates. The following table describes the X element based on the element that contains it.
 type: docs
 weight: 110
 url: /net/aspose.diagram/connectionabcd/x/

@@ -1,12 +1,12 @@
 ---
 title: Diagram
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.diagram/diagram/diagram/
 ---
-## Diagram constructor (1 of 7)
+## Diagram() {#constructor}
 
 The default constructor.
 
@@ -22,7 +22,7 @@ public Diagram()
 
 ---
 
-## Diagram constructor (2 of 7)
+## Diagram(string) {#constructor_4}
 
 Public Diagram class constructor, loads the diagram from the file.
 
@@ -42,7 +42,7 @@ public Diagram(string filename)
 
 ---
 
-## Diagram constructor (3 of 7)
+## Diagram(Stream) {#constructor_1}
 
 Public Diagram class constructor, loads the diagram from the stream.
 
@@ -62,7 +62,7 @@ public Diagram(Stream stream)
 
 ---
 
-## Diagram constructor (4 of 7)
+## Diagram(string, LoadFileFormat) {#constructor_5}
 
 Public Diagram class constructor, loads the diagram from the file using predefined format.
 
@@ -84,7 +84,7 @@ public Diagram(string filename, LoadFileFormat format)
 
 ---
 
-## Diagram constructor (5 of 7)
+## Diagram(Stream, LoadFileFormat) {#constructor_2}
 
 Public Diagram class constructor, loads the diagram from the stream using predefined format.
 
@@ -106,7 +106,7 @@ public Diagram(Stream stream, LoadFileFormat format)
 
 ---
 
-## Diagram constructor (6 of 7)
+## Diagram(string, LoadOptions) {#constructor_6}
 
 Public Diagram class constructor, loads the diagram from the file using predefined load file options.
 
@@ -128,7 +128,7 @@ public Diagram(string filename, LoadOptions options)
 
 ---
 
-## Diagram constructor (7 of 7)
+## Diagram(Stream, LoadOptions) {#constructor_3}
 
 Public Diagram class constructor, loads the diagram from the stream using predefined load file options.
 

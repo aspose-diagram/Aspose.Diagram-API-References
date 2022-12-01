@@ -1,12 +1,12 @@
 ---
 title: AddText
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adds Text with defined PinX and PinY.
 type: docs
 weight: 220
 url: /net/aspose.diagram/page/addtext/
 ---
-## Page.AddText method (1 of 2)
+## AddText(double, double, double, double, string, string, string, double) {#addtext_1}
 
 Adds Text with defined PinX and PinY.
 
@@ -39,7 +39,7 @@ Returns a shape object that represents the new text object.
 
 ---
 
-## Page.AddText method (2 of 2)
+## AddText(double, double, double, double, string) {#addtext}
 
 Adds Text with defined PinX and PinY.
 

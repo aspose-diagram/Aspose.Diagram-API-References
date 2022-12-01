@@ -1,7 +1,7 @@
 ---
 title: ExtentX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This attribute is only meaningful if the foreign data is a metafile. The value indicates the horizontal extent of the metafile.
 type: docs
 weight: 30
 url: /net/aspose.diagram/foreigndata/extentx/

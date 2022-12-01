@@ -1,9 +1,9 @@
 ---
 title: Line
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying general positioning information about a shape.
 type: docs
-weight: 2070
+weight: 2080
 url: /net/aspose.diagram/line/
 ---
 ## Line class

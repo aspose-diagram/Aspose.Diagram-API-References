@@ -1,7 +1,7 @@
 ---
 title: CompressionLevel
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This attribute is only meaningful if the foreign data is a rasterbased foreign object such as a DIB JPG PNG TIFF or GIF file. The value indicates the level of compression applied to the file. Compression level is measured in hundreds of a percent.
 type: docs
 weight: 10
 url: /net/aspose.diagram/foreigndata/compressionlevel/

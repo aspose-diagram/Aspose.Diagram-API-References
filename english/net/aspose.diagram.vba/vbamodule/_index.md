@@ -1,9 +1,9 @@
 ---
 title: VbaModule
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents module that is contained in VBA project.
 type: docs
-weight: 4240
+weight: 4250
 url: /net/aspose.diagram.vba/vbamodule/
 ---
 ## VbaModule class

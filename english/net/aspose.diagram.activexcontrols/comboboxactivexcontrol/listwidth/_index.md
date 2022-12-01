@@ -1,7 +1,7 @@
 ---
 title: ListWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and set the width in unit of points.
 type: docs
 weight: 140
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/listwidth/

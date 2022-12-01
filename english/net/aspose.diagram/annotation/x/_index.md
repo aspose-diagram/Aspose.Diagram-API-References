@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The xcoordinate of the comment marker in page coordinates.
 type: docs
 weight: 100
 url: /net/aspose.diagram/annotation/x/

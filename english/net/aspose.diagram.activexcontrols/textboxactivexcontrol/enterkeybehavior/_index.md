@@ -1,7 +1,7 @@
 ---
 title: EnterKeyBehavior
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the behavior of the ENTER key. True specifies that pressing ENTER will create a new line. False specifies that pressing ENTER will move the focus to the next object in the tab order.
 type: docs
 weight: 50
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/enterkeybehavior/

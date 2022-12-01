@@ -1,9 +1,9 @@
 ---
 title: RuleInfo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies information about the validation rule that the parent validation issue pertains to.
 type: docs
-weight: 3130
+weight: 3140
 url: /net/aspose.diagram/ruleinfo/
 ---
 ## RuleInfo class

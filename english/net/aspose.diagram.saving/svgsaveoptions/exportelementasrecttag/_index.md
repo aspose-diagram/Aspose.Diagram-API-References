@@ -1,7 +1,7 @@
 ---
 title: ExportElementAsRectTag
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Defines whether need exporting rectangle elements as rect tag or not.
 type: docs
 weight: 30
 url: /net/aspose.diagram.saving/svgsaveoptions/exportelementasrecttag/

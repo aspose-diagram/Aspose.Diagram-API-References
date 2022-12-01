@@ -1,7 +1,7 @@
 ---
 title: EmailRoutingData
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a MIME Multipurpose Internet Mail Extensions encoded MAPI email routing slip for the document.
 type: docs
 weight: 110
 url: /net/aspose.diagram/diagram/emailroutingdata/

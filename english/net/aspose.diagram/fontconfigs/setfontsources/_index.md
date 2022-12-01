@@ -1,7 +1,7 @@
 ---
 title: SetFontSources
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Sets the fonts sources.
 type: docs
 weight: 80
 url: /net/aspose.diagram/fontconfigs/setfontsources/

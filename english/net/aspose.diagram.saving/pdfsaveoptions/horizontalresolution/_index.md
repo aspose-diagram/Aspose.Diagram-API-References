@@ -1,7 +1,7 @@
 ---
 title: HorizontalResolution
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets or sets the horizontal resolution for generated images in dots per inch. Applies generating image method except Emf format images.
 type: docs
 weight: 60
 url: /net/aspose.diagram.saving/pdfsaveoptions/horizontalresolution/

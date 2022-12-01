@@ -1,9 +1,9 @@
 ---
 title: VbaModuleCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the list of VbaModule./vbamodule
 type: docs
-weight: 4250
+weight: 4260
 url: /net/aspose.diagram.vba/vbamodulecollection/
 ---
 ## VbaModuleCollection class
@@ -24,10 +24,10 @@ public class VbaModuleCollection : CollectionBase
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.diagram.vba/vbamodulecollection/add)(Page) | Adds module for a page. |
-| [Add](../../aspose.diagram.vba/vbamodulecollection/add)(VbaModuleType, string) | Adds module. |
-| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove)(Page) | Removes module for a page. |
-| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove)(string) | Remove the module by the name |
+| [Add](../../aspose.diagram.vba/vbamodulecollection/add#add)(Page) | Adds module for a page. |
+| [Add](../../aspose.diagram.vba/vbamodulecollection/add#add_1)(VbaModuleType, string) | Adds module. |
+| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove#remove)(Page) | Removes module for a page. |
+| [Remove](../../aspose.diagram.vba/vbamodulecollection/remove#remove_1)(string) | Remove the module by the name |
 
 ### See Also
 

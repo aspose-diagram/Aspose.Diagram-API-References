@@ -1,7 +1,7 @@
 ---
 title: LockFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the formatting of a shape is locked so it cannot be changed. Specifically this element protects against changing text line and fill formatting or changing which Style element the shape inherits from.
 type: docs
 weight: 90
 url: /net/aspose.diagram/protection/lockformat/

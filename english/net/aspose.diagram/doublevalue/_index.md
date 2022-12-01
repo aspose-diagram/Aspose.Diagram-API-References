@@ -1,9 +1,9 @@
 ---
 title: DoubleValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Double value
 type: docs
-weight: 1250
+weight: 1260
 url: /net/aspose.diagram/doublevalue/
 ---
 ## DoubleValue class
@@ -18,8 +18,8 @@ public class DoubleValue : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [DoubleValue](doublevalue)() | Constructor. |
-| [DoubleValue](doublevalue)(double, MeasureConst) | Constructor. |
+| [DoubleValue](doublevalue#constructor)() | Constructor. |
+| [DoubleValue](doublevalue#constructor_1)(double, MeasureConst) | Constructor. |
 
 ## Properties
 

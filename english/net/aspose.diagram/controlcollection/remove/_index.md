@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Remove the Control object from the collection.
 type: docs
 weight: 60
 url: /net/aspose.diagram/controlcollection/remove/

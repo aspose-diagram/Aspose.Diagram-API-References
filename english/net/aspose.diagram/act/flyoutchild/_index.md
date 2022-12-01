@@ -1,7 +1,7 @@
 ---
 title: FlyoutChild
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether the action row is a child flyout menu of the last row above it that is not a flyout child.
 type: docs
 weight: 80
 url: /net/aspose.diagram/act/flyoutchild/

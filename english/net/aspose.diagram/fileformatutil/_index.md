@@ -1,9 +1,9 @@
 ---
 title: FileFormatUtil
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Provides utility methods for converting file format enums to strings or file extensions and back.
 type: docs
-weight: 1470
+weight: 1480
 url: /net/aspose.diagram/fileformatutil/
 ---
 ## FileFormatUtil class
@@ -24,8 +24,8 @@ public class FileFormatUtil
 
 | Name | Description |
 | --- | --- |
-| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat)(Stream) | Detects and returns the information about a format of a visio stored in a stream. |
-| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat)(string) | Detects and returns the information about a format of a visio stored in a file. |
+| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat#detectfileformat)(Stream) | Detects and returns the information about a format of a visio stored in a stream. |
+| static [DetectFileFormat](../../aspose.diagram/fileformatutil/detectfileformat#detectfileformat_1)(string) | Detects and returns the information about a format of a visio stored in a file. |
 
 ### See Also
 

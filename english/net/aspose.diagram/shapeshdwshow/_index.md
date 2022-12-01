@@ -1,9 +1,9 @@
 ---
 title: ShapeShdwShow
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of shadow for a shape.
 type: docs
-weight: 3680
+weight: 3690
 url: /net/aspose.diagram/shapeshdwshow/
 ---
 ## ShapeShdwShow class

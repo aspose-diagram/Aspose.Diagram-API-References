@@ -1,7 +1,7 @@
 ---
 title: BevelContourColor
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the color of the outline on a 3D shape
 type: docs
 weight: 40
 url: /net/aspose.diagram/threedformat/bevelcontourcolor/

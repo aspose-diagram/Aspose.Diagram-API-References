@@ -1,7 +1,7 @@
 ---
 title: DateFormatStringForBE
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: DateFormat String for start and finish of timeline shape
 type: docs
 weight: 60
 url: /net/aspose.diagram/timelinehelper/dateformatstringforbe/

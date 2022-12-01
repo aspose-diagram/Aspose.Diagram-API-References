@@ -1,7 +1,7 @@
 ---
 title: ActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets the ActiveX control.
 type: docs
 weight: 20
 url: /net/aspose.diagram/shape/activexcontrol/

@@ -1,7 +1,7 @@
 ---
 title: TagName
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: It contains the name of the smart tag that is used as a key to associate the smart tag with its actions.
 type: docs
 weight: 100
 url: /net/aspose.diagram/smarttagdef/tagname/

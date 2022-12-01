@@ -1,9 +1,9 @@
 ---
 title: UniqueID
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: A GUID globally unique identifier assigned to the shape.
 type: docs
-weight: 650
+weight: 670
 url: /net/aspose.diagram/shape/uniqueid/
 ---
 ## Shape.UniqueID property

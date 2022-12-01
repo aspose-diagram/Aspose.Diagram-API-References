@@ -1,9 +1,9 @@
 ---
 title: CompositingQuality
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the quality level to use during compositing.
 type: docs
-weight: 3210
+weight: 3220
 url: /net/aspose.diagram.saving/compositingquality/
 ---
 ## CompositingQuality enumeration

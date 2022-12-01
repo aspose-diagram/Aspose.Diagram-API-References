@@ -1,7 +1,7 @@
 ---
 title: HeaderFooter
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements for a documents header and footer.
 type: docs
 weight: 150
 url: /net/aspose.diagram/diagram/headerfooter/

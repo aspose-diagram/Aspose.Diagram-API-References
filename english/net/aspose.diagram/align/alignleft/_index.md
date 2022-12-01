@@ -1,7 +1,7 @@
 ---
 title: AlignLeft
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the horizontal position relative to the origin of its parent of a vertical guide or guide point to which the shapes left border is aligned.
 type: docs
 weight: 30
 url: /net/aspose.diagram/align/alignleft/

@@ -1,7 +1,7 @@
 ---
 title: ShdwPattern
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the fill pattern for a shapes shadow.
 type: docs
 weight: 190
 url: /net/aspose.diagram/fill/shdwpattern/

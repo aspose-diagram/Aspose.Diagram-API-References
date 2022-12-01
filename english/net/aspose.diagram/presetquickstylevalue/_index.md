@@ -3,7 +3,7 @@ title: PresetQuickStyleValue
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.diagram/presetquickstylevalue/
 ---
 ## PresetQuickStyleValue enumeration

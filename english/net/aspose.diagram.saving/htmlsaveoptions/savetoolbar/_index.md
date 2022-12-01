@@ -1,7 +1,7 @@
 ---
 title: SaveToolBar
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether saving toolbar The default value is true.
 type: docs
 weight: 100
 url: /net/aspose.diagram.saving/htmlsaveoptions/savetoolbar/

@@ -1,7 +1,7 @@
 ---
 title: ArcTo
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains the x and ycoordinates and bow of a circular arc represented respectively by the X Y and A elements.
 type: docs
 weight: 410
 url: /net/aspose.diagram/arcto/

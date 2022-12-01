@@ -1,7 +1,7 @@
 ---
 title: NoQuickDrag
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether a shape can be selected or dragged when the user clicks the filled area defined by the Geometry section.
 type: docs
 weight: 80
 url: /net/aspose.diagram/geom/noquickdrag/

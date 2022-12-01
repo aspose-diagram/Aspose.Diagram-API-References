@@ -52,6 +52,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [ConnectionABCD](./connectionabcd) | The ConnectionABCD element is an obsolete version of the Connection element and exists only for backward compatibility. |
 | [ConnectionABCDCollection](./connectionabcdcollection) | ConnectionABCD collection. |
 | [ConnectionCollection](./connectioncollection) | Connection collection. |
+| [ConnectorRule](./connectorrule) | Represents connector rule between two shapes with a connector,Including which connection point of which shape it starts from, the end shape and its connection point. |
 | [Control](./control) | Contains elements for the x- and y-coordinates of each control handle defined for a shape, and elements that specify the way the control handle should behave. |
 | [ControlCollection](./controlcollection) | Control collection. |
 | [ConType](./contype) | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |

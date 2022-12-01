@@ -3,7 +3,7 @@ title: ReflectionEffectType
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 2890
+weight: 2900
 url: /net/aspose.diagram/reflectioneffecttype/
 ---
 ## ReflectionEffectType enumeration

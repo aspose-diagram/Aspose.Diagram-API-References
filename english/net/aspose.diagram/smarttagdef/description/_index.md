@@ -1,7 +1,7 @@
 ---
 title: Description
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Description element contains a string that describes the smart tag which appears as a tool tip when the user pauses the mouse over the tag.
 type: docs
 weight: 40
 url: /net/aspose.diagram/smarttagdef/description/

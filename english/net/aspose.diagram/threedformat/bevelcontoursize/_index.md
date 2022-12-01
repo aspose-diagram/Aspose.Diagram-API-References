@@ -1,7 +1,7 @@
 ---
 title: BevelContourSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the thickness of the outline on a 3D shape
 type: docs
 weight: 50
 url: /net/aspose.diagram/threedformat/bevelcontoursize/

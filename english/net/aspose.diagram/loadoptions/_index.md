@@ -1,9 +1,9 @@
 ---
 title: LoadOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Allows to specify additional options when loading a diagram into a Diagram object.
 type: docs
-weight: 2210
+weight: 2220
 url: /net/aspose.diagram/loadoptions/
 ---
 ## LoadOptions class
@@ -18,8 +18,8 @@ public class LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LoadOptions](loadoptions)() | Initializes a new instance of this class with default values. |
-| [LoadOptions](loadoptions)(LoadFileFormat) | Initializes a new instance of this class with the format specified. |
+| [LoadOptions](loadoptions#constructor)() | Initializes a new instance of this class with default values. |
+| [LoadOptions](loadoptions#constructor_1)(LoadFileFormat) | Initializes a new instance of this class with the format specified. |
 
 ## Properties
 

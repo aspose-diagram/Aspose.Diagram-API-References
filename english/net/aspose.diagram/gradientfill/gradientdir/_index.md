@@ -1,7 +1,7 @@
 ---
 title: GradientDir
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the type of the fill color gradient
 type: docs
 weight: 20
 url: /net/aspose.diagram/gradientfill/gradientdir/

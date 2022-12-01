@@ -1,7 +1,7 @@
 ---
 title: AvenueSizeY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the amount of vertical space between shapes on the drawing page when you use Microsoft Visio to lay out shapes on the drawing page.
 type: docs
 weight: 20
 url: /net/aspose.diagram/pagelayout/avenuesizey/

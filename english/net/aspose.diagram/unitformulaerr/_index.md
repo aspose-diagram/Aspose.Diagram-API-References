@@ -1,9 +1,9 @@
 ---
 title: UnitFormulaErr
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies attributes of an element.
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.diagram/unitformulaerr/
 ---
 ## UnitFormulaErr class
@@ -18,8 +18,8 @@ public class UnitFormulaErr : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [UnitFormulaErr](unitformulaerr)() | Constructor. |
-| [UnitFormulaErr](unitformulaerr)(MeasureConst, string, string) | Constructor. |
+| [UnitFormulaErr](unitformulaerr#constructor)() | Constructor. |
+| [UnitFormulaErr](unitformulaerr#constructor_1)(MeasureConst, string, string) | Constructor. |
 
 ## Properties
 

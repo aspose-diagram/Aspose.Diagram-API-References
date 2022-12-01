@@ -1,7 +1,7 @@
 ---
 title: ShowConnectionPoints
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether connection points are shown in a window.
 type: docs
 weight: 130
 url: /net/aspose.diagram/window/showconnectionpoints/

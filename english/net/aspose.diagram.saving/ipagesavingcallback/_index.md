@@ -1,9 +1,9 @@
 ---
 title: IPageSavingCallback
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Control/Indicate progress of page saving process.
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.diagram.saving/ipagesavingcallback/
 ---
 ## IPageSavingCallback interface

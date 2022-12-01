@@ -1,9 +1,9 @@
 ---
 title: PageSize
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains information about page size for the generated images.
 type: docs
-weight: 3310
+weight: 3320
 url: /net/aspose.diagram.saving/pagesize/
 ---
 ## PageSize class
@@ -18,8 +18,8 @@ public class PageSize
 
 | Name | Description |
 | --- | --- |
-| [PageSize](pagesize)(PaperSizeFormat) | Initializes a new instance of this class that can be used to set page size for the generated images. |
-| [PageSize](pagesize)(float, float) | Initializes a new instance of this class that can be used to set page size for the generated images. |
+| [PageSize](pagesize#constructor)(PaperSizeFormat) | Initializes a new instance of this class that can be used to set page size for the generated images. |
+| [PageSize](pagesize#constructor_1)(float, float) | Initializes a new instance of this class that can be used to set page size for the generated images. |
 
 ## Properties
 

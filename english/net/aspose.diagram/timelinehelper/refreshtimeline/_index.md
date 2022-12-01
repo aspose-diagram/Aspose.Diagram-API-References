@@ -1,7 +1,7 @@
 ---
 title: RefreshTimeLine
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Refresh time of timeline shapes
 type: docs
 weight: 170
 url: /net/aspose.diagram/timelinehelper/refreshtimeline/

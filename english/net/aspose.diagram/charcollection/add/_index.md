@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Add the Char object in the collection.
 type: docs
 weight: 20
 url: /net/aspose.diagram/charcollection/add/

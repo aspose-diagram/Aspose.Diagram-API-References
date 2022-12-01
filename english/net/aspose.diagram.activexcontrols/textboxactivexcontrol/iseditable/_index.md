@@ -1,7 +1,7 @@
 ---
 title: IsEditable
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates whether the user can type into the control.
 type: docs
 weight: 110
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/iseditable/

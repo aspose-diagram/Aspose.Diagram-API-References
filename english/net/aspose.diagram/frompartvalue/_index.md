@@ -1,9 +1,9 @@
 ---
 title: FromPartValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The part of a shape from which a connection originates.
 type: docs
-weight: 1630
+weight: 1640
 url: /net/aspose.diagram/frompartvalue/
 ---
 ## FromPartValue enumeration

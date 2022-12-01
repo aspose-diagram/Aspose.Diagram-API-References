@@ -1,9 +1,9 @@
 ---
 title: FormatTxt
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Abstract class for formatting of text
 type: docs
-weight: 1610
+weight: 1620
 url: /net/aspose.diagram/formattxt/
 ---
 ## FormatTxt class

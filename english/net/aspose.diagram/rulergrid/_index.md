@@ -1,9 +1,9 @@
 ---
 title: RulerGrid
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements that specify the settings of the pages rulers and grid.
 type: docs
-weight: 3190
+weight: 3200
 url: /net/aspose.diagram/rulergrid/
 ---
 ## RulerGrid class

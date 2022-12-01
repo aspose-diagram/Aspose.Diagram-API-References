@@ -1,7 +1,7 @@
 ---
 title: ListStyle
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Gets and sets the visual appearance.
 type: docs
 weight: 130
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/liststyle/

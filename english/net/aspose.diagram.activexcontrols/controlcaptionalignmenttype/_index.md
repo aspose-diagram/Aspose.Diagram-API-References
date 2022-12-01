@@ -1,7 +1,7 @@
 ---
 title: ControlCaptionAlignmentType
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Represents the position of the Caption relative to the control.
 type: docs
 weight: 120
 url: /net/aspose.diagram.activexcontrols/controlcaptionalignmenttype/

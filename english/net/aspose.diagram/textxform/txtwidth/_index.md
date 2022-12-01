@@ -1,7 +1,7 @@
 ---
 title: TxtWidth
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the width of the text block. The default formula which evaluates to the width of the shape is FWidth1.
 type: docs
 weight: 80
 url: /net/aspose.diagram/textxform/txtwidth/

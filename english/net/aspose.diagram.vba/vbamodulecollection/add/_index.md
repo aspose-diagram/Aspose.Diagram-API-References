@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Adds module for a page.
 type: docs
 weight: 20
 url: /net/aspose.diagram.vba/vbamodulecollection/add/
 ---
-## VbaModuleCollection.Add method (1 of 2)
+## Add(Page) {#add}
 
 Adds module for a page.
 
@@ -27,7 +27,7 @@ public int Add(Page page)
 
 ---
 
-## VbaModuleCollection.Add method (2 of 2)
+## Add(VbaModuleType, string) {#add_1}
 
 Adds module.
 

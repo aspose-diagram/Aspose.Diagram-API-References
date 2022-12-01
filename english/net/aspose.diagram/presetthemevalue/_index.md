@@ -3,7 +3,7 @@ title: PresetThemeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 2760
+weight: 2770
 url: /net/aspose.diagram/presetthemevalue/
 ---
 ## PresetThemeValue enumeration

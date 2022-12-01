@@ -1,7 +1,7 @@
 ---
 title: Overline
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies whether the text has a line above it.
 type: docs
 weight: 300
 url: /net/aspose.diagram/char/overline/

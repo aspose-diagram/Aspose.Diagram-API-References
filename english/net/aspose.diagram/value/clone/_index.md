@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Creates deep copy of this instance.
 type: docs
 weight: 40
 url: /net/aspose.diagram/value/clone/

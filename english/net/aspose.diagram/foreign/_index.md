@@ -1,9 +1,9 @@
 ---
 title: Foreign
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains elements specifying the width and height of an object from another program used in a Microsoft Visio document. Also includes elements specifying the distance the objects image is offset within its borders.
 type: docs
-weight: 1580
+weight: 1590
 url: /net/aspose.diagram/foreign/
 ---
 ## Foreign class

@@ -1,9 +1,9 @@
 ---
 title: MeasureConst
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Units of measure.
 type: docs
-weight: 2310
+weight: 2320
 url: /net/aspose.diagram/measureconst/
 ---
 ## MeasureConst enumeration

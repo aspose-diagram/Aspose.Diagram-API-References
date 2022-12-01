@@ -1,7 +1,7 @@
 ---
 title: Hyperlinks
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Contains a collection of Hyperlink elements.
 type: docs
 weight: 80
 url: /net/aspose.diagram/documentsheet/hyperlinks/

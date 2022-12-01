@@ -1,7 +1,7 @@
 ---
 title: WindowLeft
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Left coordinate of the window rectangle.
 type: docs
 weight: 280
 url: /net/aspose.diagram/window/windowleft/

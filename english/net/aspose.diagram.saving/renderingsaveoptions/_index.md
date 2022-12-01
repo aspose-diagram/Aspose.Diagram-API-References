@@ -1,9 +1,9 @@
 ---
 title: RenderingSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format.
 type: docs
-weight: 3440
+weight: 3450
 url: /net/aspose.diagram.saving/renderingsaveoptions/
 ---
 ## RenderingSaveOptions class

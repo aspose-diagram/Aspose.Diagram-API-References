@@ -1,7 +1,7 @@
 ---
 title: PageStartSaving
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Control/Indicate a page starts to be output.
 type: docs
 weight: 20
 url: /net/aspose.diagram.saving/ipagesavingcallback/pagestartsaving/

@@ -1,7 +1,7 @@
 ---
 title: RefreshInterval
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: How often in minutes Visio refreshes the data recordset automatically. This value must be 1 or larger.
 type: docs
 weight: 140
 url: /net/aspose.diagram/datarecordset/refreshinterval/

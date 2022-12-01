@@ -1,7 +1,7 @@
 ---
 title: CenterY
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines whether the drawing page is centered vertically on the printed page.
 type: docs
 weight: 20
 url: /net/aspose.diagram/printprops/centery/

@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Type specifies a data type for the text field value.
 type: docs
 weight: 90
 url: /net/aspose.diagram/field/type/

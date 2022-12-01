@@ -1,7 +1,7 @@
 ---
 title: ViewCenterX
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Optional double.
 type: docs
 weight: 240
 url: /net/aspose.diagram/window/viewcenterx/

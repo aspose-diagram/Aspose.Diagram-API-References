@@ -1,7 +1,7 @@
 ---
 title: FontDirs
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates the Fonts folder path
 type: docs
 weight: 130
 url: /net/aspose.diagram/diagram/fontdirs/

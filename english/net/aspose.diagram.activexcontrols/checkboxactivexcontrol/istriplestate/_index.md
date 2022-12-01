@@ -1,7 +1,7 @@
 ---
 title: IsTripleState
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Indicates how the specified control will display Null values.
 type: docs
 weight: 60
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/istriplestate/

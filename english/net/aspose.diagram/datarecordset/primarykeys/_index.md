@@ -1,7 +1,7 @@
 ---
 title: PrimaryKeys
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Identifies one or more primarykey columns in the data recordset.
 type: docs
 weight: 120
 url: /net/aspose.diagram/datarecordset/primarykeys/

@@ -1,7 +1,7 @@
 ---
 title: AlignBottom
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Determines the vertical position relative to the origin of its parent of a horizontal guide or guide point to which the shapes bottom border is aligned.
 type: docs
 weight: 10
 url: /net/aspose.diagram/align/alignbottom/
