@@ -1,0 +1,29 @@
+﻿---
+title: XJustify constructor
+second_title: Aspose.Diagram for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /python-net/aspose.diagram/xjustify/__init__/
+is_root: false
+---
+
+## XJustify(value) {#XJustifyValue}
+
+
+
+```python
+def __init__(self, value):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| value | [XJustifyValue](/diagram/python-net/aspose.diagram/xjustifyvalue) |  |
+
+
+
+### See Also
+* module [aspose.diagram](../../)
+* class [XJustify](/diagram/python-net/aspose.diagram/xjustify)
