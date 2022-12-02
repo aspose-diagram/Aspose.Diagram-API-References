@@ -1,0 +1,54 @@
+---
+title: HTMLSaveOptions
+second_title: Référence de l'API Aspose.Diagram pour .NET
+description: Permet de spécifier des options supplémentaires lors du rendu des pages de diagramme au format HTML.
+type: docs
+weight: 3230
+url: /fr/net/aspose.diagram.saving/htmlsaveoptions/
+---
+## HTMLSaveOptions class
+
+Permet de spécifier des options supplémentaires lors du rendu des pages de diagramme au format HTML.
+
+```csharp
+public class HTMLSaveOptions : RenderingSaveOptions
+```
+
+## Constructeurs
+
+| Nom | La description |
+| --- | --- |
+| [HTMLSaveOptions](htmlsaveoptions)() | Initialise une nouvelle instance de cette classe qui peut être utilisée pour enregistrer un document dans le[`HTML`](../../aspose.diagram/savefileformat)format. |
+
+## Propriétés
+
+| Nom | La description |
+| --- | --- |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | Obtient ou définit la zone des formes qui seront enregistrées . |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | Lorsque les caractères du diagramme sont Unicode et ne sont pas définis avec la valeur de police correcte ou que la police n'est pas installée localement, ils peuvent apparaître sous forme de bloc dans pdf, image ou XPS. Définissez la police par défaut telle que MingLiu ou MS Gothic pour les afficher caractères. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | Paramètre pour le rendu du métafichier Emf. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | Spécifie si agrandir la page . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | Définit s'il est nécessaire ou non d'exporter les formes de guidage. |
+| [ExportHiddenPage](../../aspose.diagram.saving/htmlsaveoptions/exporthiddenpage) { get; set; } | Définit s'il faut exporter la page masquée ou non. |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Définit s'il faut ou non exporter les commentaires. |
+| [PageCount](../../aspose.diagram.saving/htmlsaveoptions/pagecount) { get; set; } | Obtient ou définit le nombre de pages à afficher en HTML. La valeur par défaut est MaxValue, ce qui signifie que toutes les pages du diagramme seront affichées. |
+| [PageIndex](../../aspose.diagram.saving/htmlsaveoptions/pageindex) { get; set; } | Obtient ou définit l'index de base 0 de la première page à afficher. La valeur par défaut est 0. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Obtient ou définit la taille de la page pour les images générées. Peut être[`PageSize`](../pagesize) ou null. |
+| [Resolution](../../aspose.diagram.saving/htmlsaveoptions/resolution) { get; set; } | Obtient ou définit la résolution du code HTML généré, en points par pouce. |
+| [SaveAsSingleFile](../../aspose.diagram.saving/htmlsaveoptions/saveassinglefile) { get; set; } | Indique si enregistrer le HTML en tant que fichier unique. La valeur par défaut est false. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/htmlsaveoptions/saveforegroundpagesonly) { get; set; } | Spécifie si toutes les pages seront enregistrées en image ou uniquement au premier plan. |
+| override [SaveFormat](../../aspose.diagram.saving/htmlsaveoptions/saveformat) { get; set; } | Spécifie le format dans lequel les pages de diagramme rendues seront enregistrées si cet objet d'options d'enregistrement est utilisé. Peut être[`HTML`](../../aspose.diagram/savefileformat) seulement. |
+| [SaveTitle](../../aspose.diagram.saving/htmlsaveoptions/savetitle) { get; set; } | Définit s'il faut exporter le titre ou non. |
+| [SaveToolBar](../../aspose.diagram.saving/htmlsaveoptions/savetoolbar) { get; set; } | Spécifie si la barre d'outils d'enregistrement La valeur par défaut est true. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Obtient ou définit les formes à afficher. Le nombre par défaut est 0. |
+| [StreamProvider](../../aspose.diagram.saving/htmlsaveoptions/streamprovider) { get; set; } | Obtient ou définit le IStreamProvider pour l'exportation d'objets. |
+| [Title](../../aspose.diagram.saving/htmlsaveoptions/title) { get; set; } | Obtient ou définit le titre du diagramme à afficher en HTML. Si le titre est nul Diagram.DocumentProperties.Title[`DocumentProperties`](../../aspose.diagram/documentproperties) sera utilisé comme titre. Si Diagram.DocumentProperties.Title est nul ou vide, le nom de fichier du diagramme sera utilisé comme titre. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Obtient ou définit un rappel d'avertissement. |
+
+### Voir également
+
+* class [RenderingSaveOptions](../renderingsaveoptions)
+* espace de noms [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* Assemblée [Aspose.Diagram](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
