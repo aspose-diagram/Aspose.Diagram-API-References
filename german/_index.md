@@ -62,3 +62,18 @@ Aspose.Diagram for Python via Java API bietet alle nützlichen Funktionen von As
 
 Dies sind Links zu einigen nützlichen Ressourcen:
 - [Aspose.Diagram für Python über die Java-API-Referenz](/diagram/python-java/) 
+
+## Aspose.Diagram für Python über .NET
+
+{{% alert color="primary" %}} 
+
+![Aspose.Diagram für Python über das .NET-Produktlogo](../home_5.png)
+
+Aspose.Diagram for Python via .NET ist eine Dokumentsteuerungsanordnung von Microsoft Visio. Man kann native Visio-Formate lesen, erstellen, speichern, verwenden und drucken und unterstützt einige allgemein verwendete Bild- und Festformatformate. Es ist nicht schwierig, vorhandene Dateien zu stapeln und die Diagrammkomponenten anzupassen, um sie in das gewünschte Format zu senden, einschließlich Bilder oder Formate mit festem Design wie PDF oder XPS.
+
+Aspose.Diagram for Python via .NET API Reference enthält Beispiele, Codeausschnitte und API-Dokumentation.
+
+{{% /alert %}} 
+
+Dies sind Links zu einigen nützlichen Ressourcen:
+- [Aspose.Diagram für Python über die .NET-API-Referenz](/diagram/python-net/) 
