@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the Coordinate object in the collection.
 type: docs
-weight: 170
 url: /net/aspose.diagram/coordinatecollection/add/
 ---
 ## Add(Coordinate) {#add_1}

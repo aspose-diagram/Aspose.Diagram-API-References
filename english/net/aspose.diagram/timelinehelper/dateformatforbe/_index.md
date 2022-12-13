@@ -3,7 +3,6 @@ title: DateFormatForBE
 second_title: Aspose.Diagram for .NET API Reference
 description: DateFormat for start and finish of timeline shape
 type: docs
-weight: 40
 url: /net/aspose.diagram/timelinehelper/dateformatforbe/
 ---
 ## TimeLineHelper.DateFormatForBE property

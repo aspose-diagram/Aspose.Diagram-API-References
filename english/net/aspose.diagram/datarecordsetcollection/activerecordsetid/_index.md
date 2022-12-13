@@ -3,7 +3,6 @@ title: ActiveRecordsetId
 second_title: Aspose.Diagram for .NET API Reference
 description: ActiveRecordsetID
 type: docs
-weight: 10
 url: /net/aspose.diagram/datarecordsetcollection/activerecordsetid/
 ---
 ## DataRecordSetCollection.ActiveRecordsetId property

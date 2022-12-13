@@ -3,7 +3,6 @@ title: EndArrow
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether a line has an arrowhead or other lineend format at its last vertex.
 type: docs
-weight: 50
 url: /net/aspose.diagram/line/endarrow/
 ---
 ## Line.EndArrow property

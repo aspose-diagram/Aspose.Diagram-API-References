@@ -3,7 +3,6 @@ title: DataConnectionCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: DataConnection collection.
 type: docs
-weight: 1120
 url: /net/aspose.diagram/dataconnectioncollection/
 ---
 ## DataConnectionCollection class

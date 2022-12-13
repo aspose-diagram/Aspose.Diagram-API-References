@@ -3,7 +3,6 @@ title: Size
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the radius of the glow in unit of points.
 type: docs
-weight: 10
 url: /net/aspose.diagram/gloweffect/size/
 ---
 ## GlowEffect.Size property

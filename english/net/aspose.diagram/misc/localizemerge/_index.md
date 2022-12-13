@@ -3,7 +3,6 @@ title: LocalizeMerge
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether shapes are localized whether their LangIDelement is reset when they are copied between documents.
 type: docs
-weight: 130
 url: /net/aspose.diagram/misc/localizemerge/
 ---
 ## Misc.LocalizeMerge property

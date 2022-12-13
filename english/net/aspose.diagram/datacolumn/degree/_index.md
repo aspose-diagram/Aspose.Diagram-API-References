@@ -3,7 +3,6 @@ title: Degree
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the degree power of the units for example squared or cubed. The default attribute absent is 1.
 type: docs
-weight: 60
 url: /net/aspose.diagram/datacolumn/degree/
 ---
 ## DataColumn.Degree property

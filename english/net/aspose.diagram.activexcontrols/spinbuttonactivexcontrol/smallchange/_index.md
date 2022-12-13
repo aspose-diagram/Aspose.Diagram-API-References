@@ -3,7 +3,6 @@ title: SmallChange
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the amount by which the Position property changes
 type: docs
-weight: 50
 url: /net/aspose.diagram.activexcontrols/spinbuttonactivexcontrol/smallchange/
 ---
 ## SpinButtonActiveXControl.SmallChange property

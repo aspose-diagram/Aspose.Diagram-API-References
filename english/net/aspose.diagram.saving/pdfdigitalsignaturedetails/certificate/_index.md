@@ -3,7 +3,6 @@ title: Certificate
 second_title: Aspose.Diagram for .NET API Reference
 description: Certificate to sign with.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/certificate/
 ---
 ## PdfDigitalSignatureDetails.Certificate property

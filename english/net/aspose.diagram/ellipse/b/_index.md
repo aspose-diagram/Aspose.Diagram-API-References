@@ -3,7 +3,6 @@ title: B
 second_title: Aspose.Diagram for .NET API Reference
 description: A ycoordinate of a point on an ellipse paired with an xcoordinate represented by the A element.
 type: docs
-weight: 30
 url: /net/aspose.diagram/ellipse/b/
 ---
 ## Ellipse.B property

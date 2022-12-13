@@ -3,7 +3,6 @@ title: ShapeID
 second_title: Aspose.Diagram for .NET API Reference
 description: The shape ID of the comment.
 type: docs
-weight: 90
 url: /net/aspose.diagram/annotation/shapeid/
 ---
 ## Annotation.ShapeID property

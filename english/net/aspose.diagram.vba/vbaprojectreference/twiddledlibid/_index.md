@@ -3,7 +3,6 @@ title: Twiddledlibid
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the twiddled Libid of the reference.
 type: docs
-weight: 50
 url: /net/aspose.diagram.vba/vbaprojectreference/twiddledlibid/
 ---
 ## VbaProjectReference.Twiddledlibid property

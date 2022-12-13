@@ -3,7 +3,6 @@ title: ObjectSourceFullName
 second_title: Aspose.Diagram for .NET API Reference
 description: Returns the source full name of the source file for the linked OLE object.
 type: docs
-weight: 100
 url: /net/aspose.diagram/foreigndata/objectsourcefullname/
 ---
 ## ForeignData.ObjectSourceFullName property

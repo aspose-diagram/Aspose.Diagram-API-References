@@ -3,7 +3,6 @@ title: Prompt
 second_title: Aspose.Diagram for .NET API Reference
 description: Prompt element specifies descriptive text that appears as a tool tip when the mouse pointer is paused over a shapes control handle.
 type: docs
-weight: 80
 url: /net/aspose.diagram/control/prompt/
 ---
 ## Control.Prompt property

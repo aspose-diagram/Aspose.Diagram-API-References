@@ -3,7 +3,6 @@ title: HideText
 second_title: Aspose.Diagram for .NET API Reference
 description: Hides the text for a shape. You can view text edit properties and apply styles to the text in the text block although the changes will not appear until you specify the HideText element as 0.
 type: docs
-weight: 90
 url: /net/aspose.diagram/misc/hidetext/
 ---
 ## Misc.HideText property

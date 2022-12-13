@@ -3,7 +3,6 @@ title: PatternFlags
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether a master behaves as a custom pattern.
 type: docs
-weight: 80
 url: /net/aspose.diagram/mastershortcut/patternflags/
 ---
 ## MasterShortcut.PatternFlags property

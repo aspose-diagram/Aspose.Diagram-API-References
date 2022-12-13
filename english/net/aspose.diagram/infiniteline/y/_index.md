@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: A ycoordinate of a point on the infinite line.
 type: docs
-weight: 70
 url: /net/aspose.diagram/infiniteline/y/
 ---
 ## InfiniteLine.Y property

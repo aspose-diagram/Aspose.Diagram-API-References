@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the Prop object in the collection.
 type: docs
-weight: 20
 url: /net/aspose.diagram/propcollection/add/
 ---
 ## PropCollection.Add method

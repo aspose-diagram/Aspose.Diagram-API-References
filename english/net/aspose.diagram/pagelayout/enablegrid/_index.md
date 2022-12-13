@@ -3,7 +3,6 @@ title: EnableGrid
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether Microsoft Visio lays out shapes based on an internal page grid when the user selects Lay Out Shapes Shape menu.
 type: docs
-weight: 90
 url: /net/aspose.diagram/pagelayout/enablegrid/
 ---
 ## PageLayout.EnableGrid property

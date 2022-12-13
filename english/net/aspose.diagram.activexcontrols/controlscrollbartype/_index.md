@@ -3,7 +3,6 @@ title: ControlScrollBarType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the type of scroll bar.
 type: docs
-weight: 190
 url: /net/aspose.diagram.activexcontrols/controlscrollbartype/
 ---
 ## ControlScrollBarType enumeration

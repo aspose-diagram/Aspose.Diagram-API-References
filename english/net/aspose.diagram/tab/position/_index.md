@@ -3,7 +3,6 @@ title: Position
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the position of a tab stop.
 type: docs
-weight: 50
 url: /net/aspose.diagram/tab/position/
 ---
 ## Tab.Position property

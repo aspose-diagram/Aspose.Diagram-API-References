@@ -3,7 +3,6 @@ title: Container
 second_title: Aspose.Diagram for .NET API Reference
 description: ID of container Page Sheet or Master. Only relevant and necessary if ContainerType is specified.
 type: docs
-weight: 20
 url: /net/aspose.diagram/window/container/
 ---
 ## Window.Container property

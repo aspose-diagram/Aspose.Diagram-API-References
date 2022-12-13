@@ -3,7 +3,6 @@ title: DigitalSignatureDetails
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets a digital signature details. If not set then no signing will be performed.
 type: docs
-weight: 30
 url: /net/aspose.diagram.saving/pdfsaveoptions/digitalsignaturedetails/
 ---
 ## PdfSaveOptions.DigitalSignatureDetails property

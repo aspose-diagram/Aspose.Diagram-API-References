@@ -3,7 +3,6 @@ title: InheritFill
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the fill formatting values for the shape inherit by the parent style and the master shape.
 type: docs
-weight: 290
 url: /net/aspose.diagram/shape/inheritfill/
 ---
 ## Shape.InheritFill property

@@ -3,7 +3,6 @@ title: Enabled
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a flag indicating if the event is enabled or disabled.
 type: docs
-weight: 30
 url: /net/aspose.diagram/eventitem/enabled/
 ---
 ## EventItem.Enabled property

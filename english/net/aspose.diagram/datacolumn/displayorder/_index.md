@@ -3,7 +3,6 @@ title: DisplayOrder
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines the display position of the data column in the External Data window from the leftmost column 0 to the rightmost column largest value.
 type: docs
-weight: 70
 url: /net/aspose.diagram/datacolumn/displayorder/
 ---
 ## DataColumn.DisplayOrder property

@@ -3,7 +3,6 @@ title: Aspose.Diagram.AutoLayout
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains classes to auto lay out diagrams.
 type: docs
-weight: 30
 url: /net/aspose.diagram.autolayout/
 ---
 Contains classes to auto lay out diagrams.

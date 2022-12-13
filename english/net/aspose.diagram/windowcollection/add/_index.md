@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the window in the collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/windowcollection/add/
 ---
 ## WindowCollection.Add method

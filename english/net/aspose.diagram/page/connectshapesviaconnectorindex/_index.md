@@ -3,7 +3,6 @@ title: ConnectShapesViaConnectorIndex
 second_title: Aspose.Diagram for .NET API Reference
 description: Connect shapes via connector index.
 type: docs
-weight: 290
 url: /net/aspose.diagram/page/connectshapesviaconnectorindex/
 ---
 ## ConnectShapesViaConnectorIndex(long, int, long, int, long) {#connectshapesviaconnectorindex_1}

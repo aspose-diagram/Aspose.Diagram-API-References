@@ -3,7 +3,6 @@ title: TextStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: StyleSheet element from which the PageSheet inherits text formatting.
 type: docs
-weight: 180
 url: /net/aspose.diagram/pagesheet/textstyle/
 ---
 ## PageSheet.TextStyle property

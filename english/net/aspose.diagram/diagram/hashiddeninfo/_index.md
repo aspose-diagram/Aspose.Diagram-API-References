@@ -3,7 +3,6 @@ title: HasHiddenInfo
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether this diagram has hidden information.
 type: docs
-weight: 380
 url: /net/aspose.diagram/diagram/hashiddeninfo/
 ---
 ## Diagram.HasHiddenInfo method

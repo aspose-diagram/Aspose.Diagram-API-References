@@ -3,7 +3,6 @@ title: Ignored
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the validation issue is currently ignored. The default is False.
 type: docs
-weight: 30
 url: /net/aspose.diagram/issue/ignored/
 ---
 ## Issue.Ignored property

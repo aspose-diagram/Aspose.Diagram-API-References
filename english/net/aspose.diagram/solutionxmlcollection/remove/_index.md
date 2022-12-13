@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the SolutionXML from the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/solutionxmlcollection/remove/
 ---
 ## SolutionXMLCollection.Remove method

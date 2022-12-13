@@ -3,7 +3,6 @@ title: PageIndex
 second_title: Aspose.Diagram for .NET API Reference
 description: Current page index zero based.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/pagesavingargs/pageindex/
 ---
 ## PageSavingArgs.PageIndex property

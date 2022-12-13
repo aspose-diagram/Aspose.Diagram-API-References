@@ -3,7 +3,6 @@ title: Image
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the gamma brightness contrast blur sharpen denoise and transparency values for a bitmap.
 type: docs
-weight: 130
 url: /net/aspose.diagram/stylesheet/image/
 ---
 ## StyleSheet.Image property

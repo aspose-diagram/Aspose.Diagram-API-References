@@ -3,7 +3,6 @@ title: ColorValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents color value
 type: docs
-weight: 720
 url: /net/aspose.diagram/colorvalue/
 ---
 ## ColorValue class

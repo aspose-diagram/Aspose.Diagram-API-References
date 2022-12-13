@@ -3,7 +3,6 @@ title: Color
 second_title: Aspose.Diagram for .NET API Reference
 description: When contained in a Char element the Color element.
 type: docs
-weight: 50
 url: /net/aspose.diagram/char/color/
 ---
 ## Char.Color property

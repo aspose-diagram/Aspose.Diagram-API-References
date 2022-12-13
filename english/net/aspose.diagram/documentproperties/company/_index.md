@@ -3,7 +3,6 @@ title: Company
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains userentered information identifying the company creating the drawing or the company the drawing is being created for. Maximum length is 63 characters.
 type: docs
-weight: 50
 url: /net/aspose.diagram/documentproperties/company/
 ---
 ## DocumentProperties.Company property

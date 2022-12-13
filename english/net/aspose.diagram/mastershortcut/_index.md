@@ -3,7 +3,6 @@ title: MasterShortcut
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies a master shortcut defined in the document.
 type: docs
-weight: 2300
 url: /net/aspose.diagram/mastershortcut/
 ---
 ## MasterShortcut class

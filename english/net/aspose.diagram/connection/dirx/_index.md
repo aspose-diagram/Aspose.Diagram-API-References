@@ -3,7 +3,6 @@ title: DirX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the xcomponent for the required alignment vector of a matching connection point. The DirX element is also used to orient the attached leg of a dynamic connector.
 type: docs
-weight: 40
 url: /net/aspose.diagram/connection/dirx/
 ---
 ## Connection.DirX property

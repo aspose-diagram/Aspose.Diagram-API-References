@@ -3,7 +3,6 @@ title: Hidden
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the master is hidden in the user interface.
 type: docs
-weight: 50
 url: /net/aspose.diagram/master/hidden/
 ---
 ## Master.Hidden property

@@ -3,7 +3,6 @@ title: ExportHiddenPage
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether need exporting the hidden page or not.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/xpssaveoptions/exporthiddenpage/
 ---
 ## XPSSaveOptions.ExportHiddenPage property

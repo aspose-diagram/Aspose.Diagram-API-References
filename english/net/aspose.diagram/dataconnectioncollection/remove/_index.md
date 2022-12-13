@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the dataConnection from the collection.
 type: docs
-weight: 50
 url: /net/aspose.diagram/dataconnectioncollection/remove/
 ---
 ## DataConnectionCollection.Remove method

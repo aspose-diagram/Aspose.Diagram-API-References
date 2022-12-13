@@ -3,7 +3,6 @@ title: ConnectShapesViaConnector
 second_title: Aspose.Diagram for .NET API Reference
 description: Connect shapes via connector.
 type: docs
-weight: 280
 url: /net/aspose.diagram/page/connectshapesviaconnector/
 ---
 ## ConnectShapesViaConnector(Shape, ConnectionPointPlace, Shape, ConnectionPointPlace, Shape) {#connectshapesviaconnector}

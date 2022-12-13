@@ -3,7 +3,6 @@ title: IsMultiLine
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the control can display more than one line of text.
 type: docs
-weight: 120
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/ismultiline/
 ---
 ## TextBoxActiveXControl.IsMultiLine property

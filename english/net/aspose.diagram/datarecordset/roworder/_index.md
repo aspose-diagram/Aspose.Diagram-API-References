@@ -3,7 +3,6 @@ title: RowOrder
 second_title: Aspose.Diagram for .NET API Reference
 description: Whether to use the order of the rows in the data recordset as the primary key. True 1 if row IDs are determined by row order. False 0 if row IDs are determined by values in the primary key columns of the data recordset.
 type: docs
-weight: 190
 url: /net/aspose.diagram/datarecordset/roworder/
 ---
 ## DataRecordSet.RowOrder property

@@ -3,7 +3,6 @@ title: Menu
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the name of the command that appears on the shortcut menu for a shape or page.
 type: docs
-weight: 120
 url: /net/aspose.diagram/act/menu/
 ---
 ## Act.Menu property

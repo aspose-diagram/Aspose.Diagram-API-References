@@ -3,7 +3,6 @@ title: ColumnNameID
 second_title: Aspose.Diagram for .NET API Reference
 description: External name of the data column. Appears in the headings in the External Data window and in labels in data graphics.
 type: docs
-weight: 30
 url: /net/aspose.diagram/datacolumn/columnnameid/
 ---
 ## DataColumn.ColumnNameID property

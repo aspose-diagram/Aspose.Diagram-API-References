@@ -3,7 +3,6 @@ title: IsSigned
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether VBAcode is signed or not.
 type: docs
-weight: 10
 url: /net/aspose.diagram.vba/vbaproject/issigned/
 ---
 ## VbaProject.IsSigned property

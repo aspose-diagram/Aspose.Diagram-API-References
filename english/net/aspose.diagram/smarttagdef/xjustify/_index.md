@@ -3,7 +3,6 @@ title: XJustify
 second_title: Aspose.Diagram for .NET API Reference
 description: The xoffset of the smart tag button relative to the point defined by the X and Y elements.
 type: docs
-weight: 120
 url: /net/aspose.diagram/smarttagdef/xjustify/
 ---
 ## SmartTagDef.XJustify property

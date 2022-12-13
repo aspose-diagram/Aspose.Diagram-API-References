@@ -3,7 +3,6 @@ title: AddShape
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds shape created by master to specific page.
 type: docs
-weight: 320
 url: /net/aspose.diagram/diagram/addshape/
 ---
 ## AddShape(Shape, string, int) {#addshape}

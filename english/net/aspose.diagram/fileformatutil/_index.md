@@ -3,7 +3,6 @@ title: FileFormatUtil
 second_title: Aspose.Diagram for .NET API Reference
 description: Provides utility methods for converting file format enums to strings or file extensions and back.
 type: docs
-weight: 1480
 url: /net/aspose.diagram/fileformatutil/
 ---
 ## FileFormatUtil class

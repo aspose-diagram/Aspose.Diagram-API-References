@@ -3,7 +3,6 @@ title: LabelActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the label ActiveX control.
 type: docs
-weight: 260
 url: /net/aspose.diagram.activexcontrols/labelactivexcontrol/
 ---
 ## LabelActiveXControl class

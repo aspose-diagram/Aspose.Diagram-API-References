@@ -3,7 +3,6 @@ title: PdfSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to specify additional options when rendering diagram pages to PDF.
 type: docs
-weight: 3410
 url: /net/aspose.diagram.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -44,7 +43,7 @@ public class PdfSaveOptions : RenderingSaveOptions
 | override [SaveFormat](../../aspose.diagram.saving/pdfsaveoptions/saveformat) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`PDF`](../../aspose.diagram/savefileformat) only. |
 | [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Gets or sets shapes to render. Default count is 0. |
 | [SplitMultiPages](../../aspose.diagram.saving/pdfsaveoptions/splitmultipages) { get; set; } | Defines whether split diagram to multi pages according to page's setting. |
-| [TextCompression](../../aspose.diagram.saving/pdfsaveoptions/textcompression) { get; set; } | Specifies compression type to be used for all content streams except images. Default is !:PdfTextCompressionCore.Flate. |
+| [TextCompression](../../aspose.diagram.saving/pdfsaveoptions/textcompression) { get; set; } | Specifies compression type to be used for all content streams except images. Default is Flate. |
 | [VerticalResolution](../../aspose.diagram.saving/pdfsaveoptions/verticalresolution) { get; set; } | Gets or sets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image. |
 | [WarningCallback](../../aspose.diagram.saving/pdfsaveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
 

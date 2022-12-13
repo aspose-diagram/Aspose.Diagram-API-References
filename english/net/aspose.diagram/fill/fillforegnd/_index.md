@@ -3,7 +3,6 @@ title: FillForegnd
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the color used for the foreground stroke of the shapes fill pattern.
 type: docs
-weight: 40
 url: /net/aspose.diagram/fill/fillforegnd/
 ---
 ## Fill.FillForegnd property

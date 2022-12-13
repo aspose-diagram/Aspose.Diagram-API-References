@@ -3,7 +3,6 @@ title: LineToNodeX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the minimum vertical clearance between dynamic connectors and shapes on the drawing page.
 type: docs
-weight: 190
 url: /net/aspose.diagram/pagelayout/linetonodex/
 ---
 ## PageLayout.LineToNodeX property

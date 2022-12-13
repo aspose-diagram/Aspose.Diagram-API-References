@@ -3,7 +3,6 @@ title: BuildNumberEdited
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the build number of the instance last used to edit the document.
 type: docs
-weight: 30
 url: /net/aspose.diagram/documentproperties/buildnumberedited/
 ---
 ## DocumentProperties.BuildNumberEdited property

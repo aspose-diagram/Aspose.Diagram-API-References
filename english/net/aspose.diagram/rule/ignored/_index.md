@@ -3,7 +3,6 @@ title: Ignored
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the validation rule is currently ignored. Default is False.
 type: docs
-weight: 50
 url: /net/aspose.diagram/rule/ignored/
 ---
 ## Rule.Ignored property

@@ -3,7 +3,6 @@ title: ButtonFace
 second_title: Aspose.Diagram for .NET API Reference
 description: It contains the ID of the button face image that appears on the smart tag button.
 type: docs
-weight: 20
 url: /net/aspose.diagram/smarttagdef/buttonface/
 ---
 ## SmartTagDef.ButtonFace property

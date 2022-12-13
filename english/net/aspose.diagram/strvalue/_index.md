@@ -3,7 +3,6 @@ title: StrValue
 second_title: Aspose.Diagram for .NET API Reference
 description: String value
 type: docs
-weight: 3880
 url: /net/aspose.diagram/strvalue/
 ---
 ## StrValue class

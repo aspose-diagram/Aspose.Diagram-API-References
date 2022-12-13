@@ -3,7 +3,6 @@ title: ContainerType
 second_title: Aspose.Diagram for .NET API Reference
 description: May be one of the following values Document Page or Master. Only relevant when WindowType is specified as Drawing or Sheet.
 type: docs
-weight: 30
 url: /net/aspose.diagram/window/containertype/
 ---
 ## Window.ContainerType property

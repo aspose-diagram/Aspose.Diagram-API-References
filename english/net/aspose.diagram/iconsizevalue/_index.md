@@ -3,7 +3,6 @@ title: IconSizeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Optional int. The size of the elements icon.
 type: docs
-weight: 1910
 url: /net/aspose.diagram/iconsizevalue/
 ---
 ## IconSizeValue enumeration

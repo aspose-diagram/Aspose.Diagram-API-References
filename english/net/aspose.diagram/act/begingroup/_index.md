@@ -3,7 +3,6 @@ title: BeginGroup
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether a separator is inserted into the menu above this action.
 type: docs
-weight: 30
 url: /net/aspose.diagram/act/begingroup/
 ---
 ## Act.BeginGroup property

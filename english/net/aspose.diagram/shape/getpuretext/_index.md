@@ -3,7 +3,6 @@ title: GetPureText
 second_title: Aspose.Diagram for .NET API Reference
 description: Get the text string
 type: docs
-weight: 810
 url: /net/aspose.diagram/shape/getpuretext/
 ---
 ## Shape.GetPureText method

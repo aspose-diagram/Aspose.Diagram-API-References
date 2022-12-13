@@ -3,7 +3,6 @@ title: IX
 second_title: Aspose.Diagram for .NET API Reference
 description: The zerobased index of the element within its parent element.
 type: docs
-weight: 80
 url: /net/aspose.diagram/connectionabcd/ix/
 ---
 ## ConnectionABCD.IX property

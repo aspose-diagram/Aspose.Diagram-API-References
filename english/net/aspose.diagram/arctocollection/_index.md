@@ -3,7 +3,6 @@ title: ArcToCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: ArcTo collection.
 type: docs
-weight: 420
 url: /net/aspose.diagram/arctocollection/
 ---
 ## ArcToCollection class

@@ -3,7 +3,6 @@ title: MousePointer
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the type of icon displayed as the mouse pointer for the control.
 type: docs
-weight: 60
 url: /net/aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/
 ---
 ## ActiveXControlBase.MousePointer property

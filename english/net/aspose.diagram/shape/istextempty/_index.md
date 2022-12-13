@@ -3,7 +3,6 @@ title: IsTextEmpty
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicate the shape has text and the text is empty or not.
 type: docs
-weight: 360
 url: /net/aspose.diagram/shape/istextempty/
 ---
 ## Shape.IsTextEmpty property

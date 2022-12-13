@@ -3,7 +3,6 @@ title: SmartTagDefCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: SmartTagDef collection.
 type: docs
-weight: 3760
 url: /net/aspose.diagram/smarttagdefcollection/
 ---
 ## SmartTagDefCollection class

@@ -3,7 +3,6 @@ title: Active
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a layer is active. Shapes that are not preassigned to layers are assigned to the active layers when dropped on the drawing page.
 type: docs
-weight: 20
 url: /net/aspose.diagram/layer/active/
 ---
 ## Layer.Active property

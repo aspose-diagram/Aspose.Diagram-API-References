@@ -3,7 +3,6 @@ title: ExtraInfo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains information to be used in resolving a URL such as the coordinates of an image map. For example x41 y7 would specify the coordinates of an image map.
 type: docs
-weight: 60
 url: /net/aspose.diagram/hyperlink/extrainfo/
 ---
 ## Hyperlink.ExtraInfo property

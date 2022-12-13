@@ -3,7 +3,6 @@ title: ImageBrightness
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the brightness for the the generated images.
 type: docs
-weight: 50
 url: /net/aspose.diagram.saving/imagesaveoptions/imagebrightness/
 ---
 ## ImageSaveOptions.ImageBrightness property

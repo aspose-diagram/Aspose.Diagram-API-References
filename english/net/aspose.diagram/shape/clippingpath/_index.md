@@ -3,7 +3,6 @@ title: ClippingPath
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 60
 url: /net/aspose.diagram/shape/clippingpath/
 ---
 ## Shape.ClippingPath property

@@ -3,7 +3,6 @@ title: ConnectionABCD
 second_title: Aspose.Diagram for .NET API Reference
 description: The ConnectionABCD element is an obsolete version of the Connection element and exists only for backward compatibility.
 type: docs
-weight: 940
 url: /net/aspose.diagram/connectionabcd/
 ---
 ## ConnectionABCD class

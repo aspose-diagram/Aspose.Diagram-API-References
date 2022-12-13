@@ -3,7 +3,6 @@ title: Font
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the ID number of the font used to format the text.
 type: docs
-weight: 130
 url: /net/aspose.diagram/char/font/
 ---
 ## Char.Font property

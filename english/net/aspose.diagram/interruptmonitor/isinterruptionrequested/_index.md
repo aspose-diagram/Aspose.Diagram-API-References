@@ -3,7 +3,6 @@ title: IsInterruptionRequested
 second_title: Aspose.Diagram for .NET API Reference
 description: Mark the monitor as requesting interruption
 type: docs
-weight: 20
 url: /net/aspose.diagram/interruptmonitor/isinterruptionrequested/
 ---
 ## InterruptMonitor.IsInterruptionRequested property

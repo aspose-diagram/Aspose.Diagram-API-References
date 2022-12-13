@@ -3,7 +3,6 @@ title: StyleSheet
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a style defined in a document.
 type: docs
-weight: 3920
 url: /net/aspose.diagram/stylesheet/
 ---
 ## StyleSheet class

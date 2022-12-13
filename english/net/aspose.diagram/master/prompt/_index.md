@@ -3,7 +3,6 @@ title: Prompt
 second_title: Aspose.Diagram for .NET API Reference
 description: The status bar and tool tip prompt for the element.
 type: docs
-weight: 150
 url: /net/aspose.diagram/master/prompt/
 ---
 ## Master.Prompt property

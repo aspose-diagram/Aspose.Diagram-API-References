@@ -3,7 +3,6 @@ title: IsSnapTarget
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether snapping to a group or to shapes within the group is enabled.
 type: docs
-weight: 50
 url: /net/aspose.diagram/group/issnaptarget/
 ---
 ## Group.IsSnapTarget property

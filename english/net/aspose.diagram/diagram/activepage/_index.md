@@ -3,7 +3,6 @@ title: ActivePage
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the active page
 type: docs
-weight: 20
 url: /net/aspose.diagram/diagram/activepage/
 ---
 ## Diagram.ActivePage property

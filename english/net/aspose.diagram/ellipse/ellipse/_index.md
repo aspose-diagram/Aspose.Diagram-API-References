@@ -3,7 +3,6 @@ title: Ellipse
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of the Ellipseaspose.diagram/ellipse class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/ellipse/ellipse/
 ---
 ## Ellipse constructor

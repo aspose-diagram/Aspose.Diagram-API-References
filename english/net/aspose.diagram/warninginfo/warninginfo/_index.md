@@ -3,7 +3,6 @@ title: WarningInfo
 second_title: Aspose.Diagram for .NET API Reference
 description: Create warning info.
 type: docs
-weight: 10
 url: /net/aspose.diagram/warninginfo/warninginfo/
 ---
 ## WarningInfo constructor

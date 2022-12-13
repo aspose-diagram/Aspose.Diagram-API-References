@@ -3,7 +3,6 @@ title: Err
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates that the formula evaluates to an error.
 type: docs
-weight: 20
 url: /net/aspose.diagram/unitformulaerr/err/
 ---
 ## UnitFormulaErr.Err property

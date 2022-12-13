@@ -3,7 +3,6 @@ title: DisplayLevel
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the display level band the relative range of Zorder grouping for the shape.
 type: docs
-weight: 80
 url: /net/aspose.diagram/layout/displaylevel/
 ---
 ## Layout.DisplayLevel property

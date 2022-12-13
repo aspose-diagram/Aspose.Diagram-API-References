@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the name of Module.
 type: docs
-weight: 20
 url: /net/aspose.diagram.vba/vbamodule/name/
 ---
 ## VbaModule.Name property

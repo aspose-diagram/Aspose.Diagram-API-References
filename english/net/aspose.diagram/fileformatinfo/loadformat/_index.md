@@ -3,7 +3,6 @@ title: LoadFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the detected load format.
 type: docs
-weight: 30
 url: /net/aspose.diagram/fileformatinfo/loadformat/
 ---
 ## FileFormatInfo.LoadFormat property

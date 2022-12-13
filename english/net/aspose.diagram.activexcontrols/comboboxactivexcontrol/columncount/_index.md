@@ -3,7 +3,6 @@ title: ColumnCount
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the number of columns to display in a ComboBox or ListBox.
 type: docs
-weight: 40
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/columncount/
 ---
 ## ComboBoxActiveXControl.ColumnCount property

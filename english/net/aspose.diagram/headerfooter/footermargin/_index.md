@@ -3,7 +3,6 @@ title: FooterMargin
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the margin of a documents footer.
 type: docs
-weight: 30
 url: /net/aspose.diagram/headerfooter/footermargin/
 ---
 ## HeaderFooter.FooterMargin property

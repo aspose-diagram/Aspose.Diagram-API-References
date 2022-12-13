@@ -3,7 +3,6 @@ title: SignatureDate
 second_title: Aspose.Diagram for .NET API Reference
 description: Date of signing.
 type: docs
-weight: 60
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/signaturedate/
 ---
 ## PdfDigitalSignatureDetails.SignatureDate property

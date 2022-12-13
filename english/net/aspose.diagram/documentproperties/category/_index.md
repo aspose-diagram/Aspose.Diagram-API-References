@@ -3,7 +3,6 @@ title: Category
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the descriptive text for the type of drawing such as flowchart or office layout. This text can also be entered in the Microsoft Visio user interface in the Category box in the Properties dialog box.
 type: docs
-weight: 40
 url: /net/aspose.diagram/documentproperties/category/
 ---
 ## DocumentProperties.Category property

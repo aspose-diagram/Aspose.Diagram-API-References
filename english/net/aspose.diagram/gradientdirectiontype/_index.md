@@ -3,7 +3,6 @@ title: GradientDirectionType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents all direction type of gradient.
 type: docs
-weight: 1730
 url: /net/aspose.diagram/gradientdirectiontype/
 ---
 ## GradientDirectionType enumeration

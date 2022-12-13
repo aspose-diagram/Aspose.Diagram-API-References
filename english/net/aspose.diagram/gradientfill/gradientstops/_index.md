@@ -3,7 +3,6 @@ title: GradientStops
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the gradient stop collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/gradientfill/gradientstops/
 ---
 ## GradientFill.GradientStops property

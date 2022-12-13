@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the row in the collection.
 type: docs
-weight: 20
 url: /net/aspose.diagram/rowcollection/add/
 ---
 ## RowCollection.Add method

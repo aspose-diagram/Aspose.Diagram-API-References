@@ -3,7 +3,6 @@ title: GetEnumerator
 second_title: Aspose.Diagram for .NET API Reference
 description: Supports a simple iteration over a nongeneric collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/collection/getenumerator/
 ---
 ## Collection.GetEnumerator method

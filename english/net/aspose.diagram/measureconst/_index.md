@@ -3,7 +3,6 @@ title: MeasureConst
 second_title: Aspose.Diagram for .NET API Reference
 description: Units of measure.
 type: docs
-weight: 2320
 url: /net/aspose.diagram/measureconst/
 ---
 ## MeasureConst enumeration

@@ -3,7 +3,6 @@ title: IsInterruptionRequested
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether interruption is requested for current operation. If true then current operation will be interrupted.
 type: docs
-weight: 10
 url: /net/aspose.diagram/abstractinterruptmonitor/isinterruptionrequested/
 ---
 ## AbstractInterruptMonitor.IsInterruptionRequested property

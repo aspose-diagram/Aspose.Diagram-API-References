@@ -3,7 +3,6 @@ title: Diagram
 second_title: Aspose.Diagram for .NET API Reference
 description: The default constructor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/diagram/diagram/
 ---
 ## Diagram() {#constructor}
@@ -24,7 +23,7 @@ public Diagram()
 
 ## Diagram(string) {#constructor_4}
 
-Public Diagram class constructor, loads the diagram from the file.
+Public class constructor, loads the diagram from the file.
 
 ```csharp
 public Diagram(string filename)
@@ -44,7 +43,7 @@ public Diagram(string filename)
 
 ## Diagram(Stream) {#constructor_1}
 
-Public Diagram class constructor, loads the diagram from the stream.
+Public class constructor, loads the diagram from the stream.
 
 ```csharp
 public Diagram(Stream stream)
@@ -64,7 +63,7 @@ public Diagram(Stream stream)
 
 ## Diagram(string, LoadFileFormat) {#constructor_5}
 
-Public Diagram class constructor, loads the diagram from the file using predefined format.
+Public class constructor, loads the diagram from the file using predefined format.
 
 ```csharp
 public Diagram(string filename, LoadFileFormat format)
@@ -86,7 +85,7 @@ public Diagram(string filename, LoadFileFormat format)
 
 ## Diagram(Stream, LoadFileFormat) {#constructor_2}
 
-Public Diagram class constructor, loads the diagram from the stream using predefined format.
+Public class constructor, loads the diagram from the stream using predefined format.
 
 ```csharp
 public Diagram(Stream stream, LoadFileFormat format)
@@ -108,7 +107,7 @@ public Diagram(Stream stream, LoadFileFormat format)
 
 ## Diagram(string, LoadOptions) {#constructor_6}
 
-Public Diagram class constructor, loads the diagram from the file using predefined load file options.
+Public class constructor, loads the diagram from the file using predefined load file options.
 
 ```csharp
 public Diagram(string filename, LoadOptions options)
@@ -130,7 +129,7 @@ public Diagram(string filename, LoadOptions options)
 
 ## Diagram(Stream, LoadOptions) {#constructor_3}
 
-Public Diagram class constructor, loads the diagram from the stream using predefined load file options.
+Public class constructor, loads the diagram from the stream using predefined load file options.
 
 ```csharp
 public Diagram(Stream stream, LoadOptions options)

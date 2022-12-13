@@ -3,7 +3,6 @@ title: RelQuadBezToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains x and ycoordinates for a RelQuadBezTos points.Coordinates are specified as relative coordinates.
 type: docs
-weight: 140
 url: /net/aspose.diagram/coordinatecollection/relquadbeztocol/
 ---
 ## CoordinateCollection.RelQuadBezToCol property

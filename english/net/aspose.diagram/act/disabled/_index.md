@@ -3,7 +3,6 @@ title: Disabled
 second_title: Aspose.Diagram for .NET API Reference
 description: Disabled element determines whether the command name is displayed on the shortcut menu.
 type: docs
-weight: 70
 url: /net/aspose.diagram/act/disabled/
 ---
 ## Act.Disabled property

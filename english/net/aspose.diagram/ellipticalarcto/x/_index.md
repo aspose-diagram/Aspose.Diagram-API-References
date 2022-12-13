@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of the ending vertex of an elliptical arc.
 type: docs
-weight: 80
 url: /net/aspose.diagram/ellipticalarcto/x/
 ---
 ## EllipticalArcTo.X property

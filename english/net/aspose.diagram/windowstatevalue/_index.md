@@ -3,7 +3,6 @@ title: WindowStateValue
 second_title: Aspose.Diagram for .NET API Reference
 description: An integer specifying bit flags. This attribute can be a sum of the following values.
 type: docs
-weight: 4410
 url: /net/aspose.diagram/windowstatevalue/
 ---
 ## WindowStateValue enumeration

@@ -3,7 +3,6 @@ title: ArcToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the x and ycoordinates and bow of a circular arc represented respectively by the X Y and A elements.
 type: docs
-weight: 10
 url: /net/aspose.diagram/coordinatecollection/arctocol/
 ---
 ## CoordinateCollection.ArcToCol property

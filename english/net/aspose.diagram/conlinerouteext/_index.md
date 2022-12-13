@@ -3,7 +3,6 @@ title: ConLineRouteExt
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the appearance of a connector.
 type: docs
-weight: 860
 url: /net/aspose.diagram/conlinerouteext/
 ---
 ## ConLineRouteExt class

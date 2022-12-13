@@ -3,7 +3,6 @@ title: DoubleStrikethrough
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether text is formatted as double strikethrough.
 type: docs
-weight: 120
 url: /net/aspose.diagram/char/doublestrikethrough/
 ---
 ## Char.DoubleStrikethrough property

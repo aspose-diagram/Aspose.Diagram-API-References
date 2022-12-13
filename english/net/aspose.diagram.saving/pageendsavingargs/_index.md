@@ -3,7 +3,6 @@ title: PageEndSavingArgs
 second_title: Aspose.Diagram for .NET API Reference
 description: Info for a page ends saving process.
 type: docs
-weight: 3300
 url: /net/aspose.diagram.saving/pageendsavingargs/
 ---
 ## PageEndSavingArgs class

@@ -3,7 +3,6 @@ title: HideSelection
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether selected text in the control appears highlighted when the control does not have focus.
 type: docs
-weight: 80
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/hideselection/
 ---
 ## ComboBoxActiveXControl.HideSelection property

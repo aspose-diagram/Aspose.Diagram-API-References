@@ -3,7 +3,6 @@ title: ResizeModeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the current resize behavior setting for the shape when contained in a group.
 type: docs
-weight: 3030
 url: /net/aspose.diagram/resizemodevalue/
 ---
 ## ResizeModeValue enumeration

@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of the ending vertex of an arc.
 type: docs
-weight: 50
 url: /net/aspose.diagram/arcto/x/
 ---
 ## ArcTo.X property

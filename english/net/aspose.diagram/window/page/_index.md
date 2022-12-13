@@ -3,7 +3,6 @@ title: Page
 second_title: Aspose.Diagram for .NET API Reference
 description: Page ID if this window is displaying a page. Relevant only when WindowType is specified as Drawing and ContainerType is specified as Page.
 type: docs
-weight: 90
 url: /net/aspose.diagram/window/page/
 ---
 ## Window.Page property

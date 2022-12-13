@@ -3,7 +3,6 @@ title: TimeLineHelper
 second_title: Aspose.Diagram for .NET API Reference
 description: TimeLineHelper.
 type: docs
-weight: 10
 url: /net/aspose.diagram/timelinehelper/timelinehelper/
 ---
 ## TimeLineHelper constructor

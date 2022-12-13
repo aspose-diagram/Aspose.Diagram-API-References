@@ -3,7 +3,6 @@ title: GroupName
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the groups name.
 type: docs
-weight: 20
 url: /net/aspose.diagram.activexcontrols/radiobuttonactivexcontrol/groupname/
 ---
 ## RadioButtonActiveXControl.GroupName property

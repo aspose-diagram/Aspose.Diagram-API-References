@@ -3,7 +3,6 @@ title: Connect
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a connection between two shapes in a drawing such as a line and a box in an organization chart.
 type: docs
-weight: 900
 url: /net/aspose.diagram/connect/
 ---
 ## Connect class

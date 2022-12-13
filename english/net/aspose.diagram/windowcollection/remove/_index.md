@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the window from the collection.
 type: docs
-weight: 50
 url: /net/aspose.diagram/windowcollection/remove/
 ---
 ## WindowCollection.Remove method

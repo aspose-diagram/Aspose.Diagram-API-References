@@ -3,7 +3,6 @@ title: LockDelete
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a shape is locked against being deleted.
 type: docs
-weight: 70
 url: /net/aspose.diagram/protection/lockdelete/
 ---
 ## Protection.LockDelete property

@@ -3,7 +3,6 @@ title: IsSuperscript
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicating whether the font is superscript.
 type: docs
-weight: 230
 url: /net/aspose.diagram/char/issuperscript/
 ---
 ## Char.IsSuperscript property

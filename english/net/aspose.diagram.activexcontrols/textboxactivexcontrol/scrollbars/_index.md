@@ -3,7 +3,6 @@ title: ScrollBars
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates specifies whether the control has vertical scroll bars horizontal scroll bars both or neither.
 type: docs
-weight: 160
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/scrollbars/
 ---
 ## TextBoxActiveXControl.ScrollBars property

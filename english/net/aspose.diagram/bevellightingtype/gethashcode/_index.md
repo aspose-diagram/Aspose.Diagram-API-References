@@ -3,7 +3,6 @@ title: GetHashCode
 second_title: Aspose.Diagram for .NET API Reference
 description: Serves as a hash function for a particular type.
 type: docs
-weight: 50
 url: /net/aspose.diagram/bevellightingtype/gethashcode/
 ---
 ## BevelLightingType.GetHashCode method

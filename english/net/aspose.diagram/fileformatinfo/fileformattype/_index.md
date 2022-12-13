@@ -3,7 +3,6 @@ title: FileFormatType
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the detected file format.
 type: docs
-weight: 20
 url: /net/aspose.diagram/fileformatinfo/fileformattype/
 ---
 ## FileFormatInfo.FileFormatType property

@@ -3,7 +3,6 @@ title: CloseStream
 second_title: Aspose.Diagram for .NET API Reference
 description: Closes the stream.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/istreamprovider/closestream/
 ---
 ## IStreamProvider.CloseStream method

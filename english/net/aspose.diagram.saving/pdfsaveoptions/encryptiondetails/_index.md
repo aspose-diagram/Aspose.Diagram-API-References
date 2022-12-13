@@ -3,7 +3,6 @@ title: EncryptionDetails
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets a encryption details. If not set then no encryption will be performed.
 type: docs
-weight: 40
 url: /net/aspose.diagram.saving/pdfsaveoptions/encryptiondetails/
 ---
 ## PdfSaveOptions.EncryptionDetails property

@@ -3,7 +3,6 @@ title: Master
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that define a master for the document. A master is a shape on a stencil that you use repeatedly to create drawings. When you drag a shape from a stencil onto the drawing page the shape becomes an instance of that master and a local copy of the master is included in the document.
 type: docs
-weight: 2280
 url: /net/aspose.diagram/master/
 ---
 ## Master class

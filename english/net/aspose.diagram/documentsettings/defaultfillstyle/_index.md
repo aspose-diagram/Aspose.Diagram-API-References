@@ -3,7 +3,6 @@ title: DefaultFillStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the ID of a StyleSheet element. The next time the user creates a shape using a drawing tool the shape inherits its fill style from the specified StyleSheet element.
 type: docs
-weight: 40
 url: /net/aspose.diagram/documentsettings/defaultfillstyle/
 ---
 ## DocumentSettings.DefaultFillStyle property

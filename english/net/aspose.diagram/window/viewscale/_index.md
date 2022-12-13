@@ -3,7 +3,6 @@ title: ViewScale
 second_title: Aspose.Diagram for .NET API Reference
 description: Optional double.
 type: docs
-weight: 260
 url: /net/aspose.diagram/window/viewscale/
 ---
 ## Window.ViewScale property

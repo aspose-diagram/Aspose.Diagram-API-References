@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the Text object from the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/textcollection/remove/
 ---
 ## TextCollection.Remove method

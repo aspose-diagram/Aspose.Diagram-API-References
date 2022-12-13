@@ -3,7 +3,6 @@ title: CheckValueType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the check value type of the check box.
 type: docs
-weight: 80
 url: /net/aspose.diagram.activexcontrols/checkvaluetype/
 ---
 ## CheckValueType enumeration

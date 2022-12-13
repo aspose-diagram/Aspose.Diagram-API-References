@@ -3,7 +3,6 @@ title: TagName
 second_title: Aspose.Diagram for .NET API Reference
 description: It contains the name of the smart tag that the action is associated with.
 type: docs
-weight: 170
 url: /net/aspose.diagram/act/tagname/
 ---
 ## Act.TagName property

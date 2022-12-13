@@ -3,7 +3,6 @@ title: XGridOrigin
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the horizontal coordinate of the grid origin for a page.
 type: docs
-weight: 30
 url: /net/aspose.diagram/rulergrid/xgridorigin/
 ---
 ## RulerGrid.XGridOrigin property

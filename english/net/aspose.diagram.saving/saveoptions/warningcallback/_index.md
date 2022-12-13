@@ -3,7 +3,6 @@ title: WarningCallback
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets warning callback.
 type: docs
-weight: 40
 url: /net/aspose.diagram.saving/saveoptions/warningcallback/
 ---
 ## SaveOptions.WarningCallback property

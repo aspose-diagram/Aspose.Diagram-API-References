@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the ConnectionABCD object from the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/connectionabcdcollection/remove/
 ---
 ## ConnectionABCDCollection.Remove method

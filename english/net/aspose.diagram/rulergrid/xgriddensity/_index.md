@@ -3,7 +3,6 @@ title: XGridDensity
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the zero point on the yaxis vertical ruler for the page.
 type: docs
-weight: 20
 url: /net/aspose.diagram/rulergrid/xgriddensity/
 ---
 ## RulerGrid.XGridDensity property

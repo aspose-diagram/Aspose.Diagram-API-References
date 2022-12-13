@@ -3,7 +3,6 @@ title: LineTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of the LineToaspose.diagram/lineto class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/lineto/lineto/
 ---
 ## LineTo constructor

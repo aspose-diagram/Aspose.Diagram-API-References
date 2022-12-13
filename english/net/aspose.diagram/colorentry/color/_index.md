@@ -3,7 +3,6 @@ title: Color
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents an ARGB color.
 type: docs
-weight: 20
 url: /net/aspose.diagram/colorentry/color/
 ---
 ## ColorEntry.Color property

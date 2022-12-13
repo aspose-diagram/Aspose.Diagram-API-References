@@ -3,7 +3,6 @@ title: ShdwObliqueAngle
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a number that specifies the angle of oblique direction when the default page shadow type is applied.
 type: docs
-weight: 100
 url: /net/aspose.diagram/pageprops/shdwobliqueangle/
 ---
 ## PageProps.ShdwObliqueAngle property

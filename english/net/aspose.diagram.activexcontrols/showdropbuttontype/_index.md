@@ -3,7 +3,6 @@ title: ShowDropButtonType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies when to show the drop button
 type: docs
-weight: 300
 url: /net/aspose.diagram.activexcontrols/showdropbuttontype/
 ---
 ## ShowDropButtonType enumeration

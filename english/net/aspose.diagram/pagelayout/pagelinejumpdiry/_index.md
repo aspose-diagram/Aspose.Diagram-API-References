@@ -3,7 +3,6 @@ title: PageLineJumpDirY
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the minimum horizontal clearance between dynamic connectors and shapes on the drawing page.
 type: docs
-weight: 220
 url: /net/aspose.diagram/pagelayout/pagelinejumpdiry/
 ---
 ## PageLayout.PageLineJumpDirY property

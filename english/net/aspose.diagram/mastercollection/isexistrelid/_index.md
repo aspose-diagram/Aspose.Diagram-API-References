@@ -3,7 +3,6 @@ title: IsExistRelId
 second_title: Aspose.Diagram for .NET API Reference
 description: Is exist master rel id in the collection.
 type: docs
-weight: 80
 url: /net/aspose.diagram/mastercollection/isexistrelid/
 ---
 ## MasterCollection.IsExistRelId method

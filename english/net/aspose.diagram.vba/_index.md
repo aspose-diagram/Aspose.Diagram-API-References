@@ -3,7 +3,6 @@ title: Aspose.Diagram.Vba
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 80
 url: /net/aspose.diagram.vba/
 ---
 

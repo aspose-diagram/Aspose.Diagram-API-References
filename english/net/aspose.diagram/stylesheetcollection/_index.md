@@ -3,7 +3,6 @@ title: StyleSheetCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection of StyleSheets.
 type: docs
-weight: 3930
 url: /net/aspose.diagram/stylesheetcollection/
 ---
 ## StyleSheetCollection class

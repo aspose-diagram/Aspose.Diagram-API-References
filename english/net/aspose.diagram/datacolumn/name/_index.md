@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: Internal name of the data column. Used as the row name for the shapedata item custom property added to a shape when the shape is linked to a data row.
 type: docs
-weight: 130
 url: /net/aspose.diagram/datacolumn/name/
 ---
 ## DataColumn.Name property

@@ -3,7 +3,6 @@ title: Max
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the maximum acceptable value.
 type: docs
-weight: 10
 url: /net/aspose.diagram.activexcontrols/spinbuttonactivexcontrol/max/
 ---
 ## SpinButtonActiveXControl.Max property

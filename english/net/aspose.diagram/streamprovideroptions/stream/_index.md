@@ -3,7 +3,6 @@ title: Stream
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets/Sets the stream
 type: docs
-weight: 40
 url: /net/aspose.diagram/streamprovideroptions/stream/
 ---
 ## StreamProviderOptions.Stream property

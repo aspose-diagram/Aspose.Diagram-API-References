@@ -3,7 +3,6 @@ title: C
 second_title: Aspose.Diagram for .NET API Reference
 description: A generalpurpose element.
 type: docs
-weight: 40
 url: /net/aspose.diagram/scratch/c/
 ---
 ## Scratch.C property

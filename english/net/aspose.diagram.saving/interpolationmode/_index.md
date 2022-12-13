@@ -3,7 +3,6 @@ title: InterpolationMode
 second_title: Aspose.Diagram for .NET API Reference
 description: The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated.
 type: docs
-weight: 3290
 url: /net/aspose.diagram.saving/interpolationmode/
 ---
 ## InterpolationMode enumeration

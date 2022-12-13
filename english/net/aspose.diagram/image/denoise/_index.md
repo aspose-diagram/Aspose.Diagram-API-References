@@ -3,7 +3,6 @@ title: Denoise
 second_title: Aspose.Diagram for .NET API Reference
 description: Removes noise pixels that have randomly distributed color levels from a bitmap image.
 type: docs
-weight: 50
 url: /net/aspose.diagram/image/denoise/
 ---
 ## Image.Denoise property

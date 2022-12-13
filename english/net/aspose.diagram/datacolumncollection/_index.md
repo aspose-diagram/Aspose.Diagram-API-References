@@ -3,7 +3,6 @@ title: DataColumnCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: DataColumn collection.
 type: docs
-weight: 1100
 url: /net/aspose.diagram/datacolumncollection/
 ---
 ## DataColumnCollection class

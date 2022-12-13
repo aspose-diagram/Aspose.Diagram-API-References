@@ -3,7 +3,6 @@ title: IconUpdate
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the icon is automatically generated from the master itself.
 type: docs
-weight: 80
 url: /net/aspose.diagram/master/iconupdate/
 ---
 ## Master.IconUpdate property

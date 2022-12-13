@@ -3,7 +3,6 @@ title: SpaceShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines the spacing between the shapes in inches.
 type: docs
-weight: 50
 url: /net/aspose.diagram.autolayout/layoutoptions/spaceshapes/
 ---
 ## LayoutOptions.SpaceShapes property

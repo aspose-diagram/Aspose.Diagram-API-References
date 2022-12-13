@@ -3,7 +3,6 @@ title: Relationships
 second_title: Aspose.Diagram for .NET API Reference
 description: Stores the relationships between containers lists callouts and shapes.
 type: docs
-weight: 90
 url: /net/aspose.diagram/layout/relationships/
 ---
 ## Layout.Relationships property

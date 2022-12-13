@@ -3,7 +3,6 @@ title: LockMoveX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the horizontal position of the shape is locked so that it cannot be moved horizontally.
 type: docs
-weight: 130
 url: /net/aspose.diagram/protection/lockmovex/
 ---
 ## Protection.LockMoveX property

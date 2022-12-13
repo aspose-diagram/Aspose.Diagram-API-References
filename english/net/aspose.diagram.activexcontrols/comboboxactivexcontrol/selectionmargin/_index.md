@@ -3,7 +3,6 @@ title: SelectionMargin
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the user can select a line of text by clicking in the region to the left of the text.
 type: docs
-weight: 170
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/selectionmargin/
 ---
 ## ComboBoxActiveXControl.SelectionMargin property

@@ -3,7 +3,6 @@ title: AutoFitPageToDrawingContent
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether need enlarge page to fit drawing content or not.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/diagramsaveoptions/autofitpagetodrawingcontent/
 ---
 ## DiagramSaveOptions.AutoFitPageToDrawingContent property

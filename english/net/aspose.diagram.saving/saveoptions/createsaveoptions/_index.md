@@ -3,7 +3,6 @@ title: CreateSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates a save options object of a class suitable for the specified save format.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/saveoptions/createsaveoptions/
 ---
 ## SaveOptions.CreateSaveOptions method

@@ -3,7 +3,6 @@ title: SnapSettingsValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the objects that shapes snap to when snap is active in the window
 type: docs
-weight: 3800
 url: /net/aspose.diagram/snapsettingsvalue/
 ---
 ## SnapSettingsValue enumeration

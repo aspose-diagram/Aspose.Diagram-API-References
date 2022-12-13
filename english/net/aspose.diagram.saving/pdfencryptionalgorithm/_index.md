@@ -3,7 +3,6 @@ title: PdfEncryptionAlgorithm
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the encryption algorithm to use for encrypting a PDF document.
 type: docs
-weight: 3380
 url: /net/aspose.diagram.saving/pdfencryptionalgorithm/
 ---
 ## PdfEncryptionAlgorithm enumeration

@@ -3,7 +3,6 @@ title: Item
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets VbaModuleaspose.diagram.vba/vbamodule in the list by the index.
 type: docs
-weight: 10
 url: /net/aspose.diagram.vba/vbamodulecollection/item/
 ---
 ## VbaModuleCollection indexer (1 of 2)

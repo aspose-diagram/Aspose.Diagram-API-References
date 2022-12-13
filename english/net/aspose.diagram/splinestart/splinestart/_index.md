@@ -3,7 +3,6 @@ title: SplineStart
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of SplineStartaspose.diagram/splinestart class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/splinestart/splinestart/
 ---
 ## SplineStart constructor

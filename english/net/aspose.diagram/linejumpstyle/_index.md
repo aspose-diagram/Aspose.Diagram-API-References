@@ -3,7 +3,6 @@ title: LineJumpStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the line jump style for all connectors on the drawing page that dont have a local line jump style.
 type: docs
-weight: 2150
 url: /net/aspose.diagram/linejumpstyle/
 ---
 ## LineJumpStyle class

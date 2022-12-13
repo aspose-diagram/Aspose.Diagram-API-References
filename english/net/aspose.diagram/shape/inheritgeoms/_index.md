@@ -3,7 +3,6 @@ title: InheritGeoms
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the Geoms values for the shape inherit by the master shape.
 type: docs
-weight: 300
 url: /net/aspose.diagram/shape/inheritgeoms/
 ---
 ## Shape.InheritGeoms property

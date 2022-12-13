@@ -3,7 +3,6 @@ title: ShapePermeableX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a connector can route horizontally through a shape.
 type: docs
-weight: 120
 url: /net/aspose.diagram/layout/shapepermeablex/
 ---
 ## Layout.ShapePermeableX property

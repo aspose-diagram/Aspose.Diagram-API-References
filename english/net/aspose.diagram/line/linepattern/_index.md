@@ -3,7 +3,6 @@ title: LinePattern
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the line pattern of the shape
 type: docs
-weight: 110
 url: /net/aspose.diagram/line/linepattern/
 ---
 ## Line.LinePattern property

@@ -3,7 +3,6 @@ title: Metered
 second_title: Aspose.Diagram for .NET API Reference
 description: Initializes a new instance of this class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/metered/metered/
 ---
 ## Metered constructor

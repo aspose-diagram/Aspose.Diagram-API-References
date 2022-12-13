@@ -3,7 +3,6 @@ title: AutoSpaceOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents autospace options.
 type: docs
-weight: 490
 url: /net/aspose.diagram/autospaceoptions/
 ---
 ## AutoSpaceOptions class

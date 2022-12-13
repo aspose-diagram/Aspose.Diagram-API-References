@@ -3,7 +3,6 @@ title: OnPage
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the drawing is printed on a specific number of printer pages.
 type: docs
-weight: 40
 url: /net/aspose.diagram/printprops/onpage/
 ---
 ## PrintProps.OnPage property

@@ -3,7 +3,6 @@ title: Mapped
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the column is visible in the External Data window. True 1 for the column to be visible false 0 for the column not to be visible. The default attribute absent is for the column to be visible.
 type: docs
-weight: 120
 url: /net/aspose.diagram/datacolumn/mapped/
 ---
 ## DataColumn.Mapped property

@@ -3,7 +3,6 @@ title: DocumentSheet
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies a documents ShapeSheet structure.
 type: docs
-weight: 100
 url: /net/aspose.diagram/diagram/documentsheet/
 ---
 ## Diagram.DocumentSheet property

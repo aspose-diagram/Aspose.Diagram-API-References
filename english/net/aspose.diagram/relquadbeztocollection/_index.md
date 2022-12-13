@@ -3,7 +3,6 @@ title: RelQuadBezToCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: RelQuadBezTo collection.
 type: docs
-weight: 3000
 url: /net/aspose.diagram/relquadbeztocollection/
 ---
 ## RelQuadBezToCollection class

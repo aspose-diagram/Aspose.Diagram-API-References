@@ -3,7 +3,6 @@ title: BevelDepthColor
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the extrusion color on a 3D shape
 type: docs
-weight: 60
 url: /net/aspose.diagram/threedformat/beveldepthcolor/
 ---
 ## ThreeDFormat.BevelDepthColor property

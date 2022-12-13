@@ -3,7 +3,6 @@ title: ShapeRouteStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the routing style and direction for a connector on the drawing page.
 type: docs
-weight: 170
 url: /net/aspose.diagram/layout/shaperoutestyle/
 ---
 ## Layout.ShapeRouteStyle property

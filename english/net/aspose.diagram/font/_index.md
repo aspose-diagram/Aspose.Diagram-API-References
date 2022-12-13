@@ -3,7 +3,6 @@ title: Font
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains information about a font.
 type: docs
-weight: 1540
 url: /net/aspose.diagram/font/
 ---
 ## Font class

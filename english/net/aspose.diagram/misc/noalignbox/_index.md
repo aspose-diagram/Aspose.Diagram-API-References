@@ -3,7 +3,6 @@ title: NoAlignBox
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the selection rectangle is displayed when the shape is selected.
 type: docs
-weight: 140
 url: /net/aspose.diagram/misc/noalignbox/
 ---
 ## Misc.NoAlignBox property

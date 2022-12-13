@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the row from the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/rowcollection/remove/
 ---
 ## RowCollection.Remove method

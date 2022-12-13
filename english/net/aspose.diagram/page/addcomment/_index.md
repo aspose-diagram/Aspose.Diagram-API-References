@@ -3,7 +3,6 @@ title: AddComment
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds comment with defined PinX and PinY.
 type: docs
-weight: 200
 url: /net/aspose.diagram/page/addcomment/
 ---
 ## AddComment(double, double, string) {#addcomment_1}

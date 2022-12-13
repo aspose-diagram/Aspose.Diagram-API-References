@@ -3,7 +3,6 @@ title: VbProjectData
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the Microsoft Visual Basic for Applications project data in MIME Multipurpose Internet Mail Extensions encoded format.
 type: docs
-weight: 280
 url: /net/aspose.diagram/diagram/vbprojectdata/
 ---
 ## Diagram.VbProjectData property

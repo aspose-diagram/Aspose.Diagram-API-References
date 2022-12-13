@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Returns the type of the font source.
 type: docs
-weight: 40
 url: /net/aspose.diagram/folderfontsource/type/
 ---
 ## FolderFontSource.Type property

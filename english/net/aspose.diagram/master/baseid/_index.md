@@ -3,7 +3,6 @@ title: BaseID
 second_title: Aspose.Diagram for .NET API Reference
 description: A GUID globally unique identifier that identifies the master across documents.
 type: docs
-weight: 30
 url: /net/aspose.diagram/master/baseid/
 ---
 ## Master.BaseID property

@@ -3,7 +3,6 @@ title: InterruptMonitor
 second_title: Aspose.Diagram for .NET API Reference
 description: The default constructor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/interruptmonitor/interruptmonitor/
 ---
 ## InterruptMonitor constructor

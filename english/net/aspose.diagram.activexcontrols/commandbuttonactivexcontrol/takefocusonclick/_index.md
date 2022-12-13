@@ -3,7 +3,6 @@ title: TakeFocusOnClick
 second_title: Aspose.Diagram for .NET API Reference
 description: Inidcates whether the control takes the focus when clicked.
 type: docs
-weight: 60
 url: /net/aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick/
 ---
 ## CommandButtonActiveXControl.TakeFocusOnClick property

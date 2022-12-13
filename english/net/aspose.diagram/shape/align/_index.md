@@ -3,7 +3,6 @@ title: Align
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates the alignment of a shape with respect to the guide or guide point to which the shape is glued. The Align element appears only for shapes that are glued to guides or guide points.
 type: docs
-weight: 40
 url: /net/aspose.diagram/shape/align/
 ---
 ## Shape.Align property

@@ -3,7 +3,6 @@ title: ShapePlowCode
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page.
 type: docs
-weight: 160
 url: /net/aspose.diagram/layout/shapeplowcode/
 ---
 ## Layout.ShapePlowCode property

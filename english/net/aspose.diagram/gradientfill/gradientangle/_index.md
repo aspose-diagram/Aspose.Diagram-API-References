@@ -3,7 +3,6 @@ title: GradientAngle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the orientation of the fill color gradient
 type: docs
-weight: 10
 url: /net/aspose.diagram/gradientfill/gradientangle/
 ---
 ## GradientFill.GradientAngle property

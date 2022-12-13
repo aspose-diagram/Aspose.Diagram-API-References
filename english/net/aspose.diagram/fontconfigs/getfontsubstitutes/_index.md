@@ -3,7 +3,6 @@ title: GetFontSubstitutes
 second_title: Aspose.Diagram for .NET API Reference
 description: Returns array containing font substitute names to be used if original font is not presented.
 type: docs
-weight: 50
 url: /net/aspose.diagram/fontconfigs/getfontsubstitutes/
 ---
 ## FontConfigs.GetFontSubstitutes method

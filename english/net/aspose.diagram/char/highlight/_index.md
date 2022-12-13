@@ -3,7 +3,6 @@ title: Highlight
 second_title: Aspose.Diagram for .NET API Reference
 description: It specified highlight.
 type: docs
-weight: 160
 url: /net/aspose.diagram/char/highlight/
 ---
 ## Char.Highlight property

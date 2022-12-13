@@ -3,7 +3,6 @@ title: ProtectStyles
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the user is prevented from creating or editing styles. However regardless of this setting the user can still apply styles.
 type: docs
-weight: 130
 url: /net/aspose.diagram/documentsettings/protectstyles/
 ---
 ## DocumentSettings.ProtectStyles property

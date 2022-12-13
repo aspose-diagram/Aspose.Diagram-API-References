@@ -3,7 +3,6 @@ title: SaveForegroundPagesOnly
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether all pages will be saved in image or only foreground.
 type: docs
-weight: 70
 url: /net/aspose.diagram.saving/htmlsaveoptions/saveforegroundpagesonly/
 ---
 ## HTMLSaveOptions.SaveForegroundPagesOnly property

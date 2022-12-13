@@ -3,7 +3,6 @@ title: RotationType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of shadow for a shape.
 type: docs
-weight: 3060
 url: /net/aspose.diagram/rotationtype/
 ---
 ## RotationType class

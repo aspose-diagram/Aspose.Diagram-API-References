@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the value of the control.
 type: docs
-weight: 150
 url: /net/aspose.diagram.activexcontrols/listboxactivexcontrol/value/
 ---
 ## ListBoxActiveXControl.Value property
@@ -13,10 +12,6 @@ Gets and sets the value of the control.
 ```csharp
 public string Value { get; set; }
 ```
-
-### Remarks
-
-Only effects when !:ListBoxActiveXControl.SelectionType is SelectionType.Single;
 
 ### See Also
 

@@ -3,7 +3,6 @@ title: Collection
 second_title: Aspose.Diagram for .NET API Reference
 description: It is base class for collections.
 type: docs
-weight: 690
 url: /net/aspose.diagram/collection/
 ---
 ## Collection class

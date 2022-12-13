@@ -3,7 +3,6 @@ title: ID
 second_title: Aspose.Diagram for .NET API Reference
 description: The ID assigned by Visio for a given connection unique within the document.
 type: docs
-weight: 60
 url: /net/aspose.diagram/dataconnection/id/
 ---
 ## DataConnection.ID property

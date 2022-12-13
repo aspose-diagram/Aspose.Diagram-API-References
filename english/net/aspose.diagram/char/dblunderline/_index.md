@@ -3,7 +3,6 @@ title: DblUnderline
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the range of text has a double underline below it.
 type: docs
-weight: 100
 url: /net/aspose.diagram/char/dblunderline/
 ---
 ## Char.DblUnderline property

@@ -3,7 +3,6 @@ title: SetWholeText
 second_title: Aspose.Diagram for .NET API Reference
 description: Set the text of a shape without formating.
 type: docs
-weight: 50
 url: /net/aspose.diagram/formattxtcollection/setwholetext/
 ---
 ## FormatTxtCollection.SetWholeText method

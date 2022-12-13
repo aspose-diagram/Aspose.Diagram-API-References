@@ -3,7 +3,6 @@ title: WindowType
 second_title: Aspose.Diagram for .NET API Reference
 description: An enumerated value that may be one of the following Drawing Sheet Stencil or Icon.A Window element of WindowTypeStencil must appear after its parent drawing window WindowTypeDrawing and before any other drawing window elements.
 type: docs
-weight: 310
 url: /net/aspose.diagram/window/windowtype/
 ---
 ## Window.WindowType property

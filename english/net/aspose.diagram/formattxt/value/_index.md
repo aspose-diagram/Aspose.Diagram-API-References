@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Value
 type: docs
-weight: 10
 url: /net/aspose.diagram/formattxt/value/
 ---
 ## FormatTxt.Value property

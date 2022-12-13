@@ -3,7 +3,6 @@ title: PdfDigitalSignatureDetails
 second_title: Aspose.Diagram for .NET API Reference
 description: Ctor.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/pdfdigitalsignaturedetails/
 ---
 ## PdfDigitalSignatureDetails constructor

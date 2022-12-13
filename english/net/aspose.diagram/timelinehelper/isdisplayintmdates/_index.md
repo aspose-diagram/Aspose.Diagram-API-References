@@ -3,7 +3,6 @@ title: IsDisplayIntmDates
 second_title: Aspose.Diagram for .NET API Reference
 description: whether to display interim dates on interim ticks
 type: docs
-weight: 120
 url: /net/aspose.diagram/timelinehelper/isdisplayintmdates/
 ---
 ## TimeLineHelper.IsDisplayIntmDates property

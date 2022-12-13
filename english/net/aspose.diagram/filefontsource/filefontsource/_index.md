@@ -3,7 +3,6 @@ title: FileFontSource
 second_title: Aspose.Diagram for .NET API Reference
 description: Ctor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/filefontsource/filefontsource/
 ---
 ## FileFontSource constructor

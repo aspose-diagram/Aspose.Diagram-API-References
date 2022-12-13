@@ -3,7 +3,6 @@ title: Quality
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the output quality of the font. Equivalent to the GDI LOGFONT lfQuality field.
 type: docs
-weight: 100
 url: /net/aspose.diagram/headerfooterfont/quality/
 ---
 ## HeaderFooterFont.Quality property

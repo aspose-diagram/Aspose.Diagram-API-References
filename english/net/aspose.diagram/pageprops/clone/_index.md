@@ -3,7 +3,6 @@ title: Clone
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates deep copy of this instance.
 type: docs
-weight: 160
 url: /net/aspose.diagram/pageprops/clone/
 ---
 ## PageProps.Clone method

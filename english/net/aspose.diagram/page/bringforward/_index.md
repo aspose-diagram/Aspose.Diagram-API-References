@@ -3,7 +3,6 @@ title: BringForward
 second_title: Aspose.Diagram for .NET API Reference
 description: Brings a shapedefined by ID forward one position in the zorder.
 type: docs
-weight: 250
 url: /net/aspose.diagram/page/bringforward/
 ---
 ## Page.BringForward method

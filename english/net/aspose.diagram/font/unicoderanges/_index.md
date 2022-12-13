@@ -3,7 +3,6 @@ title: UnicodeRanges
 second_title: Aspose.Diagram for .NET API Reference
 description: The supported Unicode ranges of the font.
 type: docs
-weight: 70
 url: /net/aspose.diagram/font/unicoderanges/
 ---
 ## Font.UnicodeRanges property

@@ -3,7 +3,6 @@ title: UnitFormulaErr
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies attributes of an element.
 type: docs
-weight: 4180
 url: /net/aspose.diagram/unitformulaerr/
 ---
 ## UnitFormulaErr class

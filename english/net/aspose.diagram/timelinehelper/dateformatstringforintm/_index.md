@@ -3,7 +3,6 @@ title: DateFormatStringForIntm
 second_title: Aspose.Diagram for .NET API Reference
 description: DateFormat String for Intm of timeline shape
 type: docs
-weight: 70
 url: /net/aspose.diagram/timelinehelper/dateformatstringforintm/
 ---
 ## TimeLineHelper.DateFormatStringForIntm property

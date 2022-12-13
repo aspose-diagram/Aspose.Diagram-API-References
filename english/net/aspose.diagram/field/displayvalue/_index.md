@@ -3,7 +3,6 @@ title: DisplayValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the formatted string value of this field .
 type: docs
-weight: 40
 url: /net/aspose.diagram/field/displayvalue/
 ---
 ## Field.DisplayValue property

@@ -3,7 +3,6 @@ title: AddShape
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds shape created by master on page with defined PinX and PinY.
 type: docs
-weight: 210
 url: /net/aspose.diagram/page/addshape/
 ---
 ## AddShape(double, double, string) {#addshape_4}

@@ -3,7 +3,6 @@ title: TextStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: StyleSheet element from which this style inherits text formatting.
 type: docs
-weight: 150
 url: /net/aspose.diagram/documentsheet/textstyle/
 ---
 ## DocumentSheet.TextStyle property

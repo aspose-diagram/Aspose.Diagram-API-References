@@ -3,7 +3,6 @@ title: ShortcutURL
 second_title: Aspose.Diagram for .NET API Reference
 description: A URL to a MasterShortcut element. If this attribute is present this MasterShortcut element is a shortcut.
 type: docs
-weight: 110
 url: /net/aspose.diagram/mastershortcut/shortcuturl/
 ---
 ## MasterShortcut.ShortcutURL property

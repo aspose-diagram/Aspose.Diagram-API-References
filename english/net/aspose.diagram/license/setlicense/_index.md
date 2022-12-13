@@ -3,7 +3,6 @@ title: SetLicense
 second_title: Aspose.Diagram for .NET API Reference
 description: Licenses the component.
 type: docs
-weight: 20
 url: /net/aspose.diagram/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}

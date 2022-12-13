@@ -3,7 +3,6 @@ title: Annotation
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that contain information about comments inserted into a document page.
 type: docs
-weight: 390
 url: /net/aspose.diagram/annotation/
 ---
 ## Annotation class

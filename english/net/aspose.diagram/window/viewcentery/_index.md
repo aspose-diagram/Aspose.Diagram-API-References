@@ -3,7 +3,6 @@ title: ViewCenterY
 second_title: Aspose.Diagram for .NET API Reference
 description: Optional double.
 type: docs
-weight: 250
 url: /net/aspose.diagram/window/viewcentery/
 ---
 ## Window.ViewCenterY property

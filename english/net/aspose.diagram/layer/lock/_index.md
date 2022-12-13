@@ -3,7 +3,6 @@ title: Lock
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether shapes belonging to the layer are locked against being selected or edited.
 type: docs
-weight: 90
 url: /net/aspose.diagram/layer/lock/
 ---
 ## Layer.Lock property

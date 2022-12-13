@@ -3,7 +3,6 @@ title: Equals
 second_title: Aspose.Diagram for .NET API Reference
 description: Are objects equal.
 type: docs
-weight: 60
 url: /net/aspose.diagram/boolvalue/equals/
 ---
 ## BoolValue.Equals method

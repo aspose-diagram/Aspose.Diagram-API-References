@@ -3,7 +3,6 @@ title: PixelOffsetMode
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies how pixels are offset during rendering.
 type: docs
-weight: 3430
 url: /net/aspose.diagram.saving/pixeloffsetmode/
 ---
 ## PixelOffsetMode enumeration

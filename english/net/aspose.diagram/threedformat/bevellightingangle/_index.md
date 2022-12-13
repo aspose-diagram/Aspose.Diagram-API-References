@@ -3,7 +3,6 @@ title: BevelLightingAngle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the direction for lighting on a 3D shape.
 type: docs
-weight: 80
 url: /net/aspose.diagram/threedformat/bevellightingangle/
 ---
 ## ThreeDFormat.BevelLightingAngle property

@@ -3,7 +3,6 @@ title: LineWeight
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the line weight of a shape. Line weight is independent of the scale of the drawing. If the drawing is scaled the line weight remains the same.
 type: docs
-weight: 120
 url: /net/aspose.diagram/line/lineweight/
 ---
 ## Line.LineWeight property

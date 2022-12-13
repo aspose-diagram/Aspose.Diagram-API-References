@@ -3,7 +3,6 @@ title: Layout
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that control shape placement and connector routing settings.
 type: docs
-weight: 140
 url: /net/aspose.diagram/stylesheet/layout/
 ---
 ## StyleSheet.Layout property

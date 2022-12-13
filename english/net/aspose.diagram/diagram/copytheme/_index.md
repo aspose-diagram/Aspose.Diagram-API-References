@@ -3,7 +3,6 @@ title: CopyTheme
 second_title: Aspose.Diagram for .NET API Reference
 description: Copies Theme from a source Diagram.
 type: docs
-weight: 340
 url: /net/aspose.diagram/diagram/copytheme/
 ---
 ## Diagram.CopyTheme method

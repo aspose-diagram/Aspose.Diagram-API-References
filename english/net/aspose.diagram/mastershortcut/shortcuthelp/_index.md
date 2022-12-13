@@ -3,7 +3,6 @@ title: ShortcutHelp
 second_title: Aspose.Diagram for .NET API Reference
 description: A help string for the element.
 type: docs
-weight: 100
 url: /net/aspose.diagram/mastershortcut/shortcuthelp/
 ---
 ## MasterShortcut.ShortcutHelp property

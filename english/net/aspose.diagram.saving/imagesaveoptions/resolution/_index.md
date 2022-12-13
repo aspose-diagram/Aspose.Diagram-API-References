@@ -3,7 +3,6 @@ title: Resolution
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the resolution for the generated images in dots per inch.
 type: docs
-weight: 130
 url: /net/aspose.diagram.saving/imagesaveoptions/resolution/
 ---
 ## ImageSaveOptions.Resolution property

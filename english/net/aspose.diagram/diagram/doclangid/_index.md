@@ -3,7 +3,6 @@ title: DocLangID
 second_title: Aspose.Diagram for .NET API Reference
 description: The unique ID of the userinterface language the user has specified in Microsoft Office 2010 Language Preferences.
 type: docs
-weight: 70
 url: /net/aspose.diagram/diagram/doclangid/
 ---
 ## Diagram.DocLangID property

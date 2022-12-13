@@ -3,7 +3,6 @@ title: LeftMargin
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the distance between the left border of the text block and the text it contains. This value is independent of the scale of the drawing. If the drawing is scaled the left margin remains the same.
 type: docs
-weight: 40
 url: /net/aspose.diagram/textblock/leftmargin/
 ---
 ## TextBlock.LeftMargin property

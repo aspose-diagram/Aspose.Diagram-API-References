@@ -3,7 +3,6 @@ title: Ufe
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies attributes of an element.
 type: docs
-weight: 20
 url: /net/aspose.diagram/placedepth/ufe/
 ---
 ## PlaceDepth.Ufe property

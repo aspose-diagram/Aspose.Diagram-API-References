@@ -3,7 +3,6 @@ title: TargetArgs
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies a string containing arguments to be sent to the target of an event.
 type: docs
-weight: 70
 url: /net/aspose.diagram/eventitem/targetargs/
 ---
 ## EventItem.TargetArgs property

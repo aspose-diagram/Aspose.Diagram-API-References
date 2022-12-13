@@ -3,7 +3,6 @@ title: OrigLabel
 second_title: Aspose.Diagram for .NET API Reference
 description: Column label returned to Visio by the underlying ADO interface.
 type: docs
-weight: 140
 url: /net/aspose.diagram/datacolumn/origlabel/
 ---
 ## DataColumn.OrigLabel property

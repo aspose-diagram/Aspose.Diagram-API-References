@@ -3,7 +3,6 @@ title: GlueShapeToConnectorEndX
 second_title: Aspose.Diagram for .NET API Reference
 description: Glue shape to Connectors EndX
 type: docs
-weight: 420
 url: /net/aspose.diagram/page/glueshapetoconnectorendx/
 ---
 ## Page.GlueShapeToConnectorEndX method

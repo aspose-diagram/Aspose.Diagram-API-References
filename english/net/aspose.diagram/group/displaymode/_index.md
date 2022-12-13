@@ -3,7 +3,6 @@ title: DisplayMode
 second_title: Aspose.Diagram for .NET API Reference
 description: When it is contained in a Group element the DisplayMode element specifies how a group shape and its members are displayed.
 type: docs
-weight: 20
 url: /net/aspose.diagram/group/displaymode/
 ---
 ## Group.DisplayMode property

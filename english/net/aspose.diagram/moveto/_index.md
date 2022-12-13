@@ -3,7 +3,6 @@ title: MoveTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the x and ycoordinates of the first vertex of a shape or contains the x and ycoordinates of the first vertex after a break in a path.
 type: docs
-weight: 2370
 url: /net/aspose.diagram/moveto/
 ---
 ## MoveTo class

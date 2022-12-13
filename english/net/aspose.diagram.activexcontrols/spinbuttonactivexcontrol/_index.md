@@ -3,7 +3,6 @@ title: SpinButtonActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the SpinButton control.
 type: docs
-weight: 310
 url: /net/aspose.diagram.activexcontrols/spinbuttonactivexcontrol/
 ---
 ## SpinButtonActiveXControl class

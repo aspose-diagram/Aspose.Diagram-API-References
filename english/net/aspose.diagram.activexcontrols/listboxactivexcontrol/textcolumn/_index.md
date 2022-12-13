@@ -3,7 +3,6 @@ title: TextColumn
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the column in a ComboBox or ListBox to display to the user.
 type: docs
-weight: 130
 url: /net/aspose.diagram.activexcontrols/listboxactivexcontrol/textcolumn/
 ---
 ## ListBoxActiveXControl.TextColumn property

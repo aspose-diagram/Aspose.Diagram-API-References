@@ -3,7 +3,6 @@ title: EnableTextProps
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a style includes text properties.
 type: docs
-weight: 40
 url: /net/aspose.diagram/styleprop/enabletextprops/
 ---
 ## StyleProp.EnableTextProps property

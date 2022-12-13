@@ -3,7 +3,6 @@ title: Width
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the width of the associated shape in drawing units.
 type: docs
-weight: 120
 url: /net/aspose.diagram/xform/width/
 ---
 ## XForm.Width property

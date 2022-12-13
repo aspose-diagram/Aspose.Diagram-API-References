@@ -3,7 +3,6 @@ title: Equals
 second_title: Aspose.Diagram for .NET API Reference
 description: Are objects equal.
 type: docs
-weight: 50
 url: /net/aspose.diagram/objectkind/equals/
 ---
 ## ObjectKind.Equals method

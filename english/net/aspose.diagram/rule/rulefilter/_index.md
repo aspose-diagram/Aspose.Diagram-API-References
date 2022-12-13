@@ -3,7 +3,6 @@ title: RuleFilter
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the logical expression that determines whether the validation rule should be applied to a target object.
 type: docs
-weight: 70
 url: /net/aspose.diagram/rule/rulefilter/
 ---
 ## Rule.RuleFilter property

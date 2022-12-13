@@ -3,7 +3,6 @@ title: StencilGroupPos
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains an integer that specifies the relative position of a stencil within a group in a window.
 type: docs
-weight: 220
 url: /net/aspose.diagram/window/stencilgrouppos/
 ---
 ## Window.StencilGroupPos property

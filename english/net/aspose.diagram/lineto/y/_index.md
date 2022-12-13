@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of the ending vertex of a straight line segment.
 type: docs
-weight: 50
 url: /net/aspose.diagram/lineto/y/
 ---
 ## LineTo.Y property

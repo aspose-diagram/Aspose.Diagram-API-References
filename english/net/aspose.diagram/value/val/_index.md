@@ -3,7 +3,6 @@ title: Val
 second_title: Aspose.Diagram for .NET API Reference
 description: Text value
 type: docs
-weight: 30
 url: /net/aspose.diagram/value/val/
 ---
 ## Value.Val property

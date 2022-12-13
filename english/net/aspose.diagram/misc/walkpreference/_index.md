@@ -3,7 +3,6 @@ title: WalkPreference
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether an endpoint of a 1D shape moves to a horizontal or vertical connection point on the shape it is glued to using dynamic glue when the shape is moved to an ambiguous position.
 type: docs
-weight: 220
 url: /net/aspose.diagram/misc/walkpreference/
 ---
 ## Misc.WalkPreference property

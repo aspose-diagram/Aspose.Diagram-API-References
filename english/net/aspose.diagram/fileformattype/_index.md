@@ -3,7 +3,6 @@ title: FileFormatType
 second_title: Aspose.Diagram for .NET API Reference
 description: Enumerates spreadsheet file format types
 type: docs
-weight: 1470
 url: /net/aspose.diagram/fileformattype/
 ---
 ## FileFormatType enumeration

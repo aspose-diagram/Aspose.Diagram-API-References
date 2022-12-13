@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: The display or friendly name of the data recordset.
 type: docs
-weight: 90
 url: /net/aspose.diagram/datarecordset/name/
 ---
 ## DataRecordSet.Name property

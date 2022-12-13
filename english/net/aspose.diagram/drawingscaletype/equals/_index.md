@@ -3,7 +3,6 @@ title: Equals
 second_title: Aspose.Diagram for .NET API Reference
 description: Are objects equal.
 type: docs
-weight: 40
 url: /net/aspose.diagram/drawingscaletype/equals/
 ---
 ## DrawingScaleType.Equals method

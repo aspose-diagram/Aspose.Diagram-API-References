@@ -3,7 +3,6 @@ title: FileVersion
 second_title: Aspose.Diagram for .NET API Reference
 description: File version read only string.
 type: docs
-weight: 30
 url: /net/aspose.diagram/buildversioninfo/fileversion/
 ---
 ## BuildVersionInfo.FileVersion field

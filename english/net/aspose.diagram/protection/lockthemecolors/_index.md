@@ -3,7 +3,6 @@ title: LockThemeColors
 second_title: Aspose.Diagram for .NET API Reference
 description: Prevents users from applying theme colors to the shape.
 type: docs
-weight: 180
 url: /net/aspose.diagram/protection/lockthemecolors/
 ---
 ## Protection.LockThemeColors property

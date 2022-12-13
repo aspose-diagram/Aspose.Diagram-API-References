@@ -3,7 +3,6 @@ title: LockRotate
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the shape is locked against being rotated with the Rotation tool or the Rotate Left or Rotate Right commands in Microsoft Visio.
 type: docs
-weight: 150
 url: /net/aspose.diagram/protection/lockrotate/
 ---
 ## Protection.LockRotate property

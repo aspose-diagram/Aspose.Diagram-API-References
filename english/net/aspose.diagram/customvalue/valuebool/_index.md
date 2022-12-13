@@ -3,7 +3,6 @@ title: ValueBool
 second_title: Aspose.Diagram for .NET API Reference
 description: Boolean value.
 type: docs
-weight: 20
 url: /net/aspose.diagram/customvalue/valuebool/
 ---
 ## CustomValue.ValueBool property

@@ -3,7 +3,6 @@ title: ShdwBkgnd
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the color used for the background fill of the shapes drop shadow fill pattern.
 type: docs
-weight: 150
 url: /net/aspose.diagram/fill/shdwbkgnd/
 ---
 ## Fill.ShdwBkgnd property

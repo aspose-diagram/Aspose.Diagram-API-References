@@ -3,7 +3,6 @@ title: AsianFont
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the ID number of the font used to format text containing Asian characters.
 type: docs
-weight: 20
 url: /net/aspose.diagram/char/asianfont/
 ---
 ## Char.AsianFont property

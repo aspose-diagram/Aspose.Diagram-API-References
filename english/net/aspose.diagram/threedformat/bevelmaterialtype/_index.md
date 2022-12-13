@@ -3,7 +3,6 @@ title: BevelMaterialType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the preset surface appearance on a 3D shape
 type: docs
-weight: 100
 url: /net/aspose.diagram/threedformat/bevelmaterialtype/
 ---
 ## ThreeDFormat.BevelMaterialType property

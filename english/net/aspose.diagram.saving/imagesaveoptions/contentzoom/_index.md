@@ -3,7 +3,6 @@ title: ContentZoom
 second_title: Aspose.Diagram for .NET API Reference
 description: This parameter is similar with scale but not effect the generated image size.
 type: docs
-weight: 30
 url: /net/aspose.diagram.saving/imagesaveoptions/contentzoom/
 ---
 ## ImageSaveOptions.ContentZoom property

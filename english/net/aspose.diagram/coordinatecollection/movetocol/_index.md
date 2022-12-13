@@ -3,7 +3,6 @@ title: MoveToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the x and ycoordinates of the first vertex of a shape or contains the x and ycoordinates of the first vertex after a break in a path.
 type: docs
-weight: 70
 url: /net/aspose.diagram/coordinatecollection/movetocol/
 ---
 ## CoordinateCollection.MoveToCol property

@@ -3,7 +3,6 @@ title: Clone
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates deep copy of this instance.
 type: docs
-weight: 40
 url: /net/aspose.diagram/colorvalue/clone/
 ---
 ## ColorValue.Clone method

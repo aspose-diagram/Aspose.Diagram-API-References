@@ -3,7 +3,6 @@ title: Bullet
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the bullet style.
 type: docs
-weight: 610
 url: /net/aspose.diagram/bullet/
 ---
 ## Bullet class

@@ -3,7 +3,6 @@ title: CompositingQuality
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the quality level to use during compositing.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/imagesaveoptions/compositingquality/
 ---
 ## ImageSaveOptions.CompositingQuality property

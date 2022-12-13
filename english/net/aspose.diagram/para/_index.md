@@ -3,7 +3,6 @@ title: Para
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the paragraph formatting elements for the shapes text such as indents line spacing bullets and horizontal alignment of paragraphs.
 type: docs
-weight: 2580
 url: /net/aspose.diagram/para/
 ---
 ## Para class

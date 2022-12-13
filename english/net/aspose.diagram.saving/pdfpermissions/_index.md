@@ -3,7 +3,6 @@ title: PdfPermissions
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies user permissions for PDF document.
 type: docs
-weight: 3400
 url: /net/aspose.diagram.saving/pdfpermissions/
 ---
 ## PdfPermissions enumeration

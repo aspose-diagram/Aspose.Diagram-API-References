@@ -3,7 +3,6 @@ title: ScaleX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the percentage of magnification of the drawing page on the printer page in the x horizontal direction.
 type: docs
-weight: 150
 url: /net/aspose.diagram/printprops/scalex/
 ---
 ## PrintProps.ScaleX property

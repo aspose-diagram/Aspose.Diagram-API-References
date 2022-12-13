@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of the ending vertex of a straight line segment.
 type: docs
-weight: 40
 url: /net/aspose.diagram/lineto/x/
 ---
 ## LineTo.X property

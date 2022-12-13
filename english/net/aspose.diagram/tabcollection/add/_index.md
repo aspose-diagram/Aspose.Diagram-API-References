@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the Tab object in the collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/tabcollection/add/
 ---
 ## TabCollection.Add method

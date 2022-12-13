@@ -3,7 +3,6 @@ title: ToggleButtonActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a ToggleButton ActiveX control.
 type: docs
-weight: 330
 url: /net/aspose.diagram.activexcontrols/togglebuttonactivexcontrol/
 ---
 ## ToggleButtonActiveXControl class

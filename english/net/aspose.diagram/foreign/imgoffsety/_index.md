@@ -3,7 +3,6 @@ title: ImgOffsetY
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the distance the object is offset vertically from the origin of the objects border. The default value is 0 the default formula is FImgHeight0.
 type: docs
-weight: 40
 url: /net/aspose.diagram/foreign/imgoffsety/
 ---
 ## Foreign.ImgOffsetY property

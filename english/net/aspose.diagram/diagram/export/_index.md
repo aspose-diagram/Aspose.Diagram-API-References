@@ -3,7 +3,6 @@ title: Export
 second_title: Aspose.Diagram for .NET API Reference
 description: Exports the diagram from vsd to vdw format. Not implemented yet.
 type: docs
-weight: 450
 url: /net/aspose.diagram/diagram/export/
 ---
 ## Export(string, string) {#export_3}

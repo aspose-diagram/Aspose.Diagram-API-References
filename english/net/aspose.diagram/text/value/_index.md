@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: FormatTxt collection which contains the text of a shape.
 type: docs
-weight: 20
 url: /net/aspose.diagram/text/value/
 ---
 ## Text.Value property

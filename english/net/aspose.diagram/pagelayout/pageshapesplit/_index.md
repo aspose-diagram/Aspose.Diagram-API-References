@@ -3,7 +3,6 @@ title: PageShapeSplit
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether shapes on the page can be split automatically.
 type: docs
-weight: 230
 url: /net/aspose.diagram/pagelayout/pageshapesplit/
 ---
 ## PageLayout.PageShapeSplit property

@@ -3,7 +3,6 @@ title: DrawingScaleType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of drawing scale to use for a page.
 type: docs
-weight: 40
 url: /net/aspose.diagram/pageprops/drawingscaletype/
 ---
 ## PageProps.DrawingScaleType property

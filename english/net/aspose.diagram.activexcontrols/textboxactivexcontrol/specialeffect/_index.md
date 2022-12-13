@@ -3,7 +3,6 @@ title: SpecialEffect
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the special effect of the control.
 type: docs
-weight: 180
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/specialeffect/
 ---
 ## TextBoxActiveXControl.SpecialEffect property

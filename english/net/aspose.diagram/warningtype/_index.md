@@ -3,7 +3,6 @@ title: WarningType
 second_title: Aspose.Diagram for .NET API Reference
 description: WarningType
 type: docs
-weight: 4380
 url: /net/aspose.diagram/warningtype/
 ---
 ## WarningType enumeration

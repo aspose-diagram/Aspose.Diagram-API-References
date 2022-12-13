@@ -3,7 +3,6 @@ title: JpegQuality
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets a value determining the quality of the generated JPEG images.
 type: docs
-weight: 90
 url: /net/aspose.diagram.saving/imagesaveoptions/jpegquality/
 ---
 ## ImageSaveOptions.JpegQuality property

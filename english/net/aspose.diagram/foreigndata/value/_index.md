@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a MIME Multipurpose Internet Mail Extensions encoded BLOB of picture data such as Windows metafile bitmap or OLE data.
 type: docs
-weight: 140
 url: /net/aspose.diagram/foreigndata/value/
 ---
 ## ForeignData.Value property

@@ -3,7 +3,6 @@ title: NURBSTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of the NURBSToaspose.diagram/nurbsto class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/nurbsto/nurbsto/
 ---
 ## NURBSTo constructor

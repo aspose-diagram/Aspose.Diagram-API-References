@@ -3,7 +3,6 @@ title: TxtLocPinX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the xcoordinate of the text blocks center of rotation in relation to the origin of the text block. The default formula which evaluates to the horizontal center of the text block is FTxtWidth0.5.
 type: docs
-weight: 40
 url: /net/aspose.diagram/textxform/txtlocpinx/
 ---
 ## TextXForm.TxtLocPinX property

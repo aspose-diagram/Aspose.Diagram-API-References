@@ -3,7 +3,6 @@ title: PrintProps
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that control how the drawing page is formatted appears on the printer page.
 type: docs
-weight: 2830
 url: /net/aspose.diagram/printprops/
 ---
 ## PrintProps class

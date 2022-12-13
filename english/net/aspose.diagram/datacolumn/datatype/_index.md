@@ -3,7 +3,6 @@ title: DataType
 second_title: Aspose.Diagram for .NET API Reference
 description: Type of the data in the data column.
 type: docs
-weight: 50
 url: /net/aspose.diagram/datacolumn/datatype/
 ---
 ## DataColumn.DataType property

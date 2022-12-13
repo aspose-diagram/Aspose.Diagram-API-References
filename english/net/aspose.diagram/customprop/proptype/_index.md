@@ -3,7 +3,6 @@ title: PropType
 second_title: Aspose.Diagram for .NET API Reference
 description: The data type of the custom property.
 type: docs
-weight: 40
 url: /net/aspose.diagram/customprop/proptype/
 ---
 ## CustomProp.PropType property

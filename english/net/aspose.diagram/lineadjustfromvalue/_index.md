@@ -3,7 +3,6 @@ title: LineAdjustFromValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies which dynamic connectors to space apart if they route on top of each other.
 type: docs
-weight: 2100
 url: /net/aspose.diagram/lineadjustfromvalue/
 ---
 ## LineAdjustFromValue enumeration

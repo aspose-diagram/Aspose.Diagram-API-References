@@ -3,7 +3,6 @@ title: Misc
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements specifying the Shape elements Help file topic and copyright information.
 type: docs
-weight: 430
 url: /net/aspose.diagram/shape/misc/
 ---
 ## Shape.Misc property

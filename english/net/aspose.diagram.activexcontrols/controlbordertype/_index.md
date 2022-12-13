@@ -3,7 +3,6 @@ title: ControlBorderType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the border type of the ActiveX control.
 type: docs
-weight: 110
 url: /net/aspose.diagram.activexcontrols/controlbordertype/
 ---
 ## ControlBorderType enumeration

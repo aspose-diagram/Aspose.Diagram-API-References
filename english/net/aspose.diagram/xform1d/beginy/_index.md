@@ -3,7 +3,6 @@ title: BeginY
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the ycoordinate of the begin point of the 1D shape in relation to the origin of its parent.
 type: docs
-weight: 20
 url: /net/aspose.diagram/xform1d/beginy/
 ---
 ## XForm1D.BeginY property

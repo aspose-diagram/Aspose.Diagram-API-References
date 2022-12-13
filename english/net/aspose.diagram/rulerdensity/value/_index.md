@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the horizontal subdivisions on the ruler for the page.
 type: docs
-weight: 30
 url: /net/aspose.diagram/rulerdensity/value/
 ---
 ## RulerDensity.Value property

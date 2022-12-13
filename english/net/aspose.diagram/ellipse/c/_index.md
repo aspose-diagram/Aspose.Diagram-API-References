@@ -3,7 +3,6 @@ title: C
 second_title: Aspose.Diagram for .NET API Reference
 description: An xcoordinate of a point on the ellipse paired with ycoordinate represented by the D element.
 type: docs
-weight: 40
 url: /net/aspose.diagram/ellipse/c/
 ---
 ## Ellipse.C property

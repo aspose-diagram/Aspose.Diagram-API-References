@@ -3,7 +3,6 @@ title: ScaleY
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the percentage of magnification of the drawing page on the printer page in the y vertical direction.
 type: docs
-weight: 160
 url: /net/aspose.diagram/printprops/scaley/
 ---
 ## PrintProps.ScaleY property

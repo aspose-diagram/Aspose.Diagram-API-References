@@ -3,7 +3,6 @@ title: Rules
 second_title: Aspose.Diagram for .NET API Reference
 description: Rule collection.
 type: docs
-weight: 70
 url: /net/aspose.diagram/ruleset/rules/
 ---
 ## RuleSet.Rules property

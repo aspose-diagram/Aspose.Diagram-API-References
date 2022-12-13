@@ -3,7 +3,6 @@ title: Strikethru
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the text is formatted as strikethrough.
 type: docs
-weight: 350
 url: /net/aspose.diagram/char/strikethru/
 ---
 ## Char.Strikethru property

@@ -3,7 +3,6 @@ title: DynamicsOff
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether placeable shapes move and connectors reroute around other shapes and connectors on the drawing page.
 type: docs
-weight: 80
 url: /net/aspose.diagram/pagelayout/dynamicsoff/
 ---
 ## PageLayout.DynamicsOff property

@@ -3,7 +3,6 @@ title: YCon
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of behavior the xcoordinate of the control handle exhibits after the handle is moved.
 type: docs
-weight: 130
 url: /net/aspose.diagram/control/ycon/
 ---
 ## Control.YCon property

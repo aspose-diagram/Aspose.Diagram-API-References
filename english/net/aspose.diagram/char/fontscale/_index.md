@@ -3,7 +3,6 @@ title: FontScale
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the font width.
 type: docs
-weight: 150
 url: /net/aspose.diagram/char/fontscale/
 ---
 ## Char.FontScale property

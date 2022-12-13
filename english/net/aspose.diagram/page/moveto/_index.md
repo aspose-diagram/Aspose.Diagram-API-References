@@ -3,7 +3,6 @@ title: MoveTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Moves the page to another location in the pages.
 type: docs
-weight: 440
 url: /net/aspose.diagram/page/moveto/
 ---
 ## Page.MoveTo method

@@ -3,7 +3,6 @@ title: TabSplitterPos
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the width of the page tab control of a drawing window as a fraction of the total width of the drawing window.
 type: docs
-weight: 230
 url: /net/aspose.diagram/window/tabsplitterpos/
 ---
 ## Window.TabSplitterPos property

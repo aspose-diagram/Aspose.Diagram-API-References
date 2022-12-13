@@ -3,7 +3,6 @@ title: LineAdjustTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Constructor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/lineadjustto/lineadjustto/
 ---
 ## LineAdjustTo constructor

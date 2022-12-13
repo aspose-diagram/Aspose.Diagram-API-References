@@ -3,7 +3,6 @@ title: OutPrecision
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the output precision attribute of the font. Equivalent to the GDI LOGFONT lfOutPrecision field.
 type: docs
-weight: 80
 url: /net/aspose.diagram/headerfooterfont/outprecision/
 ---
 ## HeaderFooterFont.OutPrecision property

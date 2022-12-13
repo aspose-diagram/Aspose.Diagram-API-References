@@ -3,7 +3,6 @@ title: ProtectBkgnds
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the user is prevented from deleting or editing background pages.
 type: docs
-weight: 100
 url: /net/aspose.diagram/documentsettings/protectbkgnds/
 ---
 ## DocumentSettings.ProtectBkgnds property

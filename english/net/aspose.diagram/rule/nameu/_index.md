@@ -3,7 +3,6 @@ title: NameU
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the universal name of the validation rule.
 type: docs
-weight: 60
 url: /net/aspose.diagram/rule/nameu/
 ---
 ## Rule.NameU property

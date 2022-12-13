@@ -3,7 +3,6 @@ title: Default
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the default hyperlink for a shape or page.
 type: docs
-weight: 30
 url: /net/aspose.diagram/hyperlink/default/
 ---
 ## Hyperlink.Default property

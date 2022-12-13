@@ -3,7 +3,6 @@ title: Aspose.Diagram
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains classes for work with Microsoft Visio documents without utilizing Microsoft Visio.
 type: docs
-weight: 10
 url: /net/aspose.diagram/
 ---
 Contains classes for work with Microsoft Visio documents without utilizing Microsoft Visio.
@@ -301,6 +300,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [ContainerTypeValue](./containertypevalue) | May be one of the following values: Document, Page, or Master. Only relevant when WindowType is specified as Drawing or Sheet. |
 | [ContextTypeValue](./contexttypevalue) | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table. |
 | [ConValue](./convalue) | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |
+| [CountryCode](./countrycode) | Represents Diagram country identifiers. |
 | [DisplayModeSmartTagDefValue](./displaymodesmarttagdefvalue) | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 | [DisplayModeValue](./displaymodevalue) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. When it is contained in a SmartTagDef element, the DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 | [DrawingResizeTypeValue](./drawingresizetypevalue) | Determines whether the drawing page resizes automatically to fit the diagram. |
@@ -347,11 +347,11 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [PosValue](./posvalue) | Specifies the position of the shape's text relative to the baseline. |
 | [PresetCameraType](./presetcameratype) | Represent different algorithmic methods for setting all camera properties, including position. |
 | [PresetColorMatricsValue](./presetcolormatricsvalue) | Used to set Shape theme style's color property |
-| [PresetQuickStyleValue](./presetquickstylevalue) |  |
+| [PresetQuickStyleValue](./presetquickstylevalue) | Specifies the theme quick style value |
 | [PresetShadowType](./presetshadowtype) | Represents preset shadow type. |
 | [PresetStyleMatricsValue](./presetstylematricsvalue) | Used to set Shape theme style property |
-| [PresetThemeValue](./presetthemevalue) |  |
-| [PresetThemeVariantValue](./presetthemevariantvalue) |  |
+| [PresetThemeValue](./presetthemevalue) | Specifies the theme value |
+| [PresetThemeVariantValue](./presetthemevariantvalue) | Specifies the theme Variant value |
 | [PreviewScopeValue](./previewscopevalue) | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
 | [PrintPageOrientationValue](./printpageorientationvalue) | Determines whether the page is printed in portrait or landscape orientation. |
 | [PropType](./proptype) | Type of Property. |

@@ -3,7 +3,6 @@ title: BoolValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Boolean value.
 type: docs
-weight: 590
 url: /net/aspose.diagram/boolvalue/
 ---
 ## BoolValue class

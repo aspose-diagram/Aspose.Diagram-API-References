@@ -3,7 +3,6 @@ title: FillStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: StyleSheet element from which the PageSheet inherits fill formatting.
 type: docs
-weight: 50
 url: /net/aspose.diagram/pagesheet/fillstyle/
 ---
 ## PageSheet.FillStyle property

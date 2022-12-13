@@ -3,7 +3,6 @@ title: LocPinX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the xcoordinate of the shapes pin center of rotation in relation to the origin of the shape. The default formula for determining LocPinX is FWidth 0.5.
 type: docs
-weight: 60
 url: /net/aspose.diagram/xform/locpinx/
 ---
 ## XForm.LocPinX property

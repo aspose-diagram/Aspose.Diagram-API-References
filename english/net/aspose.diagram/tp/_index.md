@@ -3,7 +3,6 @@ title: Tp
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the beginning of a tabs properties run. The run is defined to the end of the text or until the next
 type: docs
-weight: 4070
 url: /net/aspose.diagram/tp/
 ---
 ## Tp class

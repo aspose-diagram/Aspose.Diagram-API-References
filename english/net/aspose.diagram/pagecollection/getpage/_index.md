@@ -3,7 +3,6 @@ title: GetPage
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the element at the specified ID.
 type: docs
-weight: 40
 url: /net/aspose.diagram/pagecollection/getpage/
 ---
 ## GetPage(int) {#getpage}

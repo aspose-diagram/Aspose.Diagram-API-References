@@ -3,7 +3,6 @@ title: ConnectionID
 second_title: Aspose.Diagram for .NET API Reference
 description: The connection ID for the associated DataConnection object. Does not exist for XML data sources.
 type: docs
-weight: 60
 url: /net/aspose.diagram/datarecordset/connectionid/
 ---
 ## DataRecordSet.ConnectionID property

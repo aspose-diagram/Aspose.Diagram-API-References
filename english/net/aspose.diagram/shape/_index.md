@@ -3,7 +3,6 @@ title: Shape
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 3570
 url: /net/aspose.diagram/shape/
 ---
 ## Shape class
@@ -133,6 +132,7 @@ public class Shape
 | [ToPdf](../../aspose.diagram/shape/topdf#topdf)(Stream) | Creates the shape pdf and saves it to a stream. |
 | [ToPdf](../../aspose.diagram/shape/topdf#topdf_1)(string) | Saves the shape to a pdf file. |
 | [ToSvg](../../aspose.diagram/shape/tosvg)(string, SVGSaveOptions) | Saves the shape to a svg file. |
+| [Ungroup](../../aspose.diagram/shape/ungroup)() | Ungroup Shape |
 
 ### See Also
 

@@ -3,7 +3,6 @@ title: SplitMultiPages
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether split diagram to multi pages according to pages setting.
 type: docs
-weight: 130
 url: /net/aspose.diagram.saving/pdfsaveoptions/splitmultipages/
 ---
 ## PdfSaveOptions.SplitMultiPages property

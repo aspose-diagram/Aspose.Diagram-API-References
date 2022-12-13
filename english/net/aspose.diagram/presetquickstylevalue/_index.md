@@ -1,12 +1,13 @@
 ---
 title: PresetQuickStyleValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the theme quick style value
 type: docs
-weight: 2740
 url: /net/aspose.diagram/presetquickstylevalue/
 ---
 ## PresetQuickStyleValue enumeration
+
+Specifies the theme quick style value
 
 ```csharp
 public enum PresetQuickStyleValue
@@ -16,10 +17,10 @@ public enum PresetQuickStyleValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| VariantStyle1 | `100` |  |
-| VariantStyle2 | `101` |  |
-| VariantStyle3 | `102` |  |
-| VariantStyle4 | `103` |  |
+| VariantStyle1 | `100` | VariantStyle1. |
+| VariantStyle2 | `101` | VariantStyle2. |
+| VariantStyle3 | `102` | VariantStyle3. |
+| VariantStyle4 | `103` | VariantStyle4. |
 
 ### See Also
 

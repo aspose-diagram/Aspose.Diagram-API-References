@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add StyleSheet in the collection.
 type: docs
-weight: 20
 url: /net/aspose.diagram/stylesheetcollection/add/
 ---
 ## StyleSheetCollection.Add method

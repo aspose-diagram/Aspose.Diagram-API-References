@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the MasterShortcut object from the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/mastershortcutcollection/remove/
 ---
 ## MasterShortcutCollection.Remove method

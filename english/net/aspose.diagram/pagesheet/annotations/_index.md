@@ -3,7 +3,6 @@ title: Annotations
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that contain information about comments inserted into a document page.
 type: docs
-weight: 20
 url: /net/aspose.diagram/pagesheet/annotations/
 ---
 ## PageSheet.Annotations property

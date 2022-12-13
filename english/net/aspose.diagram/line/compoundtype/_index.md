@@ -3,7 +3,6 @@ title: CompoundType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the line CompoundType of the shape.
 type: docs
-weight: 30
 url: /net/aspose.diagram/line/compoundtype/
 ---
 ## Line.CompoundType property

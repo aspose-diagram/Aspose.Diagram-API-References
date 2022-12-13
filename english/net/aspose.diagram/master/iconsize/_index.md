@@ -3,7 +3,6 @@ title: IconSize
 second_title: Aspose.Diagram for .NET API Reference
 description: The size of the elements icon.
 type: docs
-weight: 70
 url: /net/aspose.diagram/master/iconsize/
 ---
 ## Master.IconSize property

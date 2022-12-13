@@ -3,7 +3,6 @@ title: Checked
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether a check mark is displayed beside the command name on a shapes shortcut menu.
 type: docs
-weight: 50
 url: /net/aspose.diagram/act/checked/
 ---
 ## Act.Checked property

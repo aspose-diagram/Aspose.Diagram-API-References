@@ -3,7 +3,6 @@ title: ValueDate
 second_title: Aspose.Diagram for .NET API Reference
 description: Date and time value.
 type: docs
-weight: 30
 url: /net/aspose.diagram/customvalue/valuedate/
 ---
 ## CustomValue.ValueDate property

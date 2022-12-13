@@ -3,7 +3,6 @@ title: AsianFontName
 second_title: Aspose.Diagram for .NET API Reference
 description: It specified the asian font name of the font used to format the text.It is using for visio 2013
 type: docs
-weight: 30
 url: /net/aspose.diagram/char/asianfontname/
 ---
 ## Char.AsianFontName property

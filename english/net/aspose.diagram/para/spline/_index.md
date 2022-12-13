@@ -3,7 +3,6 @@ title: SpLine
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the distance between one line of text and the next where 100 is the height of a text line.
 type: docs
-weight: 160
 url: /net/aspose.diagram/para/spline/
 ---
 ## Para.SpLine property

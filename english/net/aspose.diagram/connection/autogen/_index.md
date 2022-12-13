@@ -3,7 +3,6 @@ title: AutoGen
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies if the connection point is generated automatically. A value of 1 indicates that the connection point is generated automatically.
 type: docs
-weight: 20
 url: /net/aspose.diagram/connection/autogen/
 ---
 ## Connection.AutoGen property

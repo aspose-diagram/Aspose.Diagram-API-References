@@ -3,7 +3,6 @@ title: ShapeFixedCodeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies placement behavior for a placeable shape.
 type: docs
-weight: 3600
 url: /net/aspose.diagram/shapefixedcodevalue/
 ---
 ## ShapeFixedCodeValue enumeration

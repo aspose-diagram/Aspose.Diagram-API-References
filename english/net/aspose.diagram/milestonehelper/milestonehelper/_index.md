@@ -3,7 +3,6 @@ title: MilestoneHelper
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 10
 url: /net/aspose.diagram/milestonehelper/milestonehelper/
 ---
 ## MilestoneHelper constructor

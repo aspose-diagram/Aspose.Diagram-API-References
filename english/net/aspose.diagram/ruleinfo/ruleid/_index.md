@@ -3,7 +3,6 @@ title: RuleId
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the unique identifier of the validation rule that the parent issue pertains to.
 type: docs
-weight: 20
 url: /net/aspose.diagram/ruleinfo/ruleid/
 ---
 ## RuleInfo.RuleId property

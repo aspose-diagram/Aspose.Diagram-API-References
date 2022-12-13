@@ -3,7 +3,6 @@ title: Label
 second_title: Aspose.Diagram for .NET API Reference
 description: Label of the data column.
 type: docs
-weight: 100
 url: /net/aspose.diagram/datacolumn/label/
 ---
 ## DataColumn.Label property

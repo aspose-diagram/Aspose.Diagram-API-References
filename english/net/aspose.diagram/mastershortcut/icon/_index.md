@@ -3,7 +3,6 @@ title: Icon
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies a MIME Multipurpose Internet Mail Extensions encoded binary icon in .ico format for a Master or MasterShortcut element in a document.
 type: docs
-weight: 30
 url: /net/aspose.diagram/mastershortcut/icon/
 ---
 ## MasterShortcut.Icon property

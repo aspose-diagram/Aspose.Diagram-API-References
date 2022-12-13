@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: An xcoordinate of a point on the infinite line.
 type: docs
-weight: 60
 url: /net/aspose.diagram/infiniteline/x/
 ---
 ## InfiniteLine.X property

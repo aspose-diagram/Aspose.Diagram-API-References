@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate that indicates the location of a shapes control handle.
 type: docs
-weight: 90
 url: /net/aspose.diagram/control/x/
 ---
 ## Control.X property

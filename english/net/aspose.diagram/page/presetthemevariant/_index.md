@@ -3,7 +3,6 @@ title: PresetThemeVariant
 second_title: Aspose.Diagram for .NET API Reference
 description: Apply a preset theme variant to this page
 type: docs
-weight: 130
 url: /net/aspose.diagram/page/presetthemevariant/
 ---
 ## Page.PresetThemeVariant property

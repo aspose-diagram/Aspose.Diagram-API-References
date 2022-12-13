@@ -3,7 +3,6 @@ title: HTMLSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to specify additional options when rendering diagram pages to HTML.
 type: docs
-weight: 3240
 url: /net/aspose.diagram.saving/htmlsaveoptions/
 ---
 ## HTMLSaveOptions class

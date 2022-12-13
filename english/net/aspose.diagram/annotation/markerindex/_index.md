@@ -3,7 +3,6 @@ title: MarkerIndex
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the index number assigned to a comment marker.
 type: docs
-weight: 70
 url: /net/aspose.diagram/annotation/markerindex/
 ---
 ## Annotation.MarkerIndex property

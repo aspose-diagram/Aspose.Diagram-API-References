@@ -3,7 +3,6 @@ title: Keywords
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a text string that identifies topics or other important information about the file such as project name client name or version number. The maximum string length is 63 characters.
 type: docs
-weight: 100
 url: /net/aspose.diagram/documentproperties/keywords/
 ---
 ## DocumentProperties.Keywords property

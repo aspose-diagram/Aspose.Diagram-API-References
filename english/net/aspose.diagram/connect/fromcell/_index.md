@@ -3,7 +3,6 @@ title: FromCell
 second_title: Aspose.Diagram for .NET API Reference
 description: The cell from which a connection is made.
 type: docs
-weight: 20
 url: /net/aspose.diagram/connect/fromcell/
 ---
 ## Connect.FromCell property

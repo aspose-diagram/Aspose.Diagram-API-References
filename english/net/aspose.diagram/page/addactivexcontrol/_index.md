@@ -3,7 +3,6 @@ title: AddActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an Activex Control.
 type: docs
-weight: 190
 url: /net/aspose.diagram/page/addactivexcontrol/
 ---
 ## Page.AddActiveXControl method

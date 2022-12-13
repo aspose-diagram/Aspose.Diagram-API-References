@@ -3,7 +3,6 @@ title: TextBoxActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a text box ActiveX control.
 type: docs
-weight: 320
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/
 ---
 ## TextBoxActiveXControl class

@@ -3,7 +3,6 @@ title: UpdateAlignBox
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether to recalculate a shapes selection rectangle whenever a control handle is moved.
 type: docs
-weight: 210
 url: /net/aspose.diagram/misc/updatealignbox/
 ---
 ## Misc.UpdateAlignBox property

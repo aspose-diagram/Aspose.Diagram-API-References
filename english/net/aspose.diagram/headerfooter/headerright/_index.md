@@ -3,7 +3,6 @@ title: HeaderRight
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the text string that appears in the right portion of a documents header.
 type: docs
-weight: 100
 url: /net/aspose.diagram/headerfooter/headerright/
 ---
 ## HeaderFooter.HeaderRight property

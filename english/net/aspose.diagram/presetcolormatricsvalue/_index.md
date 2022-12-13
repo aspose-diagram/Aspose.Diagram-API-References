@@ -3,7 +3,6 @@ title: PresetColorMatricsValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Used to set Shape theme styles color property
 type: docs
-weight: 2730
 url: /net/aspose.diagram/presetcolormatricsvalue/
 ---
 ## PresetColorMatricsValue enumeration
@@ -18,13 +17,13 @@ public enum PresetColorMatricsValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Color1 | `200` |  |
-| Color2 | `201` |  |
-| Color3 | `202` |  |
-| Color4 | `203` |  |
-| Color5 | `204` |  |
-| Color6 | `205` |  |
-| Color7 | `206` |  |
+| Color1 | `200` | Color1. |
+| Color2 | `201` | Color2. |
+| Color3 | `202` | Color3. |
+| Color4 | `203` | Color4. |
+| Color5 | `204` | Color5. |
+| Color6 | `205` | Color6. |
+| Color7 | `206` | Color7. |
 
 ### See Also
 

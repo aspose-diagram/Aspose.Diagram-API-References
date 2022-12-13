@@ -3,7 +3,6 @@ title: RibbonX
 second_title: Aspose.Diagram for .NET API Reference
 description: The Ribbon XML string that is passed to the document to customize the ribbon user interface.
 type: docs
-weight: 210
 url: /net/aspose.diagram/diagram/ribbonx/
 ---
 ## Diagram.RibbonX property

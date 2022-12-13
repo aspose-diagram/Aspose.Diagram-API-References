@@ -3,7 +3,6 @@ title: HideForApply
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies where a style is shown in the Microsoft Visio user interface.
 type: docs
-weight: 50
 url: /net/aspose.diagram/styleprop/hideforapply/
 ---
 ## StyleProp.HideForApply property

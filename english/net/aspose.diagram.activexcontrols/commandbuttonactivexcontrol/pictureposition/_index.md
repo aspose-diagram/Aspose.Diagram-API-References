@@ -3,7 +3,6 @@ title: PicturePosition
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and set the location of the controls picture relative to its caption.
 type: docs
-weight: 50
 url: /net/aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition/
 ---
 ## CommandButtonActiveXControl.PicturePosition property

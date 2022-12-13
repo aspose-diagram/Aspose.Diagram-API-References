@@ -3,7 +3,6 @@ title: RuleTarget
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of object to which the validation rule applies.
 type: docs
-weight: 80
 url: /net/aspose.diagram/rule/ruletarget/
 ---
 ## Rule.RuleTarget property
