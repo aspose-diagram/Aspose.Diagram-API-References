@@ -108,7 +108,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [ControlType](../com.aspose.diagram/controltype) | Represents all type of ActiveX control. |
 | [Coordinate](../com.aspose.diagram/coordinate) | Abstract class for the x- and y-coordinates. |
 | [CoordinateCollection](../com.aspose.diagram/coordinatecollection) | Coordinate collection. |
-| [CountryCode](../com.aspose.diagram/countrycode) | Represents Excel country identifiers. |
+| [CountryCode](../com.aspose.diagram/countrycode) | Represents Diagram country identifiers. |
 | [Cp](../com.aspose.diagram/cp) | Marks the beginning of a character properties run that is formatted according to the corresponding Char element. |
 | [CustomProp](../com.aspose.diagram/customprop) | CustomProp structure. |
 | [CustomPropCollection](../com.aspose.diagram/custompropcollection) | CustomProps collection. |

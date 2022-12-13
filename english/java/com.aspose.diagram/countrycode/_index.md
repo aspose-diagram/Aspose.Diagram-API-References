@@ -1,7 +1,7 @@
 ---
 title: CountryCode
 second_title: Aspose.Diagram for Java API Reference
-description: Represents Excel country identifiers.
+description: Represents Diagram country identifiers.
 type: docs
 weight: 103
 url: /java/com.aspose.diagram/countrycode/
@@ -13,7 +13,7 @@ java.lang.Object
 public final class CountryCode
 ```
 
-Represents Excel country identifiers.
+Represents Diagram country identifiers.
 ## Fields
 
 | Field | Description |
