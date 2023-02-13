@@ -23,7 +23,7 @@ public class Calendar
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/calendar/ufe) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/calendar/ufe) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/calendar/value) { get; set; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 
 ## Methods

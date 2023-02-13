@@ -23,6 +23,7 @@ public class ArrowSize
 
 | Name | Description |
 | --- | --- |
+| [IsThemed](../../aspose.diagram/arrowsize/isthemed) { get; set; } |  |
 | [Ufe](../../aspose.diagram/arrowsize/ufe) { get; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/arrowsize/value) { get; set; } | Specifies the size of the arrowhead of the line. |
 
