@@ -28,8 +28,10 @@ Specifies the size of the arrowhead of the line.
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
 | [getValue()](#getValue--) | Specifies the size of the arrowhead of the line. |
 | [hashCode()](#hashCode--) | Serves as a hash function for a particular type. |
+| [isThemed()](#isThemed--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setThemed(boolean value)](#setThemed-boolean-) | For the description of this property, please see [isThemed()](../../com.aspose.diagram/arrowsize\#isThemed--) |
 | [setValue(int value)](#setValue-int-) | For the description of this property, please see [getValue()](../../com.aspose.diagram/arrowsize\#getValue--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -103,6 +105,16 @@ Serves as a hash function for a particular type.
 
 **Returns:**
 int - 
+### isThemed() {#isThemed--}
+```
+public boolean isThemed()
+```
+
+
+
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -118,6 +130,19 @@ public final native void notifyAll()
 
 
 
+
+### setThemed(boolean value) {#setThemed-boolean-}
+```
+public void setThemed(boolean value)
+```
+
+
+For the description of this property, please see [isThemed()](../../com.aspose.diagram/arrowsize\#isThemed--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setValue(int value) {#setValue-int-}
 ```
