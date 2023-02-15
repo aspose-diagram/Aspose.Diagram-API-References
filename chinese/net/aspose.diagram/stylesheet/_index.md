@@ -3,7 +3,7 @@ title: StyleSheet
 second_title: Aspose.Diagram for .NET API 参考
 description: 表示文档中定义的样式
 type: docs
-weight: 3910
+weight: 3920
 url: /zh/net/aspose.diagram/stylesheet/
 ---
 ## StyleSheet class
@@ -18,48 +18,48 @@ public class StyleSheet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StyleSheet](stylesheet)() | 构造函数。 |
+| [StyleSheet](stylesheet/)() | 构造函数. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Chars](../../aspose.diagram/stylesheet/chars) { get; } | 包含 Char 元素的集合。 |
-| [ConnectionABCDs](../../aspose.diagram/stylesheet/connectionabcds) { get; } | 包含 ConnectionABCD 元素的集合。 |
-| [Connections](../../aspose.diagram/stylesheet/connections) { get; } | 包含连接元素的集合。 |
-| [Event](../../aspose.diagram/stylesheet/event) { get; } | 包含指定控制形状事件的公式的元素。 |
-| [Fill](../../aspose.diagram/stylesheet/fill) { get; } | 包含形状和形状投影的当前填充格式值，包括图案、前景色和背景色。 |
-| [FillStyle](../../aspose.diagram/stylesheet/fillstyle) { get; set; } | StyleSheet 元素，此样式从中继承填充格式。 |
-| [Foreign](../../aspose.diagram/stylesheet/foreign) { get; } | 包含指定 Microsoft Visio 文档中使用的另一个程序的对象的宽度和高度的元素。还包括指定对象图像在其边界内偏移距离的元素。 |
-| [ForeignData](../../aspose.diagram/stylesheet/foreigndata) { get; } | 包含 MIME（多用途 Internet 邮件扩展）编码的图片数据 BLOB，例如 Windows 图元文件、位图或 OLE 数据。 |
-| [Group](../../aspose.diagram/stylesheet/group) { get; } | 包含控制如何将形状添加到组、移动组成员和选择组的元素。 |
-| [Help](../../aspose.diagram/stylesheet/help) { get; } | 包含指定 Shape 元素的帮助文件主题和版权信息的元素。 |
-| [ID](../../aspose.diagram/stylesheet/id) { get; set; } | 元素在其父元素中的唯一 ID。 |
-| [Image](../../aspose.diagram/stylesheet/image) { get; } | 包含位图的伽玛、亮度、对比度、模糊、锐化、降噪和透明度值。 |
-| [Layout](../../aspose.diagram/stylesheet/layout) { get; } | 包含控制形状放置和连接器布线设置的元素。 |
-| [Line](../../aspose.diagram/stylesheet/line) { get; } | 包含控制形状线条属性的元素，例如图案、粗细和颜色。这些元素确定线端是否已格式化（例如，带有箭头）、线端格式的大小、应用于线的圆角半径以及线帽样式（圆形或方形）。 |
-| [LineStyle](../../aspose.diagram/stylesheet/linestyle) { get; set; } | StyleSheet 元素，此样式从中继承行格式。 |
-| [Misc](../../aspose.diagram/stylesheet/misc) { get; } | 包含指定 Shape 元素的帮助文件主题和版权信息的元素。 |
-| [Name](../../aspose.diagram/stylesheet/name) { get; set; } | 元素的名称。 |
-| [NameU](../../aspose.diagram/stylesheet/nameu) { get; set; } | 元素的通用名称。 |
-| [PageLayout](../../aspose.diagram/stylesheet/pagelayout) { get; } | 包含控制形状和连接器的页面布局设置的图表，例如页面上所有形状之间的间距、页面上所有连接器之间的间距以及页面上的所有连接器。 |
-| [Paras](../../aspose.diagram/stylesheet/paras) { get; } | 包含 Para 元素的集合。 |
-| [Protection](../../aspose.diagram/stylesheet/protection) { get; } | 锁定有助于防止意外更改形状，但不会阻止 Microsoft Visio 在其他情况下重置值。它也不能防止在 ShapeSheet 窗口中所做的更改。 |
-| [RulerGrid](../../aspose.diagram/stylesheet/rulergrid) { get; } | 包含指定页面标尺和网格设置的元素。 |
-| [StyleProp](../../aspose.diagram/stylesheet/styleprop) { get; } | 包含控制样式行为的元素，例如样式是否包含文本、线条和填充属性。 |
-| [TabsCollection](../../aspose.diagram/stylesheet/tabscollection) { get; } | 包含 Tab 元素的集合。 |
-| [TextBlock](../../aspose.diagram/stylesheet/textblock) { get; } | 包含指定形状文本块中文本的对齐方式、边距和默认制表位位置的元素。 |
-| [TextStyle](../../aspose.diagram/stylesheet/textstyle) { get; set; } | StyleSheet 元素，此样式从中继承文本格式。 |
+| [Chars](../../aspose.diagram/stylesheet/chars/) { get; } | 包含 Char 元素的集合。 |
+| [ConnectionABCDs](../../aspose.diagram/stylesheet/connectionabcds/) { get; } | 包含 ConnectionABCD 元素的集合。 |
+| [Connections](../../aspose.diagram/stylesheet/connections/) { get; } | 包含连接元素的集合。 |
+| [Event](../../aspose.diagram/stylesheet/event/) { get; } | 包含指定控制形状事件的公式的元素。 |
+| [Fill](../../aspose.diagram/stylesheet/fill/) { get; } | 包含形状和形状投影的当前填充格式值，包括图案、前景色和背景色。 |
+| [FillStyle](../../aspose.diagram/stylesheet/fillstyle/) { get; set; } | 此样式从中继承填充格式的 StyleSheet 元素。 |
+| [Foreign](../../aspose.diagram/stylesheet/foreign/) { get; } | 包含指定 Microsoft Visio 文档中使用的另一个程序的对象的宽度和高度的元素。还包括指定对象图像在其边界内偏移距离的元素。 |
+| [ForeignData](../../aspose.diagram/stylesheet/foreigndata/) { get; } | 包含 MIME（多用途 Internet 邮件扩展）编码的图片数据 BLOB，例如 Windows 图元文件、位图或 OLE 数据。 |
+| [Group](../../aspose.diagram/stylesheet/group/) { get; } | 包含控制如何将形状添加到组、移动组成员和选择组的元素。 |
+| [Help](../../aspose.diagram/stylesheet/help/) { get; } | 包含指定 Shape 元素的帮助文件主题和版权信息的元素。 |
+| [ID](../../aspose.diagram/stylesheet/id/) { get; set; } | 元素在其父元素中的唯一 ID。 |
+| [Image](../../aspose.diagram/stylesheet/image/) { get; } | 包含位图的伽玛、亮度、对比度、模糊、锐化、去噪和透明度值。 |
+| [Layout](../../aspose.diagram/stylesheet/layout/) { get; } | 包含控制形状放置和连接器布线设置的元素。 |
+| [Line](../../aspose.diagram/stylesheet/line/) { get; } | 包含控制形状线条属性的元素，例如图案、粗细和颜色。这些元素确定线端是否格式化（例如，带箭头）、线端格式的大小、应用于线的圆角圆的半径以及线帽样式（圆形或方形）。 |
+| [LineStyle](../../aspose.diagram/stylesheet/linestyle/) { get; set; } | 此样式从中继承行格式的 StyleSheet 元素。 |
+| [Misc](../../aspose.diagram/stylesheet/misc/) { get; } | 包含指定 Shape 元素的帮助文件主题和版权信息的元素。 |
+| [Name](../../aspose.diagram/stylesheet/name/) { get; set; } | 元素的名称。 |
+| [NameU](../../aspose.diagram/stylesheet/nameu/) { get; set; } | 元素的通用名称。 |
+| [PageLayout](../../aspose.diagram/stylesheet/pagelayout/) { get; } | 包含控制形状和连接器的页面布局设置的图表，例如页面上所有形状之间的间距、页面上所有连接器之间的间距以及页面上所有连接器的路由样式。 |
+| [Paras](../../aspose.diagram/stylesheet/paras/) { get; } | 包含 Para 元素的集合。 |
+| [Protection](../../aspose.diagram/stylesheet/protection/) { get; } | 锁定有助于防止意外更改形状，但不会阻止 Microsoft Visio 在其他情况下重置值。它还不能防止在 ShapeSheet 窗口中所做的更改。 |
+| [RulerGrid](../../aspose.diagram/stylesheet/rulergrid/) { get; } | 包含指定页面标尺和网格设置的元素。 |
+| [StyleProp](../../aspose.diagram/stylesheet/styleprop/) { get; } | 包含控制样式行为的元素，例如样式是否包含文本、线条和填充属性。 |
+| [TabsCollection](../../aspose.diagram/stylesheet/tabscollection/) { get; } | 包含 Tab 元素的集合。 |
+| [TextBlock](../../aspose.diagram/stylesheet/textblock/) { get; } | 包含指定形状文本块中文本的对齐方式、边距和默认制表位位置的元素。 |
+| [TextStyle](../../aspose.diagram/stylesheet/textstyle/) { get; set; } | 此样式从中继承文本格式的 StyleSheet 元素。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.diagram/stylesheet/clone)() | 创建此实例的深层副本。 |
+| [Clone](../../aspose.diagram/stylesheet/clone/)() | 创建此实例的深层副本。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

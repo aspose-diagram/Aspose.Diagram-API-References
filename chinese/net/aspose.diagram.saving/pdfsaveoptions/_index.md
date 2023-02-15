@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.Diagram for .NET API 参考
 description: 允许在将图表页面呈现为 PDF 时指定其他选项
 type: docs
-weight: 3400
+weight: 3410
 url: /zh/net/aspose.diagram.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class
@@ -18,40 +18,40 @@ public class PdfSaveOptions : RenderingSaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PdfSaveOptions](pdfsaveoptions)() | 初始化此类的新实例，该实例可用于将文档保存在[`Pdf`](../../aspose.diagram/savefileformat) 格式。 |
+| [PdfSaveOptions](pdfsaveoptions/)() | 初始化此类的新实例，可用于将文档保存在[`PDF格式`](../../aspose.diagram/savefileformat/)格式. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | 获取或设置要保存的形状区域。 |
-| [Compliance](../../aspose.diagram.saving/pdfsaveoptions/compliance) { get; set; } | 生成的 PDF 文档所需的一致性级别。 默认为Pdf15。 |
-| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | 当图中的字符是 unicode 并且没有设置正确的字体值或本地没有安装字体时， 它们可能会显示为块pdf、图像或 XPS 格式。 设置默认字体如 MingLiu 或 MS Gothic 以显示这些字符。 |
-| [DigitalSignatureDetails](../../aspose.diagram.saving/pdfsaveoptions/digitalsignaturedetails) { get; set; } | 获取或设置数字签名详细信息。如果未设置，则不会执行签名。 |
-| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | 渲染 Emf 图元文件的设置。 |
-| [EncryptionDetails](../../aspose.diagram.saving/pdfsaveoptions/encryptiondetails) { get; set; } | 获取或设置加密细节。如果未设置，则不会执行加密。 |
-| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | 指定是否放大页面。 |
-| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | 定义是否需要导出导向形状。 |
-| [ExportHiddenPage](../../aspose.diagram.saving/pdfsaveoptions/exporthiddenpage) { get; set; } | 定义是否需要导出隐藏页面。 |
-| [HorizontalResolution](../../aspose.diagram.saving/pdfsaveoptions/horizontalresolution) { get; set; } | 获取或设置生成图像的水平分辨率，以每英寸点数为单位。 除 Emf 格式图像外，应用生成图像方法。 |
-| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | 定义是否需要导出评论。 |
-| [JpegQuality](../../aspose.diagram.saving/pdfsaveoptions/jpegquality) { get; set; } | 指定图像的 JPEG 压缩质量（如果使用 JPEG 压缩）。 默认为 95。 |
-| [PageCount](../../aspose.diagram.saving/pdfsaveoptions/pagecount) { get; set; } | 获取或设置要在 PDF 中呈现的页数。 默认为 MaxValue，这意味着将呈现图表的所有页面。 |
-| [PageIndex](../../aspose.diagram.saving/pdfsaveoptions/pageindex) { get; set; } | 获取或设置要呈现的第一页的从 0 开始的索引。默认值为 0。 |
-| [PageSavingCallback](../../aspose.diagram.saving/pdfsaveoptions/pagesavingcallback) { get; set; } | 控制/指示页面保存过程的进度。 |
-| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | 获取或设置生成图像的页面大小。 可以是[`PageSize`](../pagesize) 或 null。 |
-| [SaveForegroundPagesOnly](../../aspose.diagram.saving/pdfsaveoptions/saveforegroundpagesonly) { get; set; } | 指定所有页面将保存在图像中还是仅在前景中。 |
-| override [SaveFormat](../../aspose.diagram.saving/pdfsaveoptions/saveformat) { get; set; } | 如果使用此保存选项对象，则指定保存渲染图表页面的格式。 只能是[`PDF`](../../aspose.diagram/savefileformat) 。 |
-| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | 获取或设置要渲染的形状。默认计数为 0。 |
-| [SplitMultiPages](../../aspose.diagram.saving/pdfsaveoptions/splitmultipages) { get; set; } | 定义是否根据页面设置将图表拆分为多页。 |
-| [TextCompression](../../aspose.diagram.saving/pdfsaveoptions/textcompression) { get; set; } | 指定用于除图像之外的所有内容流的压缩类型。 默认为!:PdfTextCompressionCore.Flate。 |
-| [VerticalResolution](../../aspose.diagram.saving/pdfsaveoptions/verticalresolution) { get; set; } | 获取或设置生成图像的垂直分辨率，以每英寸点数为单位。 除 Emf 格式图像外，应用生成图像方法。 |
-| [WarningCallback](../../aspose.diagram.saving/pdfsaveoptions/warningcallback) { get; set; } | 获取或设置警告回调。 |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | 获取或设置将保存的形状区域 . |
+| [Compliance](../../aspose.diagram.saving/pdfsaveoptions/compliance/) { get; set; } | 生成的 PDF 文档所需的一致性级别。 默认为Pdf15. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | 当图表中的字符是 unicode 且未设置正确的字体值或本地未安装字体时， 它们可能在 pdf、图像或 XPS 中显示为块。 设置默认字体如 MingLiu 或 MS Gothic 以显示这些字符. |
+| [DigitalSignatureDetails](../../aspose.diagram.saving/pdfsaveoptions/digitalsignaturedetails/) { get; set; } | 获取或设置数字签名详细信息。如果未设置，则不会执行任何签名。 |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | 渲染 Emf 图元文件的设置。 |
+| [EncryptionDetails](../../aspose.diagram.saving/pdfsaveoptions/encryptiondetails/) { get; set; } | 获取或设置加密详细信息。如果未设置，则不会执行任何加密。 |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | 指定是否放大页面 . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | 定义是否需要导出导向形状。 |
+| [ExportHiddenPage](../../aspose.diagram.saving/pdfsaveoptions/exporthiddenpage/) { get; set; } | 定义是否需要导出隐藏页面。 |
+| [HorizontalResolution](../../aspose.diagram.saving/pdfsaveoptions/horizontalresolution/) { get; set; } | 获取或设置生成图像的水平分辨率，以每英寸点数为单位。 应用除 Emf 格式图像之外的生成图像方法。 |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | 定义是否需要导出注释。 |
+| [JpegQuality](../../aspose.diagram.saving/pdfsaveoptions/jpegquality/) { get; set; } | 指定图像的 JPEG 压缩质量（如果使用 JPEG 压缩）。 默认值为 95. |
+| [PageCount](../../aspose.diagram.saving/pdfsaveoptions/pagecount/) { get; set; } | 获取或设置要在 PDF 中呈现的页面数。 默认值为 MaxValue，这意味着将呈现图表的所有页面。 |
+| [PageIndex](../../aspose.diagram.saving/pdfsaveoptions/pageindex/) { get; set; } | 获取或设置要呈现的第一个页面的从 0 开始的索引。默认为 0. |
+| [PageSavingCallback](../../aspose.diagram.saving/pdfsaveoptions/pagesavingcallback/) { get; set; } | 控制/指示页面保存过程的进度。 |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | 获取或设置生成图像的页面大小。 可以[`PageSize`](../pagesize/)或 null. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/pdfsaveoptions/saveforegroundpagesonly/) { get; set; } | 指定是将所有页面保存在图像中还是仅保存在前景中。 |
+| override [SaveFormat](../../aspose.diagram.saving/pdfsaveoptions/saveformat/) { get; set; } | 指定如果使用此保存选项对象将保存呈现的图表页面的格式。 可以是[`PDF`](../../aspose.diagram/savefileformat/)只有. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | 获取或设置要呈现的形状。默认计数为 0. |
+| [SplitMultiPages](../../aspose.diagram.saving/pdfsaveoptions/splitmultipages/) { get; set; } | 定义是否根据页面设置将图表拆分为多页。 |
+| [TextCompression](../../aspose.diagram.saving/pdfsaveoptions/textcompression/) { get; set; } | 指定用于除图像之外的所有内容流的压缩类型。 默认为Flate. |
+| [VerticalResolution](../../aspose.diagram.saving/pdfsaveoptions/verticalresolution/) { get; set; } | 获取或设置生成图像的垂直分辨率，以每英寸点数为单位。 应用除 Emf 格式图像之外的生成图像方法。 |
+| [WarningCallback](../../aspose.diagram.saving/pdfsaveoptions/warningcallback/) { get; set; } | 获取或设置警告回调。 |
 
 ### 也可以看看
 
-* class [RenderingSaveOptions](../renderingsaveoptions)
-* 命名空间 [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* 命名空间 [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

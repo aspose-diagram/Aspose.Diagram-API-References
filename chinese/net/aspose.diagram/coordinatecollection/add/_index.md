@@ -16,9 +16,9 @@ public int Add(Coordinate item)
 
 ### 也可以看看
 
-* class [Coordinate](../../coordinate)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -33,9 +33,9 @@ public int Add(MoveTo item)
 
 ### 也可以看看
 
-* class [MoveTo](../../moveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -50,9 +50,9 @@ public int Add(LineTo item)
 
 ### 也可以看看
 
-* class [LineTo](../../lineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -67,9 +67,9 @@ public int Add(ArcTo item)
 
 ### 也可以看看
 
-* class [ArcTo](../../arcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -84,9 +84,9 @@ public int Add(InfiniteLine item)
 
 ### 也可以看看
 
-* class [InfiniteLine](../../infiniteline)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -101,9 +101,9 @@ public int Add(Ellipse item)
 
 ### 也可以看看
 
-* class [Ellipse](../../ellipse)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -118,9 +118,9 @@ public int Add(EllipticalArcTo item)
 
 ### 也可以看看
 
-* class [EllipticalArcTo](../../ellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -135,9 +135,9 @@ public int Add(SplineStart item)
 
 ### 也可以看看
 
-* class [SplineStart](../../splinestart)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -152,9 +152,9 @@ public int Add(SplineKnot item)
 
 ### 也可以看看
 
-* class [SplineKnot](../../splineknot)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -169,9 +169,9 @@ public int Add(PolylineTo item)
 
 ### 也可以看看
 
-* class [PolylineTo](../../polylineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -186,9 +186,9 @@ public int Add(NURBSTo item)
 
 ### 也可以看看
 
-* class [NURBSTo](../../nurbsto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -203,9 +203,9 @@ public int Add(RelCubBezTo item)
 
 ### 也可以看看
 
-* class [RelCubBezTo](../../relcubbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -220,9 +220,9 @@ public int Add(RelQuadBezTo item)
 
 ### 也可以看看
 
-* class [RelQuadBezTo](../../relquadbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -237,9 +237,9 @@ public int Add(RelMoveTo item)
 
 ### 也可以看看
 
-* class [RelMoveTo](../../relmoveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -254,9 +254,9 @@ public int Add(RelLineTo item)
 
 ### 也可以看看
 
-* class [RelLineTo](../../rellineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -271,9 +271,9 @@ public int Add(RelEllipticalArcTo item)
 
 ### 也可以看看
 
-* class [RelEllipticalArcTo](../../relellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -1,14 +1,14 @@
 ---
 title: PageLayout
 second_title: Aspose.Diagram for .NET API 参考
-description: 包含控制形状和连接器的页面布局设置的单元格例如页面上所有形状之间的间距页面上所有连接器之间的间距以及页面上的所有连接器
+description: 包含控制形状和连接器的页面布局设置的单元格例如页面上所有形状之间的间距页面上所有连接器之间的间距以及页面上所有连接器的路由样式
 type: docs
-weight: 2500
+weight: 2510
 url: /zh/net/aspose.diagram/pagelayout/
 ---
 ## PageLayout class
 
-包含控制形状和连接器的页面布局设置的单元格，例如页面上所有形状之间的间距、页面上所有连接器之间的间距以及页面上的所有连接器。
+包含控制形状和连接器的页面布局设置的单元格，例如页面上所有形状之间的间距、页面上所有连接器之间的间距以及页面上所有连接器的路由样式。
 
 ```csharp
 public class PageLayout
@@ -18,39 +18,39 @@ public class PageLayout
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AvenueSizeX](../../aspose.diagram/pagelayout/avenuesizex) { get; } | 当您使用 Microsoft Visio 在绘图页上布置形状时，确定绘图页上形状之间的垂直间距量。 |
-| [AvenueSizeY](../../aspose.diagram/pagelayout/avenuesizey) { get; } | 当您使用 Microsoft Visio 在绘图页上布置形状时，确定绘图页上形状之间的垂直间距量。 |
-| [AvoidPageBreaks](../../aspose.diagram/pagelayout/avoidpagebreaks) { get; } | 当用户选择布局形状（形状菜单）时，指定形状在页面上的放置方式。 |
-| [BlockSizeX](../../aspose.diagram/pagelayout/blocksizex) { get; } | 确定垂直块大小，当您使用 Microsoft Visio 在绘图页上布置形状时，每个形状必须适合绘图页的区域。 |
-| [BlockSizeY](../../aspose.diagram/pagelayout/blocksizey) { get; } | 当您使用 Microsoft Visio 在绘图页上布置形状时，确定绘图页上形状之间的水平间距量。 |
-| [CtrlAsInput](../../aspose.diagram/pagelayout/ctrlasinput) { get; } | 当通过控制手柄使用形状时，确定哪个形状是父级。此元素设置绘图页上所有形状的行为。 |
-| [Del](../../aspose.diagram/pagelayout/del) { get; set; } | 指示元素是否已在本地删除的标志。值 1 表示该元素已在本地删除。 |
-| [DynamicsOff](../../aspose.diagram/pagelayout/dynamicsoff) { get; } | 指定可放置的形状是否移动以及连接器是否围绕绘图页上的其他形状和连接器重新布线。 |
-| [EnableGrid](../../aspose.diagram/pagelayout/enablegrid) { get; } | 指定当用户选择布局形状（形状菜单）时，Microsoft Visio 是否基于内部页面网格布局形状。 |
-| [LineAdjustFrom](../../aspose.diagram/pagelayout/lineadjustfrom) { get; } | 指定哪些动态连接器在它们相互重叠布线时要分开。 |
-| [LineAdjustTo](../../aspose.diagram/pagelayout/lineadjustto) { get; } | 指定哪些动态连接器在彼此顶部布线时要在彼此顶部排列。 |
-| [LineJumpCode](../../aspose.diagram/pagelayout/linejumpcode) { get; } | 为绘图页上没有本地线跳转样式的所有连接器指定线跳转样式。 |
-| [LineJumpFactorX](../../aspose.diagram/pagelayout/linejumpfactorx) { get; } | 指定页面上动态连接器水平段上的跳线大小，以 LineToLineX 元素值的百分比（指定所有连接器之间的水平间隙）在绘图页上）。此元素的值范围为 0 到 10。 |
-| [LineJumpFactorY](../../aspose.diagram/pagelayout/linejumpfactory) { get; } | 指定页面上动态连接器垂直段上的跳线大小，以 LineToLineY 元素值的百分比（指定所有连接器之间的垂直间隙）在绘图页上）。该元素可以包含一个从 0 到 10 的值。 |
-| [LineJumpStyle](../../aspose.diagram/pagelayout/linejumpstyle) { get; } | 指定绘图页上未应用局部跳转方向的动态连接器水平段上的线跳转方向。 |
-| [LineRouteExt](../../aspose.diagram/pagelayout/linerouteext) { get; } | 指定页面上所有连接器的默认外观。 |
-| [LineToLineX](../../aspose.diagram/pagelayout/linetolinex) { get; } | 指定绘图页上动态连接器之间的最小水平间隙。 |
-| [LineToLineY](../../aspose.diagram/pagelayout/linetoliney) { get; } | 指定绘图页上动态连接器之间的最小垂直间隙。 |
-| [LineToNodeX](../../aspose.diagram/pagelayout/linetonodex) { get; } | 指定绘图页上动态连接器和形状之间的最小垂直间隙。 |
-| [LineToNodeY](../../aspose.diagram/pagelayout/linetonodey) { get; } | 确定水平块大小，当您使用 Microsoft Visio 在绘图页上布置形状时，每个形状必须适合绘图页的区域。 |
-| [PageLineJumpDirX](../../aspose.diagram/pagelayout/pagelinejumpdirx) { get; } | 指定绘图页上未应用局部跳转方向的垂直动态连接器上的线跳转方向。 |
-| [PageLineJumpDirY](../../aspose.diagram/pagelayout/pagelinejumpdiry) { get; } | 指定绘图页上动态连接器和形状之间的最小水平间隙。 |
-| [PageShapeSplit](../../aspose.diagram/pagelayout/pageshapesplit) { get; } | 表示页面上的形状是否可以自动分割。 |
-| [PlaceDepth](../../aspose.diagram/pagelayout/placedepth) { get; } | 指定当用户在绘图页上将一个可放置形状拖到另一个可放置形状附近时，可放置形状是否移开。 |
-| [PlaceFlip](../../aspose.diagram/pagelayout/placeflip) { get; } | 指定在 Microsoft Visio 中使用“布局形状”命令布局形状时，可放置形状如何在页面上翻转和/或旋转。允许使用以下十六进制值。 |
-| [PlaceStyle](../../aspose.diagram/pagelayout/placestyle) { get; } | 为绘图页上没有本地布线样式的所有动态连接器指定布线样式和方向。 |
-| [PlowCode](../../aspose.diagram/pagelayout/plowcode) { get; } | 确定要添加跳转的动态连接器。 |
-| [ResizePage](../../aspose.diagram/pagelayout/resizepage) { get; } | 指定在用户选择布局形状（形状菜单）后是否放大页面以包围绘图。 |
-| [RouteStyle](../../aspose.diagram/pagelayout/routestyle) { get; } | 对于自动布局的图形，指定在创建布局之前分析图形的方法并确定布局的类型。 |
+| [AvenueSizeX](../../aspose.diagram/pagelayout/avenuesizex/) { get; } | 当您使用 Microsoft Visio 在绘图页上布置形状时，确定绘图页上形状之间的垂直空间量。 |
+| [AvenueSizeY](../../aspose.diagram/pagelayout/avenuesizey/) { get; } | 当您使用 Microsoft Visio 在绘图页上布置形状时，确定绘图页上形状之间的垂直空间量。 |
+| [AvoidPageBreaks](../../aspose.diagram/pagelayout/avoidpagebreaks/) { get; } | 指定当用户选择 Lay Out Shapes（Shape 菜单）时形状在页面上的放置方式。 |
+| [BlockSizeX](../../aspose.diagram/pagelayout/blocksizex/) { get; } | 确定垂直块大小，当您使用 Microsoft Visio 在绘图页上布置形状时，每个形状必须适合绘图页的区域。 |
+| [BlockSizeY](../../aspose.diagram/pagelayout/blocksizey/) { get; } | 确定当您使用 Microsoft Visio 在绘图页上布置形状时绘图页上形状之间的水平间距量。 |
+| [CtrlAsInput](../../aspose.diagram/pagelayout/ctrlasinput/) { get; } | 确定在通过控制手柄使用形状时哪个形状是父级。此元素设置绘图页上所有形状的行为。 |
+| [Del](../../aspose.diagram/pagelayout/del/) { get; set; } | 表示该元素是否已在本地删除的标志。值为 1 表示该元素已在本地删除。 |
+| [DynamicsOff](../../aspose.diagram/pagelayout/dynamicsoff/) { get; } | 指定可放置形状是否移动以及连接器是否围绕绘图页上的其他形状和连接器重新布线。 |
+| [EnableGrid](../../aspose.diagram/pagelayout/enablegrid/) { get; } | 指定当用户选择布局形状（形状菜单）时，Microsoft Visio 是否根据内部页面网格布局形状。 |
+| [LineAdjustFrom](../../aspose.diagram/pagelayout/lineadjustfrom/) { get; } | 指定如果动态连接器在彼此之上布线时要分隔开的动态连接器。 |
+| [LineAdjustTo](../../aspose.diagram/pagelayout/lineadjustto/) { get; } | 指定如果动态连接器在彼此之上布线，则哪些动态连接器在彼此之上排列。 |
+| [LineJumpCode](../../aspose.diagram/pagelayout/linejumpcode/) { get; } | 为绘图页上所有没有本地跳线样式的连接器指定跳线样式。 |
+| [LineJumpFactorX](../../aspose.diagram/pagelayout/linejumpfactorx/) { get; } | 指定页面上动态连接器水平段上跳线的大小，作为 LineToLineX 元素值的百分比（指定绘图页上所有连接器之间的水平间隙）。这个元素的取值范围是0到10. |
+| [LineJumpFactorY](../../aspose.diagram/pagelayout/linejumpfactory/) { get; } | 指定页面上动态连接器垂直段上跳线的大小，以 LineToLineY 元素值（指定绘图页上所有连接器之间的垂直间隙）的百分比表示。该元素可以包含 0 到 10 之间的值。 |
+| [LineJumpStyle](../../aspose.diagram/pagelayout/linejumpstyle/) { get; } | 指定未应用局部跳转方向的绘图页上动态连接器的水平段上的线跳转方向。 |
+| [LineRouteExt](../../aspose.diagram/pagelayout/linerouteext/) { get; } | 指定页面上所有连接器的默认外观。 |
+| [LineToLineX](../../aspose.diagram/pagelayout/linetolinex/) { get; } | 指定绘图页上动态连接器之间的最小水平间隙。 |
+| [LineToLineY](../../aspose.diagram/pagelayout/linetoliney/) { get; } | 指定绘图页上动态连接器之间的最小垂直间隙。 |
+| [LineToNodeX](../../aspose.diagram/pagelayout/linetonodex/) { get; } | 指定绘图页上动态连接器和形状之间的最小垂直间隙。 |
+| [LineToNodeY](../../aspose.diagram/pagelayout/linetonodey/) { get; } | 确定水平块大小，当您使用 Microsoft Visio 在绘图页上布置形状时，每个形状必须适合绘图页的区域。 |
+| [PageLineJumpDirX](../../aspose.diagram/pagelayout/pagelinejumpdirx/) { get; } | 指定绘图页上未应用局部跳转方向的垂直动态连接器上的行跳转方向。 |
+| [PageLineJumpDirY](../../aspose.diagram/pagelayout/pagelinejumpdiry/) { get; } | 指定绘图页上动态连接器和形状之间的最小水平间隙。 |
+| [PageShapeSplit](../../aspose.diagram/pagelayout/pageshapesplit/) { get; } | 表示页面上的形状是否可以自动拆分。 |
+| [PlaceDepth](../../aspose.diagram/pagelayout/placedepth/) { get; } | 指定当用户将可放置形状拖到绘图页上另一个可放置形状附近时可放置形状是否移开。 |
+| [PlaceFlip](../../aspose.diagram/pagelayout/placeflip/) { get; } | 指定当使用 Microsoft Visio 中的 Lay Out Shapes 命令布置形状时，可放置形状如何在页面上翻转和/或旋转。允许使用以下十六进制值。 |
+| [PlaceStyle](../../aspose.diagram/pagelayout/placestyle/) { get; } | 为绘图页上所有没有本地路由样式的动态连接器指定路由样式和方向。 |
+| [PlowCode](../../aspose.diagram/pagelayout/plowcode/) { get; } | 确定要向其添加跳转的动态连接器。 |
+| [ResizePage](../../aspose.diagram/pagelayout/resizepage/) { get; } | 指定在用户选择布局形状（形状菜单）后是否放大页面以包围绘图。 |
+| [RouteStyle](../../aspose.diagram/pagelayout/routestyle/) { get; } | 对于自动布局的图形，指定在创建布局之前分析图形的方法并确定布局类型。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

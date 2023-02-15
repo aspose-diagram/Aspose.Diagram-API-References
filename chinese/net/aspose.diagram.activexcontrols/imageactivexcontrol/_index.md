@@ -1,14 +1,14 @@
 ---
 title: ImageActiveXControl
 second_title: Aspose.Diagram for .NET API 参考
-description: 表示图像控件
+description: 代表图像控件
 type: docs
 weight: 240
 url: /zh/net/aspose.diagram.activexcontrols/imageactivexcontrol/
 ---
 ## ImageActiveXControl class
 
-表示图像控件。
+代表图像控件。
 
 ```csharp
 public class ImageActiveXControl : ActiveXControl
@@ -18,31 +18,31 @@ public class ImageActiveXControl : ActiveXControl
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | 获取和设置背景的ole颜色。 |
-| [BorderOleColor](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderolecolor) { get; set; } | 获取和设置背景的ole颜色。 |
-| [BorderStyle](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderstyle) { get; set; } | 获取和设置控件使用的边框类型。 |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | 获取和设置控件的二进制数据。 |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | 获取和设置前景的ole颜色。 |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | 以点为单位获取和设置控件的高度。 |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | 获取并设置控件接收焦点时输入法编辑器的默认运行时模式。 |
-| override [IsAutoSize](../../aspose.diagram.activexcontrols/imageactivexcontrol/isautosize) { get; set; } | 指示控件是否会自动调整大小以显示其全部内容。 |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | 指示控件是否可以接收焦点并响应用户生成的事件。 |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | 指示控件中的数据是否被锁定以进行编辑。 |
-| [IsTiled](../../aspose.diagram.activexcontrols/imageactivexcontrol/istiled) { get; set; } | 表示图片是否平铺在背景上。 |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | 表示控件是否透明。 |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | 获取并设置自定义图标以显示为控件的鼠标指针。 |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | 获取并设置显示为控件鼠标指针的图标类型。 |
-| [Picture](../../aspose.diagram.activexcontrols/imageactivexcontrol/picture) { get; set; } | 获取和设置图片的数据。 |
-| [PictureAlignment](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment) { get; set; } | 获取并设置Form或Image中图片的对齐方式。 |
-| [PictureSizeMode](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode) { get; set; } | 获取和设置图片的显示方式。 |
-| [SpecialEffect](../../aspose.diagram.activexcontrols/imageactivexcontrol/specialeffect) { get; set; } | 获取和设置控件的特殊效果。 |
-| override [Type](../../aspose.diagram.activexcontrols/imageactivexcontrol/type) { get; } | 获取 ActiveX 控件的类型。 |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | 以点为单位获取和设置控件的宽度。 |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | 获取和设置背景的 ole 颜色。 |
+| [BorderOleColor](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderolecolor/) { get; set; } | 获取和设置背景的 ole 颜色。 |
+| [BorderStyle](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderstyle/) { get; set; } | 获取和设置控件使用的边框类型。 |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | 获取和设置控件的二进制数据。 |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | 获取和设置前景的 ole 颜色。 |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | 以点为单位获取和设置控件的高度。 |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | 获取和设置控件接收焦点时输入法编辑器的默认运行时模式。 |
+| override [IsAutoSize](../../aspose.diagram.activexcontrols/imageactivexcontrol/isautosize/) { get; set; } | 指示控件是否会自动调整大小以显示其全部内容。 |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | 指示控件是否可以接收焦点并响应用户生成的事件。 |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | 指示控件中的数据是否被锁定以供编辑。 |
+| [IsTiled](../../aspose.diagram.activexcontrols/imageactivexcontrol/istiled/) { get; set; } | 表示图片是否平铺在背景上。 |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | 表示控件是否透明。 |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | 获取并设置自定义图标以显示为控件的鼠标指针。 |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | 获取和设置显示为控件鼠标指针的图标类型。 |
+| [Picture](../../aspose.diagram.activexcontrols/imageactivexcontrol/picture/) { get; set; } | 获取和设置图片的数据。 |
+| [PictureAlignment](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment/) { get; set; } | 获取和设置图片在Form或Image内部的对齐方式。 |
+| [PictureSizeMode](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode/) { get; set; } | 获取和设置图片的显示方式。 |
+| [SpecialEffect](../../aspose.diagram.activexcontrols/imageactivexcontrol/specialeffect/) { get; set; } | 获取和设置控件的特效。 |
+| override [Type](../../aspose.diagram.activexcontrols/imageactivexcontrol/type/) { get; } | 获取 ActiveX 控件的类型。 |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | 以点为单位获取和设置控件的宽度。 |
 
 ### 也可以看看
 
-* class [ActiveXControl](../activexcontrol)
-* 命名空间 [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* 命名空间 [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

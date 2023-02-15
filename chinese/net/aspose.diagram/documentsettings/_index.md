@@ -3,7 +3,7 @@ title: DocumentSettings
 second_title: Aspose.Diagram for .NET API 参考
 description: 包含指定文档设置的元素
 type: docs
-weight: 1230
+weight: 1250
 url: /zh/net/aspose.diagram/documentsettings/
 ---
 ## DocumentSettings class
@@ -18,27 +18,27 @@ public class DocumentSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AttachedToolbars](../../aspose.diagram/documentsettings/attachedtoolbars) { get; set; } | MIME（多用途 Internet 邮件扩展）编码的 Microsoft Visio 用户界面 (VSU) 文件，表示自定义工具栏。 |
-| [CustomMenusFile](../../aspose.diagram/documentsettings/custommenusfile) { get; set; } | 包含定义文档的自定义菜单和加速器的 Microsoft Visio 用户界面 (.vsu) 文件的名称。 |
-| [CustomToolbarsFile](../../aspose.diagram/documentsettings/customtoolbarsfile) { get; set; } | 包含定义文档的自定义工具栏和状态栏的 Microsoft Visio 用户界面 (.vsu) 文件的名称。 |
-| [DefaultFillStyle](../../aspose.diagram/documentsettings/defaultfillstyle) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其填充样式。 |
-| [DefaultGuideStyle](../../aspose.diagram/documentsettings/defaultguidestyle) { get; set; } | 指定样式表元素的 ID。下次用户创建指南时，指南会从指定的 StyleSheet 元素继承其指南样式。 |
-| [DefaultLineStyle](../../aspose.diagram/documentsettings/defaultlinestyle) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其线条样式。 |
-| [DefaultTextStyle](../../aspose.diagram/documentsettings/defaulttextstyle) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其文本样式。 |
-| [DynamicGridEnabled](../../aspose.diagram/documentsettings/dynamicgridenabled) { get; set; } | 指定是否为文档或窗口启用动态网格功能。 |
-| [GlueSettings](../../aspose.diagram/documentsettings/gluesettings) { get; set; } | 指定在文档中启用粘合时形状粘合到的对象。 |
-| [ProtectBkgnds](../../aspose.diagram/documentsettings/protectbkgnds) { get; set; } | 指定是否阻止用户删除或编辑背景页面。 |
-| [ProtectMasters](../../aspose.diagram/documentsettings/protectmasters) { get; set; } | 指定是否禁止用户创建、编辑或删除母版。无论此设置如何，用户仍然可以创建主实例。 |
-| [ProtectShapes](../../aspose.diagram/documentsettings/protectshapes) { get; set; } | 指定是否阻止用户选择其 LockSelect 元素设置为 1 的形状。 |
-| [ProtectStyles](../../aspose.diagram/documentsettings/protectstyles) { get; set; } | 指定是否禁止用户创建或编辑样式。但是，无论此设置如何，用户仍然可以应用样式。 |
-| [SnapAngles](../../aspose.diagram/documentsettings/snapangles) { get; set; } | 包含 SnapAngle 元素的集合。 |
-| [SnapExtensions](../../aspose.diagram/documentsettings/snapextensions) { get; set; } | 指定是否为活动窗口启用或禁用特定的捕捉扩展设置。 |
-| [SnapSettings](../../aspose.diagram/documentsettings/snapsettings) { get; set; } | 指定当捕捉在窗口中处于活动状态时形状捕捉到的对象。 |
-| [TopPage](../../aspose.diagram/documentsettings/toppage) { get; set; } | 指定 Microsoft Visio 打开文档时应显示的页面 ID。 |
+| [AttachedToolbars](../../aspose.diagram/documentsettings/attachedtoolbars/) { get; set; } | 代表自定义工具栏的 MIME（多用途 Internet 邮件扩展）编码的 Microsoft Visio 用户界面 (VSU) 文件。 |
+| [CustomMenusFile](../../aspose.diagram/documentsettings/custommenusfile/) { get; set; } | 包含定义文档的自定义菜单和快捷键的 Microsoft Visio 用户界面 (.vsu) 文件的名称。 |
+| [CustomToolbarsFile](../../aspose.diagram/documentsettings/customtoolbarsfile/) { get; set; } | 包含定义文档的自定义工具栏和状态栏的 Microsoft Visio 用户界面 (.vsu) 文件的名称。 |
+| [DefaultFillStyle](../../aspose.diagram/documentsettings/defaultfillstyle/) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其填充样式。 |
+| [DefaultGuideStyle](../../aspose.diagram/documentsettings/defaultguidestyle/) { get; set; } | 指定样式表元素的 ID。下次用户创建指南时，指南会从指定的 StyleSheet 元素继承其指南样式。 |
+| [DefaultLineStyle](../../aspose.diagram/documentsettings/defaultlinestyle/) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其线条样式。 |
+| [DefaultTextStyle](../../aspose.diagram/documentsettings/defaulttextstyle/) { get; set; } | 指定样式表元素的 ID。下次用户使用绘图工具创建形状时，该形状会从指定的 StyleSheet 元素继承其文本样式。 |
+| [DynamicGridEnabled](../../aspose.diagram/documentsettings/dynamicgridenabled/) { get; set; } | 指定是否为文档或窗口启用动态网格功能。 |
+| [GlueSettings](../../aspose.diagram/documentsettings/gluesettings/) { get; set; } | 指定在文档中启用粘附时形成粘附的对象。 |
+| [ProtectBkgnds](../../aspose.diagram/documentsettings/protectbkgnds/) { get; set; } | 指定是否阻止用户删除或编辑后台页面。 |
+| [ProtectMasters](../../aspose.diagram/documentsettings/protectmasters/) { get; set; } | 指定是否阻止用户创建、编辑或删除母版。无论此设置如何，用户仍然可以创建 masters. 实例 |
+| [ProtectShapes](../../aspose.diagram/documentsettings/protectshapes/) { get; set; } | 指定是否阻止用户选择其 LockSelect 元素设置为 1 的形状。 |
+| [ProtectStyles](../../aspose.diagram/documentsettings/protectstyles/) { get; set; } | 指定是否阻止用户创建或编辑样式。但是，无论此设置如何，用户仍然可以应用样式。 |
+| [SnapAngles](../../aspose.diagram/documentsettings/snapangles/) { get; set; } | 包含 SnapAngle 元素的集合。 |
+| [SnapExtensions](../../aspose.diagram/documentsettings/snapextensions/) { get; set; } | 指定是为活动窗口启用还是禁用特定的捕捉扩展设置。 |
+| [SnapSettings](../../aspose.diagram/documentsettings/snapsettings/) { get; set; } | 指定捕捉在窗口中处于活动状态时形状捕捉到的对象。 |
+| [TopPage](../../aspose.diagram/documentsettings/toppage/) { get; set; } | 指定在 Microsoft Visio 打开文档时应显示的页面 ID。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

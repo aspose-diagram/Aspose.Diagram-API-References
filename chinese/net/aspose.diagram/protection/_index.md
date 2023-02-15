@@ -1,14 +1,14 @@
 ---
 title: Protection
 second_title: Aspose.Diagram for .NET API 参考
-description: 锁定有助于防止意外更改形状但不会阻止 Microsoft Visio 在其他情况下重置值它也不能防止在 ShapeSheet 窗口中所做的更改
+description: 锁定有助于防止意外更改形状但不会阻止 Microsoft Visio 在其他情况下重置值它还不能防止在 ShapeSheet 窗口中所做的更改
 type: docs
-weight: 2870
+weight: 2880
 url: /zh/net/aspose.diagram/protection/
 ---
 ## Protection class
 
-锁定有助于防止意外更改形状，但不会阻止 Microsoft Visio 在其他情况下重置值。它也不能防止在 ShapeSheet 窗口中所做的更改。
+锁定有助于防止意外更改形状，但不会阻止 Microsoft Visio 在其他情况下重置值。它还不能防止在 ShapeSheet 窗口中所做的更改。
 
 ```csharp
 public class Protection
@@ -18,31 +18,31 @@ public class Protection
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Del](../../aspose.diagram/protection/del) { get; set; } | 指示元素是否已在本地删除的标志。值 1 表示该元素已在本地删除。 |
-| [LockAspect](../../aspose.diagram/protection/lockaspect) { get; } | 指定形状的纵横比是否被锁定。如果锁定，形状只能按比例调整大小；它不能在单个维度上调整大小。 |
-| [LockBegin](../../aspose.diagram/protection/lockbegin) { get; } | 指定一维形状的起点是否锁定到特定位置。 |
-| [LockCalcWH](../../aspose.diagram/protection/lockcalcwh) { get; } | 指定形状的选择矩形是否被锁定，以便在编辑顶点或在 Geom 元素中更改元素类型时无法重新计算。 |
-| [LockCrop](../../aspose.diagram/protection/lockcrop) { get; } | 指定是否锁定外来对象以防止使用 Microsoft Visio 中的裁剪工具进行裁剪。 |
-| [LockCustProp](../../aspose.diagram/protection/lockcustprop) { get; } | 确定用户是否可以使用“定义自定义属性”对话框在用户界面 (UI) 中添加、删除或修改自定义属性。 |
-| [LockDelete](../../aspose.diagram/protection/lockdelete) { get; } | 指定形状是否被锁定以防被删除。 |
-| [LockEnd](../../aspose.diagram/protection/lockend) { get; } | 指定一维形状的端点是否锁定到特定位置。 |
-| [LockFormat](../../aspose.diagram/protection/lockformat) { get; } | 指定形状的格式是否已锁定，因此无法更改。具体来说，此元素可防止更改文本、线条和填充格式，或更改形状继承的样式元素。 |
-| [LockFromGroupFormat](../../aspose.diagram/protection/lockfromgroupformat) { get; } | 允许子形状阻止在 Visio 用户界面中应用于父组形状的格式更改，否则会级联到单个组形状。 |
-| [LockGroup](../../aspose.diagram/protection/lockgroup) { get; } | 指定组是否被锁定以使其不能被取消分组。 |
-| [LockHeight](../../aspose.diagram/protection/lockheight) { get; } | 指定形状的高度是否被锁定。如果锁定，则在调整形状大小时其高度保持不变。 |
-| [LockMoveX](../../aspose.diagram/protection/lockmovex) { get; } | 指定形状的水平位置是否被锁定，使其不能水平移动。 |
-| [LockMoveY](../../aspose.diagram/protection/lockmovey) { get; } | 指定形状的垂直位置是否被锁定，使其不能垂直移动。 |
-| [LockRotate](../../aspose.diagram/protection/lockrotate) { get; } | 指定是否锁定形状以防止在 Microsoft Visio 中使用旋转工具或向左旋转或向右旋转命令进行旋转。 |
-| [LockSelect](../../aspose.diagram/protection/lockselect) { get; } | 指定形状的选择矩形是否被锁定，以便在编辑顶点或在 Geom 元素中更改元素类型时无法重新计算。 |
-| [LockTextEdit](../../aspose.diagram/protection/locktextedit) { get; } | 指定形状的文本是否被锁定以使其无法编辑。但是，仍然可以通过使用“文本”对话框的“字体”选项卡上的“样式”选项应用样式来格式化文本。 |
-| [LockThemeColors](../../aspose.diagram/protection/lockthemecolors) { get; } | 防止用户将主题颜色应用于形状。 |
-| [LockThemeEffects](../../aspose.diagram/protection/lockthemeeffects) { get; } | 防止用户将主题效果应用于形状。 |
-| [LockVtxEdit](../../aspose.diagram/protection/lockvtxedit) { get; } | 指定形状的顶点是否被锁定，以便不能使用工具栏上的任何工具对其进行编辑。 |
-| [LockWidth](../../aspose.diagram/protection/lockwidth) { get; } | 指定形状的宽度是否被锁定，以便在调整形状大小时保持不变。 |
+| [Del](../../aspose.diagram/protection/del/) { get; set; } | 表示该元素是否已在本地删除的标志。值为 1 表示该元素已在本地删除。 |
+| [LockAspect](../../aspose.diagram/protection/lockaspect/) { get; } | 指定形状的纵横比是否锁定。如果锁定，形状只能按比例调整大小；它不能在一个维度上调整大小。 |
+| [LockBegin](../../aspose.diagram/protection/lockbegin/) { get; } | 指定一维形状的起点是否锁定到特定位置。 |
+| [LockCalcWH](../../aspose.diagram/protection/lockcalcwh/) { get; } | 指定是否锁定形状的选择矩形，以便在编辑顶点或更改 Geom 元素中的元素类型时无法重新计算它。 |
+| [LockCrop](../../aspose.diagram/protection/lockcrop/) { get; } | 指定是否锁定外部对象以防止使用 Microsoft Visio 中的裁剪工具进行裁剪。 |
+| [LockCustProp](../../aspose.diagram/protection/lockcustprop/) { get; } | 确定用户是否可以使用“定义自定义属性”对话框在用户界面 (UI) 中添加、删除或修改自定义属性。 |
+| [LockDelete](../../aspose.diagram/protection/lockdelete/) { get; } | 指定形状是否被锁定以防止被删除。 |
+| [LockEnd](../../aspose.diagram/protection/lockend/) { get; } | 指定一维形状的终点是否锁定到特定位置。 |
+| [LockFormat](../../aspose.diagram/protection/lockformat/) { get; } | 指定形状的格式是否已锁定，因此无法更改。具体来说，此元素防止更改文本、线条和填充格式，或更改形状从哪个 Style 元素继承。 |
+| [LockFromGroupFormat](../../aspose.diagram/protection/lockfromgroupformat/) { get; } | 允许子形状阻止格式更改应用于 Visio 用户界面中的父组形状，否则会级联到单个组形状。 |
+| [LockGroup](../../aspose.diagram/protection/lockgroup/) { get; } | 指定组是否被锁定以使其无法取消分组。 |
+| [LockHeight](../../aspose.diagram/protection/lockheight/) { get; } | 指定形状的高度是否锁定。如果锁定，则在调整形状大小时其高度保持不变。 |
+| [LockMoveX](../../aspose.diagram/protection/lockmovex/) { get; } | 指定是否锁定形状的水平位置，使其不能水平移动。 |
+| [LockMoveY](../../aspose.diagram/protection/lockmovey/) { get; } | 指定是否锁定形状的垂直位置，使其不能垂直移动。 |
+| [LockRotate](../../aspose.diagram/protection/lockrotate/) { get; } | 指定形状是否被锁定以防止使用 Microsoft Visio 中的旋转工具或向左旋转或向右旋转命令旋转。 |
+| [LockSelect](../../aspose.diagram/protection/lockselect/) { get; } | 指定是否锁定形状的选择矩形，以便在编辑顶点或更改 Geom 元素中的元素类型时无法重新计算它。 |
+| [LockTextEdit](../../aspose.diagram/protection/locktextedit/) { get; } | 指定形状的文本是否被锁定以使其无法编辑。但是，文本仍可通过应用样式来设置格式，方法是使用“文本”对话框的“字体”选项卡上的“样式”选项。 |
+| [LockThemeColors](../../aspose.diagram/protection/lockthemecolors/) { get; } | 防止用户将主题颜色应用于形状。 |
+| [LockThemeEffects](../../aspose.diagram/protection/lockthemeeffects/) { get; } | 防止用户将主题效果应用于形状。 |
+| [LockVtxEdit](../../aspose.diagram/protection/lockvtxedit/) { get; } | 指定是否锁定形状的顶点，以便它们不能使用工具栏上的任何工具进行编辑。 |
+| [LockWidth](../../aspose.diagram/protection/lockwidth/) { get; } | 指定是否锁定形状的宽度，以便在调整形状大小时保持不变。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

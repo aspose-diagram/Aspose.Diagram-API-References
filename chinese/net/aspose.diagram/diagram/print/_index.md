@@ -20,9 +20,9 @@ public void Print(PrintSaveOptions options)
 
 ### 也可以看看
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -37,15 +37,15 @@ public void Print()
 
 ### 也可以看看
 
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Print(string) {#print_6}
 
-使用标准（无用户界面）打印控制器将整个文档打印到指定的打印机。
+将整个文档打印到指定打印机，使用标准（无用户界面）打印控制器。
 
 ```csharp
 public void Print(string printerName)
@@ -53,7 +53,7 @@ public void Print(string printerName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| printerName | String | 打印机的名称。可以为空 |
+| printerName | String | 打印机名称，可为空 |
 
 ### 评论
 
@@ -61,15 +61,15 @@ public void Print(string printerName)
 
 ### 也可以看看
 
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Print(string, PrintSaveOptions) {#print_7}
 
-使用标准（无用户界面）打印控制器将整个文档打印到指定的打印机。
+将整个文档打印到指定打印机，使用标准（无用户界面）打印控制器。
 
 ```csharp
 public void Print(string printerName, PrintSaveOptions options)
@@ -77,18 +77,18 @@ public void Print(string printerName, PrintSaveOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| printerName | String | 打印机名称。可以为空 |
+| printerName | String | 打印机名称，可为空 |
 | options | PrintSaveOptions | 打印选项。 |
 
 ### 评论
 
-如果打印机名称为 Null 或为空，将使用默认打印机。
+如果 printerName 为 Null 或为空，将使用默认打印机。
 
 ### 也可以看看
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -112,9 +112,9 @@ System.Drawing.Printing.PrinterSettings 对象允许您指定要打印的打印�
 
 ### 也可以看看
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -137,8 +137,8 @@ System.Drawing.Printing.PrinterSettings 对象允许您指定要打印的打印�
 
 ### 也可以看看
 
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -159,9 +159,9 @@ public void Print(PrinterSettings printerSettings, string documentName, PrintSav
 
 ### 也可以看看
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -181,8 +181,8 @@ public void Print(PrinterSettings printerSettings, string documentName)
 
 ### 也可以看看
 
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -197,15 +197,15 @@ public void Print(string printerName, string documentName, PrintSaveOptions opti
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| printerName | String | 打印机的名称。可以为 Null |
+| printerName | String | 打印机名称，可为空 |
 | documentName | String | 打印文档时要显示的文档名称（例如，在打印状态对话框或打印机队列中）。 |
 | options | PrintSaveOptions | 打印选项。 |
 
 ### 也可以看看
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -220,13 +220,13 @@ public void Print(string printerName, string documentName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| printerName | String | 打印机的名称。可以为 Null |
+| printerName | String | 打印机名称，可为空 |
 | documentName | String | 打印文档时要显示的文档名称（例如，在打印状态对话框或打印机队列中）。 |
 
 ### 也可以看看
 
-* class [Diagram](../../diagram)
-* 命名空间 [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* 命名空间 [Aspose.Diagram](../../diagram/)
 * 部件 [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

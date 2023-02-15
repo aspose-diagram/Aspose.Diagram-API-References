@@ -1,14 +1,14 @@
 ---
 title: DataRecordSet
 second_title: Aspose.Diagram for .NET API 参考
-description: 存储格式化刷新和公开从 Microsoft Visio 中的数据库查询的数据
+description: 在 Microsoft Visio 中存储格式化刷新和公开从数据库查询的数据
 type: docs
-weight: 1120
+weight: 1140
 url: /zh/net/aspose.diagram/datarecordset/
 ---
 ## DataRecordSet class
 
-存储、格式化、刷新和公开从 Microsoft Visio 中的数据库查询的数据。
+在 Microsoft Visio 中存储、格式化、刷新和公开从数据库查询的数据。
 
 ```csharp
 public class DataRecordSet
@@ -18,42 +18,42 @@ public class DataRecordSet
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DataRecordSet](datarecordset)() | 构造函数。 |
+| [DataRecordSet](datarecordset/)() | 构造函数. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ADOData](../../aspose.diagram/datarecordset/adodata) { get; set; } | 包含符合 ADO 记录集的 ADO 经典 XML 架构并描述数据记录集中的数据的 XML。 |
-| [AutoLinkComparison](../../aspose.diagram/datarecordset/autolinkcomparison) { get; } | 定义一个规则，将父 DataRecordset 元素中的列与用户界面中执行的最后一次成功的自动链接操作中的形状数据项进行比较。 |
-| [Checksum](../../aspose.diagram/datarecordset/checksum) { get; set; } | 校验和值，由 Visio 生成，基于数据记录集属性。将此属性设置为0； Visio 在运行时重新计算此值。 |
-| [Command](../../aspose.diagram/datarecordset/command) { get; set; } | 用于从数据源查询数据的命令字符串。 |
-| [ConnectionID](../../aspose.diagram/datarecordset/connectionid) { get; set; } | 关联 DataConnection 对象的连接 ID。 XML 数据源不存在。 |
-| [DataColumns](../../aspose.diagram/datarecordset/datacolumns) { get; } | 包含数据记录集中的所有 DataColumn 元素。 |
-| [ID](../../aspose.diagram/datarecordset/id) { get; set; } | 数据记录集 ID，在文档中是唯一的。 |
-| [Name](../../aspose.diagram/datarecordset/name) { get; set; } | 数据记录集的显示（或“友好”）名称。 |
-| [NextRowID](../../aspose.diagram/datarecordset/nextrowid) { get; set; } | 下一个可用的 Visio 行 ID。 |
-| [Options](../../aspose.diagram/datarecordset/options) { get; set; } | 应用于数据记录集的选项。可能的值可以是下表中显示的一个或多个值的任意组合。 |
-| [PrimaryKeys](../../aspose.diagram/datarecordset/primarykeys) { get; } | 标识数据记录集中的一个或多个主键列。 |
-| [RefreshConflicts](../../aspose.diagram/datarecordset/refreshconflicts) { get; } | 表示数据记录集中的一行链接到刷新数据记录集后发生冲突的形状。 RowID - 表示数据记录集中的一行链接到刷新数据记录集后发生冲突的形状。 ShapeID - 冲突中涉及的形状的形状 ID。 PageID - 冲突中涉及的形状的页面 ID。 |
-| [RefreshInterval](../../aspose.diagram/datarecordset/refreshinterval) { get; set; } | Visio 自动刷新数据记录集的频率（以分钟为单位）。此值必须为 1 或更大。 |
-| [RefreshNoReconciliationUI](../../aspose.diagram/datarecordset/refreshnoreconciliationui) { get; set; } | 是否应禁用数据协调用户界面。 True (1) 禁用用户界面 (UI)。 False (0) 启用 UI。 |
-| [RefreshOverwriteAll](../../aspose.diagram/datarecordset/refreshoverwriteall) { get; set; } | 刷新数据记录集时是否覆盖用户对与数据链接的形状中的形状数据项所做的更改。 |
-| [ReplaceLinks](../../aspose.diagram/datarecordset/replacelinks) { get; set; } | 定义复制或剪切形状时如何处理形状数据链接。 1 替换目标形状中的现有链接。 0 以保持目标形状中的现有链接。如果此属性不存在，Visio 会询问用户是替换复制链接还是剪切链接。 |
-| [RowMaps](../../aspose.diagram/datarecordset/rowmaps) { get; } | 将数据记录集行映射到形状。 RowID - 行的行 ID，在数据记录集中是唯一的。 ShapeID - 链接到由 RowID 标识的数据记录集行中的数据的形状的形状 ID。 PageID - 链接到由 RowID 标识的数据记录集行中的数据的形状的页面 ID。 |
-| [RowOrder](../../aspose.diagram/datarecordset/roworder) { get; set; } | 是否使用数据记录集中行的顺序作为主键。如果行 ID 由行顺序确定，则为真 (1)。如果行 ID 由数据记录集的主键列中的值确定，则为假 (0)。 |
-| [TimeRefreshed](../../aspose.diagram/datarecordset/timerefreshed) { get; set; } | 上次刷新数据记录集的日期和时间。 |
+| [ADOData](../../aspose.diagram/datarecordset/adodata/) { get; set; } | 包含符合 ADO 记录集的 ADO 经典 XML 架构并描述数据记录集中数据的 XML。 |
+| [AutoLinkComparison](../../aspose.diagram/datarecordset/autolinkcomparison/) { get; } | 定义一个规则，该规则将父 DataRecordset 元素中的列与用户界面中上次成功执行的自动链接操作的形状数据项进行比较。 |
+| [Checksum](../../aspose.diagram/datarecordset/checksum/) { get; set; } | 由 Visio 生成并基于数据记录集属性的校验和值。将此属性设置为 0； Visio 在运行时重新计算此值。 |
+| [Command](../../aspose.diagram/datarecordset/command/) { get; set; } | 用于从数据源查询数据的命令字符串。 |
+| [ConnectionID](../../aspose.diagram/datarecordset/connectionid/) { get; set; } | 关联的 DataConnection 对象的连接 ID。 XML 数据源不存在。 |
+| [DataColumns](../../aspose.diagram/datarecordset/datacolumns/) { get; } | 包含数据记录集中的所有 DataColumn 元素。 |
+| [ID](../../aspose.diagram/datarecordset/id/) { get; set; } | 数据记录集 ID，在文档中是唯一的。 |
+| [Name](../../aspose.diagram/datarecordset/name/) { get; set; } | 数据记录集的显示（或“友好”）名称。 |
+| [NextRowID](../../aspose.diagram/datarecordset/nextrowid/) { get; set; } | 下一个可用的 Visio 行 ID。 |
+| [Options](../../aspose.diagram/datarecordset/options/) { get; set; } | 应用于数据记录集的选项。可能的值可以是下表中显示的一个或多个值的任意组合。 |
+| [PrimaryKeys](../../aspose.diagram/datarecordset/primarykeys/) { get; } | 标识数据记录集中的一个或多个主键列。 |
+| [RefreshConflicts](../../aspose.diagram/datarecordset/refreshconflicts/) { get; } | 表示数据记录集中链接到刷新数据记录集后冲突形状的行。 RowID - 表示数据记录集中链接到刷新数据记录集后冲突形状的行。 ShapeID - 冲突涉及的形状的形状 ID. PageID - 冲突涉及的形状的页面 ID. |
+| [RefreshInterval](../../aspose.diagram/datarecordset/refreshinterval/) { get; set; } | Visio 自动刷新数据记录集的频率（以分钟为单位）。此值必须为 1 或更大。 |
+| [RefreshNoReconciliationUI](../../aspose.diagram/datarecordset/refreshnoreconciliationui/) { get; set; } | 是否应禁用数据协调用户界面。 True (1) 禁用用户界面 (UI)。假 (0) 启用 UI. |
+| [RefreshOverwriteAll](../../aspose.diagram/datarecordset/refreshoverwriteall/) { get; set; } | 数据记录集刷新时是否覆盖用户对链接到数据的形状中的形状数据项的更改。 |
+| [ReplaceLinks](../../aspose.diagram/datarecordset/replacelinks/) { get; set; } | 定义复制或剪切形状时如何处理形状数据链接。 1 替换目标形状中的现有链接。 0 以保持目标形状中的现有链接。如果此属性不存在，Visio 会询问用户是否替换复制或剪切的链接。 |
+| [RowMaps](../../aspose.diagram/datarecordset/rowmaps/) { get; } | 将数据记录集行映射到形状。 RowID - 行的行 ID，在数据记录集中是唯一的。 ShapeID - 链接到由 RowID 标识的数据记录集行中数据的形状的形状 ID。 PageID -链接到由 RowID. 标识的数据记录集行中的数据的形状的页面 ID |
+| [RowOrder](../../aspose.diagram/datarecordset/roworder/) { get; set; } | 是否使用数据记录集中行的顺序作为主键。如果行 ID 由行顺序确定，则为真 (1)。如果行 ID 由数据记录集的主键列中的值确定，则为假 (0)。 |
+| [TimeRefreshed](../../aspose.diagram/datarecordset/timerefreshed/) { get; set; } | 上次刷新数据记录集的日期和时间。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Refresh](../../aspose.diagram/datarecordset/refresh#refresh)() | 执行与连接的（非基于 XML 的）DataRecordset 关联的查询字符串，并使用查询返回的数据源中的新数据更新链接的形状。 |
-| [Refresh](../../aspose.diagram/datarecordset/refresh#refresh_1)(DataConnectionType) | 执行与连接的（非基于 XML 的）DataRecordset 关联的查询字符串，并使用查询返回的数据源中的新数据更新链接的形状。 |
+| [Refresh](../../aspose.diagram/datarecordset/refresh/#refresh)() | 执行与连接的（非基于 XML 的）DataRecordset 关联的查询字符串，并使用查询返回的数据源中的新数据更新链接的形状。 |
+| [Refresh](../../aspose.diagram/datarecordset/refresh/#refresh_1)(DataConnectionType) | 执行与连接的（非基于 XML 的）DataRecordset 关联的查询字符串，并使用查询返回的数据源中的新数据更新链接的形状。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
