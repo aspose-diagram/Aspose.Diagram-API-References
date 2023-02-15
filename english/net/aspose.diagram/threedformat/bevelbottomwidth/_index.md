@@ -3,7 +3,6 @@ title: BevelBottomWidth
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the width of the bottom bevel on a 3D shape.
 type: docs
-weight: 30
 url: /net/aspose.diagram/threedformat/bevelbottomwidth/
 ---
 ## ThreeDFormat.BevelBottomWidth property

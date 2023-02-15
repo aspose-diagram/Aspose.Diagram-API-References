@@ -3,7 +3,6 @@ title: DynFeedback
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of visual feedback provided to users when they drag a connector
 type: docs
-weight: 60
 url: /net/aspose.diagram/misc/dynfeedback/
 ---
 ## Misc.DynFeedback property

@@ -3,7 +3,6 @@ title: Ufev
 second_title: Aspose.Diagram for .NET API Reference
 description: Specified attributes of an element.
 type: docs
-weight: 20
 url: /net/aspose.diagram/value/ufev/
 ---
 ## Value.Ufev property

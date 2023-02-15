@@ -3,7 +3,6 @@ title: ShapeCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection of Shapes.
 type: docs
-weight: 3580
 url: /net/aspose.diagram/shapecollection/
 ---
 ## ShapeCollection class
@@ -36,6 +35,7 @@ public class ShapeCollection : Collection
 | [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/shapecollection/remove)(Shape) | Remove the shape from the collection. |
 | [RemoveDependsOn](../../aspose.diagram/shapecollection/removedependson)(Shape) | Remove the shapes including DEPENDSON shapes from the collection. |
+| [UnGroup](../../aspose.diagram/shapecollection/ungroup)(Shape) | UnGroup the shape. |
 
 ### See Also
 

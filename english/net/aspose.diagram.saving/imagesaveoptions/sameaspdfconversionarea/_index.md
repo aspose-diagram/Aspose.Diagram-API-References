@@ -3,7 +3,6 @@ title: SameAsPdfConversionArea
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether saving area same as pdf .
 type: docs
-weight: 140
 url: /net/aspose.diagram.saving/imagesaveoptions/sameaspdfconversionarea/
 ---
 ## ImageSaveOptions.SameAsPdfConversionArea property

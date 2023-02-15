@@ -3,7 +3,6 @@ title: ListRows
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the maximum number of rows to display in the list.
 type: docs
-weight: 120
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/listrows/
 ---
 ## ComboBoxActiveXControl.ListRows property

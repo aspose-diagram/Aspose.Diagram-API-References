@@ -3,7 +3,6 @@ title: Date
 second_title: Aspose.Diagram for .NET API Reference
 description: specifies when a comment was created
 type: docs
-weight: 20
 url: /net/aspose.diagram/annotation/date/
 ---
 ## Annotation.Date property

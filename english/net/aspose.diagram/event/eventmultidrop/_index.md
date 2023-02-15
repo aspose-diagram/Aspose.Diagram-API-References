@@ -3,7 +3,6 @@ title: EventMultiDrop
 second_title: Aspose.Diagram for .NET API Reference
 description: EventMultiDrop.
 type: docs
-weight: 40
 url: /net/aspose.diagram/event/eventmultidrop/
 ---
 ## Event.EventMultiDrop property

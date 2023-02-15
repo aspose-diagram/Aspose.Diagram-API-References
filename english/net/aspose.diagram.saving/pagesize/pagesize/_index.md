@@ -3,7 +3,6 @@ title: PageSize
 second_title: Aspose.Diagram for .NET API Reference
 description: Initializes a new instance of this class that can be used to set page size for the generated images.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/pagesize/pagesize/
 ---
 ## PageSize(PaperSizeFormat) {#constructor}

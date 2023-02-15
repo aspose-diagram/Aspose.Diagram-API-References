@@ -3,7 +3,6 @@ title: AlignmentValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the tab alignment.
 type: docs
-weight: 380
 url: /net/aspose.diagram/alignmentvalue/
 ---
 ## AlignmentValue enumeration

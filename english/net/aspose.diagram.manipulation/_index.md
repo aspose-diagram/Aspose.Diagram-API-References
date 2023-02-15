@@ -3,7 +3,6 @@ title: Aspose.Diagram.Manipulation
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains classes for manipulate diagrams
 type: docs
-weight: 50
 url: /net/aspose.diagram.manipulation/
 ---
 Contains classes for manipulate diagrams

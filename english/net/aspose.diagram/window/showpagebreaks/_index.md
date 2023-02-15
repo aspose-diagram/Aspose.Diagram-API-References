@@ -3,7 +3,6 @@ title: ShowPageBreaks
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether page breaks are shown in a window.
 type: docs
-weight: 160
 url: /net/aspose.diagram/window/showpagebreaks/
 ---
 ## Window.ShowPageBreaks property

@@ -3,7 +3,6 @@ title: ReadOnly
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether the action on a smart tag or shortcut menu is readonly.
 type: docs
-weight: 150
 url: /net/aspose.diagram/act/readonly/
 ---
 ## Act.ReadOnly property

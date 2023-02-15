@@ -3,7 +3,6 @@ title: AsposeDiagramPrintDocument
 second_title: Aspose.Diagram for .NET API Reference
 description: Its own version of the .NET PrintDocument class which can be passed to a PrintPreviewDialog form to print and preview a diagram.
 type: docs
-weight: 2840
 url: /net/aspose.diagram.printing/asposediagramprintdocument/
 ---
 ## AsposeDiagramPrintDocument class

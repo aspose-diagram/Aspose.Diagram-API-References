@@ -3,7 +3,6 @@ title: TextBkgnd
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the text background color for a shape.
 type: docs
-weight: 60
 url: /net/aspose.diagram/textblock/textbkgnd/
 ---
 ## TextBlock.TextBkgnd property

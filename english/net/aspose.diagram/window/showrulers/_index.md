@@ -3,7 +3,6 @@ title: ShowRulers
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether rulers are shown in the drawing window.
 type: docs
-weight: 170
 url: /net/aspose.diagram/window/showrulers/
 ---
 ## Window.ShowRulers property

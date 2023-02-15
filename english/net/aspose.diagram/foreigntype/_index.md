@@ -3,7 +3,6 @@ title: ForeignType
 second_title: Aspose.Diagram for .NET API Reference
 description: Data type.
 type: docs
-weight: 1610
 url: /net/aspose.diagram/foreigntype/
 ---
 ## ForeignType enumeration

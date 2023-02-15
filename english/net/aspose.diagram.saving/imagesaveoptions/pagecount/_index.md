@@ -3,7 +3,6 @@ title: PageCount
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the number of pages to render when saving to a multipage TIFF file. Default is MaxValue which means all pages of the diagram will be rendered.
 type: docs
-weight: 100
 url: /net/aspose.diagram.saving/imagesaveoptions/pagecount/
 ---
 ## ImageSaveOptions.PageCount property

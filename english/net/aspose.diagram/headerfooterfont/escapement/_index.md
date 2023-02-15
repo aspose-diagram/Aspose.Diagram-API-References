@@ -3,7 +3,6 @@ title: Escapement
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the escapement attribute of the font. Equivalent to the GDI LOGFONT lfEscapement field.
 type: docs
-weight: 30
 url: /net/aspose.diagram/headerfooterfont/escapement/
 ---
 ## HeaderFooterFont.Escapement property

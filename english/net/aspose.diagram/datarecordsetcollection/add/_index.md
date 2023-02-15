@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the dataRecordSet in the collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/datarecordsetcollection/add/
 ---
 ## DataRecordSetCollection.Add method

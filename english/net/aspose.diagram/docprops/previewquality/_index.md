@@ -3,7 +3,6 @@ title: PreviewQuality
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the drawing preview is draft quality or detailed.
 type: docs
-weight: 60
 url: /net/aspose.diagram/docprops/previewquality/
 ---
 ## DocProps.PreviewQuality property

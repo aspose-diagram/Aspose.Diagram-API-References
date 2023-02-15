@@ -3,7 +3,6 @@ title: Panos
 second_title: Aspose.Diagram for .NET API Reference
 description: The panose signature for the font. Panose is a classification system for typefaces that categorizes them based upon their visual characteristics.
 type: docs
-weight: 60
 url: /net/aspose.diagram/font/panos/
 ---
 ## Font.Panos property

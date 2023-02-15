@@ -3,7 +3,6 @@ title: IsItalic
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicating whether the font is italic.
 type: docs
-weight: 200
 url: /net/aspose.diagram/char/isitalic/
 ---
 ## Char.IsItalic property

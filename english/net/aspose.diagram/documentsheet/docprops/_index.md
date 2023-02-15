@@ -3,7 +3,6 @@ title: DocProps
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that control the documents preview quality scope and output format.
 type: docs
-weight: 40
 url: /net/aspose.diagram/documentsheet/docprops/
 ---
 ## DocumentSheet.DocProps property

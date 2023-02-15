@@ -3,7 +3,6 @@ title: EnlargePage
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether need enlarge page to fit drawing or not.
 type: docs
-weight: 30
 url: /net/aspose.diagram.autolayout/layoutoptions/enlargepage/
 ---
 ## LayoutOptions.EnlargePage property

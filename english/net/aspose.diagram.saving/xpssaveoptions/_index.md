@@ -3,7 +3,6 @@ title: XPSSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Allows to specify additional options when rendering diagram pages to XPS.
 type: docs
-weight: 3520
 url: /net/aspose.diagram.saving/xpssaveoptions/
 ---
 ## XPSSaveOptions class

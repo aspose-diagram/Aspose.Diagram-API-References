@@ -3,7 +3,6 @@ title: IsDisplayIntm
 second_title: Aspose.Diagram for .NET API Reference
 description: whether to display interim date/time ticks on timeline
 type: docs
-weight: 110
 url: /net/aspose.diagram/timelinehelper/isdisplayintm/
 ---
 ## TimeLineHelper.IsDisplayIntm property

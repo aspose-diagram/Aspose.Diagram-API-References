@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the name of the reference.
 type: docs
-weight: 30
 url: /net/aspose.diagram.vba/vbaprojectreference/name/
 ---
 ## VbaProjectReference.Name property

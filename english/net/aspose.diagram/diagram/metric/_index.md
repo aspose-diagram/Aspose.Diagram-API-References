@@ -3,7 +3,6 @@ title: Metric
 second_title: Aspose.Diagram for .NET API Reference
 description: Whether to use metric units in the drawing. Set this attribute to True 1 to use metric units set it to False 0 to use English units.
 type: docs
-weight: 190
 url: /net/aspose.diagram/diagram/metric/
 ---
 ## Diagram.Metric property

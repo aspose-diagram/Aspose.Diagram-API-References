@@ -3,7 +3,6 @@ title: ConLineJumpStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the line jump style for line jumps on a dynamic connector.
 type: docs
-weight: 840
 url: /net/aspose.diagram/conlinejumpstyle/
 ---
 ## ConLineJumpStyle class

@@ -1,12 +1,39 @@
 ---
 title: DrawPolyline
 second_title: Aspose.Diagram for .NET API Reference
-description: The process of drawing polyline.
+description: The process of drawing Polyline.
 type: docs
-weight: 350
 url: /net/aspose.diagram/page/drawpolyline/
 ---
-## Page.DrawPolyline method
+## DrawPolyline(double, double, double, double, double[]) {#drawpolyline}
+
+The process of drawing Polyline.
+
+```csharp
+public long DrawPolyline(double pinX, double pinY, double width, double height, double[] xyArray)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | Double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| width | Double | Specifies the width of the shape |
+| height | Double | Specifies the height of the shape |
+| xyArray | Double[] | An array of alternating x and y values that defines points in the new shape |
+
+### Return Value
+
+The unique ID of the shape within shapes collection on the specified page.
+
+### See Also
+
+* class [Page](../../page)
+* namespace [Aspose.Diagram](../../page)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## DrawPolyline(double, double, double, double, PointF[]) {#drawpolyline_1}
 
 The process of drawing polyline.
 

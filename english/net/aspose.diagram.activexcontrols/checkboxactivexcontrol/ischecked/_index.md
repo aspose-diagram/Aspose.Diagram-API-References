@@ -3,7 +3,6 @@ title: IsChecked
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the box is checked.
 type: docs
-weight: 50
 url: /net/aspose.diagram.activexcontrols/checkboxactivexcontrol/ischecked/
 ---
 ## CheckBoxActiveXControl.IsChecked property

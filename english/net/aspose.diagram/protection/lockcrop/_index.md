@@ -3,7 +3,6 @@ title: LockCrop
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a foreign object is locked against being cropped with the Crop tool in Microsoft Visio.
 type: docs
-weight: 50
 url: /net/aspose.diagram/protection/lockcrop/
 ---
 ## Protection.LockCrop property

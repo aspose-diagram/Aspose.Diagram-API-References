@@ -3,7 +3,6 @@ title: Version
 second_title: Aspose.Diagram for .NET API Reference
 description: The version number of the Visio instance. Microsoft Visio 2010  14.
 type: docs
-weight: 290
 url: /net/aspose.diagram/diagram/version/
 ---
 ## Diagram.Version property

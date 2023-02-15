@@ -3,7 +3,6 @@ title: PreviewScope
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the document includes a preview and if so whether the preview shows only the first page or all the pages in the document.
 type: docs
-weight: 70
 url: /net/aspose.diagram/docprops/previewscope/
 ---
 ## DocProps.PreviewScope property

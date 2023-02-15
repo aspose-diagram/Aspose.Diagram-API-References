@@ -3,7 +3,6 @@ title: Save
 second_title: Aspose.Diagram for .NET API Reference
 description: Saves the diagram data to the file.
 type: docs
-weight: 440
 url: /net/aspose.diagram/diagram/save/
 ---
 ## Save(string, SaveFileFormat) {#save_2}

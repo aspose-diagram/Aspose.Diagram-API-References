@@ -3,7 +3,6 @@ title: PitchAndFamily
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the pitch and family of the font. Equivalent to the GDI LOGFONT lfPitchAndFamily field.
 type: docs
-weight: 90
 url: /net/aspose.diagram/headerfooterfont/pitchandfamily/
 ---
 ## HeaderFooterFont.PitchAndFamily property

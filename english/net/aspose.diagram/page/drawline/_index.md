@@ -3,7 +3,6 @@ title: DrawLine
 second_title: Aspose.Diagram for .NET API Reference
 description: The process of drawing a single line.
 type: docs
-weight: 340
 url: /net/aspose.diagram/page/drawline/
 ---
 ## DrawLine(double, double, double, double) {#drawline}
@@ -33,7 +32,35 @@ The unique ID of the shape within shapes collection on the specified page.
 
 ---
 
-## DrawLine(double, double, double, double, PointF[]) {#drawline_1}
+## DrawLine(double, double, double, double, double[]) {#drawline_1}
+
+The process of drawing line.
+
+```csharp
+public long DrawLine(double pinX, double pinY, double width, double height, double[] xyArray)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | Double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| width | Double | Specifies the width of the shape |
+| height | Double | Specifies the height of the shape |
+| xyArray | Double[] | An array of alternating x and y values that defines points in the new shape |
+
+### Return Value
+
+The unique ID of the shape within shapes collection on the specified page.
+
+### See Also
+
+* class [Page](../../page)
+* namespace [Aspose.Diagram](../../page)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## DrawLine(double, double, double, double, PointF[]) {#drawline_2}
 
 The process of drawing line.
 

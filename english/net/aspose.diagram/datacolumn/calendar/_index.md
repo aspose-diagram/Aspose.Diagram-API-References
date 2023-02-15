@@ -3,7 +3,6 @@ title: Calendar
 second_title: Aspose.Diagram for .NET API Reference
 description: Calendar ID of the data column.
 type: docs
-weight: 20
 url: /net/aspose.diagram/datacolumn/calendar/
 ---
 ## DataColumn.Calendar property

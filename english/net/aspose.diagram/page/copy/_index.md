@@ -3,7 +3,6 @@ title: Copy
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 300
 url: /net/aspose.diagram/page/copy/
 ---
 ## Page.Copy method

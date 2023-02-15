@@ -3,7 +3,6 @@ title: DefaultFontName
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the default font name.
 type: docs
-weight: 20
 url: /net/aspose.diagram/fontconfigs/defaultfontname/
 ---
 ## FontConfigs.DefaultFontName property

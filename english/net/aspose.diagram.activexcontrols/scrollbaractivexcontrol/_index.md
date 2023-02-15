@@ -3,7 +3,6 @@ title: ScrollBarActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the ScrollBar control.
 type: docs
-weight: 290
 url: /net/aspose.diagram.activexcontrols/scrollbaractivexcontrol/
 ---
 ## ScrollBarActiveXControl class

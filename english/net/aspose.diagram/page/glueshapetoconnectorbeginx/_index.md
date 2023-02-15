@@ -3,7 +3,6 @@ title: GlueShapeToConnectorBeginX
 second_title: Aspose.Diagram for .NET API Reference
 description: Glue shape to Connectors BeginX
 type: docs
-weight: 410
 url: /net/aspose.diagram/page/glueshapetoconnectorbeginx/
 ---
 ## Page.GlueShapeToConnectorBeginX method

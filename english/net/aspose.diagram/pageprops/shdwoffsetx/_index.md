@@ -3,7 +3,6 @@ title: ShdwOffsetX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the distance in page units that a shapes drop shadow is offset horizontally from the shape.
 type: docs
-weight: 110
 url: /net/aspose.diagram/pageprops/shdwoffsetx/
 ---
 ## PageProps.ShdwOffsetX property

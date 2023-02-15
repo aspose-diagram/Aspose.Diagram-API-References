@@ -1,12 +1,13 @@
 ---
 title: PresetThemeValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the theme value
 type: docs
-weight: 2770
 url: /net/aspose.diagram/presetthemevalue/
 ---
 ## PresetThemeValue enumeration
+
+Specifies the theme value
 
 ```csharp
 public enum PresetThemeValue
@@ -16,33 +17,33 @@ public enum PresetThemeValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| NoTheme | `0` |  |
-| Office | `33` |  |
-| Linear | `34` |  |
-| Zephyr | `35` |  |
-| Integral | `36` |  |
-| Simple | `37` |  |
-| Whisp | `38` |  |
-| Daybreak | `39` |  |
-| Parallel | `40` |  |
-| Sequence | `41` |  |
-| Slice | `42` |  |
-| Ion | `43` |  |
-| Retrospect | `44` |  |
-| Organic | `45` |  |
-| Bubble | `46` |  |
-| Clouds | `47` |  |
-| Gemstone | `48` |  |
-| Lines | `49` |  |
-| Facet | `50` |  |
-| Prominence | `51` |  |
-| Smoke | `52` |  |
-| Radiance | `53` |  |
-| Shade | `54` |  |
-| Pencil | `55` |  |
-| Pen | `56` |  |
-| Marker | `57` |  |
-| WhiteBoard | `58` |  |
+| NoTheme | `0` | NoTheme |
+| Office | `33` | Office |
+| Linear | `34` | Linear |
+| Zephyr | `35` | Zephyr |
+| Integral | `36` | Integral |
+| Simple | `37` | Simple |
+| Whisp | `38` | Whisp |
+| Daybreak | `39` | Daybreak |
+| Parallel | `40` | Parallel |
+| Sequence | `41` | Sequence |
+| Slice | `42` | Slice |
+| Ion | `43` | Ion |
+| Retrospect | `44` | Retrospect |
+| Organic | `45` | Organic |
+| Bubble | `46` | Bubble |
+| Clouds | `47` | Clouds |
+| Gemstone | `48` | Gemstone |
+| Lines | `49` | Lines |
+| Facet | `50` | Facet |
+| Prominence | `51` | Prominence |
+| Smoke | `52` | Smoke |
+| Radiance | `53` | Radiance |
+| Shade | `54` | Shade |
+| Pencil | `55` | Pencil |
+| Pen | `56` | Pen |
+| Marker | `57` | Marker |
+| WhiteBoard | `58` | WhiteBoard |
 
 ### See Also
 

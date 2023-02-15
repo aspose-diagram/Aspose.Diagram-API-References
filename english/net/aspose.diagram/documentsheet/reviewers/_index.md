@@ -3,7 +3,6 @@ title: Reviewers
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that contain identifying information about a document reviewer.
 type: docs
-weight: 130
 url: /net/aspose.diagram/documentsheet/reviewers/
 ---
 ## DocumentSheet.Reviewers property

@@ -3,7 +3,6 @@ title: NextID
 second_title: Aspose.Diagram for .NET API Reference
 description: The next available ID for new connections.
 type: docs
-weight: 20
 url: /net/aspose.diagram/dataconnectioncollection/nextid/
 ---
 ## DataConnectionCollection.NextID property

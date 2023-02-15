@@ -42,7 +42,7 @@ Represents a RadioButton ActiveX control.
 | [isEnabled()](#isEnabled--) | Indicates whether the control can receive the focus and respond to user-generated events. |
 | [isLocked()](#isLocked--) | Indicates whether data in the control is locked for editing. |
 | [isTransparent()](#isTransparent--) | Indicates whether the control is transparent. |
-| [isTripleState()](#isTripleState--) | Indicates how the specified control will display Null values |
+| [isTripleState()](#isTripleState--) | Indicates how the specified control will display Null values. |
 | [isWordWrapped()](#isWordWrapped--) | Indicates whether the contents of the control automatically wrap at the end of a line. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -322,12 +322,14 @@ public boolean isTripleState()
 ```
 
 
-Indicates how the specified control will display Null values. ///
+Indicates how the specified control will display Null values.
 
-    | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-    | **Setting**\\u9286\\u20ac | **Description**\\u9286\\u20ac                                                                                                                   |
-    | True                      | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
-    | False                     | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
+    | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Setting | Description                                                                                                                                     |
+    | True    | The control will cycle through states for Yes, No, and Null values. The control appears dimmed (grayed) when its Value property is set to Null. |
+    | False   | (Default) The control will cycle through states for Yes and No values. Null values display as if they were No values.                           |
+
+    |
 
 **Returns:**
 boolean

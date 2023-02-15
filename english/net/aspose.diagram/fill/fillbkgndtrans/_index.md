@@ -3,7 +3,6 @@ title: FillBkgndTrans
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the transparency level for the background fill color of the shapes fill pattern from 0 completely opaque to 1 completely transparent.
 type: docs
-weight: 30
 url: /net/aspose.diagram/fill/fillbkgndtrans/
 ---
 ## Fill.FillBkgndTrans property

@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds module for a page.
 type: docs
-weight: 20
 url: /net/aspose.diagram.vba/vbamodulecollection/add/
 ---
 ## Add(Page) {#add}

@@ -3,7 +3,6 @@ title: LineStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: StyleSheet element from which this style inherits line formatting.
 type: docs
-weight: 160
 url: /net/aspose.diagram/stylesheet/linestyle/
 ---
 ## StyleSheet.LineStyle property

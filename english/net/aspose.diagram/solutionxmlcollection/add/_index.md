@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the SolutionXML in the collection.
 type: docs
-weight: 20
 url: /net/aspose.diagram/solutionxmlcollection/add/
 ---
 ## SolutionXMLCollection.Add method

@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: The name of the element.
 type: docs
-weight: 80
 url: /net/aspose.diagram/connection/name/
 ---
 ## Connection.Name property

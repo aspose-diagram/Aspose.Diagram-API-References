@@ -3,7 +3,6 @@ title: Chars
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of Char elements.
 type: docs
-weight: 20
 url: /net/aspose.diagram/stylesheet/chars/
 ---
 ## StyleSheet.Chars property

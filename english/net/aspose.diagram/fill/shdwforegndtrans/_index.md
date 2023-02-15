@@ -3,7 +3,6 @@ title: ShdwForegndTrans
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies transparency level for the foreground stroke of the shapes drop shadow fill pattern from 0.0 completely opaque to 1.0 completely transparent.
 type: docs
-weight: 180
 url: /net/aspose.diagram/fill/shdwforegndtrans/
 ---
 ## Fill.ShdwForegndTrans property

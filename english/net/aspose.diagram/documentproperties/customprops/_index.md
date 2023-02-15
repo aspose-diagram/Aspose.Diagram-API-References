@@ -3,7 +3,6 @@ title: CustomProps
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection of CustomProp.
 type: docs
-weight: 70
 url: /net/aspose.diagram/documentproperties/customprops/
 ---
 ## DocumentProperties.CustomProps property

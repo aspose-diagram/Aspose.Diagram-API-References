@@ -3,7 +3,6 @@ title: IsWordWrapped
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the contents of the control automatically wrap at the end of a line.
 type: docs
-weight: 50
 url: /net/aspose.diagram.activexcontrols/labelactivexcontrol/iswordwrapped/
 ---
 ## LabelActiveXControl.IsWordWrapped property

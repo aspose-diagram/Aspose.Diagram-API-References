@@ -3,7 +3,6 @@ title: PlaceStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the routing style and direction for all dynamic connectors on the drawing page that dont have a local routing style.
 type: docs
-weight: 260
 url: /net/aspose.diagram/pagelayout/placestyle/
 ---
 ## PageLayout.PlaceStyle property

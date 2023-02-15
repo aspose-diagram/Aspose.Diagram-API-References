@@ -3,7 +3,6 @@ title: LineColor
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the line color of the shape.
 type: docs
-weight: 90
 url: /net/aspose.diagram/line/linecolor/
 ---
 ## Line.LineColor property

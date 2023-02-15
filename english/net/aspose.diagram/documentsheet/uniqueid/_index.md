@@ -3,7 +3,6 @@ title: UniqueID
 second_title: Aspose.Diagram for .NET API Reference
 description: A GUID globally unique identifier identifying the shape.
 type: docs
-weight: 160
 url: /net/aspose.diagram/documentsheet/uniqueid/
 ---
 ## DocumentSheet.UniqueID property

@@ -3,7 +3,6 @@ title: SortKey
 second_title: Aspose.Diagram for .NET API Reference
 description: It specifies a number that determines the order of actions that appear on a shortcut or smart tag menu.
 type: docs
-weight: 160
 url: /net/aspose.diagram/act/sortkey/
 ---
 ## Act.SortKey property

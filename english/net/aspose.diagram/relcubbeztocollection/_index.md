@@ -3,7 +3,6 @@ title: RelCubBezToCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: RelCubBezTo collection.
 type: docs
-weight: 2920
 url: /net/aspose.diagram/relcubbeztocollection/
 ---
 ## RelCubBezToCollection class

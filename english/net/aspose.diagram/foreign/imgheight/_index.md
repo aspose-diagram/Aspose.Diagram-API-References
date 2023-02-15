@@ -3,7 +3,6 @@ title: ImgHeight
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the height of the objects image within its border. The default formula is FHeight1.
 type: docs
-weight: 20
 url: /net/aspose.diagram/foreign/imgheight/
 ---
 ## Foreign.ImgHeight property

@@ -3,7 +3,6 @@ title: Perpendicular
 second_title: Aspose.Diagram for .NET API Reference
 description: It specified whether a text field appears perpendicular to the other text in a text block.
 type: docs
-weight: 310
 url: /net/aspose.diagram/char/perpendicular/
 ---
 ## Char.Perpendicular property

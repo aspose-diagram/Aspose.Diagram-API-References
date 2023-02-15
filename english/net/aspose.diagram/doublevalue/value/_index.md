@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Double value.
 type: docs
-weight: 40
 url: /net/aspose.diagram/doublevalue/value/
 ---
 ## DoubleValue.Value property

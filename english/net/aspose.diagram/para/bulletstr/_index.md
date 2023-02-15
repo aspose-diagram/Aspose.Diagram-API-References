@@ -3,7 +3,6 @@ title: BulletStr
 second_title: Aspose.Diagram for .NET API Reference
 description: Used to create a custom bullet style. Enter the style as a string within quotation marks. For example you could enter the string ooo.
 type: docs
-weight: 50
 url: /net/aspose.diagram/para/bulletstr/
 ---
 ## Para.BulletStr property

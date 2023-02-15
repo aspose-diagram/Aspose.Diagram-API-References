@@ -3,7 +3,6 @@ title: MilestoneDate
 second_title: Aspose.Diagram for .NET API Reference
 description: Milestone date
 type: docs
-weight: 50
 url: /net/aspose.diagram/milestonehelper/milestonedate/
 ---
 ## MilestoneHelper.MilestoneDate property

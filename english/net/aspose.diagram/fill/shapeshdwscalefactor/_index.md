@@ -3,7 +3,6 @@ title: ShapeShdwScaleFactor
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the percentage by which the shadow of a shape can be enlarged or reduced.
 type: docs
-weight: 120
 url: /net/aspose.diagram/fill/shapeshdwscalefactor/
 ---
 ## Fill.ShapeShdwScaleFactor property

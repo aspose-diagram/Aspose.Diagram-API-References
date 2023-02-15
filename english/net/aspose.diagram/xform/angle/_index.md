@@ -3,7 +3,6 @@ title: Angle
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the shapes current angle of rotation in relation to its parent.
 type: docs
-weight: 10
 url: /net/aspose.diagram/xform/angle/
 ---
 ## XForm.Angle property

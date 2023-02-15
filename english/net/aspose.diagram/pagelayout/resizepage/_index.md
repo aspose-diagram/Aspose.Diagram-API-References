@@ -3,7 +3,6 @@ title: ResizePage
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether to enlarge the page to enclose the drawing after a user selects Lay Out Shapes Shapes menu.
 type: docs
-weight: 280
 url: /net/aspose.diagram/pagelayout/resizepage/
 ---
 ## PageLayout.ResizePage property

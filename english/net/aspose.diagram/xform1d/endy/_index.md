@@ -3,7 +3,6 @@ title: EndY
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the ycoordinate of the end point of a 1D shape in relation to the origin of its parent.
 type: docs
-weight: 50
 url: /net/aspose.diagram/xform1d/endy/
 ---
 ## XForm1D.EndY property

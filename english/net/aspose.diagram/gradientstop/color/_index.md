@@ -3,7 +3,6 @@ title: Color
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the color of this gradient stop.
 type: docs
-weight: 20
 url: /net/aspose.diagram/gradientstop/color/
 ---
 ## GradientStop.Color property

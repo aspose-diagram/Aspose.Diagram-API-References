@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the doubling point number from the collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/floatpointnumcollection/remove/
 ---
 ## FloatPointNumCollection.Remove method

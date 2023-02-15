@@ -3,7 +3,6 @@ title: ObjectHeight
 second_title: Aspose.Diagram for .NET API Reference
 description: This attribute is only meaningful if the foreign data is an OLE2 embedded object. The value expresses the height of the object in page units.
 type: docs
-weight: 90
 url: /net/aspose.diagram/foreigndata/objectheight/
 ---
 ## ForeignData.ObjectHeight property

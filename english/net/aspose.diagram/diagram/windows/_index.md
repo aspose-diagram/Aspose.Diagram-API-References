@@ -3,7 +3,6 @@ title: Windows
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the Window elements for a document.
 type: docs
-weight: 300
 url: /net/aspose.diagram/diagram/windows/
 ---
 ## Diagram.Windows property

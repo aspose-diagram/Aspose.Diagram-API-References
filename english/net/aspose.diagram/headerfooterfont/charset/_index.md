@@ -3,7 +3,6 @@ title: CharSet
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the character set of the font. Equivalent to the GDI LOGFONT lfCharSet field.
 type: docs
-weight: 10
 url: /net/aspose.diagram/headerfooterfont/charset/
 ---
 ## HeaderFooterFont.CharSet property

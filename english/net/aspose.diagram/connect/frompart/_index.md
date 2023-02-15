@@ -3,7 +3,6 @@ title: FromPart
 second_title: Aspose.Diagram for .NET API Reference
 description: The cell from which a connection originates.
 type: docs
-weight: 30
 url: /net/aspose.diagram/connect/frompart/
 ---
 ## Connect.FromPart property

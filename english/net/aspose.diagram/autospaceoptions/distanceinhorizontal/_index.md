@@ -3,7 +3,6 @@ title: DistanceInHorizontal
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines the distance between the shapes in horizontal direction in inches.
 type: docs
-weight: 20
 url: /net/aspose.diagram/autospaceoptions/distanceinhorizontal/
 ---
 ## AutoSpaceOptions.DistanceInHorizontal property

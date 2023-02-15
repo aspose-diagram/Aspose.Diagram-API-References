@@ -3,7 +3,6 @@ title: DrawRectangle
 second_title: Aspose.Diagram for .NET API Reference
 description: The process of drawing rectangle.
 type: docs
-weight: 360
 url: /net/aspose.diagram/page/drawrectangle/
 ---
 ## Page.DrawRectangle method

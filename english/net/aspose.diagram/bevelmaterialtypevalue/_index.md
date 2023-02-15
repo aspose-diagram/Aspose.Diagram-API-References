@@ -3,7 +3,6 @@ title: BevelMaterialTypeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Describes surface appearance of a shape.
 type: docs
-weight: 550
 url: /net/aspose.diagram/bevelmaterialtypevalue/
 ---
 ## BevelMaterialTypeValue enumeration

@@ -149,7 +149,7 @@ public int getEmfRenderSetting()
 ```
 
 
-Setting for rendering Emf metafile. EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF records. Either type of record can be used to render the image, only EMF+ records, or only EMF records. When EmfRenderSetting.EMF\_PLUS\_PREFER is set, then EMF+ records will be parsed , otherwise only EMF records will be parsed. Default value is EmfRenderSetting.EMF\_ONLY.
+Setting for rendering Emf metafile. EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF records. Either type of record can be used to render the image, only EMF+ records, or only EMF records. When EmfPlusPrefer is set, then EMF+ records will be parsed , otherwise only EMF records will be parsed. Default value is EmfOnly"/>.
 
 **Returns:**
 int

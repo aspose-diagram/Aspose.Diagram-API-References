@@ -3,7 +3,6 @@ title: Pages
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection Page objects.
 type: docs
-weight: 200
 url: /net/aspose.diagram/diagram/pages/
 ---
 ## Diagram.Pages property

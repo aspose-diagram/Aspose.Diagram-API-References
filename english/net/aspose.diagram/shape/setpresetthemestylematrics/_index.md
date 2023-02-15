@@ -3,7 +3,6 @@ title: SetPresetThemeStyleMatrics
 second_title: Aspose.Diagram for .NET API Reference
 description: pply a preset theme variant quickstyle to this shape like theme styles options in shape styles dropdown list
 type: docs
-weight: 970
 url: /net/aspose.diagram/shape/setpresetthemestylematrics/
 ---
 ## Shape.SetPresetThemeStyleMatrics method

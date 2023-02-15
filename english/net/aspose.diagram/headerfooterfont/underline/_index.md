@@ -3,7 +3,6 @@ title: Underline
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the font is underlined. Equivalent to the GDI LOGFONT lfUnderline field.
 type: docs
-weight: 120
 url: /net/aspose.diagram/headerfooterfont/underline/
 ---
 ## HeaderFooterFont.Underline property

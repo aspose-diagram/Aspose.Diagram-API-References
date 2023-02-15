@@ -3,7 +3,6 @@ title: ImageContrast
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the contrast for the generated images.
 type: docs
-weight: 70
 url: /net/aspose.diagram.saving/imagesaveoptions/imagecontrast/
 ---
 ## ImageSaveOptions.ImageContrast property

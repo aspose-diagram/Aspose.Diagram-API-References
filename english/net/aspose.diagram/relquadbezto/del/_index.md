@@ -3,7 +3,6 @@ title: Del
 second_title: Aspose.Diagram for .NET API Reference
 description: A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally.
 type: docs
-weight: 40
 url: /net/aspose.diagram/relquadbezto/del/
 ---
 ## RelQuadBezTo.Del property

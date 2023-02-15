@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the character formatting applied to a range of text in the shapes text block.
 type: docs
-weight: 30
 url: /net/aspose.diagram/style/value/
 ---
 ## Style.Value property

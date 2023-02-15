@@ -3,7 +3,6 @@ title: InterruptMonitor
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the interrupt monitor.
 type: docs
-weight: 30
 url: /net/aspose.diagram/loadoptions/interruptmonitor/
 ---
 ## LoadOptions.InterruptMonitor property

@@ -3,7 +3,6 @@ title: ParentWindow
 second_title: Aspose.Diagram for .NET API Reference
 description: ID of window in which this stencil window is contained. Relevant only when WindowType is specified as Stencil.
 type: docs
-weight: 100
 url: /net/aspose.diagram/window/parentwindow/
 ---
 ## Window.ParentWindow property

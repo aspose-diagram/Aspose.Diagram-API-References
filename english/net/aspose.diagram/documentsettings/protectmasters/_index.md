@@ -3,7 +3,6 @@ title: ProtectMasters
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the user is prevented from creating editing or deleting masters. Regardless of this setting the user can still create instances of masters.
 type: docs
-weight: 110
 url: /net/aspose.diagram/documentsettings/protectmasters/
 ---
 ## DocumentSettings.ProtectMasters property

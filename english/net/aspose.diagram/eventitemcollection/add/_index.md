@@ -3,7 +3,6 @@ title: Add
 second_title: Aspose.Diagram for .NET API Reference
 description: Add the eventItem in the collection.
 type: docs
-weight: 30
 url: /net/aspose.diagram/eventitemcollection/add/
 ---
 ## EventItemCollection.Add method

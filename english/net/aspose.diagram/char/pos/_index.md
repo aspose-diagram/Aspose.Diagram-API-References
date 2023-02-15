@@ -3,7 +3,6 @@ title: Pos
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the position of the shapes text relative to the baseline.
 type: docs
-weight: 320
 url: /net/aspose.diagram/char/pos/
 ---
 ## Char.Pos property

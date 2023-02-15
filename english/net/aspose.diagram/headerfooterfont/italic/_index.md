@@ -3,7 +3,6 @@ title: Italic
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the weight of the font. Equivalent to the GDI LOGFONT lfWeight field.
 type: docs
-weight: 60
 url: /net/aspose.diagram/headerfooterfont/italic/
 ---
 ## HeaderFooterFont.Italic property

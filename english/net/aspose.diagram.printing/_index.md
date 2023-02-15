@@ -3,7 +3,6 @@ title: Aspose.Diagram.Printing
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains classes for print
 type: docs
-weight: 60
 url: /net/aspose.diagram.printing/
 ---
 Contains classes for print

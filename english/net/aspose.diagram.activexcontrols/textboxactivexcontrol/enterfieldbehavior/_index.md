@@ -3,7 +3,6 @@ title: EnterFieldBehavior
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies selection behavior when entering the control. True specifies that the selection remains unchanged from last time the control was active. False specifies that all the text in the control will be selected when entering the control.
 type: docs
-weight: 40
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/enterfieldbehavior/
 ---
 ## TextBoxActiveXControl.EnterFieldBehavior property

@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of behavior the x or ycoordinate of the control handle exhibits after the handle is moved.
 type: docs
-weight: 30
 url: /net/aspose.diagram/contype/value/
 ---
 ## ConType.Value property

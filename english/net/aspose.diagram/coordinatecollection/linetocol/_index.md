@@ -3,7 +3,6 @@ title: LineToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains x and ycoordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements respectively.
 type: docs
-weight: 60
 url: /net/aspose.diagram/coordinatecollection/linetocol/
 ---
 ## CoordinateCollection.LineToCol property

@@ -3,7 +3,6 @@ title: GetConsumptionQuantity
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets consumption file size
 type: docs
-weight: 40
 url: /net/aspose.diagram/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method

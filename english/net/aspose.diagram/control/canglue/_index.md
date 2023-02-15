@@ -3,7 +3,6 @@ title: CanGlue
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether a control handle can be glued to other shapes.
 type: docs
-weight: 20
 url: /net/aspose.diagram/control/canglue/
 ---
 ## Control.CanGlue property

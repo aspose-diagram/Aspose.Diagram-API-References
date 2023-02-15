@@ -3,7 +3,6 @@ title: BorderOleColor
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the ole color of the background.
 type: docs
-weight: 10
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/borderolecolor/
 ---
 ## TextBoxActiveXControl.BorderOleColor property

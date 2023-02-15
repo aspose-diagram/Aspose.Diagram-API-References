@@ -3,7 +3,6 @@ title: User
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a work area for entering formulas in userspecific elements that are referred to by other elements and addon tools.
 type: docs
-weight: 4200
 url: /net/aspose.diagram/user/
 ---
 ## User class

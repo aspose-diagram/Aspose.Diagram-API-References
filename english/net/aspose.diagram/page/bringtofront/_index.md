@@ -3,7 +3,6 @@ title: BringToFront
 second_title: Aspose.Diagram for .NET API Reference
 description: Brings a shapedefined by ID to the front of the zorder.
 type: docs
-weight: 260
 url: /net/aspose.diagram/page/bringtofront/
 ---
 ## Page.BringToFront method

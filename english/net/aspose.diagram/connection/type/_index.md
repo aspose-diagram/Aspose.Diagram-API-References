@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies various types based on the element in which it is contained.
 type: docs
-weight: 110
 url: /net/aspose.diagram/connection/type/
 ---
 ## Connection.Type property

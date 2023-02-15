@@ -3,7 +3,6 @@ title: DefaultFont
 second_title: Aspose.Diagram for .NET API Reference
 description: When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally they may appear as block in pdf image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/saveoptions/defaultfont/
 ---
 ## SaveOptions.DefaultFont property

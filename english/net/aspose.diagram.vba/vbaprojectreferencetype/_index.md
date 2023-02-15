@@ -3,7 +3,6 @@ title: VbaProjectReferenceType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the type of VBA project reference.
 type: docs
-weight: 4310
 url: /net/aspose.diagram.vba/vbaprojectreferencetype/
 ---
 ## VbaProjectReferenceType enumeration

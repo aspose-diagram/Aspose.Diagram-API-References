@@ -3,7 +3,6 @@ title: BevelTopType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the preset bevel type for the top bevel on a 3D shape
 type: docs
-weight: 120
 url: /net/aspose.diagram/threedformat/beveltoptype/
 ---
 ## ThreeDFormat.BevelTopType property

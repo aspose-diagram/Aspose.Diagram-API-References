@@ -3,7 +3,6 @@ title: LayerMember
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zerobased index of layers for the page. If a shape is assigned to more than one layer each layer index appears separated by a semicolon.
 type: docs
-weight: 20
 url: /net/aspose.diagram/layermem/layermember/
 ---
 ## LayerMem.LayerMember property

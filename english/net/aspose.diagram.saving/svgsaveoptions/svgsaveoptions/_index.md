@@ -3,7 +3,6 @@ title: SVGSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Initializes a new instance of this class that can be used to save a document in the XPSaspose.diagram/savefileformat format.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/svgsaveoptions/svgsaveoptions/
 ---
 ## SVGSaveOptions constructor

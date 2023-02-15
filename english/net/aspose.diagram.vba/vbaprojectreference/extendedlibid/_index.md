@@ -3,7 +3,6 @@ title: ExtendedLibid
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the extended Libid of the reference.
 type: docs
-weight: 10
 url: /net/aspose.diagram.vba/vbaprojectreference/extendedlibid/
 ---
 ## VbaProjectReference.ExtendedLibid property

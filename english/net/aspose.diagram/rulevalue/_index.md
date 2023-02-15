@@ -3,7 +3,6 @@ title: RuleValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Rule value.
 type: docs
-weight: 3170
 url: /net/aspose.diagram/rulevalue/
 ---
 ## RuleValue class
@@ -24,7 +23,7 @@ public class RuleValue
 
 | Name | Description |
 | --- | --- |
-| [Formula](../../aspose.diagram/rulevalue/formula) { get; set; } | Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula exists locally, "No Formula" if the formula is locally deleted or blocked, or "Inh" if the formula is inherited. If the attribute is not present, the element's formula is a simple constant. For example, 5. |
+| [Formula](../../aspose.diagram/rulevalue/formula) { get; set; } | Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula exists locally, "No Formula" if the formula is locally deleted or blocked, or "Inh" if the formula is inherited. If the attribute is not present, the element's formula is a simple constant. |
 | [Value](../../aspose.diagram/rulevalue/value) { get; set; } | Rule value. |
 
 ### See Also

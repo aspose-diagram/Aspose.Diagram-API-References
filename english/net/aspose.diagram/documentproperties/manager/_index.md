@@ -3,7 +3,6 @@ title: Manager
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a userentered text string identifying the person in charge of the project or department. The maximum length is 63 characters.
 type: docs
-weight: 120
 url: /net/aspose.diagram/documentproperties/manager/
 ---
 ## DocumentProperties.Manager property

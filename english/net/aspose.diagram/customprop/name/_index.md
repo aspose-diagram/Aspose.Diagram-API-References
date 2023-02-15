@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: The name of the custom property.
 type: docs
-weight: 30
 url: /net/aspose.diagram/customprop/name/
 ---
 ## CustomProp.Name property

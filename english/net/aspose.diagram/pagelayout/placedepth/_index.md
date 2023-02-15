@@ -3,7 +3,6 @@ title: PlaceDepth
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether placeable shapes move away when the user drags a placeable shape near another placeable shape on the drawing page.
 type: docs
-weight: 240
 url: /net/aspose.diagram/pagelayout/placedepth/
 ---
 ## PageLayout.PlaceDepth property

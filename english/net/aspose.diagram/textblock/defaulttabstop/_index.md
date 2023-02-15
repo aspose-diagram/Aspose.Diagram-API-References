@@ -3,7 +3,6 @@ title: DefaultTabStop
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the interval of the default tab stops in a text block.
 type: docs
-weight: 20
 url: /net/aspose.diagram/textblock/defaulttabstop/
 ---
 ## TextBlock.DefaultTabStop property

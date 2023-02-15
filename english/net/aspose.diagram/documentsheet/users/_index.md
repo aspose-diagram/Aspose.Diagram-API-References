@@ -3,7 +3,6 @@ title: Users
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of User elements.
 type: docs
-weight: 170
 url: /net/aspose.diagram/documentsheet/users/
 ---
 ## DocumentSheet.Users property

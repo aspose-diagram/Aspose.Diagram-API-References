@@ -3,7 +3,6 @@ title: Title
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the title of diagram to render in HTML. If Title is null Diagram.DocumentProperties.Title DocumentPropertiesaspose.diagram/documentproperties will be used as Title. If Diagram.DocumentProperties.Title is null or empty the file name of Diagram will be used as Title.
 type: docs
-weight: 120
 url: /net/aspose.diagram.saving/htmlsaveoptions/title/
 ---
 ## HTMLSaveOptions.Title property

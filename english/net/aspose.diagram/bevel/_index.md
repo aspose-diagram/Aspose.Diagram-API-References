@@ -3,7 +3,6 @@ title: Bevel
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a bevel of a shape
 type: docs
-weight: 510
 url: /net/aspose.diagram/bevel/
 ---
 ## Bevel class

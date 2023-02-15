@@ -3,7 +3,6 @@ title: Codes
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the codes of module.
 type: docs
-weight: 10
 url: /net/aspose.diagram.vba/vbamodule/codes/
 ---
 ## VbaModule.Codes property

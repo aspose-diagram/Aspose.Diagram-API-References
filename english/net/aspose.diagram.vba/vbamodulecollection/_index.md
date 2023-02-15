@@ -3,7 +3,6 @@ title: VbaModuleCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the list of VbaModule./vbamodule
 type: docs
-weight: 4260
 url: /net/aspose.diagram.vba/vbamodulecollection/
 ---
 ## VbaModuleCollection class

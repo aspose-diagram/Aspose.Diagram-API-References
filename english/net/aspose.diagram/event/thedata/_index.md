@@ -3,7 +3,6 @@ title: TheData
 second_title: Aspose.Diagram for .NET API Reference
 description: Reserved for future use.
 type: docs
-weight: 60
 url: /net/aspose.diagram/event/thedata/
 ---
 ## Event.TheData property

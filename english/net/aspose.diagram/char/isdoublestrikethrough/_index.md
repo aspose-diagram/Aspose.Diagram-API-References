@@ -3,7 +3,6 @@ title: IsDoubleStrikethrough
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicating whether the font is doubleStrikethrough.
 type: docs
-weight: 180
 url: /net/aspose.diagram/char/isdoublestrikethrough/
 ---
 ## Char.IsDoubleStrikethrough property

@@ -3,7 +3,6 @@ title: SnapAngles
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of SnapAngle elements.
 type: docs
-weight: 180
 url: /net/aspose.diagram/window/snapangles/
 ---
 ## Window.SnapAngles property

@@ -3,7 +3,6 @@ title: Fonts
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of Font elements
 type: docs
-weight: 140
 url: /net/aspose.diagram/diagram/fonts/
 ---
 ## Diagram.Fonts property

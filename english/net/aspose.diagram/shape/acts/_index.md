@@ -3,7 +3,6 @@ title: Acts
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of Act elements.
 type: docs
-weight: 30
 url: /net/aspose.diagram/shape/acts/
 ---
 ## Shape.Acts property

@@ -3,7 +3,6 @@ title: Prompt
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains varying prompt information based on the element in which it is contained.
 type: docs
-weight: 100
 url: /net/aspose.diagram/connection/prompt/
 ---
 ## Connection.Prompt property

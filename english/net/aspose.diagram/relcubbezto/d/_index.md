@@ -3,7 +3,6 @@ title: D
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of the control point at the end of the curve in relative coordinates.
 type: docs
-weight: 50
 url: /net/aspose.diagram/relcubbezto/d/
 ---
 ## RelCubBezTo.D property

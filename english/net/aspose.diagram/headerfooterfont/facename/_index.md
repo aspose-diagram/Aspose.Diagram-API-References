@@ -3,7 +3,6 @@ title: FaceName
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type face name attribute of the font. Equivalent to the GDI LOGFONT lfFaceName field.
 type: docs
-weight: 40
 url: /net/aspose.diagram/headerfooterfont/facename/
 ---
 ## HeaderFooterFont.FaceName property

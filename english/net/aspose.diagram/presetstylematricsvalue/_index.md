@@ -3,7 +3,6 @@ title: PresetStyleMatricsValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Used to set Shape theme style property
 type: docs
-weight: 2760
 url: /net/aspose.diagram/presetstylematricsvalue/
 ---
 ## PresetStyleMatricsValue enumeration
@@ -18,12 +17,12 @@ public enum PresetStyleMatricsValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Style1 | `1` |  |
-| Style2 | `2` |  |
-| Style3 | `3` |  |
-| Style4 | `4` |  |
-| Style5 | `5` |  |
-| Style6 | `6` |  |
+| Style1 | `1` | Style1 |
+| Style2 | `2` | Style2 |
+| Style3 | `3` | Style3 |
+| Style4 | `4` | Style4 |
+| Style5 | `5` | Style5 |
+| Style6 | `6` | Style6 |
 
 ### See Also
 

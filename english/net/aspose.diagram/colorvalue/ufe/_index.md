@@ -3,7 +3,6 @@ title: Ufe
 second_title: Aspose.Diagram for .NET API Reference
 description: Attributes of an element.
 type: docs
-weight: 20
 url: /net/aspose.diagram/colorvalue/ufe/
 ---
 ## ColorValue.Ufe property

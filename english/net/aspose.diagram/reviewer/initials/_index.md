@@ -3,7 +3,6 @@ title: Initials
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the initials of a document reviewer.
 type: docs
-weight: 50
 url: /net/aspose.diagram/reviewer/initials/
 ---
 ## Reviewer.Initials property

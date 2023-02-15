@@ -3,7 +3,6 @@ title: IsDropTarget
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the group allows a shape to be added to it when the shape is dropped on the group.
 type: docs
-weight: 40
 url: /net/aspose.diagram/group/isdroptarget/
 ---
 ## Group.IsDropTarget property

@@ -3,7 +3,6 @@ title: AutoSpaceShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: Auto space shapes
 type: docs
-weight: 240
 url: /net/aspose.diagram/page/autospaceshapes/
 ---
 ## Page.AutoSpaceShapes method

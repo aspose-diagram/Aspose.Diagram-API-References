@@ -3,7 +3,6 @@ title: InitStream
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the stream.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/istreamprovider/initstream/
 ---
 ## IStreamProvider.InitStream method

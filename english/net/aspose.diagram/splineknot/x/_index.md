@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of a control point.
 type: docs
-weight: 50
 url: /net/aspose.diagram/splineknot/x/
 ---
 ## SplineKnot.X property

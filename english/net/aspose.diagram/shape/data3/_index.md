@@ -3,7 +3,6 @@ title: Data3
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains an arbitrary string value that is used to supply additional information about a shape.
 type: docs
-weight: 130
 url: /net/aspose.diagram/shape/data3/
 ---
 ## Shape.Data3 property

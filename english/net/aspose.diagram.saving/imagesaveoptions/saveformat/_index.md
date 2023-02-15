@@ -3,7 +3,6 @@ title: SaveFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be Tiffaspose.diagram/savefileformat Pngaspose.diagram/savefileformat Bmpaspose.diagram/savefileformat Emfaspose.diagram/savefileformat or Jpegaspose.diagram/savefileformat.
 type: docs
-weight: 160
 url: /net/aspose.diagram.saving/imagesaveoptions/saveformat/
 ---
 ## ImageSaveOptions.SaveFormat property

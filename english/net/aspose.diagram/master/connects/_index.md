@@ -3,7 +3,6 @@ title: Connects
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a Connect element for each connection between two shapes in a drawing.
 type: docs
-weight: 40
 url: /net/aspose.diagram/master/connects/
 ---
 ## Master.Connects property

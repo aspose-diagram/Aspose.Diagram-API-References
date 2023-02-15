@@ -3,7 +3,6 @@ title: Start
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the document has been modified outside of Visio. If present Visio will fully test the contents of the file. Omit for files you create outside of Visio.
 type: docs
-weight: 230
 url: /net/aspose.diagram/diagram/start/
 ---
 ## Diagram.Start property

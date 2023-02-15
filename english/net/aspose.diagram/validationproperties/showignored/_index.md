@@ -3,7 +3,6 @@ title: ShowIgnored
 second_title: Aspose.Diagram for .NET API Reference
 description: Whether to show ignored validation issues in the Issues window.
 type: docs
-weight: 30
 url: /net/aspose.diagram/validationproperties/showignored/
 ---
 ## ValidationProperties.ShowIgnored property

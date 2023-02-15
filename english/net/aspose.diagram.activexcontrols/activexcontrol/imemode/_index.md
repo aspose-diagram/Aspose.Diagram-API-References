@@ -3,7 +3,6 @@ title: IMEMode
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the default runtime mode of the Input Method Editor for the control as it receives focus.
 type: docs
-weight: 20
 url: /net/aspose.diagram.activexcontrols/activexcontrol/imemode/
 ---
 ## ActiveXControl.IMEMode property

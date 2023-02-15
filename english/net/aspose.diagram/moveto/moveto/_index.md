@@ -3,7 +3,6 @@ title: MoveTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of the MoveToaspose.diagram/moveto class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/moveto/moveto/
 ---
 ## MoveTo constructor

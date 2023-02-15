@@ -3,7 +3,6 @@ title: UniqueID
 second_title: Aspose.Diagram for .NET API Reference
 description: A GUID that identifies the master within the document.
 type: docs
-weight: 170
 url: /net/aspose.diagram/master/uniqueid/
 ---
 ## Master.UniqueID property

@@ -3,7 +3,6 @@ title: IsDragBehaviorEnabled
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether dragging and dropping is enabled for the control.
 type: docs
-weight: 100
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/isdragbehaviorenabled/
 ---
 ## ComboBoxActiveXControl.IsDragBehaviorEnabled property

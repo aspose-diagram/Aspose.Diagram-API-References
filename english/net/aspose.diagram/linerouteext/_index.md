@@ -3,7 +3,6 @@ title: LineRouteExt
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the default appearance for all connectors on a page.
 type: docs
-weight: 2170
 url: /net/aspose.diagram/linerouteext/
 ---
 ## LineRouteExt class

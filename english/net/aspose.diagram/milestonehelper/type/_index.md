@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Type of shape
 type: docs
-weight: 60
 url: /net/aspose.diagram/milestonehelper/type/
 ---
 ## MilestoneHelper.Type property

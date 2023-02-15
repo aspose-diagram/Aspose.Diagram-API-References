@@ -3,7 +3,6 @@ title: Location
 second_title: Aspose.Diagram for .NET API Reference
 description: Location of signing.
 type: docs
-weight: 40
 url: /net/aspose.diagram.saving/pdfdigitalsignaturedetails/location/
 ---
 ## PdfDigitalSignatureDetails.Location property

@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the output format for a drawing.
 type: docs
-weight: 30
 url: /net/aspose.diagram/outputformat/value/
 ---
 ## OutputFormat.Value property

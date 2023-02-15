@@ -3,7 +3,6 @@ title: Text
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the text of a shape.
 type: docs
-weight: 600
 url: /net/aspose.diagram/shape/text/
 ---
 ## Shape.Text property

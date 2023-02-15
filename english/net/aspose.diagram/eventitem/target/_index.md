@@ -3,7 +3,6 @@ title: Target
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the target of an event.
 type: docs
-weight: 60
 url: /net/aspose.diagram/eventitem/target/
 ---
 ## EventItem.Target property

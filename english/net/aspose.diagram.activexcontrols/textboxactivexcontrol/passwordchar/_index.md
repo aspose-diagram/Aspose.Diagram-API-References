@@ -3,7 +3,6 @@ title: PasswordChar
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets a character to be displayed in place of the characters entered.
 type: docs
-weight: 150
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/passwordchar/
 ---
 ## TextBoxActiveXControl.PasswordChar property

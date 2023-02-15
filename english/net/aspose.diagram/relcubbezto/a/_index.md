@@ -3,7 +3,6 @@ title: A
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of the control point at the beginning of the curve in relative coordinates.
 type: docs
-weight: 20
 url: /net/aspose.diagram/relcubbezto/a/
 ---
 ## RelCubBezTo.A property

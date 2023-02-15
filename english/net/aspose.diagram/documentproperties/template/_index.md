@@ -3,7 +3,6 @@ title: Template
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a string value specifying the file name of the template from which the document was created.
 type: docs
-weight: 150
 url: /net/aspose.diagram/documentproperties/template/
 ---
 ## DocumentProperties.Template property

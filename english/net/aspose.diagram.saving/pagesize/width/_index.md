@@ -3,7 +3,6 @@ title: Width
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the page width in points for the the generated images.
 type: docs
-weight: 40
 url: /net/aspose.diagram.saving/pagesize/width/
 ---
 ## PageSize.Width property

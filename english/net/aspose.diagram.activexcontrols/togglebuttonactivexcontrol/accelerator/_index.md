@@ -3,7 +3,6 @@ title: Accelerator
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the accelerator key for the control.
 type: docs
-weight: 10
 url: /net/aspose.diagram.activexcontrols/togglebuttonactivexcontrol/accelerator/
 ---
 ## ToggleButtonActiveXControl.Accelerator property

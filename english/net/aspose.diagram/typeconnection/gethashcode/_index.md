@@ -3,7 +3,6 @@ title: GetHashCode
 second_title: Aspose.Diagram for .NET API Reference
 description: Serves as a hash function for a particular type.
 type: docs
-weight: 60
 url: /net/aspose.diagram/typeconnection/gethashcode/
 ---
 ## TypeConnection.GetHashCode method

@@ -3,7 +3,6 @@ title: YDyn
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the ycoordinate for a control handles anchor point in local coordinates. The anchor point is used for rubberbanding during dynamics.
 type: docs
-weight: 140
 url: /net/aspose.diagram/control/ydyn/
 ---
 ## Control.YDyn property

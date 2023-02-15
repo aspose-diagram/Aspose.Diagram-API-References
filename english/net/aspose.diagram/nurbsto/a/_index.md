@@ -3,7 +3,6 @@ title: A
 second_title: Aspose.Diagram for .NET API Reference
 description: The secondtolast knot of the nonuniform rational Bspline NURBS.
 type: docs
-weight: 20
 url: /net/aspose.diagram/nurbsto/a/
 ---
 ## NURBSTo.A property

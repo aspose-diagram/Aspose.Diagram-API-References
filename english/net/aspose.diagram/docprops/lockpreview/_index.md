@@ -3,7 +3,6 @@ title: LockPreview
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether a preview is saved each time you save a drawing.
 type: docs
-weight: 40
 url: /net/aspose.diagram/docprops/lockpreview/
 ---
 ## DocProps.LockPreview property

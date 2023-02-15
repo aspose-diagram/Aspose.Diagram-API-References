@@ -3,7 +3,6 @@ title: AddMaster
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds master to diagram from source diagram by masters Name or NameU.
 type: docs
-weight: 310
 url: /net/aspose.diagram/diagram/addmaster/
 ---
 ## AddMaster(Diagram, string) {#addmaster}

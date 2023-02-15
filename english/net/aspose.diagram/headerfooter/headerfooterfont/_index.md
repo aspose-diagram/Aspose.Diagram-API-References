@@ -3,7 +3,6 @@ title: HeaderFooterFont
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the font used for the header and footer text.
 type: docs
-weight: 70
 url: /net/aspose.diagram/headerfooter/headerfooterfont/
 ---
 ## HeaderFooter.HeaderFooterFont property

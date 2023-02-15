@@ -3,7 +3,6 @@ title: DontMoveChildren
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether you can drag shapes in a group by using the mouse.
 type: docs
-weight: 30
 url: /net/aspose.diagram/group/dontmovechildren/
 ---
 ## Group.DontMoveChildren property

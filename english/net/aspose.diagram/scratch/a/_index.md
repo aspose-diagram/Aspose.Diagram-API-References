@@ -3,7 +3,6 @@ title: A
 second_title: Aspose.Diagram for .NET API Reference
 description: A generalpurpose element.
 type: docs
-weight: 20
 url: /net/aspose.diagram/scratch/a/
 ---
 ## Scratch.A property

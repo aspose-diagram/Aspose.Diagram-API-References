@@ -3,7 +3,6 @@ title: Print
 second_title: Aspose.Diagram for .NET API Reference
 description: Prints the whole document to the default printer.
 type: docs
-weight: 400
 url: /net/aspose.diagram/diagram/print/
 ---
 ## Print(PrintSaveOptions) {#print_1}

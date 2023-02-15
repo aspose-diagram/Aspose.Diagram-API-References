@@ -3,7 +3,6 @@ title: Aspose.Diagram.Saving
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains classes for save options.
 type: docs
-weight: 70
 url: /net/aspose.diagram.saving/
 ---
 Contains classes for save options.

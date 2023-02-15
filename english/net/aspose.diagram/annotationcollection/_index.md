@@ -3,7 +3,6 @@ title: AnnotationCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: Annotation collection.
 type: docs
-weight: 400
 url: /net/aspose.diagram/annotationcollection/
 ---
 ## AnnotationCollection class

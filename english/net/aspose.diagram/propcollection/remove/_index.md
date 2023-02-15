@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the Prop object from the collection.
 type: docs
-weight: 40
 url: /net/aspose.diagram/propcollection/remove/
 ---
 ## PropCollection.Remove method

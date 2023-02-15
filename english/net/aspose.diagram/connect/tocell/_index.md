@@ -3,7 +3,6 @@ title: ToCell
 second_title: Aspose.Diagram for .NET API Reference
 description: The cell to which a connection is made.
 type: docs
-weight: 50
 url: /net/aspose.diagram/connect/tocell/
 ---
 ## Connect.ToCell property

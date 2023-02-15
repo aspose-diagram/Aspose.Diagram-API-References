@@ -3,7 +3,6 @@ title: PolylineTo
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates an instance of the PolylineToaspose.diagram/polylineto class.
 type: docs
-weight: 10
 url: /net/aspose.diagram/polylineto/polylineto/
 ---
 ## PolylineTo constructor

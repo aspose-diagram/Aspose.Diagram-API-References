@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the routing style and direction for all dynamic connectors on the drawing page that dont have a local routing style.
 type: docs
-weight: 30
 url: /net/aspose.diagram/routestyle/value/
 ---
 ## RouteStyle.Value property

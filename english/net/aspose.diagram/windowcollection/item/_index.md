@@ -3,7 +3,6 @@ title: Item
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the element at the specified index.
 type: docs
-weight: 30
 url: /net/aspose.diagram/windowcollection/item/
 ---
 ## WindowCollection indexer

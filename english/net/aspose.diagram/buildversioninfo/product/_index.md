@@ -3,7 +3,6 @@ title: Product
 second_title: Aspose.Diagram for .NET API Reference
 description: Product name read only string.
 type: docs
-weight: 40
 url: /net/aspose.diagram/buildversioninfo/product/
 ---
 ## BuildVersionInfo.Product field

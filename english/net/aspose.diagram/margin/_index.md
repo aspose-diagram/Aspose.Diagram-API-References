@@ -3,7 +3,6 @@ title: Margin
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the margin.
 type: docs
-weight: 2270
 url: /net/aspose.diagram/margin/
 ---
 ## Margin class

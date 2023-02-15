@@ -3,7 +3,6 @@ title: Page
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 2490
 url: /net/aspose.diagram/page/
 ---
 ## Page class
@@ -73,8 +72,10 @@ public class Page : IDisposable
 | [DrawBezier](../../aspose.diagram/page/drawbezier)(double, double, double, double, PointF[]) | The process of drawing bezier. The length of points should be equal or greater than 3. |
 | [DrawEllipse](../../aspose.diagram/page/drawellipse)(double, double, double, double) | The process of drawing Ellipse. |
 | [DrawLine](../../aspose.diagram/page/drawline#drawline)(double, double, double, double) | The process of drawing a single line. |
-| [DrawLine](../../aspose.diagram/page/drawline#drawline_1)(double, double, double, double, PointF[]) | The process of drawing line. |
-| [DrawPolyline](../../aspose.diagram/page/drawpolyline)(double, double, double, double, PointF[]) | The process of drawing polyline. |
+| [DrawLine](../../aspose.diagram/page/drawline#drawline_1)(double, double, double, double, double[]) | The process of drawing line. |
+| [DrawLine](../../aspose.diagram/page/drawline#drawline_2)(double, double, double, double, PointF[]) | The process of drawing line. |
+| [DrawPolyline](../../aspose.diagram/page/drawpolyline#drawpolyline)(double, double, double, double, double[]) | The process of drawing Polyline. |
+| [DrawPolyline](../../aspose.diagram/page/drawpolyline#drawpolyline_1)(double, double, double, double, PointF[]) | The process of drawing polyline. |
 | [DrawRectangle](../../aspose.diagram/page/drawrectangle)(double, double, double, double) | The process of drawing rectangle. |
 | [DrawSpline](../../aspose.diagram/page/drawspline)(double, double, double, double, PointF[]) | The process of drawing spline. |
 | [GlueShapes](../../aspose.diagram/page/glueshapes#glueshapes_1)(long, ConnectionPointPlace, long) | Glue shapes |

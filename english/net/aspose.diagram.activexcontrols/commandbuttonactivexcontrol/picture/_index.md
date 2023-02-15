@@ -3,7 +3,6 @@ title: Picture
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the data of the picture.
 type: docs
-weight: 40
 url: /net/aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture/
 ---
 ## CommandButtonActiveXControl.Picture property

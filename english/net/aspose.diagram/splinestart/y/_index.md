@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of a splines second control point.
 type: docs
-weight: 90
 url: /net/aspose.diagram/splinestart/y/
 ---
 ## SplineStart.Y property

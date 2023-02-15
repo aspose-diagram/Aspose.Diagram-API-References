@@ -3,7 +3,6 @@ title: Currency
 second_title: Aspose.Diagram for .NET API Reference
 description: Currency ID of the data column.
 type: docs
-weight: 40
 url: /net/aspose.diagram/datacolumn/currency/
 ---
 ## DataColumn.Currency property

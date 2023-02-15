@@ -3,7 +3,6 @@ title: TypeProp
 second_title: Aspose.Diagram for .NET API Reference
 description: Constructor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/typeprop/typeprop/
 ---
 ## TypeProp constructor

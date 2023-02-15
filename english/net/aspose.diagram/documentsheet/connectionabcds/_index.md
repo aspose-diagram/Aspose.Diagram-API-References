@@ -3,7 +3,6 @@ title: ConnectionABCDs
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a collection of ConnectionABCD elements.
 type: docs
-weight: 20
 url: /net/aspose.diagram/documentsheet/connectionabcds/
 ---
 ## DocumentSheet.ConnectionABCDs property

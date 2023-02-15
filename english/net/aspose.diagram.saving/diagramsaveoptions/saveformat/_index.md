@@ -3,7 +3,6 @@ title: SaveFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be VDXaspose.diagram/savefileformat or VSXaspose.diagram/savefileformat.
 type: docs
-weight: 30
 url: /net/aspose.diagram.saving/diagramsaveoptions/saveformat/
 ---
 ## DiagramSaveOptions.SaveFormat property

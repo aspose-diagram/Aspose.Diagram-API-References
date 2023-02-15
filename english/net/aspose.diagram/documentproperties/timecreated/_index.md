@@ -3,7 +3,6 @@ title: TimeCreated
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains date and time value indicating when the document was created.
 type: docs
-weight: 160
 url: /net/aspose.diagram/documentproperties/timecreated/
 ---
 ## DocumentProperties.TimeCreated property

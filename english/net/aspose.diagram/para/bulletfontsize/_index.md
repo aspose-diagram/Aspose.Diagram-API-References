@@ -3,7 +3,6 @@ title: BulletFontSize
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the size of a bullet.
 type: docs
-weight: 40
 url: /net/aspose.diagram/para/bulletfontsize/
 ---
 ## Para.BulletFontSize property

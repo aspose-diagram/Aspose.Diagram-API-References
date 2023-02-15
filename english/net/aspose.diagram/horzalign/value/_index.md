@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the horizontal alignment of text in the shapes text block.
 type: docs
-weight: 30
 url: /net/aspose.diagram/horzalign/value/
 ---
 ## HorzAlign.Value property

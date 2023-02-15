@@ -3,7 +3,6 @@ title: GetMaxRelID
 second_title: Aspose.Diagram for .NET API Reference
 description: get the max rel id in the collection.
 type: docs
-weight: 60
 url: /net/aspose.diagram/mastercollection/getmaxrelid/
 ---
 ## MasterCollection.GetMaxRelID method

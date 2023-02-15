@@ -3,7 +3,6 @@ title: GlueShapesInContainerByID
 second_title: Aspose.Diagram for .NET API Reference
 description: Glue shapes by connection id in container
 type: docs
-weight: 400
 url: /net/aspose.diagram/page/glueshapesincontainerbyid/
 ---
 ## Page.GlueShapesInContainerByID method

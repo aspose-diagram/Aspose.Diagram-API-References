@@ -3,7 +3,6 @@ title: PictureSizeMode
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets how to display the picture.
 type: docs
-weight: 70
 url: /net/aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode/
 ---
 ## ImageActiveXControl.PictureSizeMode property

@@ -3,7 +3,6 @@ title: PageCount
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the number of pages to render in HTML. Default is MaxValue which means all pages of the diagram will be rendered.
 type: docs
-weight: 30
 url: /net/aspose.diagram.saving/htmlsaveoptions/pagecount/
 ---
 ## HTMLSaveOptions.PageCount property

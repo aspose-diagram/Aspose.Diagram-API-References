@@ -3,7 +3,6 @@ title: TheText
 second_title: Aspose.Diagram for .NET API Reference
 description: An event element that is evaluated when a shapes text or text composition changes.
 type: docs
-weight: 70
 url: /net/aspose.diagram/event/thetext/
 ---
 ## Event.TheText property

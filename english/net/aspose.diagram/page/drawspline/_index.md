@@ -3,7 +3,6 @@ title: DrawSpline
 second_title: Aspose.Diagram for .NET API Reference
 description: The process of drawing spline.
 type: docs
-weight: 370
 url: /net/aspose.diagram/page/drawspline/
 ---
 ## Page.DrawSpline method

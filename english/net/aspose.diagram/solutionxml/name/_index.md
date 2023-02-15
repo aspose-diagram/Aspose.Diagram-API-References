@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: A unique name to identify the XML data set.
 type: docs
-weight: 20
 url: /net/aspose.diagram/solutionxml/name/
 ---
 ## SolutionXML.Name property

@@ -3,7 +3,6 @@ title: ContextTypeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table.
 type: docs
-weight: 1000
 url: /net/aspose.diagram/contexttypevalue/
 ---
 ## ContextTypeValue enumeration

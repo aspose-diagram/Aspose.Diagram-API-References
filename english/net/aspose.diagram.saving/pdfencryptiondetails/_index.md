@@ -3,7 +3,6 @@ title: PdfEncryptionDetails
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains details for a pdf encryption.
 type: docs
-weight: 3390
 url: /net/aspose.diagram.saving/pdfencryptiondetails/
 ---
 ## PdfEncryptionDetails class

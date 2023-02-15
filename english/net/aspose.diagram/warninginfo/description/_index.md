@@ -3,7 +3,6 @@ title: Description
 second_title: Aspose.Diagram for .NET API Reference
 description: Get description of warning info.
 type: docs
-weight: 20
 url: /net/aspose.diagram/warninginfo/description/
 ---
 ## WarningInfo.Description property

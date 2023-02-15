@@ -3,7 +3,6 @@ title: FooterLeft
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the text string that appears in the left portion of a documents footer.
 type: docs
-weight: 20
 url: /net/aspose.diagram/headerfooter/footerleft/
 ---
 ## HeaderFooter.FooterLeft property

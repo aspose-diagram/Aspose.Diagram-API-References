@@ -3,7 +3,6 @@ title: SnapSettings
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the objects that shapes snap to when snap is active in the window. The value may be a sum of the values in the following table.
 type: docs
-weight: 200
 url: /net/aspose.diagram/window/snapsettings/
 ---
 ## Window.SnapSettings property

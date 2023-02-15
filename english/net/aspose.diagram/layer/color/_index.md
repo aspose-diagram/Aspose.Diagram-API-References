@@ -3,7 +3,6 @@ title: Color
 second_title: Aspose.Diagram for .NET API Reference
 description: The index of the color in the color table used toThe index of the color in the color table used to display the layer or An RGB value specifying a custom color not in the color table for example ff9900 . display the layer
 type: docs
-weight: 30
 url: /net/aspose.diagram/layer/color/
 ---
 ## Layer.Color property

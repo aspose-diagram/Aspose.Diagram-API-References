@@ -3,7 +3,6 @@ title: ShdwOffsetY
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the distance in page units that a shapes drop shadow is offset vertically from the shape.
 type: docs
-weight: 120
 url: /net/aspose.diagram/pageprops/shdwoffsety/
 ---
 ## PageProps.ShdwOffsetY property

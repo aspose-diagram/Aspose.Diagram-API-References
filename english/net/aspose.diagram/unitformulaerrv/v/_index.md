@@ -3,7 +3,6 @@ title: V
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the null string condition for a string cell value. In some cases it is helpful to distinguish between an empty string cell null and a null string cell value. This attribute is used to distinguish between these forms of an empty value.
 type: docs
-weight: 20
 url: /net/aspose.diagram/unitformulaerrv/v/
 ---
 ## UnitFormulaErrV.V property

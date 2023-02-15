@@ -3,7 +3,6 @@ title: IsColorChecked
 second_title: Aspose.Diagram for .NET API Reference
 description: A flag indicating whether the element has been checked locally. A value of 1 indicates that the element was checked locally.
 type: docs
-weight: 70
 url: /net/aspose.diagram/layer/iscolorchecked/
 ---
 ## Layer.IsColorChecked property

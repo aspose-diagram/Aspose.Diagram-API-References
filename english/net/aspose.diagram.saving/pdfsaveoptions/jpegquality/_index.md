@@ -3,7 +3,6 @@ title: JpegQuality
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the quality of JPEG compression for images if JPEG compression is used. Default is 95.
 type: docs
-weight: 70
 url: /net/aspose.diagram.saving/pdfsaveoptions/jpegquality/
 ---
 ## PdfSaveOptions.JpegQuality property

@@ -3,7 +3,6 @@ title: ID
 second_title: Aspose.Diagram for .NET API Reference
 description: The unique ID of the element within its parent element.
 type: docs
-weight: 120
 url: /net/aspose.diagram/stylesheet/id/
 ---
 ## StyleSheet.ID property

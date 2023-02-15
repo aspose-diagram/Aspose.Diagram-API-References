@@ -3,7 +3,6 @@ title: ControlListStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the visual appearance of the list in a ListBox or ComboBox.
 type: docs
-weight: 130
 url: /net/aspose.diagram.activexcontrols/controlliststyle/
 ---
 ## ControlListStyle enumeration

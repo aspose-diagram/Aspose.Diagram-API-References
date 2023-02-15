@@ -3,7 +3,6 @@ title: GlueShapes
 second_title: Aspose.Diagram for .NET API Reference
 description: Glue shapes.
 type: docs
-weight: 380
 url: /net/aspose.diagram/page/glueshapes/
 ---
 ## GlueShapes(Shape, ConnectionPointPlace, Shape) {#glueshapes}

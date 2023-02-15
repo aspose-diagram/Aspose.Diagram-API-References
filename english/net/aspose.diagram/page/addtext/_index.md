@@ -3,7 +3,6 @@ title: AddText
 second_title: Aspose.Diagram for .NET API Reference
 description: Adds Text with defined PinX and PinY.
 type: docs
-weight: 220
 url: /net/aspose.diagram/page/addtext/
 ---
 ## AddText(double, double, double, double, string, string, string, double) {#addtext_1}

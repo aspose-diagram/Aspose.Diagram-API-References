@@ -81,7 +81,7 @@ public String getFormula()
 ```
 
 
-Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula exists locally, "No Formula" if the formula is locally deleted or blocked, or "Inh" if the formula is inherited. If the attribute is not present, the element's formula is a simple constant. For example, 5.
+Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula exists locally, "No Formula" if the formula is locally deleted or blocked, or "Inh" if the formula is inherited. If the attribute is not present, the element's formula is a simple constant.
 
 **Returns:**
 java.lang.String

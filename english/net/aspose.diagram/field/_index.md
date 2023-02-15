@@ -3,7 +3,6 @@ title: Field
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify functions and formulas inserted in the shapes text.
 type: docs
-weight: 1430
 url: /net/aspose.diagram/field/
 ---
 ## Field class

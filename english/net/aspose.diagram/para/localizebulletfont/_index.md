@@ -3,7 +3,6 @@ title: LocalizeBulletFont
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the bullet font should be localized translated into another language.
 type: docs
-weight: 130
 url: /net/aspose.diagram/para/localizebulletfont/
 ---
 ## Para.LocalizeBulletFont property

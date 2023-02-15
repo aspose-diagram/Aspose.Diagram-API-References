@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the bullet style.
 type: docs
-weight: 30
 url: /net/aspose.diagram/bullet/value/
 ---
 ## Bullet.Value property

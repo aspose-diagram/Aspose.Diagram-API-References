@@ -3,7 +3,6 @@ title: PlaceFlipValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio. The following hexadecimal values are allowed.
 type: docs
-weight: 2640
 url: /net/aspose.diagram/placeflipvalue/
 ---
 ## PlaceFlipValue enumeration

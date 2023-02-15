@@ -3,7 +3,6 @@ title: InhibitSnap
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the shapes on a foreground page snap to other objects on the page and shapes on the background page.
 type: docs
-weight: 60
 url: /net/aspose.diagram/pageprops/inhibitsnap/
 ---
 ## PageProps.InhibitSnap property

@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Removes module for a page.
 type: docs
-weight: 30
 url: /net/aspose.diagram.vba/vbamodulecollection/remove/
 ---
 ## Remove(Page) {#remove}

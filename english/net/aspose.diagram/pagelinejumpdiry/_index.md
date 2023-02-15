@@ -3,7 +3,6 @@ title: PageLineJumpDirY
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the direction of line jumps on vertical dynamic connectors on the drawing page for which you havent applied a local jump direction.
 type: docs
-weight: 2540
 url: /net/aspose.diagram/pagelinejumpdiry/
 ---
 ## PageLineJumpDirY class

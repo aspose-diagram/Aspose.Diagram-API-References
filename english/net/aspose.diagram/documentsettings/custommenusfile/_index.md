@@ -3,7 +3,6 @@ title: CustomMenusFile
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the name of the Microsoft Visio user interface .vsu file that defines custom menus and accelerators for a document.
 type: docs
-weight: 20
 url: /net/aspose.diagram/documentsettings/custommenusfile/
 ---
 ## DocumentSettings.CustomMenusFile property

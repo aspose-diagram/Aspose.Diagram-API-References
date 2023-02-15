@@ -3,7 +3,6 @@ title: PageEndSaving
 second_title: Aspose.Diagram for .NET API Reference
 description: Control/Indicate a page ends to be output.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/ipagesavingcallback/pageendsaving/
 ---
 ## IPageSavingCallback.PageEndSaving method

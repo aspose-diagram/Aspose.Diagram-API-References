@@ -3,7 +3,6 @@ title: BevelLightingType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the type of shadow for a shape.
 type: docs
-weight: 520
 url: /net/aspose.diagram/bevellightingtype/
 ---
 ## BevelLightingType class

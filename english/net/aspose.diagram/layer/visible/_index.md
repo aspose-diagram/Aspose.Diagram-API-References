@@ -3,7 +3,6 @@ title: Visible
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether shapes belonging to the layer are visible on the drawing page.
 type: docs
-weight: 150
 url: /net/aspose.diagram/layer/visible/
 ---
 ## Layer.Visible property

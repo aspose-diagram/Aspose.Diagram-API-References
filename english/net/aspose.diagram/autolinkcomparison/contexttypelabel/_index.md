@@ -3,7 +3,6 @@ title: ContextTypeLabel
 second_title: Aspose.Diagram for .NET API Reference
 description: If the ContextType value is 2 or 3 this attribute is required to define a comparison. For ContextType  2 ContextTypeLabel must be the shape data item label and if ContextType  3 ContextTypeLabel must be the local row name.
 type: docs
-weight: 30
 url: /net/aspose.diagram/autolinkcomparison/contexttypelabel/
 ---
 ## AutoLinkComparison.ContextTypeLabel property

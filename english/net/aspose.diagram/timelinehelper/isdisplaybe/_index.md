@@ -3,7 +3,6 @@ title: IsDisplayBE
 second_title: Aspose.Diagram for .NET API Reference
 description: whether to display Begin and End dates on timeline
 type: docs
-weight: 100
 url: /net/aspose.diagram/timelinehelper/isdisplaybe/
 ---
 ## TimeLineHelper.IsDisplayBE property

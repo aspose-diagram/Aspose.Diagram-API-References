@@ -3,7 +3,6 @@ title: CenterX
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether the drawing page is centered horizontally on the printed page.
 type: docs
-weight: 10
 url: /net/aspose.diagram/printprops/centerx/
 ---
 ## PrintProps.CenterX property

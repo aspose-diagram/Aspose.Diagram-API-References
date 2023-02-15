@@ -3,7 +3,6 @@ title: Label
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the label that appears to users in the Custom Properties dialog box.
 type: docs
-weight: 80
 url: /net/aspose.diagram/prop/label/
 ---
 ## Prop.Label property

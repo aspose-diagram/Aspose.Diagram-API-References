@@ -3,7 +3,6 @@ title: Letterspace
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the amount of space between two or more characters. Space can be added or subtracted in 1/20th point increments.
 type: docs
-weight: 270
 url: /net/aspose.diagram/char/letterspace/
 ---
 ## Char.Letterspace property

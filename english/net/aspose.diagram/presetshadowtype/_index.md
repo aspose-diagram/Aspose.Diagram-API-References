@@ -3,7 +3,6 @@ title: PresetShadowType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents preset shadow type.
 type: docs
-weight: 2750
 url: /net/aspose.diagram/presetshadowtype/
 ---
 ## PresetShadowType enumeration

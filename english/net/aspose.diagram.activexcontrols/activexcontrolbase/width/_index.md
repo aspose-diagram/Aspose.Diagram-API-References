@@ -3,7 +3,6 @@ title: Width
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the width of the control in unit of point.
 type: docs
-weight: 80
 url: /net/aspose.diagram.activexcontrols/activexcontrolbase/width/
 ---
 ## ActiveXControlBase.Width property

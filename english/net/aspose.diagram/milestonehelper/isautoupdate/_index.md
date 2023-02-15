@@ -3,7 +3,6 @@ title: IsAutoUpdate
 second_title: Aspose.Diagram for .NET API Reference
 description: whether to update data for markers milestones intervals as they are moved on timeline
 type: docs
-weight: 40
 url: /net/aspose.diagram/milestonehelper/isautoupdate/
 ---
 ## MilestoneHelper.IsAutoUpdate property

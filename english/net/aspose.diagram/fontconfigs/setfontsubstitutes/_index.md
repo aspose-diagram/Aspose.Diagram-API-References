@@ -3,7 +3,6 @@ title: SetFontSubstitutes
 second_title: Aspose.Diagram for .NET API Reference
 description: Font substitute names for given original font name.
 type: docs
-weight: 90
 url: /net/aspose.diagram/fontconfigs/setfontsubstitutes/
 ---
 ## FontConfigs.SetFontSubstitutes method

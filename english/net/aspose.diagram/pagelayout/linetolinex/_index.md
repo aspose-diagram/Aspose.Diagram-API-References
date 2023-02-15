@@ -3,7 +3,6 @@ title: LineToLineX
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the minimum horizontal clearance between dynamic connectors on the drawing page.
 type: docs
-weight: 170
 url: /net/aspose.diagram/pagelayout/linetolinex/
 ---
 ## PageLayout.LineToLineX property

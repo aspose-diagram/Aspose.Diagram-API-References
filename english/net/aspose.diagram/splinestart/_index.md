@@ -3,7 +3,6 @@ title: SplineStart
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains x and ycoordinates for a splines second control point its second knot its first knot the last knot and the degree of the spline. This information is contained in the X Y A B C and D elements respectively.
 type: docs
-weight: 3850
 url: /net/aspose.diagram/splinestart/
 ---
 ## SplineStart class

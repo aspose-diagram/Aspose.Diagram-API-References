@@ -3,7 +3,6 @@ title: ReviewerID
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the ID number of the reviewer adding markup to the document.
 type: docs
-weight: 80
 url: /net/aspose.diagram/reviewer/reviewerid/
 ---
 ## Reviewer.ReviewerID property

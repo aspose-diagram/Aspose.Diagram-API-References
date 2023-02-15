@@ -3,7 +3,6 @@ title: MatchEntry
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates how a ListBox or ComboBox searches its list as the user types.
 type: docs
-weight: 90
 url: /net/aspose.diagram.activexcontrols/listboxactivexcontrol/matchentry/
 ---
 ## ListBoxActiveXControl.MatchEntry property

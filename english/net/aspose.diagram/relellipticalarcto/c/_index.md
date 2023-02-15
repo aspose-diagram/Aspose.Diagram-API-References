@@ -3,7 +3,6 @@ title: C
 second_title: Aspose.Diagram for .NET API Reference
 description: The angle of an arcs major axis relative to the xaxis of its parent.
 type: docs
-weight: 40
 url: /net/aspose.diagram/relellipticalarcto/c/
 ---
 ## RelEllipticalArcTo.C property

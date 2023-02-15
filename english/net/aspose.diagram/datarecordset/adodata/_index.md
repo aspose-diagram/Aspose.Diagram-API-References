@@ -3,7 +3,6 @@ title: ADOData
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains XML that conforms to the ADO classic XML schema for an ADO recordset and that describes the data in the data recordset.
 type: docs
-weight: 20
 url: /net/aspose.diagram/datarecordset/adodata/
 ---
 ## DataRecordSet.ADOData property

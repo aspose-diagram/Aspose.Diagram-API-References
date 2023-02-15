@@ -3,7 +3,6 @@ title: DropButtonStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the symbol displayed on the drop button
 type: docs
-weight: 60
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/dropbuttonstyle/
 ---
 ## ComboBoxActiveXControl.DropButtonStyle property

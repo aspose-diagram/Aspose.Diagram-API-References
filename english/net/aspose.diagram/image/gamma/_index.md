@@ -3,7 +3,6 @@ title: Gamma
 second_title: Aspose.Diagram for .NET API Reference
 description: Adjusts or corrects the intensity of an image for a particular output device such as a monitor or scanner. The default value is 1 no correction.
 type: docs
-weight: 60
 url: /net/aspose.diagram/image/gamma/
 ---
 ## Image.Gamma property

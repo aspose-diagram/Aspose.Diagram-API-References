@@ -3,7 +3,6 @@ title: Clone
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates deep copy of this instance.
 type: docs
-weight: 50
 url: /net/aspose.diagram/intvalue/clone/
 ---
 ## IntValue.Clone method

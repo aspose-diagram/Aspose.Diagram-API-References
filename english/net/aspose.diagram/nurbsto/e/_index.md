@@ -3,7 +3,6 @@ title: E
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains a nonuniform rational Bspline NURBS formula.
 type: docs
-weight: 70
 url: /net/aspose.diagram/nurbsto/e/
 ---
 ## NURBSTo.E property

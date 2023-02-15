@@ -3,7 +3,6 @@ title: GetShape
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the element at the specified name.
 type: docs
-weight: 30
 url: /net/aspose.diagram/shapecollection/getshape/
 ---
 ## GetShape(string) {#getshape_1}

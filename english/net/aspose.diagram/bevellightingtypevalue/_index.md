@@ -3,7 +3,6 @@ title: BevelLightingTypeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a preset light right that can be applied to a shape
 type: docs
-weight: 530
 url: /net/aspose.diagram/bevellightingtypevalue/
 ---
 ## BevelLightingTypeValue enumeration

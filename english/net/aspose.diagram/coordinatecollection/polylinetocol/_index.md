@@ -3,7 +3,6 @@ title: PolylineToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains x and ycoordinates of the last point of a polyline and a polyline formula. The coordinates are specified in the X and Y elements and the formula is specified in the A element.
 type: docs
-weight: 90
 url: /net/aspose.diagram/coordinatecollection/polylinetocol/
 ---
 ## CoordinateCollection.PolylineToCol property

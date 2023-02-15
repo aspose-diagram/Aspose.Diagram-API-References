@@ -3,7 +3,6 @@ title: CoordinateCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Collection of coordinates. It shows sequence of coordinates.
 type: docs
-weight: 20
 url: /net/aspose.diagram/geom/coordinatecol/
 ---
 ## Geom.CoordinateCol property

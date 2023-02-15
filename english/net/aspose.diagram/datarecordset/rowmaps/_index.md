@@ -3,7 +3,6 @@ title: RowMaps
 second_title: Aspose.Diagram for .NET API Reference
 description: Maps a datarecordset row to a shape. RowID  Row ID of the row unique within the data recordset. ShapeID  Shape ID of the shape linked to data in the datarecordset row identified by RowID. PageID  Page ID of the shape linked to data in the datarecordset row identified by RowID.
 type: docs
-weight: 180
 url: /net/aspose.diagram/datarecordset/rowmaps/
 ---
 ## DataRecordSet.RowMaps property

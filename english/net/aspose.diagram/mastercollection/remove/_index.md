@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the Master object from the collection.
 type: docs
-weight: 90
 url: /net/aspose.diagram/mastercollection/remove/
 ---
 ## MasterCollection.Remove method

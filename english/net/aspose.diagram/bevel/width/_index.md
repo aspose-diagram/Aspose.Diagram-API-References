@@ -3,7 +3,6 @@ title: Width
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the width of the bevel or how far into the shape it is applied.
 type: docs
-weight: 20
 url: /net/aspose.diagram/bevel/width/
 ---
 ## Bevel.Width property

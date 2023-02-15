@@ -3,7 +3,6 @@ title: ConnectedShapesFlags
 second_title: Aspose.Diagram for .NET API Reference
 description: Filters the array of returned shape IDs by the directionality of the connectors.
 type: docs
-weight: 920
 url: /net/aspose.diagram/connectedshapesflags/
 ---
 ## ConnectedShapesFlags enumeration

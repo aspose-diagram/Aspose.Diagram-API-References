@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the type of the ActiveX control.
 type: docs
-weight: 70
 url: /net/aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type/
 ---
 ## CommandButtonActiveXControl.Type property

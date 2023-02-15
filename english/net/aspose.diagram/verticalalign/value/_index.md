@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the vertical alignment of text within the text block.
 type: docs
-weight: 30
 url: /net/aspose.diagram/verticalalign/value/
 ---
 ## VerticalAlign.Value property

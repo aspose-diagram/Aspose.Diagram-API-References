@@ -3,7 +3,6 @@ title: Status
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether the layer is a valid layer for a document.
 type: docs
-weight: 140
 url: /net/aspose.diagram/layer/status/
 ---
 ## Layer.Status property

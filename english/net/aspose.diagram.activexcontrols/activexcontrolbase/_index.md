@@ -3,7 +3,6 @@ title: ActiveXControlBase
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the ActiveX control.
 type: docs
-weight: 50
 url: /net/aspose.diagram.activexcontrols/activexcontrolbase/
 ---
 ## ActiveXControlBase class

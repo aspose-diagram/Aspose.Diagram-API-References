@@ -3,7 +3,6 @@ title: Address
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies a URL address DOS file name or UNC path to jump to.
 type: docs
-weight: 20
 url: /net/aspose.diagram/hyperlink/address/
 ---
 ## Hyperlink.Address property

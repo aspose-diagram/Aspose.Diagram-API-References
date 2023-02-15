@@ -3,7 +3,6 @@ title: SelectModeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies how the user selects a group shape and its members.
 type: docs
-weight: 3560
 url: /net/aspose.diagram/selectmodevalue/
 ---
 ## SelectModeValue enumeration

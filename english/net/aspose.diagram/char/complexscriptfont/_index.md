@@ -3,7 +3,6 @@ title: ComplexScriptFont
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the number of the font used to format text composed of complex script characters. Complex scripts are languages whose characters require ligation or shaping such as the righttoleft languages Arabic Farsi Hebrew and Urdu and several South Asian languages.
 type: docs
-weight: 70
 url: /net/aspose.diagram/char/complexscriptfont/
 ---
 ## Char.ComplexScriptFont property

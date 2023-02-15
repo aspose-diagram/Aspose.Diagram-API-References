@@ -3,7 +3,6 @@ title: IsExportScaleInMatrix
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines whether need export scale in matrix or not.
 type: docs
-weight: 50
 url: /net/aspose.diagram.saving/svgsaveoptions/isexportscaleinmatrix/
 ---
 ## SVGSaveOptions.IsExportScaleInMatrix property

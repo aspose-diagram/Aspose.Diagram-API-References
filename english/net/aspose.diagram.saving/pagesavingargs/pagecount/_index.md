@@ -3,7 +3,6 @@ title: PageCount
 second_title: Aspose.Diagram for .NET API Reference
 description: Total page count.
 type: docs
-weight: 10
 url: /net/aspose.diagram.saving/pagesavingargs/pagecount/
 ---
 ## PageSavingArgs.PageCount property

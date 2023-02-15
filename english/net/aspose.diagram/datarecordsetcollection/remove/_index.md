@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the dataRecordSet from the collection.
 type: docs
-weight: 50
 url: /net/aspose.diagram/datarecordsetcollection/remove/
 ---
 ## DataRecordSetCollection.Remove method

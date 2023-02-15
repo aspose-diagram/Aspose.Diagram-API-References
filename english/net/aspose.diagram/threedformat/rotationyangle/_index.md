@@ -3,7 +3,6 @@ title: RotationYAngle
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the counterclockwise rotation angle of a shape around the xaxis
 type: docs
-weight: 190
 url: /net/aspose.diagram/threedformat/rotationyangle/
 ---
 ## ThreeDFormat.RotationYAngle property

@@ -3,7 +3,6 @@ title: GradientLine
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the current gradient line formatting values for the shape
 type: docs
-weight: 70
 url: /net/aspose.diagram/line/gradientline/
 ---
 ## Line.GradientLine property

@@ -3,7 +3,6 @@ title: IsEnabled
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the control can receive the focus and respond to usergenerated events.
 type: docs
-weight: 40
 url: /net/aspose.diagram.activexcontrols/activexcontrol/isenabled/
 ---
 ## ActiveXControl.IsEnabled property

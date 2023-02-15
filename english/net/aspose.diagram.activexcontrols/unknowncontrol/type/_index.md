@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the type of the ActiveX control.
 type: docs
-weight: 30
 url: /net/aspose.diagram.activexcontrols/unknowncontrol/type/
 ---
 ## UnknownControl.Type property

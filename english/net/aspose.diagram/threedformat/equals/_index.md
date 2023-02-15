@@ -3,7 +3,6 @@ title: Equals
 second_title: Aspose.Diagram for .NET API Reference
 description: 
 type: docs
-weight: 210
 url: /net/aspose.diagram/threedformat/equals/
 ---
 ## ThreeDFormat.Equals method

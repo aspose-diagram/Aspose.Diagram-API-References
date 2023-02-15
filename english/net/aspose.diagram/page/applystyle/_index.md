@@ -3,7 +3,6 @@ title: ApplyStyle
 second_title: Aspose.Diagram for .NET API Reference
 description: Applies style for full page.
 type: docs
-weight: 230
 url: /net/aspose.diagram/page/applystyle/
 ---
 ## Page.ApplyStyle method

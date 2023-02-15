@@ -3,7 +3,6 @@ title: BevelLightingType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the preset type of lighting on a 3D shape
 type: docs
-weight: 90
 url: /net/aspose.diagram/threedformat/bevellightingtype/
 ---
 ## ThreeDFormat.BevelLightingType property

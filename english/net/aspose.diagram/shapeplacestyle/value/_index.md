@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the appearance of a connector.
 type: docs
-weight: 30
 url: /net/aspose.diagram/shapeplacestyle/value/
 ---
 ## ShapePlaceStyle.Value property

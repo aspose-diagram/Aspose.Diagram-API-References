@@ -3,7 +3,6 @@ title: ComboBoxActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents a ComboBox ActiveX control.
 type: docs
-weight: 90
 url: /net/aspose.diagram.activexcontrols/comboboxactivexcontrol/
 ---
 ## ComboBoxActiveXControl class

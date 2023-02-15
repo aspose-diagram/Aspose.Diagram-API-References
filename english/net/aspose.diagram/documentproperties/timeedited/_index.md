@@ -3,7 +3,6 @@ title: TimeEdited
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains date and time value indicating when the document was last edited.
 type: docs
-weight: 170
 url: /net/aspose.diagram/documentproperties/timeedited/
 ---
 ## DocumentProperties.TimeEdited property

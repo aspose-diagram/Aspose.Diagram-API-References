@@ -3,7 +3,6 @@ title: ControlSpecialEffectType
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the type of special effect.
 type: docs
-weight: 210
 url: /net/aspose.diagram.activexcontrols/controlspecialeffecttype/
 ---
 ## ControlSpecialEffectType enumeration

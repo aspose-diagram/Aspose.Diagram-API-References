@@ -3,7 +3,6 @@ title: DetectFileFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: Detects and returns the information about a format of a visio stored in a stream.
 type: docs
-weight: 20
 url: /net/aspose.diagram/fileformatutil/detectfileformat/
 ---
 ## DetectFileFormat(Stream) {#detectfileformat}

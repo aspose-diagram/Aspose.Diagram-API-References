@@ -3,7 +3,6 @@ title: VbaProject
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the VbaProjectVbaProjectaspose.diagram/diagram/vbaproject.
 type: docs
-weight: 270
 url: /net/aspose.diagram/diagram/vbaproject/
 ---
 ## Diagram.VbaProject property

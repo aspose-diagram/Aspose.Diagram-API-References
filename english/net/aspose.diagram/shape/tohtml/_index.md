@@ -3,7 +3,6 @@ title: ToHTML
 second_title: Aspose.Diagram for .NET API Reference
 description: Creates the html and saves it to a file.
 type: docs
-weight: 990
 url: /net/aspose.diagram/shape/tohtml/
 ---
 ## ToHTML(string, HTMLSaveOptions) {#tohtml_1}

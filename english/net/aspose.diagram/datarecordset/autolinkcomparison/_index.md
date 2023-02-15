@@ -3,7 +3,6 @@ title: AutoLinkComparison
 second_title: Aspose.Diagram for .NET API Reference
 description: Defines a rule that compares a column in the parent DataRecordset element with a shape data item from the last successful automatic linking action performed in the user interface.
 type: docs
-weight: 30
 url: /net/aspose.diagram/datarecordset/autolinkcomparison/
 ---
 ## DataRecordSet.AutoLinkComparison property

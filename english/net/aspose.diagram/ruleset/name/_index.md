@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the local name of the validation rule set. Defaults to NameU attribute value.
 type: docs
-weight: 50
 url: /net/aspose.diagram/ruleset/name/
 ---
 ## RuleSet.Name property

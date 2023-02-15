@@ -3,7 +3,6 @@ title: ShapeShdwOffsetY
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the distance in page units that a shapes shadow is offset vertically from the shape.
 type: docs
-weight: 110
 url: /net/aspose.diagram/fill/shapeshdwoffsety/
 ---
 ## Fill.ShapeShdwOffsetY property

@@ -3,7 +3,6 @@ title: Remove
 second_title: Aspose.Diagram for .NET API Reference
 description: Remove the Coordinate object from the collection.
 type: docs
-weight: 180
 url: /net/aspose.diagram/coordinatecollection/remove/
 ---
 ## Remove(Coordinate) {#remove_1}

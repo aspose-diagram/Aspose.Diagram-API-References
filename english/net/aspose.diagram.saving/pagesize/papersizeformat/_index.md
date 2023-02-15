@@ -3,7 +3,6 @@ title: PaperSizeFormat
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the paper size format for the generated images. Can be PaperSizeFormataspose.diagram.saving/papersizeformat.
 type: docs
-weight: 30
 url: /net/aspose.diagram.saving/pagesize/papersizeformat/
 ---
 ## PageSize.PaperSizeFormat property

@@ -3,7 +3,6 @@ title: DrawingSizeType
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the drawing size of a page.
 type: docs
-weight: 50
 url: /net/aspose.diagram/pageprops/drawingsizetype/
 ---
 ## PageProps.DrawingSizeType property

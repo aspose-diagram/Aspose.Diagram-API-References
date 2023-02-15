@@ -3,7 +3,6 @@ title: RelMoveToCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: RelMoveTo collection.
 type: docs
-weight: 2980
 url: /net/aspose.diagram/relmovetocollection/
 ---
 ## RelMoveToCollection class

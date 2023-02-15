@@ -3,7 +3,6 @@ title: GetUnusedStyles
 second_title: Aspose.Diagram for .NET API Reference
 description: Get unused Styles
 type: docs
-weight: 370
 url: /net/aspose.diagram/diagram/getunusedstyles/
 ---
 ## Diagram.GetUnusedStyles method

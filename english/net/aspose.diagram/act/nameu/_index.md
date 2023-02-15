@@ -3,7 +3,6 @@ title: NameU
 second_title: Aspose.Diagram for .NET API Reference
 description: The universal name of the element.
 type: docs
-weight: 140
 url: /net/aspose.diagram/act/nameu/
 ---
 ## Act.NameU property

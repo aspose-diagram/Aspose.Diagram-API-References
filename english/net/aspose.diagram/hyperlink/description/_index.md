@@ -3,7 +3,6 @@ title: Description
 second_title: Aspose.Diagram for .NET API Reference
 description: Description element contains a text string that describes the hyperlink.
 type: docs
-weight: 50
 url: /net/aspose.diagram/hyperlink/description/
 ---
 ## Hyperlink.Description property

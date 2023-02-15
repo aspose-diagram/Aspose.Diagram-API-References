@@ -3,7 +3,6 @@ title: Del
 second_title: Aspose.Diagram for .NET API Reference
 description: A flag indicating whether the element is deleted locally. A value of 1 indicates that the element is deleted locally.
 type: docs
-weight: 140
 url: /net/aspose.diagram/shape/del/
 ---
 ## Shape.Del property

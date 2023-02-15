@@ -3,7 +3,6 @@ title: Diagram
 second_title: Aspose.Diagram for .NET API Reference
 description: Root element of Visio objects hierarchy.
 type: docs
-weight: 1160
 url: /net/aspose.diagram/diagram/
 ---
 ## Diagram class
@@ -19,12 +18,12 @@ public class Diagram : IDisposable
 | Name | Description |
 | --- | --- |
 | [Diagram](diagram#constructor)() | The default constructor. |
-| [Diagram](diagram#constructor_1)(Stream) | Public Diagram class constructor, loads the diagram from the stream. |
-| [Diagram](diagram#constructor_4)(string) | Public Diagram class constructor, loads the diagram from the file. |
-| [Diagram](diagram#constructor_2)(Stream, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the stream using predefined format. |
-| [Diagram](diagram#constructor_3)(Stream, LoadOptions) | Public Diagram class constructor, loads the diagram from the stream using predefined load file options. |
-| [Diagram](diagram#constructor_5)(string, LoadFileFormat) | Public Diagram class constructor, loads the diagram from the file using predefined format. |
-| [Diagram](diagram#constructor_6)(string, LoadOptions) | Public Diagram class constructor, loads the diagram from the file using predefined load file options. |
+| [Diagram](diagram#constructor_1)(Stream) | Public class constructor, loads the diagram from the stream. |
+| [Diagram](diagram#constructor_4)(string) | Public class constructor, loads the diagram from the file. |
+| [Diagram](diagram#constructor_2)(Stream, LoadFileFormat) | Public class constructor, loads the diagram from the stream using predefined format. |
+| [Diagram](diagram#constructor_3)(Stream, LoadOptions) | Public class constructor, loads the diagram from the stream using predefined load file options. |
+| [Diagram](diagram#constructor_5)(string, LoadFileFormat) | Public class constructor, loads the diagram from the file using predefined format. |
+| [Diagram](diagram#constructor_6)(string, LoadOptions) | Public class constructor, loads the diagram from the file using predefined load file options. |
 
 ## Properties
 

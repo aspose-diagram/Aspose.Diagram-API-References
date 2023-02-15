@@ -3,7 +3,6 @@ title: Name
 second_title: Aspose.Diagram for .NET API Reference
 description: Name element specifies the name of a layer.
 type: docs
-weight: 100
 url: /net/aspose.diagram/layer/name/
 ---
 ## Layer.Name property

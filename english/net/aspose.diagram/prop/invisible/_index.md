@@ -3,7 +3,6 @@ title: Invisible
 second_title: Aspose.Diagram for .NET API Reference
 description: Invisible element specifies whether the custom property is visible in the Custom Properties dialog box in Microsoft Visio.
 type: docs
-weight: 60
 url: /net/aspose.diagram/prop/invisible/
 ---
 ## Prop.Invisible property

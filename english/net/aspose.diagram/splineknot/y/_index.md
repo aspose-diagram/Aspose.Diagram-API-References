@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of a control point.
 type: docs
-weight: 60
 url: /net/aspose.diagram/splineknot/y/
 ---
 ## SplineKnot.Y property

@@ -3,7 +3,6 @@ title: Connection
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements for one connection point defined for the shape.
 type: docs
-weight: 930
 url: /net/aspose.diagram/connection/
 ---
 ## Connection class

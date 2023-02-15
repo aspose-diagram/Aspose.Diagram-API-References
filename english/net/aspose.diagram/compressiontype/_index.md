@@ -3,7 +3,6 @@ title: CompressionType
 second_title: Aspose.Diagram for .NET API Reference
 description: This attribute is only meaningful if the foreign data is a rasterbased foreign object such as a DIB JPG PNG TIFF or GIF file. The value indicates the type of compression applied to the file.
 type: docs
-weight: 750
 url: /net/aspose.diagram/compressiontype/
 ---
 ## CompressionType enumeration

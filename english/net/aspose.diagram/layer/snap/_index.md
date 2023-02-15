@@ -3,7 +3,6 @@ title: Snap
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether other shapes can snap to shapes assigned to the layer. Shapes assigned to the layer can snap to other shapes but other shapes cannot snap to them.
 type: docs
-weight: 130
 url: /net/aspose.diagram/layer/snap/
 ---
 ## Layer.Snap property

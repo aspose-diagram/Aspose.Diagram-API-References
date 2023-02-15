@@ -3,7 +3,6 @@ title: FromSheet
 second_title: Aspose.Diagram for .NET API Reference
 description: The ID of the shape from which a connection or connections originate.
 type: docs
-weight: 40
 url: /net/aspose.diagram/connect/fromsheet/
 ---
 ## Connect.FromSheet property

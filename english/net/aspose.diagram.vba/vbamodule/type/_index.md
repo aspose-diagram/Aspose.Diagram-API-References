@@ -3,7 +3,6 @@ title: Type
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets the type of module.
 type: docs
-weight: 30
 url: /net/aspose.diagram.vba/vbamodule/type/
 ---
 ## VbaModule.Type property

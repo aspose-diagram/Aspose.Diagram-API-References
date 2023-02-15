@@ -1,12 +1,13 @@
 ---
 title: PresetThemeVariantValue
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: Specifies the theme Variant value
 type: docs
-weight: 2780
 url: /net/aspose.diagram/presetthemevariantvalue/
 ---
 ## PresetThemeVariantValue enumeration
+
+Specifies the theme Variant value
 
 ```csharp
 public enum PresetThemeVariantValue
@@ -16,10 +17,10 @@ public enum PresetThemeVariantValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Variant1 | `0` |  |
-| Variant2 | `1` |  |
-| Variant3 | `2` |  |
-| Variant4 | `3` |  |
+| Variant1 | `0` | Variant1. |
+| Variant2 | `1` | Variant2. |
+| Variant3 | `2` | Variant3. |
+| Variant4 | `3` | Variant4. |
 
 ### See Also
 

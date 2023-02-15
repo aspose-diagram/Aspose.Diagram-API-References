@@ -3,7 +3,6 @@ title: BackPage
 second_title: Aspose.Diagram for .NET API Reference
 description: The pages background page.
 type: docs
-weight: 40
 url: /net/aspose.diagram/page/backpage/
 ---
 ## Page.BackPage property

@@ -3,7 +3,6 @@ title: Alignment
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the tab alignment.
 type: docs
-weight: 10
 url: /net/aspose.diagram/tab/alignment/
 ---
 ## Tab.Alignment property

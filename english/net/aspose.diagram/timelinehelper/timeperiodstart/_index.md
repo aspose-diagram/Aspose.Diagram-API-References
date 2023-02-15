@@ -3,7 +3,6 @@ title: TimePeriodStart
 second_title: Aspose.Diagram for .NET API Reference
 description: Time Period for start of timeline shape
 type: docs
-weight: 150
 url: /net/aspose.diagram/timelinehelper/timeperiodstart/
 ---
 ## TimeLineHelper.TimePeriodStart property

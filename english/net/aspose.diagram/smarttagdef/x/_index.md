@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate position in the shapes local coordinates around which the smart tag button is placed.
 type: docs
-weight: 110
 url: /net/aspose.diagram/smarttagdef/x/
 ---
 ## SmartTagDef.X property

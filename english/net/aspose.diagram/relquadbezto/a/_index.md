@@ -3,7 +3,6 @@ title: A
 second_title: Aspose.Diagram for .NET API Reference
 description: The xcoordinate of the control point in relative coordinates.
 type: docs
-weight: 20
 url: /net/aspose.diagram/relquadbezto/a/
 ---
 ## RelQuadBezTo.A property

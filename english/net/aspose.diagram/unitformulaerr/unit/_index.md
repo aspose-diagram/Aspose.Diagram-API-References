@@ -3,7 +3,6 @@ title: Unit
 second_title: Aspose.Diagram for .NET API Reference
 description: Units of measure.
 type: docs
-weight: 40
 url: /net/aspose.diagram/unitformulaerr/unit/
 ---
 ## UnitFormulaErr.Unit property

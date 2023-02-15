@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of the ending vertex of an arc.
 type: docs
-weight: 60
 url: /net/aspose.diagram/arcto/y/
 ---
 ## ArcTo.Y property

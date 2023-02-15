@@ -3,7 +3,6 @@ title: Comment
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the comment text in string format for a shape.
 type: docs
-weight: 30
 url: /net/aspose.diagram/misc/comment/
 ---
 ## Misc.Comment property

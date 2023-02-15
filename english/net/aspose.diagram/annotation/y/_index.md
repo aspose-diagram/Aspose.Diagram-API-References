@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of the comment marker in page coordinates.
 type: docs
-weight: 110
 url: /net/aspose.diagram/annotation/y/
 ---
 ## Annotation.Y property

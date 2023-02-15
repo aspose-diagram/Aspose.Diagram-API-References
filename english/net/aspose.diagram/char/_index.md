@@ -3,7 +3,6 @@ title: Char
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the formatting attributes for the shapes text such as font color text style case position relative to the baseline and point size.
 type: docs
-weight: 670
 url: /net/aspose.diagram/char/
 ---
 ## Char class

@@ -3,7 +3,6 @@ title: GradientFill
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the current gradient fill formatting values for the shape
 type: docs
-weight: 70
 url: /net/aspose.diagram/fill/gradientfill/
 ---
 ## Fill.GradientFill property

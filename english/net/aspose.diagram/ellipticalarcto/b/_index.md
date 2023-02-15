@@ -3,7 +3,6 @@ title: B
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate of an arcs control point.
 type: docs
-weight: 30
 url: /net/aspose.diagram/ellipticalarcto/b/
 ---
 ## EllipticalArcTo.B property

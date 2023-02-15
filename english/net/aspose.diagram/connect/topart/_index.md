@@ -3,7 +3,6 @@ title: ToPart
 second_title: Aspose.Diagram for .NET API Reference
 description: The part of a shape to which a connection is made.
 type: docs
-weight: 60
 url: /net/aspose.diagram/connect/topart/
 ---
 ## Connect.ToPart property

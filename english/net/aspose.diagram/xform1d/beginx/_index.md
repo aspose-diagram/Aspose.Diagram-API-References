@@ -3,7 +3,6 @@ title: BeginX
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents the xcoordinate of the begin point of the 1D shape in relation to the origin of its parent.
 type: docs
-weight: 10
 url: /net/aspose.diagram/xform1d/beginx/
 ---
 ## XForm1D.BeginX property

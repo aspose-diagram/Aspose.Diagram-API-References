@@ -3,7 +3,6 @@ title: PosValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the position of the shapes text relative to the baseline.
 type: docs
-weight: 2700
 url: /net/aspose.diagram/posvalue/
 ---
 ## PosValue enumeration

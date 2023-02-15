@@ -3,7 +3,6 @@ title: SmoothingMode
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether smoothing antialiasing is applied to lines and curves and the edges of filled areas.
 type: docs
-weight: 180
 url: /net/aspose.diagram.saving/imagesaveoptions/smoothingmode/
 ---
 ## ImageSaveOptions.SmoothingMode property

@@ -3,7 +3,6 @@ title: DataRecordSets
 second_title: Aspose.Diagram for .NET API Reference
 description: The collection of DataRecordset objects associated with a Document object.
 type: docs
-weight: 60
 url: /net/aspose.diagram/diagram/datarecordsets/
 ---
 ## Diagram.DataRecordSets property

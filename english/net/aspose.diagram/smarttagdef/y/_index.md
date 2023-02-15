@@ -3,7 +3,6 @@ title: Y
 second_title: Aspose.Diagram for .NET API Reference
 description: The ycoordinate position in the shapes local coordinates around which the smart tag button is placed.
 type: docs
-weight: 130
 url: /net/aspose.diagram/smarttagdef/y/
 ---
 ## SmartTagDef.Y property

@@ -3,7 +3,6 @@ title: License
 second_title: Aspose.Diagram for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 2060
 url: /net/aspose.diagram/license/
 ---
 ## License class

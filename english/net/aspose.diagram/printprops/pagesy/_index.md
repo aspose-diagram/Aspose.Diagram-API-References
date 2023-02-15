@@ -3,7 +3,6 @@ title: PagesY
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the number of printer pages on which to fit the drawing page vertically.
 type: docs
-weight: 90
 url: /net/aspose.diagram/printprops/pagesy/
 ---
 ## PrintProps.PagesY property

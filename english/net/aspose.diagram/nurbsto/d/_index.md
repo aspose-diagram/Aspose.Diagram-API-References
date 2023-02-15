@@ -3,7 +3,6 @@ title: D
 second_title: Aspose.Diagram for .NET API Reference
 description: The first weight of the nonuniform rational Bspline NURBS
 type: docs
-weight: 50
 url: /net/aspose.diagram/nurbsto/d/
 ---
 ## NURBSTo.D property

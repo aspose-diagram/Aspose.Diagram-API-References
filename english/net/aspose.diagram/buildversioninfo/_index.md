@@ -3,7 +3,6 @@ title: BuildVersionInfo
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains build version and product information.
 type: docs
-weight: 600
 url: /net/aspose.diagram/buildversioninfo/
 ---
 ## BuildVersionInfo class

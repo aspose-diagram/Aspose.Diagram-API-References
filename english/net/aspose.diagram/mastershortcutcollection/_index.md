@@ -3,7 +3,6 @@ title: MasterShortcutCollection
 second_title: Aspose.Diagram for .NET API Reference
 description: MasterShortcut collection.
 type: docs
-weight: 2310
 url: /net/aspose.diagram/mastershortcutcollection/
 ---
 ## MasterShortcutCollection class

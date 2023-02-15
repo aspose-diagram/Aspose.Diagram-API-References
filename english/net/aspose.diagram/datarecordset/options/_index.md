@@ -3,7 +3,6 @@ title: Options
 second_title: Aspose.Diagram for .NET API Reference
 description: Options to apply to the data recordset. Possible values can be any combination of one or more of those shown in the following table.
 type: docs
-weight: 110
 url: /net/aspose.diagram/datarecordset/options/
 ---
 ## DataRecordSet.Options property

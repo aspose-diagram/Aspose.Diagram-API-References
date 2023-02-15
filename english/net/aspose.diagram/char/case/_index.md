@@ -3,7 +3,6 @@ title: Case
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the case of a shapes text.
 type: docs
-weight: 40
 url: /net/aspose.diagram/char/case/
 ---
 ## Char.Case property

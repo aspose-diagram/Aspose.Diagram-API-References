@@ -3,7 +3,6 @@ title: SpecialEffect
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the special effect of the control.
 type: docs
-weight: 120
 url: /net/aspose.diagram.activexcontrols/listboxactivexcontrol/specialeffect/
 ---
 ## ListBoxActiveXControl.SpecialEffect property

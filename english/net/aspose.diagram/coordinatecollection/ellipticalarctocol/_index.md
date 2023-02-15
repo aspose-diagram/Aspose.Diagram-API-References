@@ -3,7 +3,6 @@ title: EllipticalArcToCol
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains elements that specify information about an elliptical arc.
 type: docs
-weight: 30
 url: /net/aspose.diagram/coordinatecollection/ellipticalarctocol/
 ---
 ## CoordinateCollection.EllipticalArcToCol property

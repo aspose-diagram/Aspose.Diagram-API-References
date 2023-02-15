@@ -3,7 +3,6 @@ title: RefreshNoReconciliationUI
 second_title: Aspose.Diagram for .NET API Reference
 description: Whether the datareconciliation user interface should be disabled. True 1 to disable the user interface UI. False 0 to enable the UI.
 type: docs
-weight: 150
 url: /net/aspose.diagram/datarecordset/refreshnoreconciliationui/
 ---
 ## DataRecordSet.RefreshNoReconciliationUI property

@@ -3,7 +3,6 @@ title: X
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies an xcoordinate on a shape in local coordinates.
 type: docs
-weight: 120
 url: /net/aspose.diagram/connection/x/
 ---
 ## Connection.X property

@@ -3,7 +3,6 @@ title: SendToBack
 second_title: Aspose.Diagram for .NET API Reference
 description: Moves a shapedefined by ID to the back of the zorder.
 type: docs
-weight: 460
 url: /net/aspose.diagram/page/sendtoback/
 ---
 ## Page.SendToBack method

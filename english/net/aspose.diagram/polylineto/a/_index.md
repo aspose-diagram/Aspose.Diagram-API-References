@@ -3,7 +3,6 @@ title: A
 second_title: Aspose.Diagram for .NET API Reference
 description: The polyline formula.
 type: docs
-weight: 20
 url: /net/aspose.diagram/polylineto/a/
 ---
 ## PolylineTo.A property

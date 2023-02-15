@@ -3,7 +3,6 @@ title: MaxLength
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets and sets the maximum number of characters
 type: docs
-weight: 140
 url: /net/aspose.diagram.activexcontrols/textboxactivexcontrol/maxlength/
 ---
 ## TextBoxActiveXControl.MaxLength property

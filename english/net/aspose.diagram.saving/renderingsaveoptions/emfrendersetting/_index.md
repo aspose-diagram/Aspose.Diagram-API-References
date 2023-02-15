@@ -3,7 +3,6 @@ title: EmfRenderSetting
 second_title: Aspose.Diagram for .NET API Reference
 description: Setting for rendering Emf metafile.
 type: docs
-weight: 20
 url: /net/aspose.diagram.saving/renderingsaveoptions/emfrendersetting/
 ---
 ## RenderingSaveOptions.EmfRenderSetting property
@@ -16,7 +15,7 @@ public EmfRenderSetting EmfRenderSetting { get; set; }
 
 ### Remarks
 
-EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF records. Either type of record can be used to render the image, only EMF+ records, or only EMF records. When !:EmfRenderSetting.EmfPlusPrefer is set, then EMF+ records will be parsed , otherwise only EMF records will be parsed. Default value is !:EmfRenderSetting.EmfOnly.
+EMF metafiles identified as "EMF+ Dual" can contain both EMF+ records and EMF records. Either type of record can be used to render the image, only EMF+ records, or only EMF records. When EmfPlusPrefer is set, then EMF+ records will be parsed , otherwise only EMF records will be parsed. Default value is EmfOnly"/&gt;.
 
 ### See Also
 

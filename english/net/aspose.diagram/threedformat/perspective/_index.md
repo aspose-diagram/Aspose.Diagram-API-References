@@ -3,7 +3,6 @@ title: Perspective
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the angle of view for a shape with 3D rotation properties
 type: docs
-weight: 160
 url: /net/aspose.diagram/threedformat/perspective/
 ---
 ## ThreeDFormat.Perspective property

@@ -3,7 +3,6 @@ title: ArrowSizeValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the size of the arrowhead of the line.
 type: docs
-weight: 440
 url: /net/aspose.diagram/arrowsizevalue/
 ---
 ## ArrowSizeValue enumeration

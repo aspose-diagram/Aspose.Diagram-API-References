@@ -3,7 +3,6 @@ title: Resolution
 second_title: Aspose.Diagram for .NET API Reference
 description: Gets or sets the resolution for the generated html in dots per inch.
 type: docs
-weight: 50
 url: /net/aspose.diagram.saving/htmlsaveoptions/resolution/
 ---
 ## HTMLSaveOptions.Resolution property

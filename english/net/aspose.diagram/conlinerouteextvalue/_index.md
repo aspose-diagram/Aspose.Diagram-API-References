@@ -3,7 +3,6 @@ title: ConLineRouteExtValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the appearance of a connector.
 type: docs
-weight: 870
 url: /net/aspose.diagram/conlinerouteextvalue/
 ---
 ## ConLineRouteExtValue enumeration

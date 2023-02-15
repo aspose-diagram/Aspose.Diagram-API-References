@@ -3,7 +3,6 @@ title: ViewMarkup
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether markup appears in the drawing window.
 type: docs
-weight: 80
 url: /net/aspose.diagram/docprops/viewmarkup/
 ---
 ## DocProps.ViewMarkup property

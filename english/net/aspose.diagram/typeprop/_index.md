@@ -3,7 +3,6 @@ title: TypeProp
 second_title: Aspose.Diagram for .NET API Reference
 description: Type specifies a data type for the custom property value.
 type: docs
-weight: 4130
 url: /net/aspose.diagram/typeprop/
 ---
 ## TypeProp class

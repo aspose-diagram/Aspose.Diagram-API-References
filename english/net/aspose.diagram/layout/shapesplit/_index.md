@@ -3,7 +3,6 @@ title: ShapeSplit
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines whether this shape can split shapes that are splittable.
 type: docs
-weight: 180
 url: /net/aspose.diagram/layout/shapesplit/
 ---
 ## Layout.ShapeSplit property

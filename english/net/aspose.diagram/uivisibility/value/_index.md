@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the uivisibility.
 type: docs
-weight: 30
 url: /net/aspose.diagram/uivisibility/value/
 ---
 ## UIVisibility.Value property

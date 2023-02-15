@@ -3,7 +3,6 @@ title: ClientHeight
 second_title: Aspose.Diagram for .NET API Reference
 description: Optional int.
 type: docs
-weight: 10
 url: /net/aspose.diagram/windowcollection/clientheight/
 ---
 ## WindowCollection.ClientHeight property

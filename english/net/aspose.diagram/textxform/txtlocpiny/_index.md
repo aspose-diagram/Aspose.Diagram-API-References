@@ -3,7 +3,6 @@ title: TxtLocPinY
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the ycoordinate of the text blocks center of rotation relative to the origin of the text block. The default formula which evaluates to the vertical center of the text block is FTxtHeight0.5.
 type: docs
-weight: 50
 url: /net/aspose.diagram/textxform/txtlocpiny/
 ---
 ## TextXForm.TxtLocPinY property

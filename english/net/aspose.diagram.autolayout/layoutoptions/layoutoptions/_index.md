@@ -3,7 +3,6 @@ title: LayoutOptions
 second_title: Aspose.Diagram for .NET API Reference
 description: Initializes a new instance of LayoutOptions.
 type: docs
-weight: 10
 url: /net/aspose.diagram.autolayout/layoutoptions/layoutoptions/
 ---
 ## LayoutOptions constructor

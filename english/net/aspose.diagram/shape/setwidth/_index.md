@@ -3,7 +3,6 @@ title: SetWidth
 second_title: Aspose.Diagram for .NET API Reference
 description: Sets new width of shape.
 type: docs
-weight: 980
 url: /net/aspose.diagram/shape/setwidth/
 ---
 ## Shape.SetWidth method

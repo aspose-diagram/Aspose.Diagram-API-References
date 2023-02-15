@@ -3,7 +3,6 @@ title: ShapeKeywords
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains search keywords that have been assigned to custom master shapes.
 type: docs
-weight: 200
 url: /net/aspose.diagram/misc/shapekeywords/
 ---
 ## Misc.ShapeKeywords property

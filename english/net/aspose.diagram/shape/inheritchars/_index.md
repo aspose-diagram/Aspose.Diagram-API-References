@@ -3,7 +3,6 @@ title: InheritChars
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains the char values for the shape inherit by the master shape.
 type: docs
-weight: 280
 url: /net/aspose.diagram/shape/inheritchars/
 ---
 ## Shape.InheritChars property

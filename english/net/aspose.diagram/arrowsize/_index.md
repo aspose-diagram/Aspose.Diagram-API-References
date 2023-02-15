@@ -3,7 +3,6 @@ title: ArrowSize
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies the size of the arrowhead of the line.
 type: docs
-weight: 430
 url: /net/aspose.diagram/arrowsize/
 ---
 ## ArrowSize class
@@ -24,6 +23,7 @@ public class ArrowSize
 
 | Name | Description |
 | --- | --- |
+| [IsThemed](../../aspose.diagram/arrowsize/isthemed) { get; set; } |  |
 | [Ufe](../../aspose.diagram/arrowsize/ufe) { get; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/arrowsize/value) { get; set; } | Specifies the size of the arrowhead of the line. |
 

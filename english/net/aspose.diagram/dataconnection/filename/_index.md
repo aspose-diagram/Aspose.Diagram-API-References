@@ -3,7 +3,6 @@ title: FileName
 second_title: Aspose.Diagram for .NET API Reference
 description: The name of the connection file. See Remarks for more information.
 type: docs
-weight: 50
 url: /net/aspose.diagram/dataconnection/filename/
 ---
 ## DataConnection.FileName property

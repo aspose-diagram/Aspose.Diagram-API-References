@@ -3,7 +3,6 @@ title: DataColumns
 second_title: Aspose.Diagram for .NET API Reference
 description: Contains all the DataColumn elements in a data recordset.
 type: docs
-weight: 70
 url: /net/aspose.diagram/datarecordset/datacolumns/
 ---
 ## DataRecordSet.DataColumns property

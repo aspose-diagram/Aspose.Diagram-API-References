@@ -3,7 +3,6 @@ title: IsReplaceLockShapeData
 second_title: Aspose.Diagram for .NET API Reference
 description: Indicates whether the values of specified cells in a master shape overwrite the values including local values of a shape being replaced during a shape replacement operation.
 type: docs
-weight: 110
 url: /net/aspose.diagram/misc/isreplacelockshapedata/
 ---
 ## Misc.IsReplaceLockShapeData property

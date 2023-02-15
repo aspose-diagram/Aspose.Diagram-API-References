@@ -3,7 +3,6 @@ title: Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Value.
 type: docs
-weight: 4240
 url: /net/aspose.diagram/value/
 ---
 ## Value class

@@ -3,7 +3,6 @@ title: Str2Value
 second_title: Aspose.Diagram for .NET API Reference
 description: Constructor.
 type: docs
-weight: 10
 url: /net/aspose.diagram/str2value/str2value/
 ---
 ## Str2Value(string) {#constructor}

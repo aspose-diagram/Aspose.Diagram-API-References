@@ -3,7 +3,6 @@ title: VisRuleTargetsValue
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies contents that define the target of the validation rule passed to and returned by the ValidationRule.TargetType property.
 type: docs
-weight: 4340
 url: /net/aspose.diagram/visruletargetsvalue/
 ---
 ## VisRuleTargetsValue enumeration

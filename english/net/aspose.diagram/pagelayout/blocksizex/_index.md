@@ -3,7 +3,6 @@ title: BlockSizeX
 second_title: Aspose.Diagram for .NET API Reference
 description: Determines the vertical block size the area in which each of your shapes must fit on the drawing page when you use Microsoft Visio to lay out shapes on the drawing page.
 type: docs
-weight: 40
 url: /net/aspose.diagram/pagelayout/blocksizex/
 ---
 ## PageLayout.BlockSizeX property

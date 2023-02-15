@@ -3,7 +3,6 @@ title: NewWindow
 second_title: Aspose.Diagram for .NET API Reference
 description: Specifies whether Microsoft Visio opens a window in a new location when it follows a hyperlink to open a Web page or another Visio document.
 type: docs
-weight: 120
 url: /net/aspose.diagram/hyperlink/newwindow/
 ---
 ## Hyperlink.NewWindow property

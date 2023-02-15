@@ -3,7 +3,6 @@ title: ObjectData
 second_title: Aspose.Diagram for .NET API Reference
 description: Represents embedded ole object data as byte array.
 type: docs
-weight: 80
 url: /net/aspose.diagram/foreigndata/objectdata/
 ---
 ## ForeignData.ObjectData property

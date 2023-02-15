@@ -3,7 +3,6 @@ title: GetWeekEnd
 second_title: Aspose.Diagram for .NET API Reference
 description: getweekstart
 type: docs
-weight: 190
 url: /net/aspose.diagram/timelinehelper/getweekend/
 ---
 ## TimeLineHelper.GetWeekEnd method
