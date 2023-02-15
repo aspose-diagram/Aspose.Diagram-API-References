@@ -1,0 +1,61 @@
+---
+title: ImageSaveOptions
+second_title: Aspose.Diagram for .NET API リファレンス
+description: ダイアグラム ページを画像にレンダリングするときに追加のオプションを指定できます
+type: docs
+weight: 3280
+url: /ja/net/aspose.diagram.saving/imagesaveoptions/
+---
+## ImageSaveOptions class
+
+ダイアグラム ページを画像にレンダリングするときに、追加のオプションを指定できます。
+
+```csharp
+public class ImageSaveOptions : RenderingSaveOptions
+```
+
+## コンストラクター
+
+| 名前 | 説明 |
+| --- | --- |
+| [ImageSaveOptions](imagesaveoptions/)(SaveFileFormat) | レンダリングされた画像を[`ティフ`](../../aspose.diagram/savefileformat/), [`PNG`](../../aspose.diagram/savefileformat/) 、[`Bmp`](../../aspose.diagram/savefileformat/) 、[`エムフ`](../../aspose.diagram/savefileformat/) または[`JPEG`](../../aspose.diagram/savefileformat/) format. |
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | 保存される形状の領域を取得または設定します. |
+| [CompositingQuality](../../aspose.diagram.saving/imagesaveoptions/compositingquality/) { get; set; } | 合成中に使用する品質レベルを指定します。 |
+| [ContentZoom](../../aspose.diagram.saving/imagesaveoptions/contentzoom/) { get; set; } | このパラメータはスケールと似ていますが、生成される画像サイズには影響しません. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | ダイアグラム内の文字が Unicode であり、正しいフォント値が設定されていないか、フォントがローカルにインストールされていない場合、 PDF、画像、または XPS でブロックとして表示される場合があります。 これらを表示するには、MingLiu や MS ゴシックなどの DefaultFont を設定します。文字. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | Emf メタファイルをレンダリングするための設定. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | ページを拡大するかどうかを指定します。 |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | ガイド形状をエクスポートする必要があるかどうかを定義します. |
+| [ExportHiddenPage](../../aspose.diagram.saving/imagesaveoptions/exporthiddenpage/) { get; set; } | 隠しページをエクスポートする必要があるかどうかを定義します. |
+| [ImageBrightness](../../aspose.diagram.saving/imagesaveoptions/imagebrightness/) { get; set; } | 生成された画像の明るさを取得または設定します。 |
+| [ImageColorMode](../../aspose.diagram.saving/imagesaveoptions/imagecolormode/) { get; set; } | 生成された画像のカラー モードを取得または設定します。 |
+| [ImageContrast](../../aspose.diagram.saving/imagesaveoptions/imagecontrast/) { get; set; } | 生成された画像のコントラストを取得または設定します。 |
+| [InterpolationMode](../../aspose.diagram.saving/imagesaveoptions/interpolationmode/) { get; set; } | 画像の拡大縮小または回転時に使用されるアルゴリズムを指定します。 |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | コメントをエクスポートする必要があるかどうかを定義します. |
+| [JpegQuality](../../aspose.diagram.saving/imagesaveoptions/jpegquality/) { get; set; } | 生成された JPEG 画像の品質を決定する値を取得または設定します。 |
+| [PageCount](../../aspose.diagram.saving/imagesaveoptions/pagecount/) { get; set; } | 複数ページの TIFF ファイルに保存するときにレンダリングするページ数を取得または設定します. デフォルトは MaxValue で、ダイアグラムのすべてのページがレンダリングされることを意味します. |
+| [PageIndex](../../aspose.diagram.saving/imagesaveoptions/pageindex/) { get; set; } | レンダリングする最初のページの 0 から始まるインデックスを取得または設定します。デフォルトは 0. です |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | 生成された画像のページ サイズを取得または設定します。[`PageSize`](../pagesize/)または null. |
+| [PixelOffsetMode](../../aspose.diagram.saving/imagesaveoptions/pixeloffsetmode/) { get; set; } | レンダリング中にピクセルをオフセットする方法を指定する値を取得または設定します。 |
+| [Resolution](../../aspose.diagram.saving/imagesaveoptions/resolution/) { get; set; } | 生成された画像の解像度を 1 インチあたりのドット数で取得または設定します。 |
+| [SameAsPdfConversionArea](../../aspose.diagram.saving/imagesaveoptions/sameaspdfconversionarea/) { get; set; } | pdfと同じ保存領域かどうかを指定します. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/imagesaveoptions/saveforegroundpagesonly/) { get; set; } | すべてのページを画像で保存するか、前景のみで保存するかを指定します。 |
+| override [SaveFormat](../../aspose.diagram.saving/imagesaveoptions/saveformat/) { get; set; } | この保存オプション オブジェクトが使用される場合、レンダリングされたダイアグラム ページが保存される形式を指定します。[`ティフ`](../../aspose.diagram/savefileformat/) 、[`PNG`](../../aspose.diagram/savefileformat/), [`Bmp`](../../aspose.diagram/savefileformat/) 、[`エムフ`](../../aspose.diagram/savefileformat/)また[`JPEG`](../../aspose.diagram/savefileformat/). |
+| [Scale](../../aspose.diagram.saving/imagesaveoptions/scale/) { get; set; } | 生成された画像のズーム倍率を取得または設定します。 |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | レンダリングする形状を取得または設定します。デフォルトのカウントは 0. です |
+| [SmoothingMode](../../aspose.diagram.saving/imagesaveoptions/smoothingmode/) { get; set; } | 直線と曲線、および塗りつぶされた領域のエッジにスムージング (アンチエイリアシング) を適用するかどうかを指定します。 |
+| [TiffCompression](../../aspose.diagram.saving/imagesaveoptions/tiffcompression/) { get; set; } | 生成された画像を TIFF 形式で保存するときに適用する圧縮のタイプを取得または設定します。 |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | 警告コールバックを取得または設定します。 |
+
+### 関連項目
+
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* 名前空間 [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
+* 組み立て [Aspose.Diagram](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
