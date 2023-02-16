@@ -16,9 +16,9 @@ public void Remove(Coordinate item)
 
 ### Ver también
 
-* class [Coordinate](../../coordinate)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -33,9 +33,9 @@ public void Remove(MoveTo item)
 
 ### Ver también
 
-* class [MoveTo](../../moveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -50,9 +50,9 @@ public void Remove(LineTo item)
 
 ### Ver también
 
-* class [LineTo](../../lineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -67,9 +67,9 @@ public void Remove(ArcTo item)
 
 ### Ver también
 
-* class [ArcTo](../../arcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -84,9 +84,9 @@ public void Remove(InfiniteLine item)
 
 ### Ver también
 
-* class [InfiniteLine](../../infiniteline)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Remove(Ellipse item)
 
 ### Ver también
 
-* class [Ellipse](../../ellipse)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -118,9 +118,9 @@ public void Remove(EllipticalArcTo item)
 
 ### Ver también
 
-* class [EllipticalArcTo](../../ellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -135,9 +135,9 @@ public void Remove(SplineStart item)
 
 ### Ver también
 
-* class [SplineStart](../../splinestart)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -152,9 +152,9 @@ public void Remove(SplineKnot item)
 
 ### Ver también
 
-* class [SplineKnot](../../splineknot)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -169,9 +169,9 @@ public void Remove(PolylineTo item)
 
 ### Ver también
 
-* class [PolylineTo](../../polylineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -186,9 +186,9 @@ public void Remove(NURBSTo item)
 
 ### Ver también
 
-* class [NURBSTo](../../nurbsto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -203,9 +203,9 @@ public void Remove(RelCubBezTo item)
 
 ### Ver también
 
-* class [RelCubBezTo](../../relcubbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -220,9 +220,9 @@ public void Remove(RelQuadBezTo item)
 
 ### Ver también
 
-* class [RelQuadBezTo](../../relquadbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -237,9 +237,9 @@ public void Remove(RelMoveTo item)
 
 ### Ver también
 
-* class [RelMoveTo](../../relmoveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -254,9 +254,9 @@ public void Remove(RelLineTo item)
 
 ### Ver también
 
-* class [RelLineTo](../../rellineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
@@ -271,9 +271,9 @@ public void Remove(RelEllipticalArcTo item)
 
 ### Ver también
 
-* class [RelEllipticalArcTo](../../relellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* espacio de nombres [Aspose.Diagram](../../coordinatecollection)
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* espacio de nombres [Aspose.Diagram](../../coordinatecollection/)
 * asamblea [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -1,14 +1,14 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.Diagram for .NET API 参考
-description: 允许在将图表页面渲染为图像时指定其他选项
+description: 允许在将图表页面呈现为图像时指定其他选项
 type: docs
-weight: 3270
+weight: 3280
 url: /zh/net/aspose.diagram.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 
-允许在将图表页面渲染为图像时指定其他选项。
+允许在将图表页面呈现为图像时指定其他选项。
 
 ```csharp
 public class ImageSaveOptions : RenderingSaveOptions
@@ -18,44 +18,44 @@ public class ImageSaveOptions : RenderingSaveOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageSaveOptions](imagesaveoptions)(SaveFileFormat) | 初始化此类的新实例，该实例可用于将渲染图像保存在[`Tiff`](../../aspose.diagram/savefileformat) , [`Png`](../../aspose.diagram/savefileformat) ,Bmp ,[`Emf`](../../aspose.diagram/savefileformat) 或[`Jpeg`](../../aspose.diagram/savefileformat) 格式。 |
+| [ImageSaveOptions](imagesaveoptions/)(SaveFileFormat) | 初始化此类的新实例，可用于将渲染图像保存在[`时间差`](../../aspose.diagram/savefileformat/), [`PNG`](../../aspose.diagram/savefileformat/) ,[`BMP`](../../aspose.diagram/savefileformat/) ,[`电动势`](../../aspose.diagram/savefileformat/) 或[`JPEG格式`](../../aspose.diagram/savefileformat/)格式. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | 获取或设置要保存的形状区域。 |
-| [CompositingQuality](../../aspose.diagram.saving/imagesaveoptions/compositingquality) { get; set; } | 指定合成期间使用的质量级别。 |
-| [ContentZoom](../../aspose.diagram.saving/imagesaveoptions/contentzoom) { get; set; } | 该参数与比例类似，但不影响生成的图像大小。 |
-| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | 当图中的字符是 unicode 并且没有设置正确的字体值或本地没有安装字体时， 它们可能会显示为块pdf、图像或 XPS 格式。 设置默认字体如 MingLiu 或 MS Gothic 以显示这些字符。 |
-| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | 渲染 Emf 图元文件的设置。 |
-| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | 指定是否放大页面。 |
-| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | 定义是否需要导出导向形状。 |
-| [ExportHiddenPage](../../aspose.diagram.saving/imagesaveoptions/exporthiddenpage) { get; set; } | 定义是否需要导出隐藏页面。 |
-| [ImageBrightness](../../aspose.diagram.saving/imagesaveoptions/imagebrightness) { get; set; } | 获取或设置生成图像的亮度。 |
-| [ImageColorMode](../../aspose.diagram.saving/imagesaveoptions/imagecolormode) { get; set; } | 获取或设置生成图像的颜色模式。 |
-| [ImageContrast](../../aspose.diagram.saving/imagesaveoptions/imagecontrast) { get; set; } | 获取或设置生成图像的对比度。 |
-| [InterpolationMode](../../aspose.diagram.saving/imagesaveoptions/interpolationmode) { get; set; } | 指定缩放或旋转图像时使用的算法。 |
-| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | 定义是否需要导出评论。 |
-| [JpegQuality](../../aspose.diagram.saving/imagesaveoptions/jpegquality) { get; set; } | 获取或设置确定生成的 JPEG 图像质量的值。 |
-| [PageCount](../../aspose.diagram.saving/imagesaveoptions/pagecount) { get; set; } | 获取或设置保存到多页 TIFF 文件时要呈现的页数。 默认为 MaxValue，这意味着将呈现图表的所有页面。 |
-| [PageIndex](../../aspose.diagram.saving/imagesaveoptions/pageindex) { get; set; } | 获取或设置要呈现的第一页的从 0 开始的索引。默认值为 0。 |
-| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | 获取或设置生成图像的页面大小。 可以是[`PageSize`](../pagesize) 或 null。 |
-| [PixelOffsetMode](../../aspose.diagram.saving/imagesaveoptions/pixeloffsetmode) { get; set; } | 获取或设置一个值，指定在渲染期间像素如何偏移。 |
-| [Resolution](../../aspose.diagram.saving/imagesaveoptions/resolution) { get; set; } | 获取或设置生成图像的分辨率，以每英寸点数为单位。 |
-| [SameAsPdfConversionArea](../../aspose.diagram.saving/imagesaveoptions/sameaspdfconversionarea) { get; set; } | 指定保存区域是否与pdf相同。 |
-| [SaveForegroundPagesOnly](../../aspose.diagram.saving/imagesaveoptions/saveforegroundpagesonly) { get; set; } | 指定所有页面将保存在图像中还是仅在前景中。 |
-| override [SaveFormat](../../aspose.diagram.saving/imagesaveoptions/saveformat) { get; set; } | 如果使用此保存选项对象，则指定保存渲染图表页面的格式。 可以是[`Tiff`](../../aspose.diagram/savefileformat) ,[`Png`](../../aspose.diagram/savefileformat) , [`Bmp`](../../aspose.diagram/savefileformat) ,[`Emf`](../../aspose.diagram/savefileformat) 或[`Jpeg`](../../aspose.diagram/savefileformat) 。 |
-| [Scale](../../aspose.diagram.saving/imagesaveoptions/scale) { get; set; } | 获取或设置生成图像的缩放系数。 |
-| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | 获取或设置要渲染的形状。默认计数为 0。 |
-| [SmoothingMode](../../aspose.diagram.saving/imagesaveoptions/smoothingmode) { get; set; } | 指定是否对直线和曲线以及填充区域的边缘应用平滑（抗锯齿）。 |
-| [TiffCompression](../../aspose.diagram.saving/imagesaveoptions/tiffcompression) { get; set; } | 获取或设置将生成的图像保存为 TIFF 格式时应用的压缩类型。 |
-| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | 获取或设置警告回调。 |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | 获取或设置将保存的形状区域 . |
+| [CompositingQuality](../../aspose.diagram.saving/imagesaveoptions/compositingquality/) { get; set; } | 指定合成期间要使用的质量级别。 |
+| [ContentZoom](../../aspose.diagram.saving/imagesaveoptions/contentzoom/) { get; set; } | 该参数与scale类似，但不影响生成的图像大小。 |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | 当图表中的字符是 unicode 且未设置正确的字体值或本地未安装字体时， 它们可能在 pdf、图像或 XPS 中显示为块。 设置默认字体如 MingLiu 或 MS Gothic 以显示这些字符. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | 渲染 Emf 图元文件的设置。 |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | 指定是否放大页面 . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | 定义是否需要导出导向形状。 |
+| [ExportHiddenPage](../../aspose.diagram.saving/imagesaveoptions/exporthiddenpage/) { get; set; } | 定义是否需要导出隐藏页面。 |
+| [ImageBrightness](../../aspose.diagram.saving/imagesaveoptions/imagebrightness/) { get; set; } | 获取或设置生成图像的亮度。 |
+| [ImageColorMode](../../aspose.diagram.saving/imagesaveoptions/imagecolormode/) { get; set; } | 获取或设置生成图像的颜色模式。 |
+| [ImageContrast](../../aspose.diagram.saving/imagesaveoptions/imagecontrast/) { get; set; } | 获取或设置生成图像的对比度。 |
+| [InterpolationMode](../../aspose.diagram.saving/imagesaveoptions/interpolationmode/) { get; set; } | 指定缩放或旋转图像时使用的算法。 |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | 定义是否需要导出注释。 |
+| [JpegQuality](../../aspose.diagram.saving/imagesaveoptions/jpegquality/) { get; set; } | 获取或设置确定生成的 JPEG 图像质量的值。 |
+| [PageCount](../../aspose.diagram.saving/imagesaveoptions/pagecount/) { get; set; } | 获取或设置保存到多页 TIFF 文件时要呈现的页面数。 默认值为 MaxValue，这意味着将呈现图表的所有页面。 |
+| [PageIndex](../../aspose.diagram.saving/imagesaveoptions/pageindex/) { get; set; } | 获取或设置要呈现的第一个页面的从 0 开始的索引。默认为 0. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | 获取或设置生成图像的页面大小。 可以[`PageSize`](../pagesize/)或 null. |
+| [PixelOffsetMode](../../aspose.diagram.saving/imagesaveoptions/pixeloffsetmode/) { get; set; } | 获取或设置一个值，指定像素在渲染过程中如何偏移。 |
+| [Resolution](../../aspose.diagram.saving/imagesaveoptions/resolution/) { get; set; } | 获取或设置生成图像的分辨率，以每英寸点数为单位。 |
+| [SameAsPdfConversionArea](../../aspose.diagram.saving/imagesaveoptions/sameaspdfconversionarea/) { get; set; } | 指定保存区域是否与pdf相同. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/imagesaveoptions/saveforegroundpagesonly/) { get; set; } | 指定是将所有页面保存在图像中还是仅保存在前景中。 |
+| override [SaveFormat](../../aspose.diagram.saving/imagesaveoptions/saveformat/) { get; set; } | 指定如果使用此保存选项对象将保存呈现的图表页面的格式。 可以是[`时间差`](../../aspose.diagram/savefileformat/) ,[`PNG`](../../aspose.diagram/savefileformat/), [`BMP`](../../aspose.diagram/savefileformat/) ,[`电动势`](../../aspose.diagram/savefileformat/)或者[`JPEG格式`](../../aspose.diagram/savefileformat/). |
+| [Scale](../../aspose.diagram.saving/imagesaveoptions/scale/) { get; set; } | 获取或设置生成图像的缩放系数。 |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | 获取或设置要呈现的形状。默认计数为 0. |
+| [SmoothingMode](../../aspose.diagram.saving/imagesaveoptions/smoothingmode/) { get; set; } | 指定是否将平滑（抗锯齿）应用于直线和曲线以及填充区域的边缘。 |
+| [TiffCompression](../../aspose.diagram.saving/imagesaveoptions/tiffcompression/) { get; set; } | 获取或设置将生成的图像保存为 TIFF 格式时应用的压缩类型。 |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | 获取或设置警告回调。 |
 
 ### 也可以看看
 
-* class [RenderingSaveOptions](../renderingsaveoptions)
-* 命名空间 [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* 命名空间 [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

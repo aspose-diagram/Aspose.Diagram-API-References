@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in SVG.
 type: docs
-weight: 3450
+weight: 3460
 url: /de/net/aspose.diagram.saving/svgsaveoptions/
 ---
 ## SVGSaveOptions class
@@ -18,35 +18,36 @@ public class SVGSaveOptions : RenderingSaveOptions
 
 | Name | Beschreibung |
 | --- | --- |
-| [SVGSaveOptions](svgsaveoptions)() | Initialisiert eine neue Instanz dieser Klasse, die zum Speichern eines Dokuments im verwendet werden kann[`XPS`](../../aspose.diagram/savefileformat)format. |
+| [SVGSaveOptions](svgsaveoptions/)() | Initialisiert eine neue Instanz dieser Klasse, die zum Speichern eines Dokuments im verwendet werden kann[`XPS`](../../aspose.diagram/savefileformat/) format. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | Liest oder setzt den Bereich der Formen wird gespeichert . |
-| [CustomImagePath](../../aspose.diagram.saving/svgsaveoptions/customimagepath) { get; set; } | Der benutzerdefinierte Pfad (URL) des Benutzers, der in der generierten SVG-Datei für das Bild gespeichert ist. Wenn nicht vom Benutzer definiert, wird das aktuelle Verzeichnis verwendet. |
-| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | Wenn die Zeichen im Diagramm Unicode sind und nicht mit dem richtigen Schriftartwert festgelegt werden oder die Schriftart nicht lokal installiert ist, können sie als Block in PDF, Bild oder XPS erscheinen. Legen Sie die Standardschriftart wie MingLiu oder MS Gothic fest, um diese anzuzeigen Zeichen. |
-| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | Einstellung zum Rendern der EMF-Metadatei. |
-| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | Gibt an, ob Seite vergrößern . |
-| [ExportElementAsRectTag](../../aspose.diagram.saving/svgsaveoptions/exportelementasrecttag) { get; set; } | Definiert, ob rechteckige Elemente als Rect-Tag exportiert werden müssen oder nicht. |
-| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | Definiert, ob die Führungsformen exportiert werden müssen oder nicht. |
-| [ExportHiddenPage](../../aspose.diagram.saving/svgsaveoptions/exporthiddenpage) { get; set; } | Definiert, ob die verborgene Seite exportiert werden muss oder nicht. |
-| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Definiert, ob die Kommentare exportiert werden müssen oder nicht. |
-| [IsExportScaleInMatrix](../../aspose.diagram.saving/svgsaveoptions/isexportscaleinmatrix) { get; set; } | Definiert, ob Exportskalierung in Matrix benötigt wird oder nicht. |
-| [IsSavingImageSeparately](../../aspose.diagram.saving/svgsaveoptions/issavingimageseparately) { get; set; } | Definiert, ob das Bild separat gespeichert wird. |
-| [PageIndex](../../aspose.diagram.saving/svgsaveoptions/pageindex) { get; set; } | Ruft den 0-basierten Index der zu rendernden Seite ab oder legt ihn fest. Standard ist 0. |
-| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Ruft die Seitengröße für die generierten Bilder ab oder legt sie fest. Kann sein[`PageSize`](../pagesize) oder null. |
-| [Quality](../../aspose.diagram.saving/svgsaveoptions/quality) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der die Qualität der generierten Bilder bestimmt , die nur angewendet werden, wenn Seiten in gespeichert werden`JPEG`Format. Der Standardwert ist 100 |
-| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat) { get; set; } | Gibt das Format an, in dem das Dokument gespeichert wird, wenn dieses Speicheroptionsobjekt verwendet wird. |
-| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Ermittelt oder legt zu rendernde Formen fest. Die Standardanzahl ist 0. |
-| [SVGFitToViewPort](../../aspose.diagram.saving/svgsaveoptions/svgfittoviewport) { get; set; } | Wenn diese Eigenschaft wahr ist, passt das generierte SVG zum Ansichtsport. |
-| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Ruft Warnrückruf ab oder legt ihn fest. |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Liest oder setzt den Bereich der Formen wird gespeichert . |
+| [CustomImagePath](../../aspose.diagram.saving/svgsaveoptions/customimagepath/) { get; set; } | Der benutzerdefinierte Pfad (URL) des Benutzers, der in der generierten SVG-Datei für das Bild gespeichert ist. Wenn nicht vom Benutzer definiert, wird das aktuelle Verzeichnis verwendet. |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | Wenn die Zeichen im Diagramm Unicode sind und nicht mit dem richtigen Schriftartwert festgelegt werden oder die Schriftart nicht lokal installiert ist, können sie als Block in PDF, Bild oder XPS erscheinen. Legen Sie die Standardschriftart wie MingLiu oder MS Gothic fest, um diese anzuzeigen Zeichen. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | Einstellung zum Rendern der EMF-Metadatei. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | Gibt an, ob Seite vergrößern . |
+| [ExportElementAsRectTag](../../aspose.diagram.saving/svgsaveoptions/exportelementasrecttag/) { get; set; } | Definiert, ob rechteckige Elemente als Rect-Tag exportiert werden müssen oder nicht. |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | Definiert, ob die Führungsformen exportiert werden müssen oder nicht. |
+| [ExportHiddenPage](../../aspose.diagram.saving/svgsaveoptions/exporthiddenpage/) { get; set; } | Definiert, ob die verborgene Seite exportiert werden muss oder nicht. |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | Definiert, ob die Kommentare exportiert werden müssen oder nicht. |
+| [IsExportScaleInMatrix](../../aspose.diagram.saving/svgsaveoptions/isexportscaleinmatrix/) { get; set; } | Definiert, ob Exportskalierung in Matrix benötigt wird oder nicht. |
+| [IsSavingCustomLinePattern](../../aspose.diagram.saving/svgsaveoptions/issavingcustomlinepattern/) { get; set; } | Definiert, ob benutzerdefiniertes Linienmuster gespeichert wird. |
+| [IsSavingImageSeparately](../../aspose.diagram.saving/svgsaveoptions/issavingimageseparately/) { get; set; } | Definiert, ob das Bild separat gespeichert wird. |
+| [PageIndex](../../aspose.diagram.saving/svgsaveoptions/pageindex/) { get; set; } | Ruft den 0-basierten Index der zu rendernden Seite ab oder legt ihn fest. Standard ist 0. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | Ruft die Seitengröße für die generierten Bilder ab oder legt sie fest. Kann sein[`PageSize`](../pagesize/) oder null. |
+| [Quality](../../aspose.diagram.saving/svgsaveoptions/quality/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der die Qualität der generierten Bilder bestimmt , die nur angewendet werden, wenn Seiten in gespeichert werden`JPEG` Format. Der Standardwert ist 100 |
+| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat/) { get; set; } | Gibt das Format an, in dem das Dokument gespeichert wird, wenn dieses Speicheroptionsobjekt verwendet wird. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | Ermittelt oder legt zu rendernde Formen fest. Die Standardanzahl ist 0. |
+| [SVGFitToViewPort](../../aspose.diagram.saving/svgsaveoptions/svgfittoviewport/) { get; set; } | Wenn diese Eigenschaft wahr ist, passt das generierte SVG zum Ansichtsport. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | Ruft Warnrückruf ab oder legt ihn fest. |
 
 ### Siehe auch
 
-* class [RenderingSaveOptions](../renderingsaveoptions)
-* namensraum [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* namensraum [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

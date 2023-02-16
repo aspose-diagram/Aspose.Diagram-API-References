@@ -3,7 +3,7 @@ title: TimeLineHelper
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: TimeLineHelper zum Festlegen der Eigenschaft der Zeitachsenform.
 type: docs
-weight: 4040
+weight: 4050
 url: /de/net/aspose.diagram/timelinehelper/
 ---
 ## TimeLineHelper class
@@ -18,39 +18,39 @@ public class TimeLineHelper
 
 | Name | Beschreibung |
 | --- | --- |
-| [TimeLineHelper](timelinehelper)(Shape) | TimeLineHelper. |
+| [TimeLineHelper](timelinehelper/)(Shape) | TimeLineHelper. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead) { set; } | Pfeilspitze der Zeitachsenform |
-| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek) { set; } | Anfangswoche der Zeitleistenform |
-| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe) { set; } | DateFormat für Start und Ende der Zeitleiste shape |
-| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm) { set; } | DateFormat für Intm der Zeitachsenform |
-| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe) { set; } | DateFormat String für Start und Ende der Zeitachse shape |
-| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm) { set; } | DateFormat String für Intm der Zeitleiste shape |
-| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart) { set; } | Erster Tag des Geschäftsjahres |
-| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate) { set; } | ob Daten für Markierungen (Meilensteine, Intervalle) aktualisiert werden sollen, wenn sie auf der Zeitachse verschoben werden |
-| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe) { set; } | ob Anfangs- und Enddaten auf der Zeitachse angezeigt werden sollen |
-| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm) { set; } | ob Datums-/Uhrzeit-Zwischenstriche auf der Zeitachse angezeigt werden sollen |
-| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates) { set; } | ob Zwischendaten auf Zwischen-Ticks angezeigt werden sollen |
-| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype) { set; } | Anfangswoche der Zeitleistenform |
-| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish) { get; set; } | Zeitraum für das Ende der Zeitachsenform |
-| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart) { get; set; } | Zeitraum für den Beginn der Zeitachsenform |
-| [TimeScale](../../aspose.diagram/timelinehelper/timescale) { get; set; } | Maßstab der Zeitachsenform |
+| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead/) { set; } | Pfeilspitze der Zeitachsenform |
+| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek/) { set; } | Anfangswoche der Zeitleistenform |
+| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe/) { set; } | DateFormat für Start und Ende der Zeitleiste shape |
+| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm/) { set; } | DateFormat für Intm der Zeitachsenform |
+| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe/) { set; } | DateFormat String für Start und Ende der Zeitachse shape |
+| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm/) { set; } | DateFormat String für Intm der Zeitleiste shape |
+| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart/) { set; } | Erster Tag des Geschäftsjahres |
+| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate/) { set; } | ob Daten für Markierungen (Meilensteine, Intervalle) aktualisiert werden sollen, wenn sie auf der Zeitachse verschoben werden |
+| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe/) { set; } | ob Anfangs- und Enddaten auf der Zeitachse angezeigt werden sollen |
+| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm/) { set; } | ob Datums-/Uhrzeit-Zwischenstriche auf der Zeitachse angezeigt werden sollen |
+| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates/) { set; } | ob Zwischendaten auf Zwischen-Ticks angezeigt werden sollen |
+| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype/) { set; } | Anfangswoche der Zeitleistenform |
+| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish/) { get; set; } | Zeitraum für das Ende der Zeitachsenform |
+| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart/) { get; set; } | Zeitraum für den Beginn der Zeitachsenform |
+| [TimeScale](../../aspose.diagram/timelinehelper/timescale/) { get; set; } | Maßstab der Zeitachsenform |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline)() | Aktualisierungszeit der Zeitleistenformen |
-| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime)(DateTime) | Wandeln Sie die Datumszeit in einen doppelten Wert um. |
-| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend)(DateTime, int) | getweekstart |
+| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline/)() | Aktualisierungszeit der Zeitleistenformen |
+| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime/)(DateTime) | Wandeln Sie die Datumszeit in einen doppelten Wert um. |
+| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend/)(DateTime, int) | getweekstart |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

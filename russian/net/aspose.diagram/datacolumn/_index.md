@@ -3,7 +3,7 @@ title: DataColumn
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Определяет как столбец данных отображается в окне Внешние данные в пользовательском интерфейсе Visio и квалифицирует данные в столбце определяя его тип данных и форматирование.
 type: docs
-weight: 1080
+weight: 1100
 url: /ru/net/aspose.diagram/datacolumn/
 ---
 ## DataColumn class
@@ -18,30 +18,30 @@ public class DataColumn
 
 | Имя | Описание |
 | --- | --- |
-| [DataColumn](datacolumn)() | Конструктор. |
+| [DataColumn](datacolumn/)() | Конструктор. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Calendar](../../aspose.diagram/datacolumn/calendar) { get; set; } | Идентификатор календаря столбца данных. |
-| [ColumnNameID](../../aspose.diagram/datacolumn/columnnameid) { get; set; } | Внешнее имя столбца данных. Отображается в заголовках окна «Внешние данные» и в метках графических данных. |
-| [Currency](../../aspose.diagram/datacolumn/currency) { get; set; } | Идентификатор валюты столбца данных. |
-| [DataType](../../aspose.diagram/datacolumn/datatype) { get; set; } | Тип данных в столбце данных. |
-| [Degree](../../aspose.diagram/datacolumn/degree) { get; set; } | Задает степень (мощность) единиц измерения, например, в квадрате или в кубе. По умолчанию (атрибут отсутствует) равен 1. |
-| [DisplayOrder](../../aspose.diagram/datacolumn/displayorder) { get; set; } | Определяет позицию отображения столбца данных в окне внешних данных, от крайнего левого столбца (0) до крайнего правого столбца (наибольшее значение). |
-| [DisplayWidth](../../aspose.diagram/datacolumn/displaywidth) { get; set; } | Ширина столбца данных в окне Внешние данные. |
-| [Hyperlink](../../aspose.diagram/datacolumn/hyperlink) { get; set; } | Создает ли столбец данных гиперссылку в фигуре, когда фигура связана с данными. |
-| [Label](../../aspose.diagram/datacolumn/label) { get; set; } | Метка столбца данных. |
-| [LangID](../../aspose.diagram/datacolumn/langid) { get; set; } | Идентификатор языка столбца данных |
-| [Mapped](../../aspose.diagram/datacolumn/mapped) { get; set; } | Указывает, виден ли столбец в окне внешних данных. True (1), чтобы столбец был виден; false (0), чтобы столбец не был виден. По умолчанию (атрибут отсутствует) столбец должен быть видимым. |
-| [Name](../../aspose.diagram/datacolumn/name) { get; set; } | Внутреннее имя столбца данных. Используется в качестве имени строки для элемента данных фигуры (настраиваемое свойство), добавляемого к фигуре, когда фигура связана со строкой данных. |
-| [OrigLabel](../../aspose.diagram/datacolumn/origlabel) { get; set; } | Метка столбца, возвращенная в Visio базовым интерфейсом ADO. |
-| [UnitType](../../aspose.diagram/datacolumn/unittype) { get; set; } | Тип единицы измерения данных в столбце данных. |
+| [Calendar](../../aspose.diagram/datacolumn/calendar/) { get; set; } | Идентификатор календаря столбца данных. |
+| [ColumnNameID](../../aspose.diagram/datacolumn/columnnameid/) { get; set; } | Внешнее имя столбца данных. Отображается в заголовках в окне «Внешние данные» и в метках на графике данных. |
+| [Currency](../../aspose.diagram/datacolumn/currency/) { get; set; } | Идентификатор валюты столбца данных. |
+| [DataType](../../aspose.diagram/datacolumn/datatype/) { get; set; } | Тип данных в столбце данных. |
+| [Degree](../../aspose.diagram/datacolumn/degree/) { get; set; } | Задает степень (мощность) единиц измерения, например, в квадрате или в кубе. По умолчанию (атрибут отсутствует) 1. |
+| [DisplayOrder](../../aspose.diagram/datacolumn/displayorder/) { get; set; } | Определяет позицию отображения столбца данных в окне внешних данных, от крайнего левого столбца (0) до крайнего правого столбца (наибольшее значение). |
+| [DisplayWidth](../../aspose.diagram/datacolumn/displaywidth/) { get; set; } | Ширина столбца данных в окне внешних данных. |
+| [Hyperlink](../../aspose.diagram/datacolumn/hyperlink/) { get; set; } | Создает ли столбец данных гиперссылку в фигуре, когда фигура связана с данными. |
+| [Label](../../aspose.diagram/datacolumn/label/) { get; set; } | Метка столбца данных. |
+| [LangID](../../aspose.diagram/datacolumn/langid/) { get; set; } | Идентификатор языка столбца данных |
+| [Mapped](../../aspose.diagram/datacolumn/mapped/) { get; set; } | Указывает, виден ли столбец в окне внешних данных. True (1), чтобы столбец был виден; false (0), чтобы столбец не был виден. По умолчанию (атрибут отсутствует) столбец должен быть видимым. |
+| [Name](../../aspose.diagram/datacolumn/name/) { get; set; } | Внутреннее имя столбца данных. Используется как имя строки для элемента данных фигуры (настраиваемое свойство), добавляемого к фигуре, когда фигура связана со строкой данных. |
+| [OrigLabel](../../aspose.diagram/datacolumn/origlabel/) { get; set; } | Метка столбца, возвращенная в Visio базовым интерфейсом ADO. |
+| [UnitType](../../aspose.diagram/datacolumn/unittype/) { get; set; } | Тип единицы измерения данных в столбце данных. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

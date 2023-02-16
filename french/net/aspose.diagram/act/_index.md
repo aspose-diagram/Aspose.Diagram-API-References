@@ -18,38 +18,38 @@ public class Act
 
 | Nom | La description |
 | --- | --- |
-| [Act](act)() | Constructeur. |
+| [Act](act/)() | Constructeur. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Action](../../aspose.diagram/act/action) { get; } | Contient la formule à exécuter lorsqu'un utilisateur clique sur le nom de la commande défini dans l'élément Menu correspondant. |
-| [BeginGroup](../../aspose.diagram/act/begingroup) { get; } | Indique si un séparateur est inséré dans le menu au-dessus de cette action. |
-| [ButtonFace](../../aspose.diagram/act/buttonface) { get; } | Il identifie l'icône qui apparaît à côté d'un élément dans un menu contextuel. |
-| [Checked](../../aspose.diagram/act/checked) { get; } | Détermine si une coche s'affiche à côté du nom de la commande dans le menu contextuel d'une forme. |
-| [Del](../../aspose.diagram/act/del) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
-| [Disabled](../../aspose.diagram/act/disabled) { get; } | L'élément désactivé détermine si le nom de la commande est affiché dans le menu contextuel. |
-| [FlyoutChild](../../aspose.diagram/act/flyoutchild) { get; } | Détermine si la ligne d'action est un menu volant enfant de la dernière ligne au-dessus qui n'est pas un enfant volant. |
-| [ID](../../aspose.diagram/act/id) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
-| [Invisible](../../aspose.diagram/act/invisible) { get; } | L'élément invisible indique si l'action est visible sur la balise active ou le menu contextuel. |
-| [IX](../../aspose.diagram/act/ix) { get; set; } | L'index de base zéro de l'élément dans son élément parent. |
-| [Menu](../../aspose.diagram/act/menu) { get; } | Spécifie le nom de la commande qui apparaît dans le menu contextuel d'une forme ou d'une page. |
-| [Name](../../aspose.diagram/act/name) { get; set; } | Le nom de l'élément. |
-| [NameU](../../aspose.diagram/act/nameu) { get; set; } | Le nom universel de l'élément. |
-| [ReadOnly](../../aspose.diagram/act/readonly) { get; } | Détermine si l'action sur une balise active ou un menu contextuel est en lecture seule. |
-| [SortKey](../../aspose.diagram/act/sortkey) { get; } | Il spécifie un nombre qui détermine l'ordre des actions qui apparaissent sur un raccourci ou un menu de balise active. |
-| [TagName](../../aspose.diagram/act/tagname) { get; } | Il contient le nom de la balise active à laquelle l'action est associée. |
+| [Action](../../aspose.diagram/act/action/) { get; } | Contient la formule à exécuter lorsqu'un utilisateur clique sur le nom de la commande défini dans l'élément Menu correspondant. |
+| [BeginGroup](../../aspose.diagram/act/begingroup/) { get; } | Indique si un séparateur est inséré dans le menu au-dessus de cette action. |
+| [ButtonFace](../../aspose.diagram/act/buttonface/) { get; } | Il identifie l'icône qui apparaît à côté d'un élément dans un menu contextuel. |
+| [Checked](../../aspose.diagram/act/checked/) { get; } | Détermine si une coche s'affiche à côté du nom de la commande dans le menu contextuel d'une forme. |
+| [Del](../../aspose.diagram/act/del/) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
+| [Disabled](../../aspose.diagram/act/disabled/) { get; } | L'élément désactivé détermine si le nom de la commande est affiché dans le menu contextuel. |
+| [FlyoutChild](../../aspose.diagram/act/flyoutchild/) { get; } | Détermine si la ligne d'action est un menu volant enfant de la dernière ligne au-dessus qui n'est pas un enfant volant. |
+| [ID](../../aspose.diagram/act/id/) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
+| [Invisible](../../aspose.diagram/act/invisible/) { get; } | L'élément invisible indique si l'action est visible sur la balise active ou le menu contextuel. |
+| [IX](../../aspose.diagram/act/ix/) { get; set; } | L'index de base zéro de l'élément dans son élément parent. |
+| [Menu](../../aspose.diagram/act/menu/) { get; } | Spécifie le nom de la commande qui apparaît dans le menu contextuel d'une forme ou d'une page. |
+| [Name](../../aspose.diagram/act/name/) { get; set; } | Le nom de l'élément. |
+| [NameU](../../aspose.diagram/act/nameu/) { get; set; } | Le nom universel de l'élément. |
+| [ReadOnly](../../aspose.diagram/act/readonly/) { get; } | Détermine si l'action sur une balise active ou un menu contextuel est en lecture seule. |
+| [SortKey](../../aspose.diagram/act/sortkey/) { get; } | Il spécifie un nombre qui détermine l'ordre des actions qui apparaissent sur un raccourci ou un menu de balise active. |
+| [TagName](../../aspose.diagram/act/tagname/) { get; } | Il contient le nom de la balise active à laquelle l'action est associée. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.diagram/act/clone)() | Crée une copie complète de cette instance. |
+| [Clone](../../aspose.diagram/act/clone/)() | Crée une copie complète de cette instance. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

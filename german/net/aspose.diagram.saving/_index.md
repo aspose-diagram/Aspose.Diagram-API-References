@@ -3,7 +3,7 @@ title: Aspose.Diagram.Saving
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Enthält Klassen für Sicherungsoptionen.
 type: docs
-weight: 70
+weight: 60
 url: /de/net/aspose.diagram.saving/
 ---
 Enthält Klassen für Sicherungsoptionen.
@@ -12,44 +12,44 @@ Enthält Klassen für Sicherungsoptionen.
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [DiagramSaveOptions](./diagramsaveoptions) | Kann verwendet werden, um zusätzliche Optionen festzulegen, wenn ein Diagramm im Visio-Format (VDX\VSX) gespeichert wird. |
-| [HTMLSaveOptions](./htmlsaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in HTML. |
-| [ImageSaveOptions](./imagesaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in Bilder. |
-| [PageEndSavingArgs](./pageendsavingargs) | Info für eine Seite beendet Speichervorgang. |
-| [PageSavingArgs](./pagesavingargs) | Info für einen Seitenspeichervorgang. |
-| [PageSize](./pagesize) | Enthält Informationen zur Seitengröße für die generierten Bilder. |
-| [PageStartSavingArgs](./pagestartsavingargs) | Informationen für eine Seite beginnen mit dem Speichern. |
-| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails) | Enthält Details für eine digitale PDF-Signatur. |
-| [PdfEncryptionDetails](./pdfencryptiondetails) | Enthält Details für eine PDF-Verschlüsselung. |
-| [PdfSaveOptions](./pdfsaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in PDF. |
-| [PrintSaveOptions](./printsaveoptions) | Ermöglicht die Angabe zusätzlicher Optionen beim Drucken des Diagramms. |
-| [RenderingSaveOptions](./renderingsaveoptions) | Dies ist eine abstrakte Basisklasse für Klassen, die es dem Benutzer ermöglichen, zusätzliche Optionen festzulegen, wenn ein Diagramm in einem bestimmten Format gespeichert wird. |
-| [SaveOptions](./saveoptions) | Dies ist eine abstrakte Basisklasse für Klassen, die es dem Benutzer ermöglichen, zusätzliche Optionen festzulegen, wenn ein Diagramm in einem bestimmten Format gespeichert wird. |
-| [SVGSaveOptions](./svgsaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in SVG. |
-| [SWFSaveOptions](./swfsaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in SWF. |
-| [XAMLSaveOptions](./xamlsaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in XAML. |
-| [XPSSaveOptions](./xpssaveoptions) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in XPS. |
+| [DiagramSaveOptions](./diagramsaveoptions/) | Kann verwendet werden, um zusätzliche Optionen festzulegen, wenn ein Diagramm im Visio-Format (VDX\VSX) gespeichert wird. |
+| [HTMLSaveOptions](./htmlsaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in HTML. |
+| [ImageSaveOptions](./imagesaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in Bilder. |
+| [PageEndSavingArgs](./pageendsavingargs/) | Info für eine Seite beendet Speichervorgang. |
+| [PageSavingArgs](./pagesavingargs/) | Info für einen Seitenspeichervorgang. |
+| [PageSize](./pagesize/) | Enthält Informationen zur Seitengröße für die generierten Bilder. |
+| [PageStartSavingArgs](./pagestartsavingargs/) | Informationen für eine Seite beginnen mit dem Speichern. |
+| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails/) | Enthält Details für eine digitale PDF-Signatur. |
+| [PdfEncryptionDetails](./pdfencryptiondetails/) | Enthält Details für eine PDF-Verschlüsselung. |
+| [PdfSaveOptions](./pdfsaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in PDF. |
+| [PrintSaveOptions](./printsaveoptions/) | Ermöglicht die Angabe zusätzlicher Optionen beim Drucken des Diagramms. |
+| [RenderingSaveOptions](./renderingsaveoptions/) | Dies ist eine abstrakte Basisklasse für Klassen, die es dem Benutzer ermöglichen, zusätzliche Optionen festzulegen, wenn ein Diagramm in einem bestimmten Format gespeichert wird. |
+| [SaveOptions](./saveoptions/) | Dies ist eine abstrakte Basisklasse für Klassen, die es dem Benutzer ermöglichen, zusätzliche Optionen festzulegen, wenn ein Diagramm in einem bestimmten Format gespeichert wird. |
+| [SVGSaveOptions](./svgsaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in SVG. |
+| [SWFSaveOptions](./swfsaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in SWF. |
+| [XAMLSaveOptions](./xamlsaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in XAML. |
+| [XPSSaveOptions](./xpssaveoptions/) | Ermöglicht das Festlegen zusätzlicher Optionen beim Rendern von Diagrammseiten in XPS. |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IPageSavingCallback](./ipagesavingcallback) | Steuerung/Fortschritt des Seitenspeichervorgangs anzeigen. |
-| [IStreamProvider](./istreamprovider) | Repräsentiert den exportierten Streamanbieter. |
+| [IPageSavingCallback](./ipagesavingcallback/) | Steuerung/Fortschritt des Seitenspeichervorgangs anzeigen. |
+| [IStreamProvider](./istreamprovider/) | Repräsentiert den exportierten Streamanbieter. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [CompositingQuality](./compositingquality) | Gibt die beim Compositing zu verwendende Qualitätsstufe an. |
-| [ImageColorMode](./imagecolormode) | Gibt den Farbmodus für die generierten Bilder von Dokumentseiten an. |
-| [InterpolationMode](./interpolationmode) | Die InterpolationMode-Enumeration gibt den Algorithmus an, der verwendet wird, wenn Bilder skaliert oder gedreht werden. |
-| [PaperSizeFormat](./papersizeformat) | Aufzählung zum Speichern der Papiergrößenformatauswahl. |
-| [PdfCompliance](./pdfcompliance) | Gibt die PDF-Konformitätsstufe für die Ausgabedatei an. |
-| [PdfDigitalSignatureHashAlgorithm](./pdfdigitalsignaturehashalgorithm) | Gibt den digitalen Hash-Algorithmus an, der von der digitalen Signatur verwendet wird. |
-| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm) | Gibt den Verschlüsselungsalgorithmus an, der zum Verschlüsseln eines PDF-Dokuments verwendet werden soll. |
-| [PdfPermissions](./pdfpermissions) | Gibt Benutzerberechtigungen für das PDF-Dokument an. |
-| [PdfTextCompression](./pdftextcompression) | Gibt einen Komprimierungstyp an, der auf alle Inhalte in der PDF-Datei mit Ausnahme von Bildern angewendet wird. |
-| [PixelOffsetMode](./pixeloffsetmode) | Gibt an, wie Pixel während des Renderns versetzt werden. |
-| [SmoothingMode](./smoothingmode) | Gibt an, ob Glättung (Antialiasing) auf Linien und Kurven und die Kanten gefüllter Bereiche angewendet wird. |
-| [TiffCompression](./tiffcompression) | Gibt an, welcher Komprimierungstyp angewendet werden soll, wenn Seiten im TIFF-Format gespeichert werden. |
+| [CompositingQuality](./compositingquality/) | Gibt die beim Compositing zu verwendende Qualitätsstufe an. |
+| [ImageColorMode](./imagecolormode/) | Gibt den Farbmodus für die generierten Bilder von Dokumentseiten an. |
+| [InterpolationMode](./interpolationmode/) | Die InterpolationMode-Enumeration gibt den Algorithmus an, der verwendet wird, wenn Bilder skaliert oder gedreht werden. |
+| [PaperSizeFormat](./papersizeformat/) | Aufzählung zum Speichern der Papiergrößenformatauswahl. |
+| [PdfCompliance](./pdfcompliance/) | Gibt die PDF-Konformitätsstufe für die Ausgabedatei an. |
+| [PdfDigitalSignatureHashAlgorithm](./pdfdigitalsignaturehashalgorithm/) | Gibt den digitalen Hash-Algorithmus an, der von der digitalen Signatur verwendet wird. |
+| [PdfEncryptionAlgorithm](./pdfencryptionalgorithm/) | Gibt den Verschlüsselungsalgorithmus an, der zum Verschlüsseln eines PDF-Dokuments verwendet werden soll. |
+| [PdfPermissions](./pdfpermissions/) | Gibt Benutzerberechtigungen für das PDF-Dokument an. |
+| [PdfTextCompression](./pdftextcompression/) | Gibt einen Komprimierungstyp an, der auf alle Inhalte in der PDF-Datei mit Ausnahme von Bildern angewendet wird. |
+| [PixelOffsetMode](./pixeloffsetmode/) | Gibt an, wie Pixel während des Renderns versetzt werden. |
+| [SmoothingMode](./smoothingmode/) | Gibt an, ob Glättung (Antialiasing) auf Linien und Kurven und die Kanten gefüllter Bereiche angewendet wird. |
+| [TiffCompression](./tiffcompression/) | Gibt an, welcher Komprimierungstyp angewendet werden soll, wenn Seiten im TIFF-Format gespeichert werden. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

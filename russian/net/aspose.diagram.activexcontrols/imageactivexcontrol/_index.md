@@ -18,31 +18,31 @@ public class ImageActiveXControl : ActiveXControl
 
 | Имя | Описание |
 | --- | --- |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Получает и устанавливает цвет фона. |
-| [BorderOleColor](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderolecolor) { get; set; } | Получает и устанавливает цвет фона. |
-| [BorderStyle](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderstyle) { get; set; } | Получает и устанавливает тип границы, используемой элементом управления. |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Получает и устанавливает двоичные данные элемента управления. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Получает и устанавливает ole цвет переднего плана. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Получает и задает высоту элемента управления в пунктах. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус. |
-| override [IsAutoSize](../../aspose.diagram.activexcontrols/imageactivexcontrol/isautosize) { get; set; } | Указывает, будет ли размер элемента управления автоматически изменяться для отображения всего его содержимого. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Указывает, может ли элемент управления получать фокус и реагировать на пользовательские события. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Указывает, заблокированы ли данные в элементе управления для редактирования. |
-| [IsTiled](../../aspose.diagram.activexcontrols/imageactivexcontrol/istiled) { get; set; } | Указывает, расположено ли изображение поперек фона. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Указывает, является ли элемент управления прозрачным. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Получает и задает пользовательский значок, отображаемый в качестве указателя мыши для элемента управления. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления. |
-| [Picture](../../aspose.diagram.activexcontrols/imageactivexcontrol/picture) { get; set; } | Получает и устанавливает данные изображения. |
-| [PictureAlignment](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment) { get; set; } | Получает и задает выравнивание изображения внутри формы или изображения. |
-| [PictureSizeMode](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode) { get; set; } | Получает и устанавливает способ отображения изображения. |
-| [SpecialEffect](../../aspose.diagram.activexcontrols/imageactivexcontrol/specialeffect) { get; set; } | Получает и задает специальный эффект элемента управления. |
-| override [Type](../../aspose.diagram.activexcontrols/imageactivexcontrol/type) { get; } | Получает тип элемента управления ActiveX. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Получает и задает ширину элемента управления в точках. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Получает и устанавливает цвет фона ole. |
+| [BorderOleColor](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderolecolor/) { get; set; } | Получает и устанавливает цвет фона ole. |
+| [BorderStyle](../../aspose.diagram.activexcontrols/imageactivexcontrol/borderstyle/) { get; set; } | Получает и устанавливает тип границы, используемой элементом управления. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | Получает и устанавливает двоичные данные элемента управления. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Получает и задает ole цвет переднего плана. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Получает и задает высоту элемента управления в пунктах. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус. |
+| override [IsAutoSize](../../aspose.diagram.activexcontrols/imageactivexcontrol/isautosize/) { get; set; } | Указывает, будет ли автоматически изменяться размер элемента управления для отображения всего его содержимого. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Указывает, может ли элемент управления получать фокус и реагировать на события, созданные пользователем. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Указывает, заблокированы ли данные в элементе управления для редактирования. |
+| [IsTiled](../../aspose.diagram.activexcontrols/imageactivexcontrol/istiled/) { get; set; } | Указывает, расположено ли изображение на фоне фона. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Указывает, является ли элемент управления прозрачным. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Получает и задает пользовательский значок для отображения в качестве указателя мыши для элемента управления. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления. |
+| [Picture](../../aspose.diagram.activexcontrols/imageactivexcontrol/picture/) { get; set; } | Получает и устанавливает данные изображения. |
+| [PictureAlignment](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturealignment/) { get; set; } | Получает и задает выравнивание изображения внутри формы или изображения. |
+| [PictureSizeMode](../../aspose.diagram.activexcontrols/imageactivexcontrol/picturesizemode/) { get; set; } | Получает и задает способ отображения изображения. |
+| [SpecialEffect](../../aspose.diagram.activexcontrols/imageactivexcontrol/specialeffect/) { get; set; } | Получает и задает специальный эффект элемента управления. |
+| override [Type](../../aspose.diagram.activexcontrols/imageactivexcontrol/type/) { get; } | Получает тип элемента управления ActiveX. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Получает и задает ширину элемента управления в точках. |
 
 ### Смотрите также
 
-* class [ActiveXControl](../activexcontrol)
-* пространство имен [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* пространство имен [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

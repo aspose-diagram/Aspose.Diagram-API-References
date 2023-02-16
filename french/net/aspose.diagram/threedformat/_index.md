@@ -3,7 +3,7 @@ title: ThreeDFormat
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Représente la mise en forme tridimensionnelle dune forme.
 type: docs
-weight: 4030
+weight: 4040
 url: /fr/net/aspose.diagram/threedformat/
 ---
 ## ThreeDFormat class
@@ -18,36 +18,36 @@ public class ThreeDFormat
 
 | Nom | La description |
 | --- | --- |
-| [BevelBottomHeight](../../aspose.diagram/threedformat/bevelbottomheight) { get; set; } | Spécifie la hauteur du biseau inférieur sur une forme 3D. |
-| [BevelBottomType](../../aspose.diagram/threedformat/bevelbottomtype) { get; set; } | Spécifie le type de biseau prédéfini pour le biseau inférieur sur une forme 3D |
-| [BevelBottomWidth](../../aspose.diagram/threedformat/bevelbottomwidth) { get; set; } | Spécifie la largeur du biseau inférieur sur une forme 3D. |
-| [BevelContourColor](../../aspose.diagram/threedformat/bevelcontourcolor) { get; set; } | Spécifie la couleur du contour sur une forme 3D |
-| [BevelContourSize](../../aspose.diagram/threedformat/bevelcontoursize) { get; set; } | Spécifie l'épaisseur du contour sur une forme 3D |
-| [BevelDepthColor](../../aspose.diagram/threedformat/beveldepthcolor) { get; set; } | Spécifie la couleur d'extrusion sur une forme 3D |
-| [BevelDepthSize](../../aspose.diagram/threedformat/beveldepthsize) { get; set; } | Spécifie la profondeur d'extrusion sur une forme 3D |
-| [BevelLightingAngle](../../aspose.diagram/threedformat/bevellightingangle) { get; set; } | Spécifie la direction de l'éclairage sur une forme 3D. |
-| [BevelLightingType](../../aspose.diagram/threedformat/bevellightingtype) { get; set; } | Spécifie le type d'éclairage prédéfini sur une forme 3D |
-| [BevelMaterialType](../../aspose.diagram/threedformat/bevelmaterialtype) { get; set; } | Spécifie l'apparence de surface prédéfinie sur une forme 3D |
-| [BevelTopHeight](../../aspose.diagram/threedformat/beveltopheight) { get; set; } | Spécifie la hauteur du biseau supérieur sur une forme 3D |
-| [BevelTopType](../../aspose.diagram/threedformat/beveltoptype) { get; set; } | Spécifie le type de biseau prédéfini pour le biseau supérieur sur une forme 3D |
-| [BevelTopWidth](../../aspose.diagram/threedformat/beveltopwidth) { get; set; } | Spécifie la largeur du biseau supérieur sur une forme 3D. |
-| [DistanceFromGround](../../aspose.diagram/threedformat/distancefromground) { get; set; } | Spécifie la distance à laquelle une forme avec des propriétés de rotation 3D |
-| [KeepTextFlat](../../aspose.diagram/threedformat/keeptextflat) { get; set; } | Spécifie si les propriétés de rotation 3D s'appliquent au texte d'une forme |
-| [Perspective](../../aspose.diagram/threedformat/perspective) { get; set; } | Spécifie l'angle de vue d'une forme avec des propriétés de rotation 3D |
-| [RotationType](../../aspose.diagram/threedformat/rotationtype) { get; set; } | Spécifie le type de projection des propriétés d'effet d'une forme. |
-| [RotationXAngle](../../aspose.diagram/threedformat/rotationxangle) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe y. |
-| [RotationYAngle](../../aspose.diagram/threedformat/rotationyangle) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe x |
-| [RotationZAngle](../../aspose.diagram/threedformat/rotationzangle) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe z. |
+| [BevelBottomHeight](../../aspose.diagram/threedformat/bevelbottomheight/) { get; set; } | Spécifie la hauteur du biseau inférieur sur une forme 3D. |
+| [BevelBottomType](../../aspose.diagram/threedformat/bevelbottomtype/) { get; set; } | Spécifie le type de biseau prédéfini pour le biseau inférieur sur une forme 3D |
+| [BevelBottomWidth](../../aspose.diagram/threedformat/bevelbottomwidth/) { get; set; } | Spécifie la largeur du biseau inférieur sur une forme 3D. |
+| [BevelContourColor](../../aspose.diagram/threedformat/bevelcontourcolor/) { get; set; } | Spécifie la couleur du contour sur une forme 3D |
+| [BevelContourSize](../../aspose.diagram/threedformat/bevelcontoursize/) { get; set; } | Spécifie l'épaisseur du contour sur une forme 3D |
+| [BevelDepthColor](../../aspose.diagram/threedformat/beveldepthcolor/) { get; set; } | Spécifie la couleur d'extrusion sur une forme 3D |
+| [BevelDepthSize](../../aspose.diagram/threedformat/beveldepthsize/) { get; set; } | Spécifie la profondeur d'extrusion sur une forme 3D |
+| [BevelLightingAngle](../../aspose.diagram/threedformat/bevellightingangle/) { get; set; } | Spécifie la direction de l'éclairage sur une forme 3D. |
+| [BevelLightingType](../../aspose.diagram/threedformat/bevellightingtype/) { get; set; } | Spécifie le type d'éclairage prédéfini sur une forme 3D |
+| [BevelMaterialType](../../aspose.diagram/threedformat/bevelmaterialtype/) { get; set; } | Spécifie l'apparence de surface prédéfinie sur une forme 3D |
+| [BevelTopHeight](../../aspose.diagram/threedformat/beveltopheight/) { get; set; } | Spécifie la hauteur du biseau supérieur sur une forme 3D |
+| [BevelTopType](../../aspose.diagram/threedformat/beveltoptype/) { get; set; } | Spécifie le type de biseau prédéfini pour le biseau supérieur sur une forme 3D |
+| [BevelTopWidth](../../aspose.diagram/threedformat/beveltopwidth/) { get; set; } | Spécifie la largeur du biseau supérieur sur une forme 3D. |
+| [DistanceFromGround](../../aspose.diagram/threedformat/distancefromground/) { get; set; } | Spécifie la distance à laquelle une forme avec des propriétés de rotation 3D |
+| [KeepTextFlat](../../aspose.diagram/threedformat/keeptextflat/) { get; set; } | Spécifie si les propriétés de rotation 3D s'appliquent au texte d'une forme |
+| [Perspective](../../aspose.diagram/threedformat/perspective/) { get; set; } | Spécifie l'angle de vue d'une forme avec des propriétés de rotation 3D |
+| [RotationType](../../aspose.diagram/threedformat/rotationtype/) { get; set; } | Spécifie le type de projection des propriétés d'effet d'une forme. |
+| [RotationXAngle](../../aspose.diagram/threedformat/rotationxangle/) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe y. |
+| [RotationYAngle](../../aspose.diagram/threedformat/rotationyangle/) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe x |
+| [RotationZAngle](../../aspose.diagram/threedformat/rotationzangle/) { get; set; } | Spécifie l'angle de rotation dans le sens antihoraire d'une forme autour de l'axe z. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Equals](../../aspose.diagram/threedformat/equals)(object) |  |
+| override [Equals](../../aspose.diagram/threedformat/equals/)(object) |  |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

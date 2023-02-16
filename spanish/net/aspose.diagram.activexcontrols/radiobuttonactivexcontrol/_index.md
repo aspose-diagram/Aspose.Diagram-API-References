@@ -18,34 +18,34 @@ public class RadioButtonActiveXControl : ToggleButtonActiveXControl
 
 | Nombre | Descripción |
 | --- | --- |
-| [Accelerator](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/accelerator) { get; set; } | Obtiene y establece la tecla aceleradora del control. |
-| [Alignment](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/alignment) { get; set; } | Obtiene y establece la posición del título en relación con el control. |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Obtiene y establece el color antiguo del fondo. |
-| [Caption](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/caption) { get; set; } | Obtiene y establece el texto descriptivo que aparece en un control. |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Obtiene y establece los datos binarios del control. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Obtiene y establece el color antiguo del primer plano. |
-| [GroupName](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/groupname) { get; set; } | Obtiene y establece el nombre del grupo. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Obtiene y establece la altura del control en unidades de puntos. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Obtiene y establece el modo de tiempo de ejecución predeterminado del Editor de métodos de entrada para el control cuando recibe el foco. |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | Indica si el control cambiará de tamaño automáticamente para mostrar todo su contenido. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Indica si el control puede recibir el foco y responder a los eventos generados por el usuario. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Indica si los datos del control están bloqueados para su edición. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Indica si el control es transparente. |
-| [IsTripleState](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/istriplestate) { get; set; } | Indica cómo el control especificado mostrará valores nulos. |
-| [IsWordWrapped](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/iswordwrapped) { get; set; } | Indica si el contenido del control se ajusta automáticamente al final de una línea. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Obtiene y establece un icono personalizado para mostrar como el puntero del mouse para el control. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Obtiene y establece el tipo de icono que se muestra como el puntero del mouse para el control. |
-| [Picture](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/picture) { get; set; } | Obtiene y establece los datos de la imagen. |
-| [PicturePosition](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/pictureposition) { get; set; } | Obtiene y establece la ubicación de la imagen del control en relación con su título. |
-| [SpecialEffect](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/specialeffect) { get; set; } | Obtiene y establece el efecto especial del control. |
-| override [Type](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/type) { get; } | Obtiene el tipo del control ActiveX. |
-| [Value](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/value) { get; set; } | Indica si el control está marcado o no. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Obtiene y establece el ancho del control en unidades de punto. |
+| [Accelerator](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/accelerator/) { get; set; } | Obtiene y establece la tecla aceleradora del control. |
+| [Alignment](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/alignment/) { get; set; } | Obtiene y establece la posición del título en relación con el control. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Obtiene y establece el color antiguo del fondo. |
+| [Caption](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/caption/) { get; set; } | Obtiene y establece el texto descriptivo que aparece en un control. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | Obtiene y establece los datos binarios del control. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Obtiene y establece el color antiguo del primer plano. |
+| [GroupName](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/groupname/) { get; set; } | Obtiene y establece el nombre del grupo. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Obtiene y establece la altura del control en unidades de puntos. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Obtiene y establece el modo de tiempo de ejecución predeterminado del Editor de métodos de entrada para el control cuando recibe el foco. |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | Indica si el control cambiará de tamaño automáticamente para mostrar todo su contenido. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Indica si el control puede recibir el foco y responder a los eventos generados por el usuario. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Indica si los datos del control están bloqueados para su edición. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Indica si el control es transparente. |
+| [IsTripleState](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/istriplestate/) { get; set; } | Indica cómo el control especificado mostrará valores nulos. |
+| [IsWordWrapped](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/iswordwrapped/) { get; set; } | Indica si el contenido del control se ajusta automáticamente al final de una línea. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Obtiene y establece un icono personalizado para mostrar como el puntero del mouse para el control. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Obtiene y establece el tipo de icono que se muestra como el puntero del mouse para el control. |
+| [Picture](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/picture/) { get; set; } | Obtiene y establece los datos de la imagen. |
+| [PicturePosition](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/pictureposition/) { get; set; } | Obtiene y establece la ubicación de la imagen del control en relación con su título. |
+| [SpecialEffect](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/specialeffect/) { get; set; } | Obtiene y establece el efecto especial del control. |
+| override [Type](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/type/) { get; } | Obtiene el tipo del control ActiveX. |
+| [Value](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/value/) { get; set; } | Indica si el control está marcado o no. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Obtiene y establece el ancho del control en unidades de punto. |
 
 ### Ver también
 
-* class [ToggleButtonActiveXControl](../togglebuttonactivexcontrol)
-* espacio de nombres [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ToggleButtonActiveXControl](../togglebuttonactivexcontrol/)
+* espacio de nombres [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

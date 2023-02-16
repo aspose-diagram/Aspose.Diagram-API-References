@@ -18,38 +18,38 @@ public class Act
 
 | Nombre | Descripción |
 | --- | --- |
-| [Act](act)() | Constructor. |
+| [Act](act/)() | Constructor. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Action](../../aspose.diagram/act/action) { get; } | Contiene la fórmula que se ejecutará cuando un usuario haga clic en el nombre del comando definido en el elemento de Menú correspondiente. |
-| [BeginGroup](../../aspose.diagram/act/begingroup) { get; } | Indica si se inserta un separador en el menú encima de esta acción. |
-| [ButtonFace](../../aspose.diagram/act/buttonface) { get; } | Identifica el icono que aparece junto a un elemento en un menú contextual. |
-| [Checked](../../aspose.diagram/act/checked) { get; } | Determina si se muestra una marca de verificación junto al nombre del comando en el menú contextual de una forma. |
-| [Del](../../aspose.diagram/act/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [Disabled](../../aspose.diagram/act/disabled) { get; } | El elemento deshabilitado determina si el nombre del comando se muestra en el menú contextual. |
-| [FlyoutChild](../../aspose.diagram/act/flyoutchild) { get; } | Determina si la fila de acción es un menú desplegable secundario de la última fila superior que no es un menú desplegable secundario. |
-| [ID](../../aspose.diagram/act/id) { get; set; } | El ID único del elemento dentro de su elemento principal. |
-| [Invisible](../../aspose.diagram/act/invisible) { get; } | El elemento invisible indica si la acción está visible en la etiqueta inteligente o en el menú contextual. |
-| [IX](../../aspose.diagram/act/ix) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
-| [Menu](../../aspose.diagram/act/menu) { get; } | Especifica el nombre del comando que aparece en el menú contextual de una forma o página. |
-| [Name](../../aspose.diagram/act/name) { get; set; } | El nombre del elemento. |
-| [NameU](../../aspose.diagram/act/nameu) { get; set; } | El nombre universal del elemento. |
-| [ReadOnly](../../aspose.diagram/act/readonly) { get; } | Determina si la acción en una etiqueta inteligente o menú contextual es de solo lectura. |
-| [SortKey](../../aspose.diagram/act/sortkey) { get; } | Especifica un número que determina el orden de las acciones que aparecen en un menú de acceso directo o etiqueta inteligente. |
-| [TagName](../../aspose.diagram/act/tagname) { get; } | Contiene el nombre de la etiqueta inteligente a la que está asociada la acción. |
+| [Action](../../aspose.diagram/act/action/) { get; } | Contiene la fórmula que se ejecutará cuando un usuario haga clic en el nombre del comando definido en el elemento de Menú correspondiente. |
+| [BeginGroup](../../aspose.diagram/act/begingroup/) { get; } | Indica si se inserta un separador en el menú encima de esta acción. |
+| [ButtonFace](../../aspose.diagram/act/buttonface/) { get; } | Identifica el icono que aparece junto a un elemento en un menú contextual. |
+| [Checked](../../aspose.diagram/act/checked/) { get; } | Determina si se muestra una marca de verificación junto al nombre del comando en el menú contextual de una forma. |
+| [Del](../../aspose.diagram/act/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [Disabled](../../aspose.diagram/act/disabled/) { get; } | El elemento deshabilitado determina si el nombre del comando se muestra en el menú contextual. |
+| [FlyoutChild](../../aspose.diagram/act/flyoutchild/) { get; } | Determina si la fila de acción es un menú desplegable secundario de la última fila superior que no es un menú desplegable secundario. |
+| [ID](../../aspose.diagram/act/id/) { get; set; } | El ID único del elemento dentro de su elemento principal. |
+| [Invisible](../../aspose.diagram/act/invisible/) { get; } | El elemento invisible indica si la acción está visible en la etiqueta inteligente o en el menú contextual. |
+| [IX](../../aspose.diagram/act/ix/) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
+| [Menu](../../aspose.diagram/act/menu/) { get; } | Especifica el nombre del comando que aparece en el menú contextual de una forma o página. |
+| [Name](../../aspose.diagram/act/name/) { get; set; } | El nombre del elemento. |
+| [NameU](../../aspose.diagram/act/nameu/) { get; set; } | El nombre universal del elemento. |
+| [ReadOnly](../../aspose.diagram/act/readonly/) { get; } | Determina si la acción en una etiqueta inteligente o menú contextual es de solo lectura. |
+| [SortKey](../../aspose.diagram/act/sortkey/) { get; } | Especifica un número que determina el orden de las acciones que aparecen en un menú de acceso directo o etiqueta inteligente. |
+| [TagName](../../aspose.diagram/act/tagname/) { get; } | Contiene el nombre de la etiqueta inteligente a la que está asociada la acción. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/act/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/act/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

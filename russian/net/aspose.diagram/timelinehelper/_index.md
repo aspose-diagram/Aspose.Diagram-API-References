@@ -3,7 +3,7 @@ title: TimeLineHelper
 second_title: Справочник по Aspose.Diagram для .NET API
 description: TimeLineHelper для установки свойства формы временной шкалы.
 type: docs
-weight: 4040
+weight: 4050
 url: /ru/net/aspose.diagram/timelinehelper/
 ---
 ## TimeLineHelper class
@@ -18,39 +18,39 @@ public class TimeLineHelper
 
 | Имя | Описание |
 | --- | --- |
-| [TimeLineHelper](timelinehelper)(Shape) | TimeLineHelper. |
+| [TimeLineHelper](timelinehelper/)(Shape) | TimeLineHelper. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead) { set; } | ArrowHead формы временной шкалы |
-| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek) { set; } | Начало недели формы временной шкалы |
-| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe) { set; } | DateFormat для начала и окончания формы временной шкалы |
-| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm) { set; } | DateFormat для Intm формы временной шкалы |
-| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe) { set; } | DateFormat Строка для начала и окончания формы временной шкалы |
-| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm) { set; } | DateFormat Строка для Intm формы временной шкалы |
-| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart) { set; } | Первый день финансового года |
-| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate) { set; } | обновлять ли данные для маркеров (вех, интервалов) по мере их перемещения на временной шкале |
-| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe) { set; } | отображать ли даты начала и окончания на временной шкале |
-| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm) { set; } | отображать ли промежуточные метки даты/времени на временной шкале |
-| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates) { set; } | отображать ли промежуточные даты на промежуточных тиках |
-| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype) { set; } | Начало недели формы временной шкалы |
-| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish) { get; set; } | Период времени для окончания формы временной шкалы |
-| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart) { get; set; } | Период времени для начала формы временной шкалы |
-| [TimeScale](../../aspose.diagram/timelinehelper/timescale) { get; set; } | шкала формы временной шкалы |
+| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead/) { set; } | ArrowHead временной шкалы shape |
+| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek/) { set; } | Начало недели временной шкалы shape |
+| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe/) { set; } | DateFormat для начала и окончания временной шкалы shape |
+| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm/) { set; } | DateFormat для Intm временной шкалы shape |
+| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe/) { set; } | DateFormat Строка для начала и окончания временной шкалы shape |
+| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm/) { set; } | DateFormat Строка для Intm временной шкалы shape |
+| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart/) { set; } | Первый день финансового года |
+| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate/) { set; } | обновлять ли данные для маркеров (вех, интервалов) по мере их перемещения на временной шкале |
+| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe/) { set; } | отображать ли даты начала и окончания на временной шкале |
+| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm/) { set; } | отображать ли промежуточные тики даты/времени на временной шкале |
+| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates/) { set; } | отображать ли промежуточные даты на промежуточных тиках |
+| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype/) { set; } | Начало недели временной шкалы shape |
+| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish/) { get; set; } | Период времени для окончания формы временной шкалы |
+| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart/) { get; set; } | Период времени для начала временной шкалы shape |
+| [TimeScale](../../aspose.diagram/timelinehelper/timescale/) { get; set; } | масштаб временной шкалы shape |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline)() | Время обновления форм временной шкалы |
-| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime)(DateTime) | Преобразование даты и времени в двойное значение. |
-| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend)(DateTime, int) | getweekstart |
+| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline/)() | Время обновления форм временной шкалы |
+| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime/)(DateTime) | Преобразование даты и времени в двойное значение. |
+| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend/)(DateTime, int) | getweekstart |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

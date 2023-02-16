@@ -3,7 +3,7 @@ title: Fill
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Содержит текущие значения форматирования заливки для фигуры и тени фигуры включая узор цвет переднего плана и цвет фона.
 type: docs
-weight: 1480
+weight: 1500
 url: /ru/net/aspose.diagram/fill/
 ---
 ## Fill class
@@ -18,35 +18,35 @@ public class Fill : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Del](../../aspose.diagram/fill/del) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
-| [FillBkgnd](../../aspose.diagram/fill/fillbkgnd) { get; set; } | Указывает цвет, используемый для фона узора заливки фигуры. |
-| [FillBkgndTrans](../../aspose.diagram/fill/fillbkgndtrans) { get; set; } | Указывает уровень прозрачности для цвета фона (заливки) узора заливки фигуры от 0 (полностью непрозрачный) до 1 (полностью прозрачный). |
-| [FillForegnd](../../aspose.diagram/fill/fillforegnd) { get; set; } | Указывает цвет, используемый для переднего плана (штриха) узора заливки фигуры. |
-| [FillForegndTrans](../../aspose.diagram/fill/fillforegndtrans) { get; set; } | Задает уровень прозрачности для цвета переднего плана (заливки) узора заливки фигуры от 0 (полностью непрозрачный) до 1 (полностью прозрачный). |
-| [FillPattern](../../aspose.diagram/fill/fillpattern) { get; set; } | Указывает шаблон заливки для фигуры. |
-| [GradientFill](../../aspose.diagram/fill/gradientfill) { get; } | Содержит текущие значения форматирования градиентной заливки для фигуры |
-| [ShapeShdwBlur](../../aspose.diagram/fill/shapeshdwblur) { get; set; } | Задает размер размытия тени фигуры. теперь не может рисовать размытие, но теперь может парсить из vsdx. |
-| [ShapeShdwObliqueAngle](../../aspose.diagram/fill/shapeshdwobliqueangle) { get; set; } | Задает угол косого направления тени фигуры. |
-| [ShapeShdwOffsetX](../../aspose.diagram/fill/shapeshdwoffsetx) { get; set; } | Определяет расстояние в единицах страницы, на которое тень фигуры смещается по горизонтали от фигуры. |
-| [ShapeShdwOffsetY](../../aspose.diagram/fill/shapeshdwoffsety) { get; set; } | Определяет расстояние в единицах страницы, на которое тень фигуры смещается по вертикали от фигуры. |
-| [ShapeShdwScaleFactor](../../aspose.diagram/fill/shapeshdwscalefactor) { get; set; } | Задает процент, на который тень фигуры может быть увеличена или уменьшена. |
-| [ShapeShdwShow](../../aspose.diagram/fill/shapeshdwshow) { get; set; } | Указывает тип тени для фигуры. |
-| [ShapeShdwType](../../aspose.diagram/fill/shapeshdwtype) { get; set; } | Указывает тип тени для фигуры. |
-| [ShdwBkgnd](../../aspose.diagram/fill/shdwbkgnd) { get; set; } | Указывает цвет, используемый для фона (заливки) узора заливки тени фигуры. |
-| [ShdwBkgndTrans](../../aspose.diagram/fill/shdwbkgndtrans) { get; set; } | Указывает уровень прозрачности фона (заливки) шаблона заливки тени фигуры от 0,0 (полностью непрозрачный) до 1,0 (полностью прозрачный). |
-| [ShdwForegnd](../../aspose.diagram/fill/shdwforegnd) { get; set; } | Указывает цвет, используемый для переднего плана (штриха) узора заливки тени фигуры. |
-| [ShdwForegndTrans](../../aspose.diagram/fill/shdwforegndtrans) { get; set; } | Указывает уровень прозрачности для переднего плана (штриха) шаблона заливки тени фигуры от 0,0 (полностью непрозрачный) до 1,0 (полностью прозрачный). |
-| [ShdwPattern](../../aspose.diagram/fill/shdwpattern) { get; set; } | Определяет шаблон заливки для тени фигуры. |
+| [Del](../../aspose.diagram/fill/del/) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
+| [FillBkgnd](../../aspose.diagram/fill/fillbkgnd/) { get; set; } | Определяет цвет фона шаблона заливки фигуры. |
+| [FillBkgndTrans](../../aspose.diagram/fill/fillbkgndtrans/) { get; set; } | Указывает уровень прозрачности для цвета фона (заливки) узора заливки фигуры от 0 (полностью непрозрачный) до 1 (полностью прозрачный). |
+| [FillForegnd](../../aspose.diagram/fill/fillforegnd/) { get; set; } | Указывает цвет, используемый для переднего плана (штриха) узора заливки фигуры. |
+| [FillForegndTrans](../../aspose.diagram/fill/fillforegndtrans/) { get; set; } | Указывает уровень прозрачности для цвета переднего плана (заливки) узора заливки фигуры от 0 (полностью непрозрачный) до 1 (полностью прозрачный). |
+| [FillPattern](../../aspose.diagram/fill/fillpattern/) { get; set; } | Указывает шаблон заливки для фигуры. |
+| [GradientFill](../../aspose.diagram/fill/gradientfill/) { get; } | Содержит текущие значения форматирования градиентной заливки для shape |
+| [ShapeShdwBlur](../../aspose.diagram/fill/shapeshdwblur/) { get; set; } | Определяет размер теневого размытия формы. теперь не может рисовать размытие, но теперь может анализировать из vsdx. |
+| [ShapeShdwObliqueAngle](../../aspose.diagram/fill/shapeshdwobliqueangle/) { get; set; } | Указывает угол наклона тени фигуры. |
+| [ShapeShdwOffsetX](../../aspose.diagram/fill/shapeshdwoffsetx/) { get; set; } | Определяет расстояние в единицах страницы, на которое тень фигуры смещена по горизонтали от фигуры. |
+| [ShapeShdwOffsetY](../../aspose.diagram/fill/shapeshdwoffsety/) { get; set; } | Определяет расстояние в единицах страницы, на которое тень фигуры смещена по вертикали от фигуры. |
+| [ShapeShdwScaleFactor](../../aspose.diagram/fill/shapeshdwscalefactor/) { get; set; } | Задает процент, на который тень фигуры может быть увеличена или уменьшена. |
+| [ShapeShdwShow](../../aspose.diagram/fill/shapeshdwshow/) { get; set; } | Определяет тип тени для фигуры. |
+| [ShapeShdwType](../../aspose.diagram/fill/shapeshdwtype/) { get; set; } | Определяет тип тени для фигуры. |
+| [ShdwBkgnd](../../aspose.diagram/fill/shdwbkgnd/) { get; set; } | Указывает цвет, используемый для фона (заливки) шаблона заливки тени фигуры. |
+| [ShdwBkgndTrans](../../aspose.diagram/fill/shdwbkgndtrans/) { get; set; } | Указывает уровень прозрачности фона (заливки) шаблона заливки тени фигуры от 0,0 (полностью непрозрачный) до 1,0 (полностью прозрачный). |
+| [ShdwForegnd](../../aspose.diagram/fill/shdwforegnd/) { get; set; } | Определяет цвет, используемый для переднего плана (штриха) узора заливки тени фигуры. |
+| [ShdwForegndTrans](../../aspose.diagram/fill/shdwforegndtrans/) { get; set; } | Указывает уровень прозрачности для переднего плана (штриха) шаблона заливки тени фигуры от 0,0 (полностью непрозрачный) до 1,0 (полностью прозрачный). |
+| [ShdwPattern](../../aspose.diagram/fill/shdwpattern/) { get; set; } | Указывает шаблон заливки для тени фигуры. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.diagram/fill/clone)() | Создает глубокую копию этого экземпляра. |
+| [Clone](../../aspose.diagram/fill/clone/)() | Создает глубокую копию этого экземпляра. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

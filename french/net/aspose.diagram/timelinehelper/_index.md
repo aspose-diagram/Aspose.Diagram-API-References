@@ -3,7 +3,7 @@ title: TimeLineHelper
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: TimeLineHelper pour définir la propriété de la forme de la chronologie.
 type: docs
-weight: 4040
+weight: 4050
 url: /fr/net/aspose.diagram/timelinehelper/
 ---
 ## TimeLineHelper class
@@ -18,39 +18,39 @@ public class TimeLineHelper
 
 | Nom | La description |
 | --- | --- |
-| [TimeLineHelper](timelinehelper)(Shape) | TimeLineHelper. |
+| [TimeLineHelper](timelinehelper/)(Shape) | TimeLineHelper. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead) { set; } | FlècheEn-tête de la forme de la chronologie |
-| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek) { set; } | Début de la semaine de la forme de la chronologie |
-| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe) { set; } | DateFormat pour le début et la fin de la forme de la chronologie |
-| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm) { set; } | DateFormat pour Intm de la forme de la chronologie |
-| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe) { set; } | DateFormat String pour le début et la fin de la chronologie shape |
-| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm) { set; } | DateFormat String for Intm of timeline shape |
-| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart) { set; } | Premier jour de l'année fiscale |
-| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate) { set; } | s'il faut mettre à jour les données des marqueurs (jalons, intervalles) lorsqu'ils sont déplacés sur la chronologie |
-| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe) { set; } | s'il faut afficher les dates de début et de fin sur la chronologie |
-| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm) { set; } | s'il faut afficher les dates/heures intermédiaires sur la chronologie |
-| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates) { set; } | s'il faut afficher les dates intermédiaires sur les ticks intermédiaires |
-| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype) { set; } | Début de la semaine de la forme de la chronologie |
-| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish) { get; set; } | Période de temps pour la fin de la forme de la chronologie |
-| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart) { get; set; } | Période de début de la forme de la chronologie |
-| [TimeScale](../../aspose.diagram/timelinehelper/timescale) { get; set; } | échelle de la forme de la chronologie |
+| [ArrowHead](../../aspose.diagram/timelinehelper/arrowhead/) { set; } | FlècheEn-tête de la forme de la chronologie |
+| [BeginWeek](../../aspose.diagram/timelinehelper/beginweek/) { set; } | Début de la semaine de la forme de la chronologie |
+| [DateFormatForBE](../../aspose.diagram/timelinehelper/dateformatforbe/) { set; } | DateFormat pour le début et la fin de la forme de la chronologie |
+| [DateFormatForIntm](../../aspose.diagram/timelinehelper/dateformatforintm/) { set; } | DateFormat pour Intm de la forme de la chronologie |
+| [DateFormatStringForBE](../../aspose.diagram/timelinehelper/dateformatstringforbe/) { set; } | DateFormat String pour le début et la fin de la chronologie shape |
+| [DateFormatStringForIntm](../../aspose.diagram/timelinehelper/dateformatstringforintm/) { set; } | DateFormat String for Intm of timeline shape |
+| [FiscalStart](../../aspose.diagram/timelinehelper/fiscalstart/) { set; } | Premier jour de l'année fiscale |
+| [IsAutoUpdate](../../aspose.diagram/timelinehelper/isautoupdate/) { set; } | s'il faut mettre à jour les données des marqueurs (jalons, intervalles) lorsqu'ils sont déplacés sur la chronologie |
+| [IsDisplayBE](../../aspose.diagram/timelinehelper/isdisplaybe/) { set; } | s'il faut afficher les dates de début et de fin sur la chronologie |
+| [IsDisplayIntm](../../aspose.diagram/timelinehelper/isdisplayintm/) { set; } | s'il faut afficher les dates/heures intermédiaires sur la chronologie |
+| [IsDisplayIntmDates](../../aspose.diagram/timelinehelper/isdisplayintmdates/) { set; } | s'il faut afficher les dates intermédiaires sur les ticks intermédiaires |
+| [TimeLineType](../../aspose.diagram/timelinehelper/timelinetype/) { set; } | Début de la semaine de la forme de la chronologie |
+| [TimePeriodFinish](../../aspose.diagram/timelinehelper/timeperiodfinish/) { get; set; } | Période de temps pour la fin de la forme de la chronologie |
+| [TimePeriodStart](../../aspose.diagram/timelinehelper/timeperiodstart/) { get; set; } | Période de début de la forme de la chronologie |
+| [TimeScale](../../aspose.diagram/timelinehelper/timescale/) { get; set; } | échelle de la forme de la chronologie |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline)() | Temps d'actualisation des formes de la chronologie |
-| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime)(DateTime) | Convertir la date et l'heure en double valeur. |
-| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend)(DateTime, int) | getweekstart |
+| [RefreshTimeLine](../../aspose.diagram/timelinehelper/refreshtimeline/)() | Temps d'actualisation des formes de la chronologie |
+| static [GetDoubleStringFromDateTime](../../aspose.diagram/timelinehelper/getdoublestringfromdatetime/)(DateTime) | Convertir la date et l'heure en double valeur. |
+| static [GetWeekEnd](../../aspose.diagram/timelinehelper/getweekend/)(DateTime, int) | getweekstart |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

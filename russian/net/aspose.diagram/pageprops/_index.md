@@ -3,7 +3,7 @@ title: PageProps
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Содержит ячейки управляющие атрибутами страницы такими как ширина высота и масштаб страницы.
 type: docs
-weight: 2550
+weight: 2560
 url: /ru/net/aspose.diagram/pageprops/
 ---
 ## PageProps class
@@ -18,31 +18,31 @@ public class PageProps
 
 | Имя | Описание |
 | --- | --- |
-| [Del](../../aspose.diagram/pageprops/del) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
-| [DrawingResizeType](../../aspose.diagram/pageprops/drawingresizetype) { get; } | Определяет, будет ли автоматически изменяться размер страницы документа в соответствии с диаграммой. |
-| [DrawingScale](../../aspose.diagram/pageprops/drawingscale) { get; } | Представляет значение единицы чертежа в текущем масштабе чертежа. Масштаб чертежа для страницы представляет собой отношение единицы страницы, содержащейся в элементе PageScale, к единице чертежа. Единицы этого элемента определяют единицы длины по умолчанию (DL) для страницы. |
-| [DrawingScaleType](../../aspose.diagram/pageprops/drawingscaletype) { get; } | Задает тип масштаба чертежа, используемый для страницы. |
-| [DrawingSizeType](../../aspose.diagram/pageprops/drawingsizetype) { get; } | Задает размер рисунка страницы. |
-| [InhibitSnap](../../aspose.diagram/pageprops/inhibitsnap) { get; } | Указывает, будут ли фигуры на странице переднего плана привязываться к другим объектам на странице и фигурам на странице фона. |
-| [PageHeight](../../aspose.diagram/pageprops/pageheight) { get; } | Задает высоту страницы в единицах чертежа. |
-| [PageScale](../../aspose.diagram/pageprops/pagescale) { get; } | Указывает значение единицы страницы по умолчанию в текущем масштабе чертежа. Масштаб чертежа для страницы представляет собой отношение единицы страницы в элементе PageScale к единице чертежа, показанной в элементе DrawingScale. |
-| [PageWidth](../../aspose.diagram/pageprops/pagewidth) { get; } | Задает ширину страницы в единицах чертежа. |
-| [ShdwObliqueAngle](../../aspose.diagram/pageprops/shdwobliqueangle) { get; } | Содержит число, указывающее угол косого направления, когда применяется тип тени страницы по умолчанию. |
-| [ShdwOffsetX](../../aspose.diagram/pageprops/shdwoffsetx) { get; } | Задает расстояние в единицах страницы, на которое тень фигуры смещена по горизонтали от фигуры. |
-| [ShdwOffsetY](../../aspose.diagram/pageprops/shdwoffsety) { get; } | Задает расстояние в единицах страницы, на которое тень фигуры смещена по вертикали от фигуры. |
-| [ShdwScaleFactor](../../aspose.diagram/pageprops/shdwscalefactor) { get; } | Задает процент увеличения или уменьшения тени фигуры. |
-| [ShdwType](../../aspose.diagram/pageprops/shdwtype) { get; } | Указывает тип тени по умолчанию для страницы. |
-| [UIVisibility](../../aspose.diagram/pageprops/uivisibility) { get; } | Определяет, отображается ли имя страницы в пользовательском интерфейсе (UI). Значение 1 указывает, что страница не видна; нулевое значение указывает, что страница видна |
+| [Del](../../aspose.diagram/pageprops/del/) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
+| [DrawingResizeType](../../aspose.diagram/pageprops/drawingresizetype/) { get; } | Определяет, будет ли автоматически изменяться размер страницы документа в соответствии с диаграммой. |
+| [DrawingScale](../../aspose.diagram/pageprops/drawingscale/) { get; } | Представляет значение единицы чертежа в текущем масштабе чертежа. Масштаб чертежа для страницы представляет собой отношение единицы страницы, содержащейся в элементе PageScale, к единице чертежа. Единицы этого элемента определяют единицы длины по умолчанию (DL) для страницы. |
+| [DrawingScaleType](../../aspose.diagram/pageprops/drawingscaletype/) { get; } | Определяет тип масштаба чертежа для использования на странице. |
+| [DrawingSizeType](../../aspose.diagram/pageprops/drawingsizetype/) { get; } | Определяет размер рисунка страницы. |
+| [InhibitSnap](../../aspose.diagram/pageprops/inhibitsnap/) { get; } | Указывает, будут ли фигуры на странице переднего плана привязываться к другим объектам на странице и фигурам на странице фона. |
+| [PageHeight](../../aspose.diagram/pageprops/pageheight/) { get; } | Определяет высоту страницы в единицах чертежа. |
+| [PageScale](../../aspose.diagram/pageprops/pagescale/) { get; } | Определяет значение единицы страницы по умолчанию в текущем масштабе чертежа. Масштаб чертежа для страницы представляет собой отношение единицы страницы в элементе PageScale к единице чертежа, показанной в элементе DrawingScale. |
+| [PageWidth](../../aspose.diagram/pageprops/pagewidth/) { get; } | Определяет ширину страницы в единицах чертежа. |
+| [ShdwObliqueAngle](../../aspose.diagram/pageprops/shdwobliqueangle/) { get; } | Содержит число, указывающее угол наклонного направления, когда применяется тип тени страницы по умолчанию. |
+| [ShdwOffsetX](../../aspose.diagram/pageprops/shdwoffsetx/) { get; } | Указывает расстояние в единицах страницы, на которое тень фигуры смещается по горизонтали от фигуры. |
+| [ShdwOffsetY](../../aspose.diagram/pageprops/shdwoffsety/) { get; } | Указывает расстояние в единицах страницы, на которое тень фигуры смещена по вертикали от фигуры. |
+| [ShdwScaleFactor](../../aspose.diagram/pageprops/shdwscalefactor/) { get; } | Задает процент увеличения или уменьшения тени фигуры. |
+| [ShdwType](../../aspose.diagram/pageprops/shdwtype/) { get; } | Указывает тип тени по умолчанию для страницы. |
+| [UIVisibility](../../aspose.diagram/pageprops/uivisibility/) { get; } | Определяет, отображается ли имя страницы в пользовательском интерфейсе (UI). Значение 1 указывает, что страница не видна; нулевое значение указывает, что страница является visible |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.diagram/pageprops/clone)() | Создает глубокую копию этого экземпляра. |
+| [Clone](../../aspose.diagram/pageprops/clone/)() | Создает глубокую копию этого экземпляра. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

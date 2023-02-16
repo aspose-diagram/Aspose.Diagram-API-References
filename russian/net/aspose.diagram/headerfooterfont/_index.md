@@ -1,14 +1,14 @@
 ---
 title: HeaderFooterFont
 second_title: Справочник по Aspose.Diagram для .NET API
-description: Указывает шрифт используемый для текста верхнего и нижнего колонтитула.
+description: Определяет шрифт используемый для текста верхнего и нижнего колонтитула.
 type: docs
-weight: 1830
+weight: 1850
 url: /ru/net/aspose.diagram/headerfooterfont/
 ---
 ## HeaderFooterFont class
 
-Указывает шрифт, используемый для текста верхнего и нижнего колонтитула.
+Определяет шрифт, используемый для текста верхнего и нижнего колонтитула.
 
 ```csharp
 public class HeaderFooterFont
@@ -18,24 +18,24 @@ public class HeaderFooterFont
 
 | Имя | Описание |
 | --- | --- |
-| [CharSet](../../aspose.diagram/headerfooterfont/charset) { get; set; } | Задает набор символов шрифта. Эквивалент поля GDI LOGFONT lfCharSet. |
-| [ClipPrecision](../../aspose.diagram/headerfooterfont/clipprecision) { get; set; } | Указывает точность обрезки шрифта. Эквивалентно полю lfClipPrecision в GDI LOGFONT. |
-| [Escapement](../../aspose.diagram/headerfooterfont/escapement) { get; set; } | Определяет атрибут спуска шрифта. Эквивалент поля GDI LOGFONT lfEscapement. |
-| [FaceName](../../aspose.diagram/headerfooterfont/facename) { get; set; } | Задает атрибут имени начертания шрифта. Эквивалент поля GDI LOGFONT lfFaceName. |
-| [Height](../../aspose.diagram/headerfooterfont/height) { get; set; } | Задает высоту шрифта. Эквивалент поля GDI LOGFONT lfHeight. |
-| [Italic](../../aspose.diagram/headerfooterfont/italic) { get; set; } | Определяет вес шрифта. Эквивалентно полю GDI LOGFONT lfWeight. |
-| [Orientation](../../aspose.diagram/headerfooterfont/orientation) { get; set; } | Задает ориентацию шрифта. Эквивалентно полю lfOrientation GDI LOGFONT. |
-| [OutPrecision](../../aspose.diagram/headerfooterfont/outprecision) { get; set; } | Задает выходной атрибут точности шрифта. Эквивалент поля GDI LOGFONT lfOutPrecision. |
-| [PitchAndFamily](../../aspose.diagram/headerfooterfont/pitchandfamily) { get; set; } | Определяет шаг и семейство шрифта. Эквивалент поля GDI LOGFONT lfPitchAndFamily. |
-| [Quality](../../aspose.diagram/headerfooterfont/quality) { get; set; } | Указывает качество вывода шрифта. Эквивалент поля GDI LOGFONT lfQuality. |
-| [StrikeOut](../../aspose.diagram/headerfooterfont/strikeout) { get; set; } | Указывает, является ли шрифт зачеркнутым. Эквивалент поля GDI LOGFONT lfStrikeOut. |
-| [Underline](../../aspose.diagram/headerfooterfont/underline) { get; set; } | Указывает, является ли шрифт подчеркнутым. Эквивалент поля GDI LOGFONT lfUnderline. |
-| [Weight](../../aspose.diagram/headerfooterfont/weight) { get; set; } | Определяет вес шрифта. Эквивалентно полю GDI LOGFONT lfWeight. |
-| [Width](../../aspose.diagram/headerfooterfont/width) { get; set; } | Задает ширину шрифта. Эквивалент поля GDI LOGFONT lfWidth. |
+| [CharSet](../../aspose.diagram/headerfooterfont/charset/) { get; set; } | Определяет набор символов шрифта. Эквивалентно полю GDI LOGFONT lfCharSet. |
+| [ClipPrecision](../../aspose.diagram/headerfooterfont/clipprecision/) { get; set; } | Определяет точность обрезки шрифта. Эквивалент поля GDI LOGFONT lfClipPrecision. |
+| [Escapement](../../aspose.diagram/headerfooterfont/escapement/) { get; set; } | Определяет атрибут спуска шрифта. Эквивалентно полю GDI LOGFONT lfEscapement. |
+| [FaceName](../../aspose.diagram/headerfooterfont/facename/) { get; set; } | Определяет атрибут имени начертания шрифта. Эквивалентно полю GDI LOGFONT lfFaceName. |
+| [Height](../../aspose.diagram/headerfooterfont/height/) { get; set; } | Определяет высоту шрифта. Эквивалент поля GDI LOGFONT lfHeight. |
+| [Italic](../../aspose.diagram/headerfooterfont/italic/) { get; set; } | Определяет вес шрифта. Эквивалентно полю GDI LOGFONT lfWeight. |
+| [Orientation](../../aspose.diagram/headerfooterfont/orientation/) { get; set; } | Определяет ориентацию шрифта. Эквивалент поля GDI LOGFONT lfOrientation. |
+| [OutPrecision](../../aspose.diagram/headerfooterfont/outprecision/) { get; set; } | Определяет выходной атрибут точности шрифта. Эквивалентно полю GDI LOGFONT lfOutPrecision. |
+| [PitchAndFamily](../../aspose.diagram/headerfooterfont/pitchandfamily/) { get; set; } | Определяет шаг и семейство шрифта. Эквивалент поля GDI LOGFONT lfPitchAndFamily. |
+| [Quality](../../aspose.diagram/headerfooterfont/quality/) { get; set; } | Определяет качество вывода шрифта. Эквивалентно полю GDI LOGFONT lfQuality. |
+| [StrikeOut](../../aspose.diagram/headerfooterfont/strikeout/) { get; set; } | Указывает, является ли шрифт зачеркнутым. Эквивалентно полю GDI LOGFONT lfStrikeOut. |
+| [Underline](../../aspose.diagram/headerfooterfont/underline/) { get; set; } | Указывает, является ли шрифт подчеркнутым. Эквивалентно полю GDI LOGFONT lfUnderline. |
+| [Weight](../../aspose.diagram/headerfooterfont/weight/) { get; set; } | Определяет вес шрифта. Эквивалентно полю GDI LOGFONT lfWeight. |
+| [Width](../../aspose.diagram/headerfooterfont/width/) { get; set; } | Определяет ширину шрифта. Эквивалентно полю GDI LOGFONT lfWidth. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

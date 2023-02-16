@@ -3,7 +3,7 @@ title: DocumentSheet
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Especifica la estructura ShapeSheet de un documento.
 type: docs
-weight: 1240
+weight: 1260
 url: /es/net/aspose.diagram/documentsheet/
 ---
 ## DocumentSheet class
@@ -18,27 +18,27 @@ public class DocumentSheet
 
 | Nombre | Descripción |
 | --- | --- |
-| [Annotations](../../aspose.diagram/documentsheet/annotations) { get; } | Contiene elementos que contienen información sobre comentarios insertados en una página de documento. |
-| [ConnectionABCDs](../../aspose.diagram/documentsheet/connectionabcds) { get; } | Contiene una colección de elementos ConnectionABCD. |
-| [Connections](../../aspose.diagram/documentsheet/connections) { get; } | Contiene una colección de elementos de conexión. |
-| [DocProps](../../aspose.diagram/documentsheet/docprops) { get; } | Contiene elementos que controlan la calidad de la vista previa, el alcance y el formato de salida del documento. |
-| [FillStyle](../../aspose.diagram/documentsheet/fillstyle) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de relleno. |
-| [Foreign](../../aspose.diagram/documentsheet/foreign) { get; } | Contiene elementos que especifican el ancho y el alto de un objeto de otro programa utilizado en un documento de Microsoft Visio. También incluye elementos que especifican la distancia a la que se desplaza la imagen del objeto dentro de sus bordes. |
-| [ForeignData](../../aspose.diagram/documentsheet/foreigndata) { get; } | Contiene un BLOB codificado MIME (Extensiones multipropósito de correo de Internet) de datos de imagen, como metarchivo de Windows, mapa de bits o datos OLE. |
-| [Hyperlinks](../../aspose.diagram/documentsheet/hyperlinks) { get; } | Contiene una colección de elementos de hipervínculo. |
-| [LineStyle](../../aspose.diagram/documentsheet/linestyle) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de línea. |
-| [Name](../../aspose.diagram/documentsheet/name) { get; set; } | El nombre del elemento. |
-| [NameU](../../aspose.diagram/documentsheet/nameu) { get; set; } | El nombre universal del elemento. |
-| [Props](../../aspose.diagram/documentsheet/props) { get; } | Contiene una colección de elementos Prop. |
-| [Reviewers](../../aspose.diagram/documentsheet/reviewers) { get; } | Contiene elementos que contienen información de identificación sobre un revisor de documentos. |
-| [Scratchs](../../aspose.diagram/documentsheet/scratchs) { get; } | Contiene una colección de elementos Scratch. |
-| [TextStyle](../../aspose.diagram/documentsheet/textstyle) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de texto. |
-| [UniqueID](../../aspose.diagram/documentsheet/uniqueid) { get; set; } | Un GUID (identificador único global) que identifica la forma. |
-| [Users](../../aspose.diagram/documentsheet/users) { get; } | Contiene una colección de elementos de Usuario. |
+| [Annotations](../../aspose.diagram/documentsheet/annotations/) { get; } | Contiene elementos que contienen información sobre comentarios insertados en una página de documento. |
+| [ConnectionABCDs](../../aspose.diagram/documentsheet/connectionabcds/) { get; } | Contiene una colección de elementos ConnectionABCD. |
+| [Connections](../../aspose.diagram/documentsheet/connections/) { get; } | Contiene una colección de elementos de conexión. |
+| [DocProps](../../aspose.diagram/documentsheet/docprops/) { get; } | Contiene elementos que controlan la calidad de la vista previa, el alcance y el formato de salida del documento. |
+| [FillStyle](../../aspose.diagram/documentsheet/fillstyle/) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de relleno. |
+| [Foreign](../../aspose.diagram/documentsheet/foreign/) { get; } | Contiene elementos que especifican el ancho y el alto de un objeto de otro programa utilizado en un documento de Microsoft Visio. También incluye elementos que especifican la distancia a la que se desplaza la imagen del objeto dentro de sus bordes. |
+| [ForeignData](../../aspose.diagram/documentsheet/foreigndata/) { get; } | Contiene un BLOB codificado MIME (Extensiones multipropósito de correo de Internet) de datos de imagen, como metarchivo de Windows, mapa de bits o datos OLE. |
+| [Hyperlinks](../../aspose.diagram/documentsheet/hyperlinks/) { get; } | Contiene una colección de elementos de hipervínculo. |
+| [LineStyle](../../aspose.diagram/documentsheet/linestyle/) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de línea. |
+| [Name](../../aspose.diagram/documentsheet/name/) { get; set; } | El nombre del elemento. |
+| [NameU](../../aspose.diagram/documentsheet/nameu/) { get; set; } | El nombre universal del elemento. |
+| [Props](../../aspose.diagram/documentsheet/props/) { get; } | Contiene una colección de elementos Prop. |
+| [Reviewers](../../aspose.diagram/documentsheet/reviewers/) { get; } | Contiene elementos que contienen información de identificación sobre un revisor de documentos. |
+| [Scratchs](../../aspose.diagram/documentsheet/scratchs/) { get; } | Contiene una colección de elementos Scratch. |
+| [TextStyle](../../aspose.diagram/documentsheet/textstyle/) { get; set; } | Elemento StyleSheet del que este estilo hereda el formato de texto. |
+| [UniqueID](../../aspose.diagram/documentsheet/uniqueid/) { get; set; } | Un GUID (identificador único global) que identifica la forma. |
+| [Users](../../aspose.diagram/documentsheet/users/) { get; } | Contiene una colección de elementos de Usuario. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

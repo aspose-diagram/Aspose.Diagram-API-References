@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.Diagram for .NET API 参考
-description: 从集合中移除坐标对象
+description: 从集合中删除坐标对象
 type: docs
 weight: 180
 url: /zh/net/aspose.diagram/coordinatecollection/remove/
 ---
 ## Remove(Coordinate) {#remove_1}
 
-从集合中移除坐标对象。
+从集合中删除坐标对象。
 
 ```csharp
 public void Remove(Coordinate item)
@@ -16,9 +16,9 @@ public void Remove(Coordinate item)
 
 ### 也可以看看
 
-* class [Coordinate](../../coordinate)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -33,16 +33,16 @@ public void Remove(MoveTo item)
 
 ### 也可以看看
 
-* class [MoveTo](../../moveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(LineTo) {#remove_5}
 
-从集合中移除 LineTo 对象。
+从集合中删除 LineTo 对象。
 
 ```csharp
 public void Remove(LineTo item)
@@ -50,16 +50,16 @@ public void Remove(LineTo item)
 
 ### 也可以看看
 
-* class [LineTo](../../lineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(ArcTo) {#remove}
 
-从集合中移除 ArcTo 对象。
+从集合中删除 ArcTo 对象。
 
 ```csharp
 public void Remove(ArcTo item)
@@ -67,9 +67,9 @@ public void Remove(ArcTo item)
 
 ### 也可以看看
 
-* class [ArcTo](../../arcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -84,16 +84,16 @@ public void Remove(InfiniteLine item)
 
 ### 也可以看看
 
-* class [InfiniteLine](../../infiniteline)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(Ellipse) {#remove_2}
 
-从集合中移除 Ellipse 对象。
+从集合中删除椭圆对象。
 
 ```csharp
 public void Remove(Ellipse item)
@@ -101,9 +101,9 @@ public void Remove(Ellipse item)
 
 ### 也可以看看
 
-* class [Ellipse](../../ellipse)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -118,16 +118,16 @@ public void Remove(EllipticalArcTo item)
 
 ### 也可以看看
 
-* class [EllipticalArcTo](../../ellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(SplineStart) {#remove_15}
 
-从集合中移除 SplineStart 对象。
+从集合中删除 SplineStart 对象。
 
 ```csharp
 public void Remove(SplineStart item)
@@ -135,9 +135,9 @@ public void Remove(SplineStart item)
 
 ### 也可以看看
 
-* class [SplineStart](../../splinestart)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -152,16 +152,16 @@ public void Remove(SplineKnot item)
 
 ### 也可以看看
 
-* class [SplineKnot](../../splineknot)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(PolylineTo) {#remove_8}
 
-从集合中移除 PolylineTo 对象。
+从集合中删除 PolylineTo 对象。
 
 ```csharp
 public void Remove(PolylineTo item)
@@ -169,9 +169,9 @@ public void Remove(PolylineTo item)
 
 ### 也可以看看
 
-* class [PolylineTo](../../polylineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -186,9 +186,9 @@ public void Remove(NURBSTo item)
 
 ### 也可以看看
 
-* class [NURBSTo](../../nurbsto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -203,16 +203,16 @@ public void Remove(RelCubBezTo item)
 
 ### 也可以看看
 
-* class [RelCubBezTo](../../relcubbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(RelQuadBezTo) {#remove_13}
 
-从集合中移除 RelQuadBezTo 对象。
+从集合中删除 RelQuadBezTo 对象。
 
 ```csharp
 public void Remove(RelQuadBezTo item)
@@ -220,16 +220,16 @@ public void Remove(RelQuadBezTo item)
 
 ### 也可以看看
 
-* class [RelQuadBezTo](../../relquadbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(RelMoveTo) {#remove_12}
 
-从集合中移除 RelMoveTo 对象。
+从集合中删除 RelMoveTo 对象。
 
 ```csharp
 public void Remove(RelMoveTo item)
@@ -237,16 +237,16 @@ public void Remove(RelMoveTo item)
 
 ### 也可以看看
 
-* class [RelMoveTo](../../relmoveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
 
 ## Remove(RelLineTo) {#remove_11}
 
-从集合中移除 RelLineTo 对象。
+从集合中删除 RelLineTo 对象。
 
 ```csharp
 public void Remove(RelLineTo item)
@@ -254,9 +254,9 @@ public void Remove(RelLineTo item)
 
 ### 也可以看看
 
-* class [RelLineTo](../../rellineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 ---
@@ -271,9 +271,9 @@ public void Remove(RelEllipticalArcTo item)
 
 ### 也可以看看
 
-* class [RelEllipticalArcTo](../../relellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* 命名空间 [Aspose.Diagram](../../coordinatecollection)
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* 命名空间 [Aspose.Diagram](../../coordinatecollection/)
 * 部件 [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

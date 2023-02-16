@@ -16,15 +16,15 @@ public Diagram()
 
 ### Смотрите также
 
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string) {#constructor_4}
 
-PublicDiagramконструктор класса, загружает диаграмму из файла.
+Конструктор общедоступного класса, загружает диаграмму из файла.
 
 ```csharp
 public Diagram(string filename)
@@ -36,15 +36,15 @@ public Diagram(string filename)
 
 ### Смотрите также
 
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream) {#constructor_1}
 
-PublicDiagramконструктор класса, загружает диаграмму из потока.
+Конструктор общедоступного класса, загружает диаграмму из потока.
 
 ```csharp
 public Diagram(Stream stream)
@@ -56,15 +56,15 @@ public Diagram(Stream stream)
 
 ### Смотрите также
 
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string, LoadFileFormat) {#constructor_5}
 
-PublicDiagramконструктор класса, загружает диаграмму из файла в заранее заданном формате.
+Конструктор общедоступного класса, загружает диаграмму из файла, используя предопределенный формат.
 
 ```csharp
 public Diagram(string filename, LoadFileFormat format)
@@ -77,16 +77,16 @@ public Diagram(string filename, LoadFileFormat format)
 
 ### Смотрите также
 
-* enum [LoadFileFormat](../../loadfileformat)
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* enum [LoadFileFormat](../../loadfileformat/)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream, LoadFileFormat) {#constructor_2}
 
-PublicDiagramконструктор класса, загружает диаграмму из потока в заранее заданном формате.
+Конструктор общедоступного класса, загружает диаграмму из потока, используя предопределенный формат.
 
 ```csharp
 public Diagram(Stream stream, LoadFileFormat format)
@@ -95,20 +95,20 @@ public Diagram(Stream stream, LoadFileFormat format)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток данных. |
-| format | LoadFileFormat | Данные[`загрузить формат файла`](../../loadfileformat) . |
+| format | LoadFileFormat | Данные[`загрузить формат файла`](../../loadfileformat/). |
 
 ### Смотрите также
 
-* enum [LoadFileFormat](../../loadfileformat)
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* enum [LoadFileFormat](../../loadfileformat/)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string, LoadOptions) {#constructor_6}
 
-PublicDiagramконструктор класса, загружает диаграмму из файла, используя предопределенные параметры загрузки файла .
+Конструктор общедоступного класса, загружает диаграмму из файла, используя предопределенные параметры загрузки файла.
 
 ```csharp
 public Diagram(string filename, LoadOptions options)
@@ -117,20 +117,20 @@ public Diagram(string filename, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filename | String | Имя файла. |
-| options | LoadOptions | Данные[`параметры загрузки`](../../loadoptions) . |
+| options | LoadOptions | Данные[`параметры загрузки`](../../loadoptions/). |
 
 ### Смотрите также
 
-* class [LoadOptions](../../loadoptions)
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* class [LoadOptions](../../loadoptions/)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream, LoadOptions) {#constructor_3}
 
-PublicDiagramконструктор класса, загружает диаграмму из потока, используя предопределенные параметры загрузки файла .
+Конструктор общедоступного класса, загружает диаграмму из потока, используя предопределенные параметры файла загрузки.
 
 ```csharp
 public Diagram(Stream stream, LoadOptions options)
@@ -139,13 +139,13 @@ public Diagram(Stream stream, LoadOptions options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток данных. |
-| options | LoadOptions | Данные[`параметры загрузки`](../../loadoptions) . |
+| options | LoadOptions | Данные[`параметры загрузки`](../../loadoptions/). |
 
 ### Смотрите также
 
-* class [LoadOptions](../../loadoptions)
-* class [Diagram](../../diagram)
-* пространство имен [Aspose.Diagram](../../diagram)
+* class [LoadOptions](../../loadoptions/)
+* class [Diagram](../)
+* пространство имен [Aspose.Diagram](../../diagram/)
 * сборка [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

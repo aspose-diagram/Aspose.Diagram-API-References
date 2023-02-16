@@ -18,31 +18,31 @@ public class UnknownControl : ActiveXControl
 
 | Nombre | Descripción |
 | --- | --- |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Obtiene y establece el color antiguo del fondo. |
-| override [Data](../../aspose.diagram.activexcontrols/unknowncontrol/data) { get; } | Obtiene y establece los datos binarios del control. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Obtiene y establece el color antiguo del primer plano. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Obtiene y establece la altura del control en unidades de puntos. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Obtiene y establece el modo de tiempo de ejecución predeterminado del Editor de métodos de entrada para el control cuando recibe el foco. |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | Indica si el control cambiará de tamaño automáticamente para mostrar todo su contenido. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Indica si el control puede recibir el foco y responder a los eventos generados por el usuario. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Indica si los datos del control están bloqueados para su edición. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Indica si el control es transparente. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Obtiene y establece un icono personalizado para mostrar como el puntero del mouse para el control. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Obtiene y establece el tipo de icono que se muestra como el puntero del mouse para el control. |
-| [PersistenceType](../../aspose.diagram.activexcontrols/unknowncontrol/persistencetype) { get; } | Obtiene el método de persistencia para conservar un control ActiveX. |
-| override [Type](../../aspose.diagram.activexcontrols/unknowncontrol/type) { get; } | Obtiene el tipo del control ActiveX. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Obtiene y establece el ancho del control en unidades de punto. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Obtiene y establece el color antiguo del fondo. |
+| override [Data](../../aspose.diagram.activexcontrols/unknowncontrol/data/) { get; } | Obtiene y establece los datos binarios del control. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Obtiene y establece el color antiguo del primer plano. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Obtiene y establece la altura del control en unidades de puntos. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Obtiene y establece el modo de tiempo de ejecución predeterminado del Editor de métodos de entrada para el control cuando recibe el foco. |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | Indica si el control cambiará de tamaño automáticamente para mostrar todo su contenido. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Indica si el control puede recibir el foco y responder a los eventos generados por el usuario. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Indica si los datos del control están bloqueados para su edición. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Indica si el control es transparente. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Obtiene y establece un icono personalizado para mostrar como el puntero del mouse para el control. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Obtiene y establece el tipo de icono que se muestra como el puntero del mouse para el control. |
+| [PersistenceType](../../aspose.diagram.activexcontrols/unknowncontrol/persistencetype/) { get; } | Obtiene el método de persistencia para conservar un control ActiveX. |
+| override [Type](../../aspose.diagram.activexcontrols/unknowncontrol/type/) { get; } | Obtiene el tipo del control ActiveX. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Obtiene y establece el ancho del control en unidades de punto. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetRelationshipData](../../aspose.diagram.activexcontrols/unknowncontrol/getrelationshipdata)(string) | Obtiene los datos de la relación. |
+| [GetRelationshipData](../../aspose.diagram.activexcontrols/unknowncontrol/getrelationshipdata/)(string) | Obtiene los datos de la relación. |
 
 ### Ver también
 
-* class [ActiveXControl](../activexcontrol)
-* espacio de nombres [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* espacio de nombres [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

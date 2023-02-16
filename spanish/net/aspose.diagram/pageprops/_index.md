@@ -3,7 +3,7 @@ title: PageProps
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene celdas que controlan los atributos de la página como el ancho el alto y la escala de la página.
 type: docs
-weight: 2550
+weight: 2560
 url: /es/net/aspose.diagram/pageprops/
 ---
 ## PageProps class
@@ -18,31 +18,31 @@ public class PageProps
 
 | Nombre | Descripción |
 | --- | --- |
-| [Del](../../aspose.diagram/pageprops/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [DrawingResizeType](../../aspose.diagram/pageprops/drawingresizetype) { get; } | Determina si la página de dibujo cambia de tamaño automáticamente para ajustarse al diagrama. |
-| [DrawingScale](../../aspose.diagram/pageprops/drawingscale) { get; } | Representa el valor de la unidad de dibujo en la escala de dibujo actual. La escala de dibujo de la página es la relación entre la unidad de página contenida en el elemento PageScale y la unidad de dibujo. Las unidades de este elemento determinan las unidades de longitud predeterminadas (DL) para la página. |
-| [DrawingScaleType](../../aspose.diagram/pageprops/drawingscaletype) { get; } | Especifica el tipo de escala de dibujo que se utilizará para una página. |
-| [DrawingSizeType](../../aspose.diagram/pageprops/drawingsizetype) { get; } | Especifica el tamaño de dibujo de una página. |
-| [InhibitSnap](../../aspose.diagram/pageprops/inhibitsnap) { get; } | Especifica si las formas en una página de primer plano se ajustan a otros objetos en la página y formas en la página de fondo. |
-| [PageHeight](../../aspose.diagram/pageprops/pageheight) { get; } | Especifica la altura de la página en unidades de dibujo. |
-| [PageScale](../../aspose.diagram/pageprops/pagescale) { get; } | Especifica el valor de la unidad de página predeterminada en la escala de dibujo actual. La escala de dibujo de la página es la relación entre la unidad de página del elemento PageScale y la unidad de dibujo que se muestra en el elemento DrawingScale. |
-| [PageWidth](../../aspose.diagram/pageprops/pagewidth) { get; } | Especifica el ancho de la página en unidades de dibujo. |
-| [ShdwObliqueAngle](../../aspose.diagram/pageprops/shdwobliqueangle) { get; } | Contiene un número que especifica el ángulo de dirección oblicua cuando se aplica el tipo de sombra de página predeterminado. |
-| [ShdwOffsetX](../../aspose.diagram/pageprops/shdwoffsetx) { get; } | Especifica la distancia en unidades de página que la sombra paralela de una forma se desplaza horizontalmente desde la forma. |
-| [ShdwOffsetY](../../aspose.diagram/pageprops/shdwoffsety) { get; } | Especifica la distancia en unidades de página que la sombra paralela de una forma se desplaza verticalmente desde la forma. |
-| [ShdwScaleFactor](../../aspose.diagram/pageprops/shdwscalefactor) { get; } | Especifica el porcentaje para ampliar o reducir la sombra de una forma. |
-| [ShdwType](../../aspose.diagram/pageprops/shdwtype) { get; } | Indica el tipo de sombra predeterminado para una página. |
-| [UIVisibility](../../aspose.diagram/pageprops/uivisibility) { get; } | Determina si el nombre de la página está expuesto en la interfaz de usuario (IU). Un valor de uno especifica que la página no está visible; un valor de cero especifica que la página es visible |
+| [Del](../../aspose.diagram/pageprops/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [DrawingResizeType](../../aspose.diagram/pageprops/drawingresizetype/) { get; } | Determina si la página de dibujo cambia de tamaño automáticamente para ajustarse al diagrama. |
+| [DrawingScale](../../aspose.diagram/pageprops/drawingscale/) { get; } | Representa el valor de la unidad de dibujo en la escala de dibujo actual. La escala de dibujo de la página es la relación entre la unidad de página contenida en el elemento PageScale y la unidad de dibujo. Las unidades de este elemento determinan las unidades de longitud predeterminadas (DL) para la página. |
+| [DrawingScaleType](../../aspose.diagram/pageprops/drawingscaletype/) { get; } | Especifica el tipo de escala de dibujo que se utilizará para una página. |
+| [DrawingSizeType](../../aspose.diagram/pageprops/drawingsizetype/) { get; } | Especifica el tamaño de dibujo de una página. |
+| [InhibitSnap](../../aspose.diagram/pageprops/inhibitsnap/) { get; } | Especifica si las formas en una página de primer plano se ajustan a otros objetos en la página y formas en la página de fondo. |
+| [PageHeight](../../aspose.diagram/pageprops/pageheight/) { get; } | Especifica la altura de la página en unidades de dibujo. |
+| [PageScale](../../aspose.diagram/pageprops/pagescale/) { get; } | Especifica el valor de la unidad de página predeterminada en la escala de dibujo actual. La escala de dibujo de la página es la relación entre la unidad de página del elemento PageScale y la unidad de dibujo que se muestra en el elemento DrawingScale. |
+| [PageWidth](../../aspose.diagram/pageprops/pagewidth/) { get; } | Especifica el ancho de la página en unidades de dibujo. |
+| [ShdwObliqueAngle](../../aspose.diagram/pageprops/shdwobliqueangle/) { get; } | Contiene un número que especifica el ángulo de dirección oblicua cuando se aplica el tipo de sombra de página predeterminado. |
+| [ShdwOffsetX](../../aspose.diagram/pageprops/shdwoffsetx/) { get; } | Especifica la distancia en unidades de página que la sombra paralela de una forma se desplaza horizontalmente desde la forma. |
+| [ShdwOffsetY](../../aspose.diagram/pageprops/shdwoffsety/) { get; } | Especifica la distancia en unidades de página que la sombra paralela de una forma se desplaza verticalmente desde la forma. |
+| [ShdwScaleFactor](../../aspose.diagram/pageprops/shdwscalefactor/) { get; } | Especifica el porcentaje para ampliar o reducir la sombra de una forma. |
+| [ShdwType](../../aspose.diagram/pageprops/shdwtype/) { get; } | Indica el tipo de sombra predeterminado para una página. |
+| [UIVisibility](../../aspose.diagram/pageprops/uivisibility/) { get; } | Determina si el nombre de la página está expuesto en la interfaz de usuario (IU). Un valor de uno especifica que la página no está visible; un valor de cero especifica que la página es visible |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/pageprops/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/pageprops/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

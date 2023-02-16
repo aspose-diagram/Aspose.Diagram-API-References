@@ -3,7 +3,7 @@ title: SmartTagDef
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Contient des éléments qui contiennent des informations pour chaque balise active définie pour une forme ou une page.
 type: docs
-weight: 3740
+weight: 3750
 url: /fr/net/aspose.diagram/smarttagdef/
 ---
 ## SmartTagDef class
@@ -18,29 +18,29 @@ public class SmartTagDef
 
 | Nom | La description |
 | --- | --- |
-| [SmartTagDef](smarttagdef)() | Constructeur. |
+| [SmartTagDef](smarttagdef/)() | Constructeur. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [ButtonFace](../../aspose.diagram/smarttagdef/buttonface) { get; } | Il contient l'ID de l'image de la face du bouton qui apparaît sur le bouton de la balise active. |
-| [Del](../../aspose.diagram/smarttagdef/del) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
-| [Description](../../aspose.diagram/smarttagdef/description) { get; } | L'élément de description contient une chaîne qui décrit la balise active, qui apparaît sous forme d'info-bulle lorsque l'utilisateur arrête la souris sur la balise. |
-| [Disabled](../../aspose.diagram/smarttagdef/disabled) { get; } | L'élément désactivé détermine si la balise active apparaît dans la fenêtre de dessin. |
-| [DisplayMode](../../aspose.diagram/smarttagdef/displaymode) { get; } | L'élément DisplayMode détermine si la balise active s'affiche lorsque l'utilisateur place la souris sur la balise, lorsque la forme est sélectionnée ou tout le temps. |
-| [ID](../../aspose.diagram/smarttagdef/id) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
-| [Name](../../aspose.diagram/smarttagdef/name) { get; set; } | Le nom de l'élément. |
-| [NameU](../../aspose.diagram/smarttagdef/nameu) { get; set; } | Le nom universel de l'élément. |
-| [TagName](../../aspose.diagram/smarttagdef/tagname) { get; } | Il contient le nom de la balise intelligente utilisée comme clé pour associer la balise intelligente à ses actions. |
-| [X](../../aspose.diagram/smarttagdef/x) { get; } | La position de la coordonnée x dans les coordonnées locales de la forme autour de laquelle le bouton de balise active est placé. |
-| [XJustify](../../aspose.diagram/smarttagdef/xjustify) { get; } | Le décalage x du bouton de balise active par rapport au point défini par les éléments X et Y. |
-| [Y](../../aspose.diagram/smarttagdef/y) { get; } | La position de la coordonnée y dans les coordonnées locales de la forme autour de laquelle le bouton de balise active est placé. |
-| [YJustify](../../aspose.diagram/smarttagdef/yjustify) { get; } | Spécifie le décalage y du bouton de balise active par rapport au point défini par les éléments X et Y. |
+| [ButtonFace](../../aspose.diagram/smarttagdef/buttonface/) { get; } | Il contient l'ID de l'image de la face du bouton qui apparaît sur le bouton de la balise active. |
+| [Del](../../aspose.diagram/smarttagdef/del/) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
+| [Description](../../aspose.diagram/smarttagdef/description/) { get; } | L'élément de description contient une chaîne qui décrit la balise active, qui apparaît sous forme d'info-bulle lorsque l'utilisateur arrête la souris sur la balise. |
+| [Disabled](../../aspose.diagram/smarttagdef/disabled/) { get; } | L'élément désactivé détermine si la balise active apparaît dans la fenêtre de dessin. |
+| [DisplayMode](../../aspose.diagram/smarttagdef/displaymode/) { get; } | L'élément DisplayMode détermine si la balise active s'affiche lorsque l'utilisateur place la souris sur la balise, lorsque la forme est sélectionnée ou tout le temps. |
+| [ID](../../aspose.diagram/smarttagdef/id/) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
+| [Name](../../aspose.diagram/smarttagdef/name/) { get; set; } | Le nom de l'élément. |
+| [NameU](../../aspose.diagram/smarttagdef/nameu/) { get; set; } | Le nom universel de l'élément. |
+| [TagName](../../aspose.diagram/smarttagdef/tagname/) { get; } | Il contient le nom de la balise intelligente utilisée comme clé pour associer la balise intelligente à ses actions. |
+| [X](../../aspose.diagram/smarttagdef/x/) { get; } | La position de la coordonnée x dans les coordonnées locales de la forme autour de laquelle le bouton de balise active est placé. |
+| [XJustify](../../aspose.diagram/smarttagdef/xjustify/) { get; } | Le décalage x du bouton de balise active par rapport au point défini par les éléments X et Y. |
+| [Y](../../aspose.diagram/smarttagdef/y/) { get; } | La position de la coordonnée y dans les coordonnées locales de la forme autour de laquelle le bouton de balise active est placé. |
+| [YJustify](../../aspose.diagram/smarttagdef/yjustify/) { get; } | Spécifie le décalage y du bouton de balise active par rapport au point défini par les éléments X et Y. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

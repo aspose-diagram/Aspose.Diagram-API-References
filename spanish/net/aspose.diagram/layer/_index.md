@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos que definen una sola capa y sus propiedades para una página.
 type: docs
-weight: 2010
+weight: 2020
 url: /es/net/aspose.diagram/layer/
 ---
 ## Layer class
@@ -18,30 +18,30 @@ public class Layer
 
 | Nombre | Descripción |
 | --- | --- |
-| [Layer](layer)() | Constructor. |
+| [Layer](layer/)() | Constructor. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Active](../../aspose.diagram/layer/active) { get; } | Especifica si una capa está activa. Las formas que no están asignadas previamente a las capas se asignan a las capas activas cuando se sueltan en la página de dibujo. |
-| [Color](../../aspose.diagram/layer/color) { get; } | El índice del color en la tabla de colores utilizada para El índice del color en la tabla de colores utilizada para mostrar la capa o Un valor RGB que especifica un color personalizado que no está en la tabla de colores (por ejemplo, #ff9900 ). mostrar la capa |
-| [ColorTrans](../../aspose.diagram/layer/colortrans) { get; } | Determina el grado de transparencia para el color del texto de una capa o forma, de 0 (completamente opaco) a 1 (completamente transparente). |
-| [Del](../../aspose.diagram/layer/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [Glue](../../aspose.diagram/layer/glue) { get; } | Especifica si se pueden pegar las formas que pertenecen a la capa. |
-| [IsColorChecked](../../aspose.diagram/layer/iscolorchecked) { get; set; } | Una bandera que indica si el elemento ha sido verificado localmente. Un valor de 1 indica que el elemento se comprobó localmente. |
-| [IX](../../aspose.diagram/layer/ix) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
-| [Lock](../../aspose.diagram/layer/lock) { get; } | Especifica si las formas que pertenecen a la capa están bloqueadas para que no puedan ser seleccionadas o editadas. |
-| [Name](../../aspose.diagram/layer/name) { get; } | Elemento de nombre especifica el nombre de una capa. |
-| [NameUniv](../../aspose.diagram/layer/nameuniv) { get; } | Especifica el nombre universal de una capa. |
-| [Print](../../aspose.diagram/layer/print) { get; } | Especifica si las formas que pertenecen a la capa se imprimen cuando se imprime el dibujo. |
-| [Snap](../../aspose.diagram/layer/snap) { get; } | Especifica si otras formas pueden ajustarse a las formas asignadas a la capa. Las formas asignadas a la capa pueden ajustarse a otras formas, pero otras formas no pueden ajustarse a ellas. |
-| [Status](../../aspose.diagram/layer/status) { get; } | Especifica si la capa es una capa válida para un documento. |
-| [Visible](../../aspose.diagram/layer/visible) { get; } | Especifica si las formas que pertenecen a la capa son visibles en la página de dibujo. |
+| [Active](../../aspose.diagram/layer/active/) { get; } | Especifica si una capa está activa. Las formas que no están asignadas previamente a las capas se asignan a las capas activas cuando se sueltan en la página de dibujo. |
+| [Color](../../aspose.diagram/layer/color/) { get; } | El índice del color en la tabla de colores utilizada para El índice del color en la tabla de colores utilizada para mostrar la capa o Un valor RGB que especifica un color personalizado que no está en la tabla de colores (por ejemplo, #ff9900 ). mostrar la capa |
+| [ColorTrans](../../aspose.diagram/layer/colortrans/) { get; } | Determina el grado de transparencia para el color del texto de una capa o forma, de 0 (completamente opaco) a 1 (completamente transparente). |
+| [Del](../../aspose.diagram/layer/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [Glue](../../aspose.diagram/layer/glue/) { get; } | Especifica si se pueden pegar las formas que pertenecen a la capa. |
+| [IsColorChecked](../../aspose.diagram/layer/iscolorchecked/) { get; set; } | Una bandera que indica si el elemento ha sido verificado localmente. Un valor de 1 indica que el elemento fue verificado localmente. |
+| [IX](../../aspose.diagram/layer/ix/) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
+| [Lock](../../aspose.diagram/layer/lock/) { get; } | Especifica si las formas que pertenecen a la capa están bloqueadas para que no puedan ser seleccionadas o editadas. |
+| [Name](../../aspose.diagram/layer/name/) { get; } | Elemento de nombre especifica el nombre de una capa. |
+| [NameUniv](../../aspose.diagram/layer/nameuniv/) { get; } | Especifica el nombre universal de una capa. |
+| [Print](../../aspose.diagram/layer/print/) { get; } | Especifica si las formas que pertenecen a la capa se imprimen cuando se imprime el dibujo. |
+| [Snap](../../aspose.diagram/layer/snap/) { get; } | Especifica si otras formas pueden ajustarse a las formas asignadas a la capa. Las formas asignadas a la capa pueden ajustarse a otras formas, pero otras formas no pueden ajustarse a ellas. |
+| [Status](../../aspose.diagram/layer/status/) { get; } | Especifica si la capa es una capa válida para un documento. |
+| [Visible](../../aspose.diagram/layer/visible/) { get; } | Especifica si las formas que pertenecen a la capa son visibles en la página de dibujo. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

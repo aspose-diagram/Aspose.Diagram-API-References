@@ -18,58 +18,58 @@ public class Char : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Char](char)() | 构造函数。 |
+| [Char](char/)() | 构造函数. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AsianFont](../../aspose.diagram/char/asianfont) { get; set; } | 指定用于格式化包含亚洲字符的文本的字体的 ID 号。 |
-| [AsianFontName](../../aspose.diagram/char/asianfontname) { get; set; } | 它指定用于格式化文本的字体的亚洲字体名称。它用于 visio 2013 |
-| [Case](../../aspose.diagram/char/case) { get; set; } | 确定形状文本的大小写。 |
-| [Color](../../aspose.diagram/char/color) { get; set; } | 当包含在 Char 元素中时，Color 元素。 |
-| [ColorTrans](../../aspose.diagram/char/colortrans) { get; set; } | 确定图层或形状的文本颜色的透明度，从 0（完全不透明）到 1（完全透明）。 |
-| [ComplexScriptFont](../../aspose.diagram/char/complexscriptfont) { get; set; } | 包含用于格式化由复杂脚本字符组成的文本的字体编号。复杂脚本是字符需要连接或整形的语言，例如从右到左的语言（阿拉伯语、波斯语、希伯来语和乌尔都语）和几种南亚语言。 |
-| [ComplexScriptFontName](../../aspose.diagram/char/complexscriptfontname) { get; set; } | 它指定了用于格式化文本的字体的 ComplexScript 字体名称。它用于 visio 2013 |
-| [ComplexScriptSize](../../aspose.diagram/char/complexscriptsize) { get; set; } | 用于格式化由复杂脚本字符组成的文本的字体大小。复杂脚本是字符需要连接或整形的语言，例如从右到左的语言（阿拉伯语、波斯语、希伯来语和乌尔都语）和几种南亚语言。 |
-| [DblUnderline](../../aspose.diagram/char/dblunderline) { get; set; } | 指定文本范围下方是否有双下划线。 |
-| [Del](../../aspose.diagram/char/del) { get; set; } | 指示元素是否已在本地删除的标志。值 1 表示该元素已在本地删除。 |
-| [DoubleStrikethrough](../../aspose.diagram/char/doublestrikethrough) { get; set; } | 确定文本是否格式化为双删除线。 |
-| [Font](../../aspose.diagram/char/font) { get; set; } | 指定用于格式化文本的字体的 ID 号。 |
-| [FontName](../../aspose.diagram/char/fontname) { get; set; } | 它指定用于格式化文本的字体的字体名称。它用于 visio 2013 |
-| [FontScale](../../aspose.diagram/char/fontscale) { get; set; } | 指定字体宽度。 |
-| [Highlight](../../aspose.diagram/char/highlight) { get; set; } | 它指定了高亮。 |
-| [IsBold](../../aspose.diagram/char/isbold) { get; } | 表示字体是否为粗体。 |
-| [IsDoubleStrikethrough](../../aspose.diagram/char/isdoublestrikethrough) { get; } | 表示字体是否为doubleStrikethrough。 |
-| [IsDoubleUnderline](../../aspose.diagram/char/isdoubleunderline) { get; } | 表示字体是否为双下划线。 |
-| [IsItalic](../../aspose.diagram/char/isitalic) { get; } | 表示字体是否为斜体。 |
-| [IsStrikethrough](../../aspose.diagram/char/isstrikethrough) { get; } | 表示字体是否为删除线。 |
-| [IsSubscript](../../aspose.diagram/char/issubscript) { get; } | 表示字体是否为下标。 |
-| [IsSuperscript](../../aspose.diagram/char/issuperscript) { get; } | 表示字体是否为上标。 |
-| [IsUnderline](../../aspose.diagram/char/isunderline) { get; } | 表示字体是否下划线。 |
-| [IX](../../aspose.diagram/char/ix) { get; set; } | 元素在其父元素中的从零开始的索引。 |
-| [LangID](../../aspose.diagram/char/langid) { get; set; } | 表示输入单元格公式、文本、自定义属性或注释所使用的语言的区域设置 ID (LCID)。 有关 Microsoft Office 应用程序支持的语言列表及其对应的语言 ID，请参阅 DocLangID 元素。 |
-| [Letterspace](../../aspose.diagram/char/letterspace) { get; set; } | 指定两个或多个字符之间的空格量。可以以 1/20 点为增量添加或减去空间。 |
-| [Locale](../../aspose.diagram/char/locale) { get; set; } | 它指定了文本运行的区域设置以进行拼写检查。 |
-| [LocalizeFont](../../aspose.diagram/char/localizefont) { get; set; } | 指定形状文本是否应该本地化（翻译成另一种语言）。 |
-| [Overline](../../aspose.diagram/char/overline) { get; set; } | 指定文本上方是否有一行。 |
-| [Perpendicular](../../aspose.diagram/char/perpendicular) { get; set; } | 它指定文本字段是否垂直于文本块中的其他文本出现。 |
-| [Pos](../../aspose.diagram/char/pos) { get; set; } | 指定形状文本相对于基线的位置。 |
-| [RTLText](../../aspose.diagram/char/rtltext) { get; set; } | 确定当前字符运行的文本方向是从左到右还是从右到左。 |
-| [Size](../../aspose.diagram/char/size) { get; set; } | 指定形状文本块中文本的大小。 |
-| [Strikethru](../../aspose.diagram/char/strikethru) { get; set; } | 指定文本是否格式化为删除线。 |
-| [Style](../../aspose.diagram/char/style) { get; set; } | 指定应用于形状文本块中的文本范围的字符格式。 |
-| [UseVertical](../../aspose.diagram/char/usevertical) { get; set; } | 确定字符运行是垂直还是水平。 |
+| [AsianFont](../../aspose.diagram/char/asianfont/) { get; set; } | 指定用于格式化包含亚洲字符的文本的字体 ID 号。 |
+| [AsianFontName](../../aspose.diagram/char/asianfontname/) { get; set; } | 它指定了用于格式化文本的字体的亚洲字体名称。它用于 visio 2013 |
+| [Case](../../aspose.diagram/char/case/) { get; set; } | 确定形状文本的大小写。 |
+| [Color](../../aspose.diagram/char/color/) { get; set; } | 当包含在 Char 元素中时，Color 元素。 |
+| [ColorTrans](../../aspose.diagram/char/colortrans/) { get; set; } | 确定图层或形状文本颜色的透明度，从 0（完全不透明）到 1（完全透明）。 |
+| [ComplexScriptFont](../../aspose.diagram/char/complexscriptfont/) { get; set; } | 包含用于格式化由复杂脚本字符组成的文本的字体编号。复杂脚本是其字符需要连接或整形的语言，例如从右到左的语言（阿拉伯语、波斯语、希伯来语和乌尔都语）和几种南亚语言。 |
+| [ComplexScriptFontName](../../aspose.diagram/char/complexscriptfontname/) { get; set; } | 它指定了用于格式化文本的字体的 ComplexScript 字体名称。它用于 visio 2013 |
+| [ComplexScriptSize](../../aspose.diagram/char/complexscriptsize/) { get; set; } | 用于格式化由复杂脚本字符组成的文本的字体大小。复杂脚本是其字符需要连接或整形的语言，例如从右到左的语言（阿拉伯语、波斯语、希伯来语和乌尔都语）和几种南亚语言。 |
+| [DblUnderline](../../aspose.diagram/char/dblunderline/) { get; set; } | 指定文本范围下方是否有双下划线。 |
+| [Del](../../aspose.diagram/char/del/) { get; set; } | 表示该元素是否已在本地删除的标志。值为 1 表示该元素已在本地删除。 |
+| [DoubleStrikethrough](../../aspose.diagram/char/doublestrikethrough/) { get; set; } | 确定文本是否被格式化为双删除线。 |
+| [Font](../../aspose.diagram/char/font/) { get; set; } | 指定用于格式化文本的字体的 ID 号。 |
+| [FontName](../../aspose.diagram/char/fontname/) { get; set; } | 它指定了用于格式化文本的字体的字体名称。它用于visio 2013 |
+| [FontScale](../../aspose.diagram/char/fontscale/) { get; set; } | 指定字体宽度。 |
+| [Highlight](../../aspose.diagram/char/highlight/) { get; set; } | 它指定了突出显示。 |
+| [IsBold](../../aspose.diagram/char/isbold/) { get; } | 表示字体是否为粗体。 |
+| [IsDoubleStrikethrough](../../aspose.diagram/char/isdoublestrikethrough/) { get; } | 表示字体是否为doubleStrikethrough. |
+| [IsDoubleUnderline](../../aspose.diagram/char/isdoubleunderline/) { get; } | 表示字体是否为双下划线. |
+| [IsItalic](../../aspose.diagram/char/isitalic/) { get; } | 表示字体是否为斜体。 |
+| [IsStrikethrough](../../aspose.diagram/char/isstrikethrough/) { get; } | 表示字体是否有删除线。 |
+| [IsSubscript](../../aspose.diagram/char/issubscript/) { get; } | 表示字体是否为下标。 |
+| [IsSuperscript](../../aspose.diagram/char/issuperscript/) { get; } | 表示字体是否为上标。 |
+| [IsUnderline](../../aspose.diagram/char/isunderline/) { get; } | 表示字体是否为下划线。 |
+| [IX](../../aspose.diagram/char/ix/) { get; set; } | 元素在其父元素中从零开始的索引。 |
+| [LangID](../../aspose.diagram/char/langid/) { get; set; } | 指示输入单元格公式、文本、自定义属性或注释所用语言的区域设置 ID (LCID)。 有关 Microsoft Office 应用程序支持的语言及其相应语言 ID 的列表，请参阅 DocLangID 元素。 |
+| [Letterspace](../../aspose.diagram/char/letterspace/) { get; set; } | 指定两个或多个字符之间的空格量。空间可以以 1/20 点的增量增加或减少。 |
+| [Locale](../../aspose.diagram/char/locale/) { get; set; } | 它指定了用于拼写检查目的的文本运行区域。 |
+| [LocalizeFont](../../aspose.diagram/char/localizefont/) { get; set; } | 指定形状文本是否应本地化（翻译成另一种语言）。 |
+| [Overline](../../aspose.diagram/char/overline/) { get; set; } | 指定文本上面是否有一行。 |
+| [Perpendicular](../../aspose.diagram/char/perpendicular/) { get; set; } | 它指定文本字段是否与文本块中的其他文本垂直。 |
+| [Pos](../../aspose.diagram/char/pos/) { get; set; } | 指定形状文本相对于基线的位置。 |
+| [RTLText](../../aspose.diagram/char/rtltext/) { get; set; } | 确定当前字符运行的文本方向是从左到右还是从右到左。 |
+| [Size](../../aspose.diagram/char/size/) { get; set; } | 指定形状文本块中文本的大小。 |
+| [Strikethru](../../aspose.diagram/char/strikethru/) { get; set; } | 指定文本的格式是否为删除线。 |
+| [Style](../../aspose.diagram/char/style/) { get; set; } | 指定应用于形状文本块中文本范围的字符格式。 |
+| [UseVertical](../../aspose.diagram/char/usevertical/) { get; set; } | 确定字符运行是垂直还是水平。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.diagram/char/clone)() | 创建此实例的深层副本。 |
+| [Clone](../../aspose.diagram/char/clone/)() | 创建此实例的深层副本。 |
 
 ### 也可以看看
 
-* 命名空间 [Aspose.Diagram](../../aspose.diagram)
+* 命名空间 [Aspose.Diagram](../../aspose.diagram/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

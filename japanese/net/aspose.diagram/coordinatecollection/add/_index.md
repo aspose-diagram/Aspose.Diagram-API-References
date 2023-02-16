@@ -1,0 +1,279 @@
+---
+title: Add
+second_title: Aspose.Diagram for .NET API リファレンス
+description: Coordinate オブジェクトをコレクションに追加します
+type: docs
+weight: 170
+url: /ja/net/aspose.diagram/coordinatecollection/add/
+---
+## Add(Coordinate) {#add_1}
+
+Coordinate オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(Coordinate item)
+```
+
+### 関連項目
+
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(MoveTo) {#add_6}
+
+コレクションに MoveTo オブジェクトを追加します。
+
+```csharp
+public int Add(MoveTo item)
+```
+
+### 関連項目
+
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(LineTo) {#add_5}
+
+LineTo オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(LineTo item)
+```
+
+### 関連項目
+
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(ArcTo) {#add}
+
+ArcTo オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(ArcTo item)
+```
+
+### 関連項目
+
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(InfiniteLine) {#add_4}
+
+InfiniteLine オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(InfiniteLine item)
+```
+
+### 関連項目
+
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(Ellipse) {#add_2}
+
+Ellipse オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(Ellipse item)
+```
+
+### 関連項目
+
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(EllipticalArcTo) {#add_3}
+
+EllipticalArcTo オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(EllipticalArcTo item)
+```
+
+### 関連項目
+
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(SplineStart) {#add_15}
+
+コレクションに SplineStart オブジェクトを追加します。
+
+```csharp
+public int Add(SplineStart item)
+```
+
+### 関連項目
+
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(SplineKnot) {#add_14}
+
+コレクションに SplineKnot オブジェクトを追加します。
+
+```csharp
+public int Add(SplineKnot item)
+```
+
+### 関連項目
+
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(PolylineTo) {#add_8}
+
+コレクションに PolylineTo オブジェクトを追加します。
+
+```csharp
+public int Add(PolylineTo item)
+```
+
+### 関連項目
+
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(NURBSTo) {#add_7}
+
+コレクションに NURBSTo オブジェクトを追加します。
+
+```csharp
+public int Add(NURBSTo item)
+```
+
+### 関連項目
+
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelCubBezTo) {#add_9}
+
+コレクションに RelCubBezTo オブジェクトを追加します。
+
+```csharp
+public int Add(RelCubBezTo item)
+```
+
+### 関連項目
+
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelQuadBezTo) {#add_13}
+
+コレクションに RelQuadBezTo オブジェクトを追加します。
+
+```csharp
+public int Add(RelQuadBezTo item)
+```
+
+### 関連項目
+
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelMoveTo) {#add_12}
+
+コレクションに RelMoveTo オブジェクトを追加します。
+
+```csharp
+public int Add(RelMoveTo item)
+```
+
+### 関連項目
+
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelLineTo) {#add_11}
+
+コレクションに RelLineTo オブジェクトを追加します。
+
+```csharp
+public int Add(RelLineTo item)
+```
+
+### 関連項目
+
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+---
+
+## Add(RelEllipticalArcTo) {#add_10}
+
+RelEllipticalArcTo オブジェクトをコレクションに追加します。
+
+```csharp
+public int Add(RelEllipticalArcTo item)
+```
+
+### 関連項目
+
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* 名前空間 [Aspose.Diagram](../../coordinatecollection/)
+* 組み立て [Aspose.Diagram](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

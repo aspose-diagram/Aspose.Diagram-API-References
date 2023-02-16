@@ -3,7 +3,7 @@ title: TextBlock
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Enthält Elemente die die Ausrichtung die Ränder und die standardmäßigen Tabstopppositionen von Text im Textblock einer Form angeben.
 type: docs
-weight: 3980
+weight: 3990
 url: /de/net/aspose.diagram/textblock/
 ---
 ## TextBlock class
@@ -18,26 +18,26 @@ public class TextBlock : ICloneable
 
 | Name | Beschreibung |
 | --- | --- |
-| [BottomMargin](../../aspose.diagram/textblock/bottommargin) { get; set; } | Bestimmt den Abstand zwischen dem unteren Rand des Textblocks und der letzten darin enthaltenen Textzeile. Der Standardwert ist 4 pt. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der untere Rand gleich. |
-| [DefaultTabStop](../../aspose.diagram/textblock/defaulttabstop) { get; set; } | Gibt das Intervall der Standardtabstopps in einem Textblock an. |
-| [Del](../../aspose.diagram/textblock/del) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
-| [LeftMargin](../../aspose.diagram/textblock/leftmargin) { get; set; } | Gibt den Abstand zwischen dem linken Rand des Textblocks und dem darin enthaltenen Text an. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der linke Rand gleich. |
-| [RightMargin](../../aspose.diagram/textblock/rightmargin) { get; set; } | Gibt den Abstand zwischen dem rechten Rand des Textblocks und dem darin enthaltenen Text an. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der rechte Rand gleich. |
-| [TextBkgnd](../../aspose.diagram/textblock/textbkgnd) { get; set; } | Gibt die Texthintergrundfarbe für eine Form an. |
-| [TextBkgndTrans](../../aspose.diagram/textblock/textbkgndtrans) { get; set; } | Legt den Transparenzgrad für die Hintergrundfarbe des Textblocks einer Form fest, von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent). |
-| [TextDirection](../../aspose.diagram/textblock/textdirection) { get; set; } | Gibt die Richtung der Zeichen in einem Textblock an. |
-| [TopMargin](../../aspose.diagram/textblock/topmargin) { get; set; } | Gibt den Abstand zwischen dem oberen Rand des Textblocks und der ersten darin enthaltenen Textzeile an. |
-| [VerticalAlign](../../aspose.diagram/textblock/verticalalign) { get; set; } | Gibt die vertikale Ausrichtung von Text innerhalb des Textblocks an. |
+| [BottomMargin](../../aspose.diagram/textblock/bottommargin/) { get; set; } | Bestimmt den Abstand zwischen dem unteren Rand des Textblocks und der letzten darin enthaltenen Textzeile. Der Standardwert ist 4 pt. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der untere Rand gleich. |
+| [DefaultTabStop](../../aspose.diagram/textblock/defaulttabstop/) { get; set; } | Gibt das Intervall der Standardtabstopps in einem Textblock an. |
+| [Del](../../aspose.diagram/textblock/del/) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
+| [LeftMargin](../../aspose.diagram/textblock/leftmargin/) { get; set; } | Gibt den Abstand zwischen dem linken Rand des Textblocks und dem darin enthaltenen Text an. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der linke Rand gleich. |
+| [RightMargin](../../aspose.diagram/textblock/rightmargin/) { get; set; } | Gibt den Abstand zwischen dem rechten Rand des Textblocks und dem darin enthaltenen Text an. Dieser Wert ist unabhängig vom Maßstab der Zeichnung. Wird die Zeichnung skaliert, bleibt der rechte Rand gleich. |
+| [TextBkgnd](../../aspose.diagram/textblock/textbkgnd/) { get; set; } | Gibt die Texthintergrundfarbe für eine Form an. |
+| [TextBkgndTrans](../../aspose.diagram/textblock/textbkgndtrans/) { get; set; } | Legt den Transparenzgrad für die Hintergrundfarbe des Textblocks einer Form fest, von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent). |
+| [TextDirection](../../aspose.diagram/textblock/textdirection/) { get; set; } | Gibt die Richtung der Zeichen in einem Textblock an. |
+| [TopMargin](../../aspose.diagram/textblock/topmargin/) { get; set; } | Gibt den Abstand zwischen dem oberen Rand des Textblocks und der ersten darin enthaltenen Textzeile an. |
+| [VerticalAlign](../../aspose.diagram/textblock/verticalalign/) { get; set; } | Gibt die vertikale Ausrichtung von Text innerhalb des Textblocks an. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clone](../../aspose.diagram/textblock/clone)() | Erstellt eine tiefe Kopie dieser Instanz. |
+| [Clone](../../aspose.diagram/textblock/clone/)() | Erstellt eine tiefe Kopie dieser Instanz. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

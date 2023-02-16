@@ -3,7 +3,7 @@ title: Para
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Contient les éléments de mise en forme des paragraphes pour le texte de la forme tels que les retraits linterligne les puces et lalignement horizontal des paragraphes.
 type: docs
-weight: 2570
+weight: 2580
 url: /fr/net/aspose.diagram/para/
 ---
 ## Para class
@@ -18,38 +18,38 @@ public class Para : ICloneable
 
 | Nom | La description |
 | --- | --- |
-| [Para](para)() | Constructeur. |
+| [Para](para/)() | Constructeur. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Bullet](../../aspose.diagram/para/bullet) { get; set; } | Détermine le style de puce. |
-| [BulletFont](../../aspose.diagram/para/bulletfont) { get; set; } | Représente le numéro de la police utilisée pour formater le texte lorsqu'une chaîne de puces personnalisée est spécifiée et que la valeur dans l'élément Bullet est différente de zéro. |
-| [BulletFontSize](../../aspose.diagram/para/bulletfontsize) { get; set; } | Spécifie la taille d'une puce. |
-| [BulletStr](../../aspose.diagram/para/bulletstr) { get; set; } | "Utilisé pour créer un style de puce personnalisé. Saisissez le style sous forme de chaîne (entre guillemets). Par exemple, vous pouvez saisir la chaîne ""ooo.""" |
-| [Del](../../aspose.diagram/para/del) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
-| [Flags](../../aspose.diagram/para/flags) { get; set; } | Indique si le sens du texte est de gauche à droite ou de droite à gauche. |
-| [HorzAlign](../../aspose.diagram/para/horzalign) { get; set; } | Spécifie l'alignement horizontal du texte dans le bloc de texte de la forme. |
-| [IndFirst](../../aspose.diagram/para/indfirst) { get; set; } | Spécifie la distance entre la première ligne de chaque paragraphe du bloc de texte de la forme et le retrait de gauche du paragraphe. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait de la première ligne reste le même. |
-| [IndLeft](../../aspose.diagram/para/indleft) { get; set; } | Spécifie la distance à laquelle toutes les lignes de texte d'un paragraphe sont en retrait à partir de la marge gauche du bloc de texte. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait à gauche reste le même. |
-| [IndRight](../../aspose.diagram/para/indright) { get; set; } | Spécifie la distance entre toutes les lignes de texte d'un paragraphe et la marge droite du bloc de texte. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait à droite reste le même. |
-| [IX](../../aspose.diagram/para/ix) { get; set; } | L'index de base zéro de l'élément dans son élément parent. |
-| [LocalizeBulletFont](../../aspose.diagram/para/localizebulletfont) { get; set; } | Spécifie si la police des puces doit être localisée (traduite dans une autre langue). |
-| [SpAfter](../../aspose.diagram/para/spafter) { get; set; } | Spécifie la quantité d'espace inséré après chaque paragraphe dans le bloc de texte de la forme. |
-| [SpBefore](../../aspose.diagram/para/spbefore) { get; set; } | Spécifie la quantité d'espace inséré avant chaque paragraphe dans le bloc de texte de la forme. |
-| [SpLine](../../aspose.diagram/para/spline) { get; set; } | Spécifie la distance entre une ligne de texte et la suivante, où 100 % est la hauteur d'une ligne de texte. |
-| [TextPosAfterBullet](../../aspose.diagram/para/textposafterbullet) { get; set; } | Représente la distance entre la première ligne du paragraphe et la puce. |
+| [Bullet](../../aspose.diagram/para/bullet/) { get; set; } | Détermine le style de puce. |
+| [BulletFont](../../aspose.diagram/para/bulletfont/) { get; set; } | Représente le numéro de la police utilisée pour formater le texte lorsqu'une chaîne de puces personnalisée est spécifiée et que la valeur dans l'élément Bullet est différente de zéro. |
+| [BulletFontSize](../../aspose.diagram/para/bulletfontsize/) { get; set; } | Spécifie la taille d'une puce. |
+| [BulletStr](../../aspose.diagram/para/bulletstr/) { get; set; } | "Utilisé pour créer un style de puce personnalisé. Saisissez le style sous forme de chaîne (entre guillemets). Par exemple, vous pouvez saisir la chaîne ""ooo.""" |
+| [Del](../../aspose.diagram/para/del/) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
+| [Flags](../../aspose.diagram/para/flags/) { get; set; } | Indique si le sens du texte est de gauche à droite ou de droite à gauche. |
+| [HorzAlign](../../aspose.diagram/para/horzalign/) { get; set; } | Spécifie l'alignement horizontal du texte dans le bloc de texte de la forme. |
+| [IndFirst](../../aspose.diagram/para/indfirst/) { get; set; } | Spécifie la distance entre la première ligne de chaque paragraphe du bloc de texte de la forme et le retrait de gauche du paragraphe. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait de la première ligne reste le même. |
+| [IndLeft](../../aspose.diagram/para/indleft/) { get; set; } | Spécifie la distance à laquelle toutes les lignes de texte d'un paragraphe sont en retrait à partir de la marge gauche du bloc de texte. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait à gauche reste le même. |
+| [IndRight](../../aspose.diagram/para/indright/) { get; set; } | Spécifie la distance entre toutes les lignes de texte d'un paragraphe et la marge droite du bloc de texte. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, le retrait à droite reste le même. |
+| [IX](../../aspose.diagram/para/ix/) { get; set; } | L'index de base zéro de l'élément dans son élément parent. |
+| [LocalizeBulletFont](../../aspose.diagram/para/localizebulletfont/) { get; set; } | Spécifie si la police des puces doit être localisée (traduite dans une autre langue). |
+| [SpAfter](../../aspose.diagram/para/spafter/) { get; set; } | Spécifie la quantité d'espace inséré après chaque paragraphe dans le bloc de texte de la forme. |
+| [SpBefore](../../aspose.diagram/para/spbefore/) { get; set; } | Spécifie la quantité d'espace inséré avant chaque paragraphe dans le bloc de texte de la forme. |
+| [SpLine](../../aspose.diagram/para/spline/) { get; set; } | Spécifie la distance entre une ligne de texte et la suivante, où 100 % est la hauteur d'une ligne de texte. |
+| [TextPosAfterBullet](../../aspose.diagram/para/textposafterbullet/) { get; set; } | Représente la distance entre la première ligne du paragraphe et la puce. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.diagram/para/clone)() | Crée une copie complète de cette instance. |
+| [Clone](../../aspose.diagram/para/clone/)() | Crée une copie complète de cette instance. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

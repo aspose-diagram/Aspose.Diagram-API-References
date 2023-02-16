@@ -3,7 +3,7 @@ title: Layout
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Содержит элементы управляющие размещением фигур и настройками маршрутизации соединителей.
 type: docs
-weight: 2040
+weight: 2050
 url: /ru/net/aspose.diagram/layout/
 ---
 ## Layout class
@@ -18,29 +18,29 @@ public class Layout
 
 | Имя | Описание |
 | --- | --- |
-| [ConFixedCode](../../aspose.diagram/layout/confixedcode) { get; } | Определяет, когда соединитель перенаправляется. |
-| [ConLineJumpCode](../../aspose.diagram/layout/conlinejumpcode) { get; } | Определяет, перескакивает ли коннектор при пересечении двух коннекторов, |
-| [ConLineJumpDirX](../../aspose.diagram/layout/conlinejumpdirx) { get; } | Определяет направление перехода линии для скачков линии, происходящих на горизонтальном сегменте динамического соединителя. |
-| [ConLineJumpDirY](../../aspose.diagram/layout/conlinejumpdiry) { get; } | Определяет направление перехода строки для скачков линии, происходящих на вертикальном сегменте динамического соединителя. |
-| [ConLineJumpStyle](../../aspose.diagram/layout/conlinejumpstyle) { get; } | Определяет стиль перехода строки для перехода строки на динамическом соединителе. |
-| [ConLineRouteExt](../../aspose.diagram/layout/conlinerouteext) { get; } | Определяет внешний вид соединителя. |
-| [Del](../../aspose.diagram/layout/del) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
-| [DisplayLevel](../../aspose.diagram/layout/displaylevel) { get; } | Определяет полосу уровня отображения (относительный диапазон группировки Z-порядка) для формы. |
-| [Relationships](../../aspose.diagram/layout/relationships) { get; } | Сохраняет связи между контейнерами, списками, выносками и фигурами. |
-| [ShapeFixedCode](../../aspose.diagram/layout/shapefixedcode) { get; } | Определяет поведение размещаемой фигуры. |
-| [ShapePermeablePlace](../../aspose.diagram/layout/shapepermeableplace) { get; } | Указывает, можно ли размещать фигуры поверх фигуры, когда пользователь выбирает команду «Раскладка фигур» (меню «Фигуры»). |
-| [ShapePermeableX](../../aspose.diagram/layout/shapepermeablex) { get; } | Указывает, может ли соединитель проходить горизонтально через фигуру. |
-| [ShapePermeableY](../../aspose.diagram/layout/shapepermeabley) { get; } | Указывает, может ли коннектор проходить через фигуру вертикально. |
-| [ShapePlaceFlip](../../aspose.diagram/layout/shapeplaceflip) { get; } | Указывает, как размещаемая фигура переворачивается и/или вращается на странице, когда пользователь выбирает команду «Раскладка фигур» (меню «Фигуры»). |
-| [ShapePlaceStyle](../../aspose.diagram/layout/shapeplacestyle) { get; set; } | Определяет стиль размещения дочерних элементов. |
-| [ShapePlowCode](../../aspose.diagram/layout/shapeplowcode) { get; } | Указывает, перемещается ли размещаемая фигура при перетаскивании другой размещаемой фигуры рядом с фигурой на странице рисования. |
-| [ShapeRouteStyle](../../aspose.diagram/layout/shaperoutestyle) { get; } | Задает стиль и направление трассировки для соединителя на странице чертежа. |
-| [ShapeSplit](../../aspose.diagram/layout/shapesplit) { get; } | Определяет, может ли эта фигура разделять фигуры, которые можно разделить. |
-| [ShapeSplittable](../../aspose.diagram/layout/shapesplittable) { get; } | Определяет, можно ли разделить эту одномерную форму. |
+| [ConFixedCode](../../aspose.diagram/layout/confixedcode/) { get; } | Определяет, когда соединитель перенаправляется. |
+| [ConLineJumpCode](../../aspose.diagram/layout/conlinejumpcode/) { get; } | Определяет, перескакивает ли коннектор при пересечении двух коннекторов, |
+| [ConLineJumpDirX](../../aspose.diagram/layout/conlinejumpdirx/) { get; } | Определяет направление перехода строки для скачков линии, возникающих на горизонтальном сегменте динамического соединителя. |
+| [ConLineJumpDirY](../../aspose.diagram/layout/conlinejumpdiry/) { get; } | Определяет направление перехода строки для скачков линии, происходящих на вертикальном сегменте динамического соединителя. |
+| [ConLineJumpStyle](../../aspose.diagram/layout/conlinejumpstyle/) { get; } | Определяет стиль перехода строки для перехода линии на динамическом соединителе. |
+| [ConLineRouteExt](../../aspose.diagram/layout/conlinerouteext/) { get; } | Определяет внешний вид коннектора. |
+| [Del](../../aspose.diagram/layout/del/) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
+| [DisplayLevel](../../aspose.diagram/layout/displaylevel/) { get; } | Определяет полосу уровня отображения (относительный диапазон группировки Z-порядка) для фигуры. |
+| [Relationships](../../aspose.diagram/layout/relationships/) { get; } | Сохраняет отношения между контейнерами, списками, выносками и фигурами. |
+| [ShapeFixedCode](../../aspose.diagram/layout/shapefixedcode/) { get; } | Определяет поведение размещаемой фигуры. |
+| [ShapePermeablePlace](../../aspose.diagram/layout/shapepermeableplace/) { get; } | Указывает, можно ли помещать фигуры поверх фигуры, когда пользователь выбирает команду «Раскладка фигур» (меню «Фигуры»). |
+| [ShapePermeableX](../../aspose.diagram/layout/shapepermeablex/) { get; } | Указывает, может ли соединитель проходить горизонтально через фигуру. |
+| [ShapePermeableY](../../aspose.diagram/layout/shapepermeabley/) { get; } | Указывает, может ли соединитель проходить вертикально через форму. |
+| [ShapePlaceFlip](../../aspose.diagram/layout/shapeplaceflip/) { get; } | Определяет, как размещаемая фигура переворачивается и/или вращается на странице, когда пользователь выбирает «Разметка фигур» (меню «Фигуры»). |
+| [ShapePlaceStyle](../../aspose.diagram/layout/shapeplacestyle/) { get; set; } | Определяет стиль размещения дочерних элементов. |
+| [ShapePlowCode](../../aspose.diagram/layout/shapeplowcode/) { get; } | Указывает, перемещается ли размещаемая фигура при перетаскивании другой размещаемой фигуры рядом с фигурой на странице документа. |
+| [ShapeRouteStyle](../../aspose.diagram/layout/shaperoutestyle/) { get; } | Указывает стиль и направление трассировки для соединителя на странице документа. |
+| [ShapeSplit](../../aspose.diagram/layout/shapesplit/) { get; } | Определяет, может ли эта фигура разделять фигуры, которые можно разделить. |
+| [ShapeSplittable](../../aspose.diagram/layout/shapesplittable/) { get; } | Определяет, можно ли разделить эту одномерную форму. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

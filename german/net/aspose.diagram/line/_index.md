@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Enthält Elemente die allgemeine Positionierungsinformationen zu einer Form angeben.
 type: docs
-weight: 2070
+weight: 2080
 url: /de/net/aspose.diagram/line/
 ---
 ## Line class
@@ -18,29 +18,29 @@ public class Line : ICloneable
 
 | Name | Beschreibung |
 | --- | --- |
-| [BeginArrow](../../aspose.diagram/line/beginarrow) { get; set; } | Gibt an, ob eine Linie an ihrem ersten Scheitelpunkt eine Pfeilspitze oder ein anderes Linienendeformat hat. Geben Sie eine Zahl von 0 bis 45 oder die USE-Funktion mit dem Namen eines benutzerdefinierten Zeilenendes ein. |
-| [BeginArrowSize](../../aspose.diagram/line/beginarrowsize) { get; set; } | Bestimmt die Größe der Pfeilspitze am Anfang der Linie. Geben Sie eine Zahl von 0 bis 6 ein. |
-| [CompoundType](../../aspose.diagram/line/compoundtype) { get; set; } | Gibt die Linie CompoundType der Form an. |
-| [Del](../../aspose.diagram/line/del) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
-| [EndArrow](../../aspose.diagram/line/endarrow) { get; set; } | Gibt an, ob eine Linie an ihrem letzten Scheitelpunkt eine Pfeilspitze oder ein anderes Linienendeformat hat. |
-| [EndArrowSize](../../aspose.diagram/line/endarrowsize) { get; set; } | Gibt die Größe der Pfeilspitze am Ende der Linie an. |
-| [GradientLine](../../aspose.diagram/line/gradientline) { get; } | Enthält die aktuellen Farbverlaufslinienformatierungswerte für die Form |
-| [LineCap](../../aspose.diagram/line/linecap) { get; set; } | Gibt an, ob eine Linie abgerundete oder eckige Linienenden hat. |
-| [LineColor](../../aspose.diagram/line/linecolor) { get; set; } | Gibt die Linienfarbe der Form an. |
-| [LineColorTrans](../../aspose.diagram/line/linecolortrans) { get; set; } | Gibt den Transparenzgrad der Linienfarbe einer Form von 0 (undurchsichtig) bis 1 (vollständig transparent) an. Der Standardwert ist 0. |
-| [LinePattern](../../aspose.diagram/line/linepattern) { get; set; } | Gibt das Linienmuster der Form an |
-| [LineWeight](../../aspose.diagram/line/lineweight) { get; set; } | Gibt die Linienstärke einer Form an. Die Linienstärke ist unabhängig vom Maßstab der Zeichnung. Wenn die Zeichnung skaliert wird, bleibt die Strichstärke gleich. |
-| [Rounding](../../aspose.diagram/line/rounding) { get; set; } | Gibt den Radius des Rundungsbogens an, der dort angewendet wird, wo sich zwei benachbarte Segmente eines Pfads treffen. Runden kann beispielsweise verwendet werden, um einem Rechteck abgerundete Ecken zu geben. |
+| [BeginArrow](../../aspose.diagram/line/beginarrow/) { get; set; } | Gibt an, ob eine Linie an ihrem ersten Scheitelpunkt eine Pfeilspitze oder ein anderes Linienendeformat hat. Geben Sie eine Zahl von 0 bis 45 oder die USE-Funktion mit dem Namen eines benutzerdefinierten Zeilenendes ein. |
+| [BeginArrowSize](../../aspose.diagram/line/beginarrowsize/) { get; set; } | Bestimmt die Größe der Pfeilspitze am Anfang der Linie. Geben Sie eine Zahl von 0 bis 6 ein. |
+| [CompoundType](../../aspose.diagram/line/compoundtype/) { get; set; } | Gibt die Linie CompoundType der Form an. |
+| [Del](../../aspose.diagram/line/del/) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
+| [EndArrow](../../aspose.diagram/line/endarrow/) { get; set; } | Gibt an, ob eine Linie an ihrem letzten Scheitelpunkt eine Pfeilspitze oder ein anderes Linienendeformat hat. |
+| [EndArrowSize](../../aspose.diagram/line/endarrowsize/) { get; set; } | Gibt die Größe der Pfeilspitze am Ende der Linie an. |
+| [GradientLine](../../aspose.diagram/line/gradientline/) { get; } | Enthält die aktuellen Farbverlaufslinienformatierungswerte für die Form |
+| [LineCap](../../aspose.diagram/line/linecap/) { get; set; } | Gibt an, ob eine Linie abgerundete oder eckige Linienenden hat. |
+| [LineColor](../../aspose.diagram/line/linecolor/) { get; set; } | Gibt die Linienfarbe der Form an. |
+| [LineColorTrans](../../aspose.diagram/line/linecolortrans/) { get; set; } | Gibt den Transparenzgrad der Linienfarbe einer Form von 0 (undurchsichtig) bis 1 (vollständig transparent) an. Der Standardwert ist 0. |
+| [LinePattern](../../aspose.diagram/line/linepattern/) { get; set; } | Gibt das Linienmuster der Form an |
+| [LineWeight](../../aspose.diagram/line/lineweight/) { get; set; } | Gibt die Linienstärke einer Form an. Die Linienstärke ist unabhängig vom Maßstab der Zeichnung. Wenn die Zeichnung skaliert wird, bleibt die Strichstärke gleich. |
+| [Rounding](../../aspose.diagram/line/rounding/) { get; set; } | Gibt den Radius des Rundungsbogens an, der dort angewendet wird, wo sich zwei benachbarte Segmente eines Pfads treffen. Runden kann beispielsweise verwendet werden, um einem Rechteck abgerundete Ecken zu geben. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clone](../../aspose.diagram/line/clone)() | Erstellt eine tiefe Kopie dieser Instanz. |
+| [Clone](../../aspose.diagram/line/clone/)() | Erstellt eine tiefe Kopie dieser Instanz. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -1,9 +1,9 @@
 ---
 title: Hyperlink
 second_title: Справочник по Aspose.Diagram для .NET API
-description: Содержит элементы для создания нескольких переходов между фигурой или страницей документа и другой страницей документа другим файлом или веб-сайтом.
+description: Содержит элементы для создания нескольких переходов между фигурой или страницей документа и другой страницей документа другим файлом или вебсайтом.
 type: docs
-weight: 1870
+weight: 1890
 url: /ru/net/aspose.diagram/hyperlink/
 ---
 ## Hyperlink class
@@ -18,35 +18,35 @@ public class Hyperlink
 
 | Имя | Описание |
 | --- | --- |
-| [Hyperlink](hyperlink)() | Конструктор. |
+| [Hyperlink](hyperlink/)() | Конструктор. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Address](../../aspose.diagram/hyperlink/address) { get; } | Указывает URL-адрес, имя файла DOS или путь UNC для перехода. |
-| [Default](../../aspose.diagram/hyperlink/default) { get; } | Указывает гиперссылку по умолчанию для фигуры или страницы. |
-| [Del](../../aspose.diagram/hyperlink/del) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
-| [Description](../../aspose.diagram/hyperlink/description) { get; } | Элемент Description содержит текстовую строку, описывающую гиперссылку. |
-| [ExtraInfo](../../aspose.diagram/hyperlink/extrainfo) { get; } | Содержит информацию, которая будет использоваться при разрешении URL, например, координаты карты изображения. Например, x=41 y=7 задает координаты карты изображения. |
-| [Frame](../../aspose.diagram/hyperlink/frame) { get; } | Содержит имя целевого фрейма, когда Microsoft Visio открыт как активный документ в приложении-контейнере. По умолчанию это пустая строка. |
-| [ID](../../aspose.diagram/hyperlink/id) { get; set; } | Уникальный идентификатор элемента в его родительском элементе. |
-| [Invisible](../../aspose.diagram/hyperlink/invisible) { get; } | Невидимый элемент указывает, появляется ли гиперссылка в контекстном меню для фигуры или страницы. |
-| [Name](../../aspose.diagram/hyperlink/name) { get; set; } | Имя элемента. |
-| [NameU](../../aspose.diagram/hyperlink/nameu) { get; set; } | Универсальное имя элемента. |
-| [NewWindow](../../aspose.diagram/hyperlink/newwindow) { get; } | Указывает, открывает ли Microsoft Visio окно в новом месте, когда оно следует по гиперссылке для открытия веб-страницы или другого документа Visio. |
-| [SortKey](../../aspose.diagram/hyperlink/sortkey) { get; } | Невидимый элемент указывает, появляется ли гиперссылка в контекстном меню для фигуры или страницы. |
-| [SubAddress](../../aspose.diagram/hyperlink/subaddress) { get; } | Указывает место в целевом документе для ссылки. |
+| [Address](../../aspose.diagram/hyperlink/address/) { get; } | Указывает URL-адрес, имя файла DOS или путь UNC для перехода. |
+| [Default](../../aspose.diagram/hyperlink/default/) { get; } | Указывает гиперссылку по умолчанию для фигуры или страницы. |
+| [Del](../../aspose.diagram/hyperlink/del/) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
+| [Description](../../aspose.diagram/hyperlink/description/) { get; } | Элемент описания содержит текстовую строку, описывающую гиперссылку. |
+| [ExtraInfo](../../aspose.diagram/hyperlink/extrainfo/) { get; } | Содержит информацию, которая будет использоваться при разрешении URL-адреса, например координаты карты изображения. Например, x=41 y=7 указывает координаты карты изображения. |
+| [Frame](../../aspose.diagram/hyperlink/frame/) { get; } | Содержит имя целевого фрейма, когда Microsoft Visio открыт как активный документ в приложении-контейнере. По умолчанию используется пустая строка. |
+| [ID](../../aspose.diagram/hyperlink/id/) { get; set; } | Уникальный идентификатор элемента в его родительском элементе. |
+| [Invisible](../../aspose.diagram/hyperlink/invisible/) { get; } | Невидимый элемент указывает, отображается ли гиперссылка в контекстном меню для фигуры или страницы. |
+| [Name](../../aspose.diagram/hyperlink/name/) { get; set; } | Имя элемента. |
+| [NameU](../../aspose.diagram/hyperlink/nameu/) { get; set; } | Универсальное имя элемента. |
+| [NewWindow](../../aspose.diagram/hyperlink/newwindow/) { get; } | Указывает, будет ли Microsoft Visio открывать окно в новом месте, когда оно следует по гиперссылке для открытия веб-страницы или другого документа Visio. |
+| [SortKey](../../aspose.diagram/hyperlink/sortkey/) { get; } | Невидимый элемент указывает, отображается ли гиперссылка в контекстном меню для фигуры или страницы. |
+| [SubAddress](../../aspose.diagram/hyperlink/subaddress/) { get; } | Указывает место в целевом документе для ссылки на. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.diagram/hyperlink/clone)() | Создает глубокую копию этого экземпляра. |
+| [Clone](../../aspose.diagram/hyperlink/clone/)() | Создает глубокую копию этого экземпляра. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos que especifican información general de posicionamiento sobre una forma.
 type: docs
-weight: 2070
+weight: 2080
 url: /es/net/aspose.diagram/line/
 ---
 ## Line class
@@ -18,29 +18,29 @@ public class Line : ICloneable
 
 | Nombre | Descripción |
 | --- | --- |
-| [BeginArrow](../../aspose.diagram/line/beginarrow) { get; set; } | Indica si una línea tiene una punta de flecha u otro formato de fin de línea en su primer vértice. Introduzca un número del 0 al 45 o la función USAR con el nombre de un final de línea personalizado. |
-| [BeginArrowSize](../../aspose.diagram/line/beginarrowsize) { get; set; } | Determina el tamaño de la punta de flecha al principio de la línea. Introduce un número del 0 al 6. |
-| [CompoundType](../../aspose.diagram/line/compoundtype) { get; set; } | Especifica la línea CompoundType de la forma. |
-| [Del](../../aspose.diagram/line/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [EndArrow](../../aspose.diagram/line/endarrow) { get; set; } | Indica si una línea tiene una punta de flecha u otro formato de fin de línea en su último vértice. |
-| [EndArrowSize](../../aspose.diagram/line/endarrowsize) { get; set; } | Especifica el tamaño de la punta de flecha al final de la línea. |
-| [GradientLine](../../aspose.diagram/line/gradientline) { get; } | Contiene los valores de formato de línea de degradado actuales para la forma |
-| [LineCap](../../aspose.diagram/line/linecap) { get; set; } | Especifica si una línea tiene extremos redondeados o cuadrados. |
-| [LineColor](../../aspose.diagram/line/linecolor) { get; set; } | Especifica el color de la línea de la forma. |
-| [LineColorTrans](../../aspose.diagram/line/linecolortrans) { get; set; } | Especifica el nivel de transparencia del color de línea de una forma, de 0 (opaco) a 1 (completamente transparente). El valor predeterminado es 0. |
-| [LinePattern](../../aspose.diagram/line/linepattern) { get; set; } | Especifica el patrón de línea de la forma |
-| [LineWeight](../../aspose.diagram/line/lineweight) { get; set; } | Especifica el grosor de línea de una forma. El grosor de línea es independiente de la escala del dibujo. Si el dibujo está escalado, el grosor de línea sigue siendo el mismo. |
-| [Rounding](../../aspose.diagram/line/rounding) { get; set; } | Especifica el radio del arco de redondeo aplicado donde se encuentran dos segmentos contiguos de una ruta. Por ejemplo, el redondeo se puede usar para dar esquinas redondeadas a un rectángulo. |
+| [BeginArrow](../../aspose.diagram/line/beginarrow/) { get; set; } | Indica si una línea tiene una punta de flecha u otro formato de fin de línea en su primer vértice. Introduzca un número del 0 al 45 o la función USAR con el nombre de un final de línea personalizado. |
+| [BeginArrowSize](../../aspose.diagram/line/beginarrowsize/) { get; set; } | Determina el tamaño de la punta de flecha al principio de la línea. Introduce un número del 0 al 6. |
+| [CompoundType](../../aspose.diagram/line/compoundtype/) { get; set; } | Especifica la línea CompoundType de la forma. |
+| [Del](../../aspose.diagram/line/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [EndArrow](../../aspose.diagram/line/endarrow/) { get; set; } | Indica si una línea tiene una punta de flecha u otro formato de fin de línea en su último vértice. |
+| [EndArrowSize](../../aspose.diagram/line/endarrowsize/) { get; set; } | Especifica el tamaño de la punta de flecha al final de la línea. |
+| [GradientLine](../../aspose.diagram/line/gradientline/) { get; } | Contiene los valores de formato de línea de degradado actuales para la forma |
+| [LineCap](../../aspose.diagram/line/linecap/) { get; set; } | Especifica si una línea tiene extremos redondeados o cuadrados. |
+| [LineColor](../../aspose.diagram/line/linecolor/) { get; set; } | Especifica el color de la línea de la forma. |
+| [LineColorTrans](../../aspose.diagram/line/linecolortrans/) { get; set; } | Especifica el nivel de transparencia del color de línea de una forma, de 0 (opaco) a 1 (completamente transparente). El valor predeterminado es 0. |
+| [LinePattern](../../aspose.diagram/line/linepattern/) { get; set; } | Especifica el patrón de línea de la forma |
+| [LineWeight](../../aspose.diagram/line/lineweight/) { get; set; } | Especifica el grosor de línea de una forma. El grosor de línea es independiente de la escala del dibujo. Si el dibujo está escalado, el grosor de línea sigue siendo el mismo. |
+| [Rounding](../../aspose.diagram/line/rounding/) { get; set; } | Especifica el radio del arco de redondeo aplicado donde se encuentran dos segmentos contiguos de una ruta. Por ejemplo, el redondeo se puede usar para dar esquinas redondeadas a un rectángulo. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/line/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/line/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

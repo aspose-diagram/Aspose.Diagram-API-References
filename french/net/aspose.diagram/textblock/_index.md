@@ -3,7 +3,7 @@ title: TextBlock
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Contient des éléments qui spécifient lalignement les marges et les positions de tabulation par défaut du texte dans le bloc de texte dune forme.
 type: docs
-weight: 3980
+weight: 3990
 url: /fr/net/aspose.diagram/textblock/
 ---
 ## TextBlock class
@@ -18,26 +18,26 @@ public class TextBlock : ICloneable
 
 | Nom | La description |
 | --- | --- |
-| [BottomMargin](../../aspose.diagram/textblock/bottommargin) { get; set; } | Détermine la distance entre la bordure inférieure du bloc de texte et la dernière ligne de texte qu'il contient. La valeur par défaut est 4 points. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge inférieure reste la même. |
-| [DefaultTabStop](../../aspose.diagram/textblock/defaulttabstop) { get; set; } | Spécifie l'intervalle des taquets de tabulation par défaut dans un bloc de texte. |
-| [Del](../../aspose.diagram/textblock/del) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
-| [LeftMargin](../../aspose.diagram/textblock/leftmargin) { get; set; } | Spécifie la distance entre la bordure gauche du bloc de texte et le texte qu'il contient. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge de gauche reste la même. |
-| [RightMargin](../../aspose.diagram/textblock/rightmargin) { get; set; } | Spécifie la distance entre la bordure droite du bloc de texte et le texte qu'il contient. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge de droite reste la même. |
-| [TextBkgnd](../../aspose.diagram/textblock/textbkgnd) { get; set; } | Spécifie la couleur d'arrière-plan du texte pour une forme. |
-| [TextBkgndTrans](../../aspose.diagram/textblock/textbkgndtrans) { get; set; } | Spécifie le niveau de transparence de la couleur d'arrière-plan du bloc de texte d'une forme, de 0 (complètement opaque) à 1 (complètement transparent). |
-| [TextDirection](../../aspose.diagram/textblock/textdirection) { get; set; } | Spécifie la direction des caractères dans un bloc de texte. |
-| [TopMargin](../../aspose.diagram/textblock/topmargin) { get; set; } | Spécifie la distance entre la bordure supérieure du bloc de texte et la première ligne de texte qu'il contient. |
-| [VerticalAlign](../../aspose.diagram/textblock/verticalalign) { get; set; } | Spécifie l'alignement vertical du texte dans le bloc de texte. |
+| [BottomMargin](../../aspose.diagram/textblock/bottommargin/) { get; set; } | Détermine la distance entre la bordure inférieure du bloc de texte et la dernière ligne de texte qu'il contient. La valeur par défaut est 4 points. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge inférieure reste la même. |
+| [DefaultTabStop](../../aspose.diagram/textblock/defaulttabstop/) { get; set; } | Spécifie l'intervalle des taquets de tabulation par défaut dans un bloc de texte. |
+| [Del](../../aspose.diagram/textblock/del/) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
+| [LeftMargin](../../aspose.diagram/textblock/leftmargin/) { get; set; } | Spécifie la distance entre la bordure gauche du bloc de texte et le texte qu'il contient. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge de gauche reste la même. |
+| [RightMargin](../../aspose.diagram/textblock/rightmargin/) { get; set; } | Spécifie la distance entre la bordure droite du bloc de texte et le texte qu'il contient. Cette valeur est indépendante de l'échelle du dessin. Si le dessin est mis à l'échelle, la marge de droite reste la même. |
+| [TextBkgnd](../../aspose.diagram/textblock/textbkgnd/) { get; set; } | Spécifie la couleur d'arrière-plan du texte pour une forme. |
+| [TextBkgndTrans](../../aspose.diagram/textblock/textbkgndtrans/) { get; set; } | Spécifie le niveau de transparence de la couleur d'arrière-plan du bloc de texte d'une forme, de 0 (complètement opaque) à 1 (complètement transparent). |
+| [TextDirection](../../aspose.diagram/textblock/textdirection/) { get; set; } | Spécifie la direction des caractères dans un bloc de texte. |
+| [TopMargin](../../aspose.diagram/textblock/topmargin/) { get; set; } | Spécifie la distance entre la bordure supérieure du bloc de texte et la première ligne de texte qu'il contient. |
+| [VerticalAlign](../../aspose.diagram/textblock/verticalalign/) { get; set; } | Spécifie l'alignement vertical du texte dans le bloc de texte. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.diagram/textblock/clone)() | Crée une copie complète de cette instance. |
+| [Clone](../../aspose.diagram/textblock/clone/)() | Crée une copie complète de cette instance. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

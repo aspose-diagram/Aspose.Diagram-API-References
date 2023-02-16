@@ -18,34 +18,34 @@ public class RadioButtonActiveXControl : ToggleButtonActiveXControl
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Accelerator](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/accelerator) { get; set; } | 获取和设置控件的加速键。 |
-| [Alignment](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/alignment) { get; set; } | 获取并设置 Caption 相对于控件的位置。 |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | 获取和设置背景的ole颜色。 |
-| [Caption](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/caption) { get; set; } | 获取和设置出现在控件上的描述性文本。 |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | 获取和设置控件的二进制数据。 |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | 获取和设置前景的ole颜色。 |
-| [GroupName](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/groupname) { get; set; } | 获取和设置组的名称。 |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | 以点为单位获取和设置控件的高度。 |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | 获取并设置控件接收焦点时输入法编辑器的默认运行时模式。 |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | 指示控件是否会自动调整大小以显示其全部内容。 |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | 指示控件是否可以接收焦点并响应用户生成的事件。 |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | 指示控件中的数据是否被锁定以进行编辑。 |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | 表示控件是否透明。 |
-| [IsTripleState](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/istriplestate) { get; set; } | 指示指定控件将如何显示 Null 值。 |
-| [IsWordWrapped](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/iswordwrapped) { get; set; } | 表示控件的内容是否在行尾自动换行。 |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | 获取并设置自定义图标以显示为控件的鼠标指针。 |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | 获取并设置显示为控件鼠标指针的图标类型。 |
-| [Picture](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/picture) { get; set; } | 获取和设置图片的数据。 |
-| [PicturePosition](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/pictureposition) { get; set; } | 获取并设置控件图片相对于其标题的位置。 |
-| [SpecialEffect](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/specialeffect) { get; set; } | 获取和设置控件的特殊效果。 |
-| override [Type](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/type) { get; } | 获取 ActiveX 控件的类型。 |
-| [Value](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/value) { get; set; } | 表示控件是否被选中。 |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | 以点为单位获取和设置控件的宽度。 |
+| [Accelerator](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/accelerator/) { get; set; } | 获取和设置控件的加速键。 |
+| [Alignment](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/alignment/) { get; set; } | 获取和设置 Caption 相对于控件的位置。 |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | 获取和设置背景的 ole 颜色。 |
+| [Caption](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/caption/) { get; set; } | 获取和设置出现在控件上的描述性文本。 |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | 获取和设置控件的二进制数据。 |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | 获取和设置前景的 ole 颜色。 |
+| [GroupName](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/groupname/) { get; set; } | 获取和设置组的名称。 |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | 以点为单位获取和设置控件的高度。 |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | 获取和设置控件接收焦点时输入法编辑器的默认运行时模式。 |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | 指示控件是否会自动调整大小以显示其全部内容。 |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | 指示控件是否可以接收焦点并响应用户生成的事件。 |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | 指示控件中的数据是否被锁定以供编辑。 |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | 表示控件是否透明。 |
+| [IsTripleState](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/istriplestate/) { get; set; } | 指示指定控件将如何显示 Null 值。 |
+| [IsWordWrapped](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/iswordwrapped/) { get; set; } | 表示控件内容是否自动换行。 |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | 获取并设置自定义图标以显示为控件的鼠标指针。 |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | 获取和设置显示为控件鼠标指针的图标类型。 |
+| [Picture](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/picture/) { get; set; } | 获取和设置图片的数据。 |
+| [PicturePosition](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/pictureposition/) { get; set; } | 获取和设置控件图片相对于其标题的位置。 |
+| [SpecialEffect](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/specialeffect/) { get; set; } | 获取和设置控件的特效。 |
+| override [Type](../../aspose.diagram.activexcontrols/radiobuttonactivexcontrol/type/) { get; } | 获取 ActiveX 控件的类型。 |
+| [Value](../../aspose.diagram.activexcontrols/togglebuttonactivexcontrol/value/) { get; set; } | 表示控件是否被选中。 |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | 以点为单位获取和设置控件的宽度。 |
 
 ### 也可以看看
 
-* class [ToggleButtonActiveXControl](../togglebuttonactivexcontrol)
-* 命名空间 [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ToggleButtonActiveXControl](../togglebuttonactivexcontrol/)
+* 命名空间 [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * 部件 [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

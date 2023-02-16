@@ -1,14 +1,14 @@
 ---
 title: DocumentProperties
 second_title: Справочник по Aspose.Diagram для .NET API
-description: Содержит элементы свойств документа такие как заголовок документа автор и т.д.
+description: Содержит элементы свойств документа такие как название документа автора и т. д.
 type: docs
-weight: 1220
+weight: 1240
 url: /ru/net/aspose.diagram/documentproperties/
 ---
 ## DocumentProperties class
 
-Содержит элементы свойств документа, такие как заголовок документа, автор и т.д.
+Содержит элементы свойств документа, такие как название документа, автора и т. д.
 
 ```csharp
 public class DocumentProperties
@@ -18,30 +18,30 @@ public class DocumentProperties
 
 | Имя | Описание |
 | --- | --- |
-| [AlternateNames](../../aspose.diagram/documentproperties/alternatenames) { get; set; } | Задает альтернативные имена для документа. |
-| [BuildNumberCreated](../../aspose.diagram/documentproperties/buildnumbercreated) { get; set; } | Содержит полный номер сборки экземпляра, использованного для создания документа. |
-| [BuildNumberEdited](../../aspose.diagram/documentproperties/buildnumberedited) { get; set; } | Содержит номер сборки последнего экземпляра, использовавшегося для редактирования документа. |
-| [Category](../../aspose.diagram/documentproperties/category) { get; set; } | Задает описательный текст для типа чертежа, такого как блок-схема или макет офиса. Этот текст также можно ввести в пользовательском интерфейсе Microsoft Visio в поле «Категория» диалогового окна «Свойства». |
-| [Company](../../aspose.diagram/documentproperties/company) { get; set; } | Содержит введенную пользователем информацию, идентифицирующую компанию, создающую чертеж, или компанию, для которой создается чертеж. Максимальная длина 63 символа. |
-| [Creator](../../aspose.diagram/documentproperties/creator) { get; set; } | Идентифицирует, кто создал или последним обновил файл. Максимальная длина 63 символа. |
-| [CustomProps](../../aspose.diagram/documentproperties/customprops) { get; } | Коллекция CustomProp. |
-| [Desc](../../aspose.diagram/documentproperties/desc) { get; set; } | Содержит описательную текстовую строку для документа. Используйте этот элемент для хранения важной информации о документе, такой как его назначение, последние изменения или ожидающие изменения. Максимум 191 символ. |
-| [HyperlinkBase](../../aspose.diagram/documentproperties/hyperlinkbase) { get; set; } | Содержит путь, который будет использоваться для относительных гиперссылок (гиперссылок, для которых расположение связанного файла описано относительно диаграммы Microsoft Visio). По умолчанию путь гиперссылки относится к текущему документу, если в этом элементе не указан другой путь. Максимальная длина 256 символов. |
-| [Keywords](../../aspose.diagram/documentproperties/keywords) { get; set; } | Содержит текстовую строку, идентифицирующую темы или другую важную информацию о файле, такую как имя проекта, имя клиента или номер версии. Максимальная длина строки составляет 63 символа. |
-| [Language](../../aspose.diagram/documentproperties/language) { get; set; } | Указывает язык |
-| [Manager](../../aspose.diagram/documentproperties/manager) { get; set; } | Содержит введенную пользователем текстовую строку, идентифицирующую ответственного за проект или отдел. Максимальная длина 63 символа. |
-| [PreviewPicture](../../aspose.diagram/documentproperties/previewpicture) { get; set; } | Содержит поток метафайлов, который служит для предварительного просмотра документа. |
-| [Subject](../../aspose.diagram/documentproperties/subject) { get; set; } | Содержит определяемую пользователем текстовую строку, описывающую содержимое документа. Максимальная длина 63 символа. |
-| [Template](../../aspose.diagram/documentproperties/template) { get; set; } | Содержит строковое значение, указывающее имя файла шаблона, из которого был создан документ. |
-| [TimeCreated](../../aspose.diagram/documentproperties/timecreated) { get; set; } | Содержит значение даты и времени, указывающее, когда был создан документ. |
-| [TimeEdited](../../aspose.diagram/documentproperties/timeedited) { get; set; } | Содержит значение даты и времени, указывающее, когда документ последний раз редактировался. |
-| [TimePrinted](../../aspose.diagram/documentproperties/timeprinted) { get; set; } | Содержит значение даты и времени, указывающее, когда документ был распечатан в последний раз. |
-| [TimeSaved](../../aspose.diagram/documentproperties/timesaved) { get; set; } | Содержит значение даты и времени, указывающее, когда документ был сохранен в последний раз. |
-| [Title](../../aspose.diagram/documentproperties/title) { get; set; } | Содержит определяемую пользователем текстовую строку, которая служит описательным заголовком документа. Максимальная длина 63 символа. |
+| [AlternateNames](../../aspose.diagram/documentproperties/alternatenames/) { get; set; } | Указывает альтернативные имена для документа. |
+| [BuildNumberCreated](../../aspose.diagram/documentproperties/buildnumbercreated/) { get; set; } | Содержит полный номер сборки экземпляра, использованного для создания документа. |
+| [BuildNumberEdited](../../aspose.diagram/documentproperties/buildnumberedited/) { get; set; } | Содержит номер сборки экземпляра, который последний раз использовался для редактирования документа. |
+| [Category](../../aspose.diagram/documentproperties/category/) { get; set; } | Определяет описательный текст для типа чертежа, такого как блок-схема или макет офиса. Этот текст также можно ввести в пользовательском интерфейсе Microsoft Visio в поле «Категория» диалогового окна «Свойства». |
+| [Company](../../aspose.diagram/documentproperties/company/) { get; set; } | Содержит введенную пользователем информацию, идентифицирующую компанию, создающую чертеж, или компанию, для которой создается чертеж. Максимальная длина 63 символа. |
+| [Creator](../../aspose.diagram/documentproperties/creator/) { get; set; } | Указывает, кто создал или последним обновил файл. Максимальная длина 63 символа. |
+| [CustomProps](../../aspose.diagram/documentproperties/customprops/) { get; } | Коллекция CustomProp. |
+| [Desc](../../aspose.diagram/documentproperties/desc/) { get; set; } | Содержит описательную текстовую строку для документа. Используйте этот элемент для хранения важной информации о документе, такой как его назначение, последние изменения или ожидающие изменения. Максимум 191 символ. |
+| [HyperlinkBase](../../aspose.diagram/documentproperties/hyperlinkbase/) { get; set; } | Содержит путь, который будет использоваться для относительных гиперссылок (гиперссылок, для которых расположение связанного файла описано относительно диаграммы Microsoft Visio). По умолчанию путь гиперссылки относится к текущему документу, если в этом элементе не указан другой путь. Максимальная длина 256 символов. |
+| [Keywords](../../aspose.diagram/documentproperties/keywords/) { get; set; } | Содержит текстовую строку, идентифицирующую темы или другую важную информацию о файле, такую как имя проекта, имя клиента или номер версии. Максимальная длина строки — 63 символа. |
+| [Language](../../aspose.diagram/documentproperties/language/) { get; set; } | Указывает язык |
+| [Manager](../../aspose.diagram/documentproperties/manager/) { get; set; } | Содержит введенную пользователем текстовую строку, идентифицирующую ответственного за проект или отдел. Максимальная длина 63 символа. |
+| [PreviewPicture](../../aspose.diagram/documentproperties/previewpicture/) { get; set; } | Содержит поток метафайлов, который служит для предварительного просмотра документа. |
+| [Subject](../../aspose.diagram/documentproperties/subject/) { get; set; } | Содержит определяемую пользователем текстовую строку, описывающую содержимое документа. Максимальная длина 63 символа. |
+| [Template](../../aspose.diagram/documentproperties/template/) { get; set; } | Содержит строковое значение, указывающее имя файла шаблона, из которого был создан документ. |
+| [TimeCreated](../../aspose.diagram/documentproperties/timecreated/) { get; set; } | Содержит значение даты и времени, указывающее, когда был создан документ. |
+| [TimeEdited](../../aspose.diagram/documentproperties/timeedited/) { get; set; } | Содержит значение даты и времени, указывающее, когда документ редактировался в последний раз. |
+| [TimePrinted](../../aspose.diagram/documentproperties/timeprinted/) { get; set; } | Содержит значение даты и времени, указывающее, когда документ был распечатан в последний раз. |
+| [TimeSaved](../../aspose.diagram/documentproperties/timesaved/) { get; set; } | Содержит значение даты и времени, указывающее, когда документ был сохранен в последний раз. |
+| [Title](../../aspose.diagram/documentproperties/title/) { get; set; } | Содержит определяемую пользователем текстовую строку, которая служит описательным заголовком документа. Максимальная длина 63 символа. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

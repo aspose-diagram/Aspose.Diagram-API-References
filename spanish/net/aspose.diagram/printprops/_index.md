@@ -3,7 +3,7 @@ title: PrintProps
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos que controlan cómo se formatea aparece la página de dibujo en la página de la impresora.
 type: docs
-weight: 2820
+weight: 2830
 url: /es/net/aspose.diagram/printprops/
 ---
 ## PrintProps class
@@ -18,26 +18,26 @@ public class PrintProps
 
 | Nombre | Descripción |
 | --- | --- |
-| [CenterX](../../aspose.diagram/printprops/centerx) { get; } | Determina si la página de dibujo está centrada horizontalmente en la página impresa. |
-| [CenterY](../../aspose.diagram/printprops/centery) { get; } | Determina si la página de dibujo está centrada verticalmente en la página impresa. |
-| [Del](../../aspose.diagram/printprops/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [OnPage](../../aspose.diagram/printprops/onpage) { get; } | Indica si el dibujo se imprime en un número específico de páginas de impresora. |
-| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin) { get; } | Especifica el margen en la parte inferior de la página impresa. |
-| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin) { get; } | Especifica el margen a la izquierda de la página impresa. |
-| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin) { get; } | Especifica el margen a la derecha de la página impresa. |
-| [PagesX](../../aspose.diagram/printprops/pagesx) { get; } | Determina el número de páginas de impresora en las que cabe la página de dibujo horizontalmente. |
-| [PagesY](../../aspose.diagram/printprops/pagesy) { get; } | Determina el número de páginas de impresora en las que cabe la página de dibujo verticalmente. |
-| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin) { get; } | Especifica el margen en la parte superior de la página de la impresora. |
-| [PaperKind](../../aspose.diagram/printprops/paperkind) { get; } | Especifica el tipo de papel en el que imprimir la página. |
-| [PaperSource](../../aspose.diagram/printprops/papersource) { get; } | Determina el origen del papel para la página. |
-| [PrintGrid](../../aspose.diagram/printprops/printgrid) { get; } | Especifica si se debe imprimir la cuadrícula al imprimir una página del documento. |
-| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation) { get; } | Determina si la página se imprime en orientación vertical u horizontal. |
-| [ScaleX](../../aspose.diagram/printprops/scalex) { get; } | Especifica el porcentaje de ampliación de la página de dibujo en la página de la impresora, en la dirección x (horizontal). |
-| [ScaleY](../../aspose.diagram/printprops/scaley) { get; } | Especifica el porcentaje de ampliación de la página de dibujo en la página de la impresora, en la dirección y (vertical). |
+| [CenterX](../../aspose.diagram/printprops/centerx/) { get; } | Determina si la página de dibujo está centrada horizontalmente en la página impresa. |
+| [CenterY](../../aspose.diagram/printprops/centery/) { get; } | Determina si la página de dibujo está centrada verticalmente en la página impresa. |
+| [Del](../../aspose.diagram/printprops/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [OnPage](../../aspose.diagram/printprops/onpage/) { get; } | Indica si el dibujo se imprime en un número específico de páginas de impresora. |
+| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin/) { get; } | Especifica el margen en la parte inferior de la página impresa. |
+| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin/) { get; } | Especifica el margen a la izquierda de la página impresa. |
+| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin/) { get; } | Especifica el margen a la derecha de la página impresa. |
+| [PagesX](../../aspose.diagram/printprops/pagesx/) { get; } | Determina el número de páginas de impresora en las que cabe la página de dibujo horizontalmente. |
+| [PagesY](../../aspose.diagram/printprops/pagesy/) { get; } | Determina el número de páginas de impresora en las que cabe la página de dibujo verticalmente. |
+| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin/) { get; } | Especifica el margen en la parte superior de la página de la impresora. |
+| [PaperKind](../../aspose.diagram/printprops/paperkind/) { get; } | Especifica el tipo de papel en el que imprimir la página. |
+| [PaperSource](../../aspose.diagram/printprops/papersource/) { get; } | Determina el origen del papel para la página. |
+| [PrintGrid](../../aspose.diagram/printprops/printgrid/) { get; } | Especifica si se debe imprimir la cuadrícula al imprimir una página del documento. |
+| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation/) { get; } | Determina si la página se imprime en orientación vertical u horizontal. |
+| [ScaleX](../../aspose.diagram/printprops/scalex/) { get; } | Especifica el porcentaje de ampliación de la página de dibujo en la página de la impresora, en la dirección x (horizontal). |
+| [ScaleY](../../aspose.diagram/printprops/scaley/) { get; } | Especifica el porcentaje de ampliación de la página de dibujo en la página de la impresora, en la dirección y (vertical). |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
