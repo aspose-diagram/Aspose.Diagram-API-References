@@ -3,7 +3,7 @@ title: DataColumn
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Définit la manière dont une colonne de données apparaît dans la fenêtre Données externes de linterface utilisateur Visio et qualifie les données de la colonne en définissant son type de données et sa mise en forme.
 type: docs
-weight: 1080
+weight: 1100
 url: /fr/net/aspose.diagram/datacolumn/
 ---
 ## DataColumn class
@@ -18,30 +18,30 @@ public class DataColumn
 
 | Nom | La description |
 | --- | --- |
-| [DataColumn](datacolumn)() | Constructeur. |
+| [DataColumn](datacolumn/)() | Constructeur. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Calendar](../../aspose.diagram/datacolumn/calendar) { get; set; } | ID de calendrier de la colonne de données. |
-| [ColumnNameID](../../aspose.diagram/datacolumn/columnnameid) { get; set; } | Nom externe de la colonne de données. Apparaît dans les en-têtes de la fenêtre Données externes et dans les étiquettes des graphiques de données. |
-| [Currency](../../aspose.diagram/datacolumn/currency) { get; set; } | ID de devise de la colonne de données. |
-| [DataType](../../aspose.diagram/datacolumn/datatype) { get; set; } | Type de données dans la colonne de données. |
-| [Degree](../../aspose.diagram/datacolumn/degree) { get; set; } | Spécifie le degré (puissance) des unités, par exemple au carré ou au cube. La valeur par défaut (attribut absent) est 1. |
-| [DisplayOrder](../../aspose.diagram/datacolumn/displayorder) { get; set; } | Définit la position d'affichage de la colonne de données dans la fenêtre Données externes, de la colonne la plus à gauche (0) à la colonne la plus à droite (valeur la plus élevée). |
-| [DisplayWidth](../../aspose.diagram/datacolumn/displaywidth) { get; set; } | Largeur de la colonne de données dans la fenêtre Données externes. |
-| [Hyperlink](../../aspose.diagram/datacolumn/hyperlink) { get; set; } | Indique si la colonne de données crée un lien hypertexte dans une forme lorsque la forme est liée à des données. |
-| [Label](../../aspose.diagram/datacolumn/label) { get; set; } | Libellé de la colonne de données. |
-| [LangID](../../aspose.diagram/datacolumn/langid) { get; set; } | L'ID de langue de la colonne de données |
-| [Mapped](../../aspose.diagram/datacolumn/mapped) { get; set; } | Spécifie si la colonne est visible dans la fenêtre Données externes. Vrai (1) pour que la colonne soit visible ; false (0) pour que la colonne ne soit pas visible. La valeur par défaut (attribut absent) est que la colonne soit visible. |
-| [Name](../../aspose.diagram/datacolumn/name) { get; set; } | Nom interne de la colonne de données. Utilisé comme nom de ligne pour l'élément de données de forme (propriété personnalisée) ajouté à une forme lorsque la forme est liée à une ligne de données. |
-| [OrigLabel](../../aspose.diagram/datacolumn/origlabel) { get; set; } | Étiquette de colonne renvoyée à Visio par l'interface ADO sous-jacente. |
-| [UnitType](../../aspose.diagram/datacolumn/unittype) { get; set; } | Type d'unité des données dans la colonne de données. |
+| [Calendar](../../aspose.diagram/datacolumn/calendar/) { get; set; } | ID de calendrier de la colonne de données. |
+| [ColumnNameID](../../aspose.diagram/datacolumn/columnnameid/) { get; set; } | Nom externe de la colonne de données. Apparaît dans les en-têtes de la fenêtre Données externes et dans les étiquettes des graphiques de données. |
+| [Currency](../../aspose.diagram/datacolumn/currency/) { get; set; } | ID de devise de la colonne de données. |
+| [DataType](../../aspose.diagram/datacolumn/datatype/) { get; set; } | Type de données dans la colonne de données. |
+| [Degree](../../aspose.diagram/datacolumn/degree/) { get; set; } | Spécifie le degré (puissance) des unités, par exemple au carré ou au cube. La valeur par défaut (attribut absent) est 1. |
+| [DisplayOrder](../../aspose.diagram/datacolumn/displayorder/) { get; set; } | Définit la position d'affichage de la colonne de données dans la fenêtre Données externes, de la colonne la plus à gauche (0) à la colonne la plus à droite (valeur la plus élevée). |
+| [DisplayWidth](../../aspose.diagram/datacolumn/displaywidth/) { get; set; } | Largeur de la colonne de données dans la fenêtre Données externes. |
+| [Hyperlink](../../aspose.diagram/datacolumn/hyperlink/) { get; set; } | Indique si la colonne de données crée un lien hypertexte dans une forme lorsque la forme est liée à des données. |
+| [Label](../../aspose.diagram/datacolumn/label/) { get; set; } | Libellé de la colonne de données. |
+| [LangID](../../aspose.diagram/datacolumn/langid/) { get; set; } | L'ID de langue de la colonne de données |
+| [Mapped](../../aspose.diagram/datacolumn/mapped/) { get; set; } | Spécifie si la colonne est visible dans la fenêtre Données externes. Vrai (1) pour que la colonne soit visible ; false (0) pour que la colonne ne soit pas visible. La valeur par défaut (attribut absent) est que la colonne soit visible. |
+| [Name](../../aspose.diagram/datacolumn/name/) { get; set; } | Nom interne de la colonne de données. Utilisé comme nom de ligne pour l'élément de données de forme (propriété personnalisée) ajouté à une forme lorsque la forme est liée à une ligne de données. |
+| [OrigLabel](../../aspose.diagram/datacolumn/origlabel/) { get; set; } | Étiquette de colonne renvoyée à Visio par l'interface ADO sous-jacente. |
+| [UnitType](../../aspose.diagram/datacolumn/unittype/) { get; set; } | Type d'unité des données dans la colonne de données. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

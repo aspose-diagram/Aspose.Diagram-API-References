@@ -3,7 +3,7 @@ title: Hyperlink
 second_title: Référence de l'API Aspose.Diagram pour .NET
 description: Contient des éléments permettant de créer plusieurs sauts entre une forme ou une page de dessin et une autre page de dessin un autre fichier ou un site Web.
 type: docs
-weight: 1870
+weight: 1890
 url: /fr/net/aspose.diagram/hyperlink/
 ---
 ## Hyperlink class
@@ -18,35 +18,35 @@ public class Hyperlink
 
 | Nom | La description |
 | --- | --- |
-| [Hyperlink](hyperlink)() | Constructeur. |
+| [Hyperlink](hyperlink/)() | Constructeur. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Address](../../aspose.diagram/hyperlink/address) { get; } | Spécifie une adresse URL, un nom de fichier DOS ou un chemin UNC vers lequel accéder. |
-| [Default](../../aspose.diagram/hyperlink/default) { get; } | Spécifie le lien hypertexte par défaut pour une forme ou une page. |
-| [Del](../../aspose.diagram/hyperlink/del) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
-| [Description](../../aspose.diagram/hyperlink/description) { get; } | L'élément de description contient une chaîne de texte qui décrit le lien hypertexte. |
-| [ExtraInfo](../../aspose.diagram/hyperlink/extrainfo) { get; } | Contient des informations à utiliser pour résoudre une URL, telles que les coordonnées d'une image cliquable. Par exemple, x=41 y=7 spécifierait les coordonnées d'une image cliquable. |
-| [Frame](../../aspose.diagram/hyperlink/frame) { get; } | Contient le nom d'un cadre à cibler lorsque Microsoft Visio est ouvert en tant que document actif dans une application conteneur. La valeur par défaut est une chaîne vide. |
-| [ID](../../aspose.diagram/hyperlink/id) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
-| [Invisible](../../aspose.diagram/hyperlink/invisible) { get; } | L'élément invisible indique si un lien hypertexte apparaît dans le menu contextuel d'une forme ou d'une page. |
-| [Name](../../aspose.diagram/hyperlink/name) { get; set; } | Le nom de l'élément. |
-| [NameU](../../aspose.diagram/hyperlink/nameu) { get; set; } | Le nom universel de l'élément. |
-| [NewWindow](../../aspose.diagram/hyperlink/newwindow) { get; } | Spécifie si Microsoft Visio ouvre une fenêtre dans un nouvel emplacement lorsqu'il suit un lien hypertexte pour ouvrir une page Web ou un autre document Visio. |
-| [SortKey](../../aspose.diagram/hyperlink/sortkey) { get; } | L'élément invisible indique si un lien hypertexte apparaît dans le menu contextuel d'une forme ou d'une page. |
-| [SubAddress](../../aspose.diagram/hyperlink/subaddress) { get; } | Spécifie un emplacement dans le document cible vers lequel établir un lien. |
+| [Address](../../aspose.diagram/hyperlink/address/) { get; } | Spécifie une adresse URL, un nom de fichier DOS ou un chemin UNC vers lequel accéder. |
+| [Default](../../aspose.diagram/hyperlink/default/) { get; } | Spécifie le lien hypertexte par défaut pour une forme ou une page. |
+| [Del](../../aspose.diagram/hyperlink/del/) { get; set; } | Un indicateur indiquant si l'élément a été supprimé localement. Une valeur de 1 indique que l'élément a été supprimé localement. |
+| [Description](../../aspose.diagram/hyperlink/description/) { get; } | L'élément de description contient une chaîne de texte qui décrit le lien hypertexte. |
+| [ExtraInfo](../../aspose.diagram/hyperlink/extrainfo/) { get; } | Contient des informations à utiliser pour résoudre une URL, telles que les coordonnées d'une image cliquable. Par exemple, x=41 y=7 spécifierait les coordonnées d'une image cliquable. |
+| [Frame](../../aspose.diagram/hyperlink/frame/) { get; } | Contient le nom d'un cadre à cibler lorsque Microsoft Visio est ouvert en tant que document actif dans une application conteneur. La valeur par défaut est une chaîne vide. |
+| [ID](../../aspose.diagram/hyperlink/id/) { get; set; } | L'identifiant unique de l'élément dans son élément parent. |
+| [Invisible](../../aspose.diagram/hyperlink/invisible/) { get; } | L'élément invisible indique si un lien hypertexte apparaît dans le menu contextuel d'une forme ou d'une page. |
+| [Name](../../aspose.diagram/hyperlink/name/) { get; set; } | Le nom de l'élément. |
+| [NameU](../../aspose.diagram/hyperlink/nameu/) { get; set; } | Le nom universel de l'élément. |
+| [NewWindow](../../aspose.diagram/hyperlink/newwindow/) { get; } | Spécifie si Microsoft Visio ouvre une fenêtre dans un nouvel emplacement lorsqu'il suit un lien hypertexte pour ouvrir une page Web ou un autre document Visio. |
+| [SortKey](../../aspose.diagram/hyperlink/sortkey/) { get; } | L'élément invisible indique si un lien hypertexte apparaît dans le menu contextuel d'une forme ou d'une page. |
+| [SubAddress](../../aspose.diagram/hyperlink/subaddress/) { get; } | Spécifie un emplacement dans le document cible vers lequel établir un lien. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Clone](../../aspose.diagram/hyperlink/clone)() | Crée une copie complète de cette instance. |
+| [Clone](../../aspose.diagram/hyperlink/clone/)() | Crée une copie complète de cette instance. |
 
 ### Voir également
 
-* espace de noms [Aspose.Diagram](../../aspose.diagram)
+* espace de noms [Aspose.Diagram](../../aspose.diagram/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

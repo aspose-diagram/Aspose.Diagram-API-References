@@ -17,18 +17,18 @@ public void ConnectShapesViaConnector(Shape shapeFrom, ConnectionPointPlace plac
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| shapeFrom | Shape | La forme où commence le connecteur[`Shape`](../../shape). |
-| placeFrom | ConnectionPointPlace | L'emplacement sur la première forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| shapeTo | Shape | La forme où le connecteur se termine[`Shape`](../../shape). |
-| placeTo | ConnectionPointPlace | L'emplacement sur la deuxième forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| connector | Shape | La forme avec le type Connecteur dynamique[`Shape`](../../shape). |
+| shapeFrom | Shape | La forme où commence le connecteur[`Shape`](../../shape/). |
+| placeFrom | ConnectionPointPlace | L'emplacement sur la première forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| shapeTo | Shape | La forme où le connecteur se termine[`Shape`](../../shape/). |
+| placeTo | ConnectionPointPlace | L'emplacement sur la deuxième forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| connector | Shape | La forme avec le type Connecteur dynamique[`Shape`](../../shape/). |
 
 ### Voir également
 
-* class [Shape](../../shape)
-* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace)
-* class [Page](../../page)
-* espace de noms [Aspose.Diagram](../../page)
+* class [Shape](../../shape/)
+* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace/)
+* class [Page](../)
+* espace de noms [Aspose.Diagram](../../page/)
 * Assemblée [Aspose.Diagram](../../../)
 
 ---
@@ -44,17 +44,17 @@ public void ConnectShapesViaConnector(long shapeFromId, ConnectionPointPlace pla
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| shapeFromId | Int64 | L'ID de la forme où commence le connecteur[`Shape`](../../shape). |
-| placeFrom | ConnectionPointPlace | L'emplacement sur la première forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| shapeToId | Int64 | L'ID de la forme où se termine le connecteur[`Shape`](../../shape). |
-| placeTo | ConnectionPointPlace | L'emplacement sur la deuxième forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| connectorId | Int64 | L'ID de la forme avec le type Connecteur dynamique[`Shape`](../../shape). |
+| shapeFromId | Int64 | L'ID de la forme où commence le connecteur[`Shape`](../../shape/). |
+| placeFrom | ConnectionPointPlace | L'emplacement sur la première forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| shapeToId | Int64 | L'ID de la forme où se termine le connecteur[`Shape`](../../shape/). |
+| placeTo | ConnectionPointPlace | L'emplacement sur la deuxième forme où le connecteur sera connecté[`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| connectorId | Int64 | L'ID de la forme avec le type Connecteur dynamique[`Shape`](../../shape/). |
 
 ### Voir également
 
-* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace)
-* class [Page](../../page)
-* espace de noms [Aspose.Diagram](../../page)
+* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace/)
+* class [Page](../)
+* espace de noms [Aspose.Diagram](../../page/)
 * Assemblée [Aspose.Diagram](../../../)
 
 ---
@@ -70,16 +70,16 @@ public void ConnectShapesViaConnector(long shapeFromId, string fromConnectionNam
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| shapeFromId | Int64 | L'ID de la forme où commence le connecteur[`Shape`](../../shape). |
+| shapeFromId | Int64 | L'ID de la forme où commence le connecteur[`Shape`](../../shape/). |
 | fromConnectionName | String | Le nom de la connexion sur la première forme où le connecteur sera connecté. |
-| shapeToId | Int64 | L'ID de la forme où se termine le connecteur[`Shape`](../../shape). |
+| shapeToId | Int64 | L'ID de la forme où se termine le connecteur[`Shape`](../../shape/). |
 | toConnectionName | String | Le nom de la connexion sur la deuxième forme où le connecteur sera connecté. |
-| connectorId | Int64 | L'ID de la forme avec le type Connecteur dynamique[`Shape`](../../shape). |
+| connectorId | Int64 | L'ID de la forme avec le type Connecteur dynamique[`Shape`](../../shape/). |
 
 ### Voir également
 
-* class [Page](../../page)
-* espace de noms [Aspose.Diagram](../../page)
+* class [Page](../)
+* espace de noms [Aspose.Diagram](../../page/)
 * Assemblée [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

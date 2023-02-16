@@ -18,30 +18,30 @@ public class CommandButtonActiveXControl : ActiveXControl
 
 | Nom | La description |
 | --- | --- |
-| [Accelerator](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/accelerator) { get; set; } | Obtient et définit la touche d'accélération pour le contrôle. |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Obtient et définit la couleur ole de l'arrière-plan. |
-| [Caption](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/caption) { get; set; } | Obtient et définit le texte descriptif qui apparaît sur un contrôle. |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Obtient et définit les données binaires du contrôle. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Obtient et définit la couleur ole du premier plan. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Obtient et définit la hauteur du contrôle en unité de points. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Obtient et définit le mode d'exécution par défaut de l'éditeur de méthode d'entrée pour le contrôle lorsqu'il reçoit le focus. |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | Indique si le contrôle se redimensionne automatiquement pour afficher tout son contenu. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Indique si le contrôle peut recevoir le focus et répondre aux événements générés par l'utilisateur. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Indique si les données du contrôle sont verrouillées pour modification. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Indique si le contrôle est transparent. |
-| [IsWordWrapped](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/iswordwrapped) { get; set; } | Indique si le contenu du contrôle passe automatiquement à la fin d'une ligne. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Obtient et définit une icône personnalisée à afficher comme pointeur de souris pour le contrôle. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Obtient et définit le type d'icône affiché comme pointeur de souris pour le contrôle. |
-| [Picture](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture) { get; set; } | Obtient et définit les données de l'image. |
-| [PicturePosition](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition) { get; set; } | Obtient et définit l'emplacement de l'image du contrôle par rapport à sa légende. |
-| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick) { get; set; } | Indique si le contrôle prend le focus lorsqu'il est cliqué. |
-| override [Type](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type) { get; } | Obtient le type du contrôle ActiveX. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Obtient et définit la largeur du contrôle en unité de point. |
+| [Accelerator](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/accelerator/) { get; set; } | Obtient et définit la touche d'accélération pour le contrôle. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Obtient et définit la couleur ole de l'arrière-plan. |
+| [Caption](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/caption/) { get; set; } | Obtient et définit le texte descriptif qui apparaît sur un contrôle. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | Obtient et définit les données binaires du contrôle. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Obtient et définit la couleur ole du premier plan. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Obtient et définit la hauteur du contrôle en unité de points. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Obtient et définit le mode d'exécution par défaut de l'éditeur de méthode d'entrée pour le contrôle lorsqu'il reçoit le focus. |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | Indique si le contrôle se redimensionne automatiquement pour afficher tout son contenu. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Indique si le contrôle peut recevoir le focus et répondre aux événements générés par l'utilisateur. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Indique si les données du contrôle sont verrouillées pour modification. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Indique si le contrôle est transparent. |
+| [IsWordWrapped](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/iswordwrapped/) { get; set; } | Indique si le contenu du contrôle passe automatiquement à la fin d'une ligne. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Obtient et définit une icône personnalisée à afficher comme pointeur de souris pour le contrôle. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Obtient et définit le type d'icône affiché comme pointeur de souris pour le contrôle. |
+| [Picture](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture/) { get; set; } | Obtient et définit les données de l'image. |
+| [PicturePosition](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition/) { get; set; } | Obtient et définit l'emplacement de l'image du contrôle par rapport à sa légende. |
+| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick/) { get; set; } | Indique si le contrôle prend le focus lorsqu'il est cliqué. |
+| override [Type](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type/) { get; } | Obtient le type du contrôle ActiveX. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Obtient et définit la largeur du contrôle en unité de point. |
 
 ### Voir également
 
-* class [ActiveXControl](../activexcontrol)
-* espace de noms [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* espace de noms [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * Assemblée [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

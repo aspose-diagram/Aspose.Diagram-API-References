@@ -12,40 +12,40 @@ url: /ru/net/aspose.diagram.activexcontrols/
 
 | Учебный класс | Описание |
 | --- | --- |
-| [ActiveXControl](./activexcontrol) | Представляет элемент управления ActiveX. |
-| [ActiveXControlBase](./activexcontrolbase) | Представляет элемент управления ActiveX. |
-| [CheckBoxActiveXControl](./checkboxactivexcontrol) | Представляет элемент управления ActiveX CheckBox. |
-| [ComboBoxActiveXControl](./comboboxactivexcontrol) | Представляет элемент управления ComboBox ActiveX. |
-| [CommandButtonActiveXControl](./commandbuttonactivexcontrol) | Представляет командную кнопку. |
-| [ImageActiveXControl](./imageactivexcontrol) | Представляет элемент управления изображением. |
-| [LabelActiveXControl](./labelactivexcontrol) | Представляет элемент управления ActiveX label. |
-| [ListBoxActiveXControl](./listboxactivexcontrol) | Представляет элемент управления ActiveX ListBox. |
-| [RadioButtonActiveXControl](./radiobuttonactivexcontrol) | Представляет элемент управления ActiveX RadioButton. |
-| [ScrollBarActiveXControl](./scrollbaractivexcontrol) | Представляет элемент управления ScrollBar. |
-| [SpinButtonActiveXControl](./spinbuttonactivexcontrol) | Представляет элемент управления SpinButton. |
-| [TextBoxActiveXControl](./textboxactivexcontrol) | Представляет элемент управления ActiveX текстового поля. |
-| [ToggleButtonActiveXControl](./togglebuttonactivexcontrol) | Представляет элемент управления ActiveX ToggleButton. |
-| [UnknownControl](./unknowncontrol) | Неизвестный элемент управления. |
+| [ActiveXControl](./activexcontrol/) | Представляет элемент управления ActiveX. |
+| [ActiveXControlBase](./activexcontrolbase/) | Представляет элемент управления ActiveX. |
+| [CheckBoxActiveXControl](./checkboxactivexcontrol/) | Представляет элемент управления ActiveX CheckBox. |
+| [ComboBoxActiveXControl](./comboboxactivexcontrol/) | Представляет элемент управления ActiveX ComboBox. |
+| [CommandButtonActiveXControl](./commandbuttonactivexcontrol/) | Представляет командную кнопку. |
+| [ImageActiveXControl](./imageactivexcontrol/) | Представляет элемент управления изображением. |
+| [LabelActiveXControl](./labelactivexcontrol/) | Представляет метку элемента управления ActiveX. |
+| [ListBoxActiveXControl](./listboxactivexcontrol/) | Представляет элемент управления ActiveX ListBox. |
+| [RadioButtonActiveXControl](./radiobuttonactivexcontrol/) | Представляет элемент управления ActiveX RadioButton. |
+| [ScrollBarActiveXControl](./scrollbaractivexcontrol/) | Представляет элемент управления ScrollBar. |
+| [SpinButtonActiveXControl](./spinbuttonactivexcontrol/) | Представляет элемент управления SpinButton. |
+| [TextBoxActiveXControl](./textboxactivexcontrol/) | Представляет элемент управления ActiveX текстового поля. |
+| [ToggleButtonActiveXControl](./togglebuttonactivexcontrol/) | Представляет элемент управления ActiveX ToggleButton. |
+| [UnknownControl](./unknowncontrol/) | Неизвестный элемент управления. |
 ## перечисление
 
 | перечисление | Описание |
 | --- | --- |
-| [ActiveXPersistenceType](./activexpersistencetype) | Представляет метод сохранения для сохранения элемента управления ActiveX. |
-| [CheckValueType](./checkvaluetype) | Представляет тип контрольного значения флажка. |
-| [ControlBorderType](./controlbordertype) | Представляет тип границы элемента управления ActiveX. |
-| [ControlCaptionAlignmentType](./controlcaptionalignmenttype) | Представляет положение Caption относительно элемента управления. |
-| [ControlListStyle](./controlliststyle) | Представляет внешний вид списка в ListBox или ComboBox. |
-| [ControlMatchEntryType](./controlmatchentrytype) | Представляет, как ListBox или ComboBox ищет свой список по мере ввода пользователем. |
-| [ControlMousePointerType](./controlmousepointertype) | Представляет тип значка, отображаемого в качестве указателя мыши для элемента управления. |
-| [ControlPictureAlignmentType](./controlpicturealignmenttype) | Представляет выравнивание изображения внутри формы или изображения. |
-| [ControlPicturePositionType](./controlpicturepositiontype) | Представляет расположение изображения элемента управления относительно его заголовка. |
-| [ControlPictureSizeMode](./controlpicturesizemode) | Указывает способ отображения изображения. |
-| [ControlScrollBarType](./controlscrollbartype) | Представляет тип полосы прокрутки. |
-| [ControlScrollOrientation](./controlscrollorientation) | Представляет тип ориентации прокрутки |
-| [ControlSpecialEffectType](./controlspecialeffecttype) | Представляет тип специального эффекта. |
-| [ControlType](./controltype) | Представляет все типы элементов управления ActiveX. |
-| [DropButtonStyle](./dropbuttonstyle) | Представляет символ, отображаемый на кнопке раскрывающегося списка. |
-| [InputMethodEditorMode](./inputmethodeditormode) | Представляет режим времени выполнения по умолчанию для редактора метода ввода. |
-| [ShowDropButtonType](./showdropbuttontype) | Указывает, когда показывать кнопку перетаскивания |
+| [ActiveXPersistenceType](./activexpersistencetype/) | Представляет метод сохранения для сохранения элемента управления ActiveX. |
+| [CheckValueType](./checkvaluetype/) | Представляет тип контрольного значения флажка. |
+| [ControlBorderType](./controlbordertype/) | Представляет тип границы элемента управления ActiveX. |
+| [ControlCaptionAlignmentType](./controlcaptionalignmenttype/) | Представляет положение заголовка относительно элемента управления. |
+| [ControlListStyle](./controlliststyle/) | Представляет внешний вид списка в ListBox или ComboBox. |
+| [ControlMatchEntryType](./controlmatchentrytype/) | Представляет, как ListBox или ComboBox выполняет поиск в своем списке по мере того, как пользователь вводит. |
+| [ControlMousePointerType](./controlmousepointertype/) | Представляет тип значка, отображаемого в качестве указателя мыши для элемента управления. |
+| [ControlPictureAlignmentType](./controlpicturealignmenttype/) | Представляет выравнивание изображения внутри формы или изображения. |
+| [ControlPicturePositionType](./controlpicturepositiontype/) | Представляет расположение изображения элемента управления относительно его заголовка. |
+| [ControlPictureSizeMode](./controlpicturesizemode/) | Указывает способ отображения изображения. |
+| [ControlScrollBarType](./controlscrollbartype/) | Представляет тип полосы прокрутки. |
+| [ControlScrollOrientation](./controlscrollorientation/) | Представляет тип ориентации прокрутки |
+| [ControlSpecialEffectType](./controlspecialeffecttype/) | Представляет тип специального эффекта. |
+| [ControlType](./controltype/) | Представляет все типы элементов управления ActiveX. |
+| [DropButtonStyle](./dropbuttonstyle/) | Представляет символ, отображаемый на кнопке раскрывающегося списка. |
+| [InputMethodEditorMode](./inputmethodeditormode/) | Представляет рабочий режим редактора методов ввода по умолчанию. |
+| [ShowDropButtonType](./showdropbuttontype/) | Определяет, когда показывать кнопку сброса |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

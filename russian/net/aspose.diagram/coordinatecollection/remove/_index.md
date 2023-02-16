@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Справочник по Aspose.Diagram для .NET API
-description: Удалить объект Координата из коллекции.
+description: Удалить объект координат из коллекции.
 type: docs
 weight: 180
 url: /ru/net/aspose.diagram/coordinatecollection/remove/
 ---
 ## Remove(Coordinate) {#remove_1}
 
-Удалить объект Координата из коллекции.
+Удалить объект координат из коллекции.
 
 ```csharp
 public void Remove(Coordinate item)
@@ -16,9 +16,9 @@ public void Remove(Coordinate item)
 
 ### Смотрите также
 
-* class [Coordinate](../../coordinate)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -33,9 +33,9 @@ public void Remove(MoveTo item)
 
 ### Смотрите также
 
-* class [MoveTo](../../moveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -50,9 +50,9 @@ public void Remove(LineTo item)
 
 ### Смотрите также
 
-* class [LineTo](../../lineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -67,9 +67,9 @@ public void Remove(ArcTo item)
 
 ### Смотрите также
 
-* class [ArcTo](../../arcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -84,9 +84,9 @@ public void Remove(InfiniteLine item)
 
 ### Смотрите также
 
-* class [InfiniteLine](../../infiniteline)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Remove(Ellipse item)
 
 ### Смотрите также
 
-* class [Ellipse](../../ellipse)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -118,9 +118,9 @@ public void Remove(EllipticalArcTo item)
 
 ### Смотрите также
 
-* class [EllipticalArcTo](../../ellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -135,9 +135,9 @@ public void Remove(SplineStart item)
 
 ### Смотрите также
 
-* class [SplineStart](../../splinestart)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -152,9 +152,9 @@ public void Remove(SplineKnot item)
 
 ### Смотрите также
 
-* class [SplineKnot](../../splineknot)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -169,9 +169,9 @@ public void Remove(PolylineTo item)
 
 ### Смотрите также
 
-* class [PolylineTo](../../polylineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -186,9 +186,9 @@ public void Remove(NURBSTo item)
 
 ### Смотрите также
 
-* class [NURBSTo](../../nurbsto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -203,9 +203,9 @@ public void Remove(RelCubBezTo item)
 
 ### Смотрите также
 
-* class [RelCubBezTo](../../relcubbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -220,9 +220,9 @@ public void Remove(RelQuadBezTo item)
 
 ### Смотрите также
 
-* class [RelQuadBezTo](../../relquadbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -237,9 +237,9 @@ public void Remove(RelMoveTo item)
 
 ### Смотрите также
 
-* class [RelMoveTo](../../relmoveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -254,9 +254,9 @@ public void Remove(RelLineTo item)
 
 ### Смотрите также
 
-* class [RelLineTo](../../rellineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 ---
@@ -271,9 +271,9 @@ public void Remove(RelEllipticalArcTo item)
 
 ### Смотрите также
 
-* class [RelEllipticalArcTo](../../relellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* пространство имен [Aspose.Diagram](../../coordinatecollection)
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* пространство имен [Aspose.Diagram](../../coordinatecollection/)
 * сборка [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

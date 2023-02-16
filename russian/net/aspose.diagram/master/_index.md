@@ -3,7 +3,7 @@ title: Master
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Содержит элементы определяющие мастер документа. Мастер  это фигура на трафарете которую вы неоднократно используете для создания рисунков. Когда вы перетаскиваете фигуру из набора элементов на страницу документа она становится экземпляром этого образца а локальная копия образца включается в документ.
 type: docs
-weight: 2270
+weight: 2280
 url: /ru/net/aspose.diagram/master/
 ---
 ## Master class
@@ -18,39 +18,39 @@ public class Master : IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Master](master)() | Конструктор. |
+| [Master](master/)() | Конструктор. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignName](../../aspose.diagram/master/alignname) { get; set; } | Указывает, выравнивается ли текст мастера в окне трафарета по левому, правому краю или по центру. |
-| [BaseID](../../aspose.diagram/master/baseid) { get; set; } | GUID (глобальный уникальный идентификатор), который идентифицирует мастер в документах. |
-| [Connects](../../aspose.diagram/master/connects) { get; } | Содержит элемент Connect для каждого соединения между двумя фигурами на чертеже. |
-| [Hidden](../../aspose.diagram/master/hidden) { get; set; } | Указывает, скрыт ли мастер в пользовательском интерфейсе. |
-| [Icon](../../aspose.diagram/master/icon) { get; set; } | Задает двоичный значок в кодировке MIME (многоцелевые расширения почты Интернета) (в формате .ico) для элемента Master или MasterShortcut в документе. |
-| [IconSize](../../aspose.diagram/master/iconsize) { get; set; } | Размер значка элемента. |
-| [IconUpdate](../../aspose.diagram/master/iconupdate) { get; set; } | Указывает, создается ли значок автоматически из самого мастера. |
-| [ID](../../aspose.diagram/master/id) { get; set; } | Уникальный идентификатор элемента в его родительском элементе. |
-| [MatchByName](../../aspose.diagram/master/matchbyname) { get; set; } | Атрибут MatchByName определяет, как Microsoft Visio определяет, присутствует ли мастер документа, когда экземпляр мастера перетаскивается на страницу документа. Он позволяет применять изменения, внесенные в образец документа, к новым экземплярам образца, даже если экземпляры перетаскиваются из автономного файла трафарета. |
-| [Name](../../aspose.diagram/master/name) { get; set; } | Имя элемента. |
-| [NameU](../../aspose.diagram/master/nameu) { get; set; } | Универсальное имя элемента. |
-| [PageSheet](../../aspose.diagram/master/pagesheet) { get; } | Содержит элементы, определяющие лист страницы для элемента Page или Master. |
-| [PatternFlags](../../aspose.diagram/master/patternflags) { get; set; } | Атрибут PatternFlags определяет, будет ли мастер вести себя как пользовательский шаблон. |
-| [Prompt](../../aspose.diagram/master/prompt) { get; set; } | Строка состояния и всплывающая подсказка для элемента. |
-| [Shapes](../../aspose.diagram/master/shapes) { get; } | Коллекция объектов Shape. |
-| [UniqueID](../../aspose.diagram/master/uniqueid) { get; set; } | GUID, который идентифицирует мастер в документе. |
+| [AlignName](../../aspose.diagram/master/alignname/) { get; set; } | Указывает, выравнивается ли текст мастера в окне трафарета по левому, правому краю или по центру. |
+| [BaseID](../../aspose.diagram/master/baseid/) { get; set; } | GUID (глобальный уникальный идентификатор), который идентифицирует мастер в документах. |
+| [Connects](../../aspose.diagram/master/connects/) { get; } | Содержит элемент Connect для каждого соединения между двумя фигурами на чертеже. |
+| [Hidden](../../aspose.diagram/master/hidden/) { get; set; } | Указывает, скрыт ли мастер в пользовательском интерфейсе. |
+| [Icon](../../aspose.diagram/master/icon/) { get; set; } | Задает закодированный двоичный значок MIME (многоцелевые расширения почты Интернета) (в формате .ico) для элемента Master или MasterShortcut в документе. |
+| [IconSize](../../aspose.diagram/master/iconsize/) { get; set; } | Размер значка элемента. |
+| [IconUpdate](../../aspose.diagram/master/iconupdate/) { get; set; } | Указывает, создается ли значок автоматически из самого мастера. |
+| [ID](../../aspose.diagram/master/id/) { get; set; } | Уникальный идентификатор элемента в его родительском элементе. |
+| [MatchByName](../../aspose.diagram/master/matchbyname/) { get; set; } | Атрибут MatchByName определяет, как Microsoft Visio определяет, присутствует ли мастер документа, когда экземпляр мастера перетаскивается на страницу документа. Он позволяет применять изменения, внесенные в образец документа, к новым экземплярам образца, даже если экземпляры перетаскиваются из автономного файла трафарета. |
+| [Name](../../aspose.diagram/master/name/) { get; set; } | Имя элемента. |
+| [NameU](../../aspose.diagram/master/nameu/) { get; set; } | Универсальное имя элемента. |
+| [PageSheet](../../aspose.diagram/master/pagesheet/) { get; } | Содержит элементы, определяющие лист страницы для элемента Page или Master. |
+| [PatternFlags](../../aspose.diagram/master/patternflags/) { get; set; } | Атрибут PatternFlags определяет, будет ли мастер вести себя как пользовательский шаблон. |
+| [Prompt](../../aspose.diagram/master/prompt/) { get; set; } | Строка состояния и подсказка для элемента. |
+| [Shapes](../../aspose.diagram/master/shapes/) { get; } | Коллекция объектов Shape. |
+| [UniqueID](../../aspose.diagram/master/uniqueid/) { get; set; } | GUID, идентифицирующий мастер в документе. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.diagram/master/clone)() | Создает глубокую копию этого экземпляра. |
-| [Dispose](../../aspose.diagram/master/dispose)() | Выполняет определяемые приложением задачи, связанные с освобождением, освобождением или сбросом неуправляемых ресурсов. |
+| [Clone](../../aspose.diagram/master/clone/)() | Создает глубокую копию этого экземпляра. |
+| [Dispose](../../aspose.diagram/master/dispose/)() | Выполняет определяемые приложением задачи, связанные с освобождением, высвобождением или сбросом неуправляемых ресурсов. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

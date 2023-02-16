@@ -18,30 +18,30 @@ public class CommandButtonActiveXControl : ActiveXControl
 
 | Имя | Описание |
 | --- | --- |
-| [Accelerator](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/accelerator) { get; set; } | Получает и задает клавишу быстрого доступа для элемента управления. |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Получает и устанавливает цвет фона. |
-| [Caption](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/caption) { get; set; } | Получает и задает описательный текст, отображаемый в элементе управления. |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Получает и устанавливает двоичные данные элемента управления. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Получает и устанавливает ole цвет переднего плана. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Получает и задает высоту элемента управления в пунктах. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус. |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | Указывает, будет ли размер элемента управления автоматически изменяться для отображения всего его содержимого. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Указывает, может ли элемент управления получать фокус и реагировать на пользовательские события. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Указывает, заблокированы ли данные в элементе управления для редактирования. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Указывает, является ли элемент управления прозрачным. |
-| [IsWordWrapped](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/iswordwrapped) { get; set; } | Указывает, будет ли содержимое элемента управления автоматически переноситься в конец строки. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Получает и задает пользовательский значок, отображаемый в качестве указателя мыши для элемента управления. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления. |
-| [Picture](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture) { get; set; } | Получает и устанавливает данные изображения. |
-| [PicturePosition](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition) { get; set; } | Получает и устанавливает расположение изображения элемента управления относительно его заголовка. |
-| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick) { get; set; } | Указывает, принимает ли элемент управления фокус при нажатии. |
-| override [Type](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type) { get; } | Получает тип элемента управления ActiveX. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Получает и задает ширину элемента управления в точках. |
+| [Accelerator](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/accelerator/) { get; set; } | Получает и задает клавишу быстрого доступа для элемента управления. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Получает и устанавливает цвет фона ole. |
+| [Caption](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/caption/) { get; set; } | Получает и задает описательный текст, отображаемый в элементе управления. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | Получает и устанавливает двоичные данные элемента управления. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Получает и задает ole цвет переднего плана. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Получает и задает высоту элемента управления в пунктах. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Получает и задает режим времени выполнения по умолчанию редактора метода ввода для элемента управления, когда он получает фокус. |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | Указывает, будет ли автоматически изменяться размер элемента управления для отображения всего его содержимого. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Указывает, может ли элемент управления получать фокус и реагировать на события, созданные пользователем. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Указывает, заблокированы ли данные в элементе управления для редактирования. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Указывает, является ли элемент управления прозрачным. |
+| [IsWordWrapped](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/iswordwrapped/) { get; set; } | Указывает, будет ли содержимое элемента управления автоматически переноситься в конце строки. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Получает и задает пользовательский значок для отображения в качестве указателя мыши для элемента управления. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Получает и задает тип значка, отображаемого в качестве указателя мыши для элемента управления. |
+| [Picture](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture/) { get; set; } | Получает и устанавливает данные изображения. |
+| [PicturePosition](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition/) { get; set; } | Получает и устанавливает расположение изображения элемента управления относительно его заголовка. |
+| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick/) { get; set; } | Указывает, получает ли элемент управления фокус при нажатии. |
+| override [Type](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type/) { get; } | Получает тип элемента управления ActiveX. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Получает и задает ширину элемента управления в точках. |
 
 ### Смотрите также
 
-* class [ActiveXControl](../activexcontrol)
-* пространство имен [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* пространство имен [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

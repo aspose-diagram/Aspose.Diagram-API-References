@@ -3,7 +3,7 @@ title: PrintSaveOptions
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Позволяет указать дополнительные параметры при печати диаграммы.
 type: docs
-weight: 3430
+weight: 3440
 url: /ru/net/aspose.diagram.saving/printsaveoptions/
 ---
 ## PrintSaveOptions class
@@ -18,29 +18,29 @@ public class PrintSaveOptions : RenderingSaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [PrintSaveOptions](printsaveoptions)() | Инициализирует новый экземпляр этого класса |
+| [PrintSaveOptions](printsaveoptions/)() | Инициализирует новый экземпляр этого класса |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | Получает или задает площадь сохраняемых фигур. |
-| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | Когда символы на диаграмме имеют формат Unicode и для них не установлено правильное значение шрифта или шрифт не установлен локально, они могут отображаться как блочные в формате pdf, изображения или XPS. Установите DefaultFont, например MingLiu или MS Gothic, для отображения этих символов. |
-| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | Настройка для рендеринга метафайла EMF. |
-| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | Указывает, следует ли увеличивать страницу. |
-| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | Определяет, нужно ли экспортировать направляющие формы или нет. |
-| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Определяет, нужно ли экспортировать комментарии или нет. |
-| [PageCount](../../aspose.diagram.saving/printsaveoptions/pagecount) { get; set; } | Получает или задает количество страниц для отображения при сохранении в многостраничный файл. По умолчанию установлено значение MaxValue, что означает, что будут напечатаны все страницы диаграммы. |
-| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Получает или задает размер страницы для сгенерированных изображений. Может быть[`PageSize`](../pagesize) или null. |
-| [SaveForegroundPagesOnly](../../aspose.diagram.saving/printsaveoptions/saveforegroundpagesonly) { get; set; } | Указывает, будут ли печататься все страницы или только передний план. |
-| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat) { get; set; } | Указывает формат, в котором будет сохранен документ, если используется этот объект параметров сохранения. |
-| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Получает или задает фигуры для визуализации. Счетчик по умолчанию равен 0. |
-| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Получает или устанавливает обратный вызов предупреждения. |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Получает или задает площадь сохраняемых фигур . |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | Если символы на диаграмме имеют формат Unicode и для них не задано правильное значение шрифта или шрифт не установлен локально, они могут отображаться как блоки в pdf, изображениях или XPS. Установите шрифт по умолчанию, например MingLiu или MS Gothic, чтобы отобразить эти символов. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | Настройка для рендеринга метафайла EMF. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | Указывает, следует ли увеличивать страницу . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | Определяет, нужно ли экспортировать направляющие формы или нет. |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | Определяет, нужно ли экспортировать комментарии или нет. |
+| [PageCount](../../aspose.diagram.saving/printsaveoptions/pagecount/) { get; set; } | Получает или задает количество отображаемых страниц при сохранении в многостраничный файл. Значение по умолчанию — MaxValue, что означает, что будут напечатаны все страницы диаграммы. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | Получает или задает размер страницы для сгенерированных изображений. Может быть[`PageSize`](../pagesize/) или ноль. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/printsaveoptions/saveforegroundpagesonly/) { get; set; } | Указывает, будут ли печататься все страницы или только передний план. |
+| virtual [SaveFormat](../../aspose.diagram.saving/saveoptions/saveformat/) { get; set; } | Указывает формат, в котором документ будет сохранен, если используется этот объект параметров сохранения. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | Получает или задает фигуры для визуализации. Счетчик по умолчанию: 0. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | Получает или задает обратный вызов предупреждения. |
 
 ### Смотрите также
 
-* class [RenderingSaveOptions](../renderingsaveoptions)
-* пространство имен [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* пространство имен [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

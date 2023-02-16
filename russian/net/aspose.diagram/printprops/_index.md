@@ -3,7 +3,7 @@ title: PrintProps
 second_title: Справочник по Aspose.Diagram для .NET API
 description: Содержит элементы управляющие форматированием отображением страницы документа на странице принтера.
 type: docs
-weight: 2820
+weight: 2830
 url: /ru/net/aspose.diagram/printprops/
 ---
 ## PrintProps class
@@ -18,26 +18,26 @@ public class PrintProps
 
 | Имя | Описание |
 | --- | --- |
-| [CenterX](../../aspose.diagram/printprops/centerx) { get; } | Определяет, центрирована ли страница чертежа по горизонтали на распечатываемой странице. |
-| [CenterY](../../aspose.diagram/printprops/centery) { get; } | Определяет, центрирована ли страница чертежа по вертикали на распечатываемой странице. |
-| [Del](../../aspose.diagram/printprops/del) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
-| [OnPage](../../aspose.diagram/printprops/onpage) { get; } | Указывает, печатается ли чертеж на определенном количестве страниц принтера. |
-| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin) { get; } | Задает поле внизу распечатываемой страницы. |
-| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin) { get; } | Задает поле слева от печатной страницы. |
-| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin) { get; } | Указывает поле справа от печатной страницы. |
-| [PagesX](../../aspose.diagram/printprops/pagesx) { get; } | Определяет количество страниц принтера, на которых должна располагаться страница чертежа по горизонтали. |
-| [PagesY](../../aspose.diagram/printprops/pagesy) { get; } | Определяет количество страниц принтера, на которых должна располагаться страница чертежа по вертикали. |
-| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin) { get; } | Задает поле вверху страницы принтера. |
-| [PaperKind](../../aspose.diagram/printprops/paperkind) { get; } | Указывает тип бумаги для печати страницы. |
-| [PaperSource](../../aspose.diagram/printprops/papersource) { get; } | Определяет источник бумаги для страницы. |
-| [PrintGrid](../../aspose.diagram/printprops/printgrid) { get; } | Указывает, печатать ли сетку при печати страницы документа. |
-| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation) { get; } | Определяет, будет ли страница печататься в книжной или альбомной ориентации. |
-| [ScaleX](../../aspose.diagram/printprops/scalex) { get; } | Задает процент увеличения страницы чертежа на странице принтера в направлении x (горизонтальном). |
-| [ScaleY](../../aspose.diagram/printprops/scaley) { get; } | Задает процент увеличения страницы чертежа на странице принтера в направлении y (по вертикали). |
+| [CenterX](../../aspose.diagram/printprops/centerx/) { get; } | Определяет, будет ли страница чертежа центрирована по горизонтали на распечатываемой странице. |
+| [CenterY](../../aspose.diagram/printprops/centery/) { get; } | Определяет, центрирована ли страница чертежа по вертикали на распечатываемой странице. |
+| [Del](../../aspose.diagram/printprops/del/) { get; set; } | Флаг, указывающий, был ли элемент удален локально. Значение 1 указывает, что элемент был удален локально. |
+| [OnPage](../../aspose.diagram/printprops/onpage/) { get; } | Указывает, печатается ли чертеж на определенном количестве страниц принтера. |
+| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin/) { get; } | Определяет поле внизу распечатываемой страницы. |
+| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin/) { get; } | Определяет поле слева от напечатанной страницы. |
+| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin/) { get; } | Задает поле справа от напечатанной страницы. |
+| [PagesX](../../aspose.diagram/printprops/pagesx/) { get; } | Определяет количество страниц принтера, на которых должна располагаться страница чертежа по горизонтали. |
+| [PagesY](../../aspose.diagram/printprops/pagesy/) { get; } | Определяет количество страниц принтера, на которых размещается страница чертежа по вертикали. |
+| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin/) { get; } | Определяет поле в верхней части страницы принтера. |
+| [PaperKind](../../aspose.diagram/printprops/paperkind/) { get; } | Определяет тип бумаги для печати страницы. |
+| [PaperSource](../../aspose.diagram/printprops/papersource/) { get; } | Определяет источник бумаги для страницы. |
+| [PrintGrid](../../aspose.diagram/printprops/printgrid/) { get; } | Указывает, следует ли печатать сетку при печати страницы документа. |
+| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation/) { get; } | Определяет, будет ли страница печататься в книжной или альбомной ориентации. |
+| [ScaleX](../../aspose.diagram/printprops/scalex/) { get; } | Задает процент увеличения страницы чертежа на странице принтера в направлении x (горизонтальном). |
+| [ScaleY](../../aspose.diagram/printprops/scaley/) { get; } | Определяет процент увеличения страницы чертежа на странице принтера в направлении Y (по вертикали). |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Diagram](../../aspose.diagram)
+* пространство имен [Aspose.Diagram](../../aspose.diagram/)
 * сборка [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
