@@ -3,7 +3,7 @@ title: Misc
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene varios elementos de formas y grupos como los que controlan el resaltado y la visibilidad de la selección.
 type: docs
-weight: 2350
+weight: 2360
 url: /es/net/aspose.diagram/misc/
 ---
 ## Misc class
@@ -18,32 +18,32 @@ public class Misc
 
 | Nombre | Descripción |
 | --- | --- |
-| [BegTrigger](../../aspose.diagram/misc/begtrigger) { get; } | Contiene una fórmula de activación generada por Microsoft Visio que determina si se debe mover el punto inicial de una forma 1-D para mantener su conexión con otra forma. |
-| [Calendar](../../aspose.diagram/misc/calendar) { get; } | Determina el calendario que se utiliza para propiedades personalizadas, campos de texto y fórmulas de elementos. |
-| [Comment](../../aspose.diagram/misc/comment) { get; } | Contiene el texto del comentario en formato de cadena para una forma. |
-| [Del](../../aspose.diagram/misc/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [DropOnPageScale](../../aspose.diagram/misc/droponpagescale) { get; } | Determina el porcentaje por el cual se escala una forma cuando se coloca en la página de dibujo. |
-| [DynFeedback](../../aspose.diagram/misc/dynfeedback) { get; } | Especifica el tipo de comentarios visuales proporcionados a los usuarios cuando arrastran un conector |
-| [EndTrigger](../../aspose.diagram/misc/endtrigger) { get; } | Contiene una fórmula de activación generada por Microsoft Visio. Esta fórmula de activación determina si se debe mover el punto final de una forma 1-D para mantener su conexión con otra forma. |
-| [GlueType](../../aspose.diagram/misc/gluetype) { get; } | Especifica si se permite el pegamento dinámico (forma a forma) cuando se conecta a una forma |
-| [HideText](../../aspose.diagram/misc/hidetext) { get; } | Oculta el texto de una forma. Puede ver texto, editar propiedades y aplicar estilos al texto en el bloque de texto, aunque los cambios no aparecerán hasta que especifique el elemento HideText como 0. |
-| [IsDropSource](../../aspose.diagram/misc/isdropsource) { get; } | Especifica si la forma se puede agregar a un grupo soltándola en el grupo |
-| [IsReplaceLockShapeData](../../aspose.diagram/misc/isreplacelockshapedata) { get; } | Indica si los valores de las celdas especificadas en una forma maestra sobrescriben los valores (incluidos los valores locales) de una forma que se reemplaza durante una operación de reemplazo de forma. |
-| [LangID](../../aspose.diagram/misc/langid) { get; } | Indica el Id. de configuración regional (LCID) del idioma en el que se ingresó la fórmula de celda, el texto, la propiedad personalizada o el comentario. |
-| [LocalizeMerge](../../aspose.diagram/misc/localizemerge) { get; } | Determina si las formas se localizan (si se restablece su elemento LangID) cuando se copian entre documentos. |
-| [NoAlignBox](../../aspose.diagram/misc/noalignbox) { get; } | Especifica si se muestra el rectángulo de selección cuando se selecciona la forma. |
-| [NoCtlHandles](../../aspose.diagram/misc/noctlhandles) { get; } | Especifica si se muestran los tiradores de control cuando se selecciona la forma. |
-| [NoLiveDynamics](../../aspose.diagram/misc/nolivedynamics) { get; } | Especifica si una forma cambia de tamaño o gira dinámicamente a medida que el usuario la manipula. |
-| [NonPrinting](../../aspose.diagram/misc/nonprinting) { get; } | Especifica si se puede imprimir una forma seleccionada. |
-| [NoObjHandles](../../aspose.diagram/misc/noobjhandles) { get; } | Especifica si se muestran los controladores de selección cuando se selecciona la forma. |
-| [ObjType](../../aspose.diagram/misc/objtype) { get; } | Especifica si los objetos se pueden colocar o enrutar en los diagramas cuando usa Microsoft Visio para diseñar formas en la página de dibujo. |
-| [ShapeKeywords](../../aspose.diagram/misc/shapekeywords) { get; } | Contiene palabras clave de búsqueda que se han asignado a formas maestras personalizadas. |
-| [UpdateAlignBox](../../aspose.diagram/misc/updatealignbox) { get; } | Especifica si se vuelve a calcular el rectángulo de selección de una forma cada vez que se mueve un controlador de control. |
-| [WalkPreference](../../aspose.diagram/misc/walkpreference) { get; } | Especifica si un punto final de una forma 1-D se mueve a un punto de conexión horizontal o vertical en la forma a la que está pegado, usando pegamento dinámico, cuando la forma se mueve a una posición ambigua. |
+| [BegTrigger](../../aspose.diagram/misc/begtrigger/) { get; } | Contiene una fórmula de activación generada por Microsoft Visio que determina si se debe mover el punto inicial de una forma 1-D para mantener su conexión con otra forma. |
+| [Calendar](../../aspose.diagram/misc/calendar/) { get; } | Determina el calendario que se utiliza para propiedades personalizadas, campos de texto y fórmulas de elementos. |
+| [Comment](../../aspose.diagram/misc/comment/) { get; } | Contiene el texto del comentario en formato de cadena para una forma. |
+| [Del](../../aspose.diagram/misc/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [DropOnPageScale](../../aspose.diagram/misc/droponpagescale/) { get; } | Determina el porcentaje por el cual se escala una forma cuando se coloca en la página de dibujo. |
+| [DynFeedback](../../aspose.diagram/misc/dynfeedback/) { get; } | Especifica el tipo de comentarios visuales proporcionados a los usuarios cuando arrastran un conector |
+| [EndTrigger](../../aspose.diagram/misc/endtrigger/) { get; } | Contiene una fórmula de activación generada por Microsoft Visio. Esta fórmula de activación determina si se debe mover el punto final de una forma 1-D para mantener su conexión con otra forma. |
+| [GlueType](../../aspose.diagram/misc/gluetype/) { get; } | Especifica si se permite el pegamento dinámico (forma a forma) cuando se conecta a una forma |
+| [HideText](../../aspose.diagram/misc/hidetext/) { get; } | Oculta el texto de una forma. Puede ver texto, editar propiedades y aplicar estilos al texto en el bloque de texto, aunque los cambios no aparecerán hasta que especifique el elemento HideText como 0. |
+| [IsDropSource](../../aspose.diagram/misc/isdropsource/) { get; } | Especifica si la forma se puede agregar a un grupo soltándola en el grupo |
+| [IsReplaceLockShapeData](../../aspose.diagram/misc/isreplacelockshapedata/) { get; } | Indica si los valores de las celdas especificadas en una forma maestra sobrescriben los valores (incluidos los valores locales) de una forma que se reemplaza durante una operación de reemplazo de forma. |
+| [LangID](../../aspose.diagram/misc/langid/) { get; } | Indica el Id. de configuración regional (LCID) del idioma en el que se ingresó la fórmula de celda, el texto, la propiedad personalizada o el comentario. |
+| [LocalizeMerge](../../aspose.diagram/misc/localizemerge/) { get; } | Determina si las formas se localizan (si se restablece su elemento LangID) cuando se copian entre documentos. |
+| [NoAlignBox](../../aspose.diagram/misc/noalignbox/) { get; } | Especifica si se muestra el rectángulo de selección cuando se selecciona la forma. |
+| [NoCtlHandles](../../aspose.diagram/misc/noctlhandles/) { get; } | Especifica si se muestran los tiradores de control cuando se selecciona la forma. |
+| [NoLiveDynamics](../../aspose.diagram/misc/nolivedynamics/) { get; } | Especifica si una forma cambia de tamaño o gira dinámicamente a medida que el usuario la manipula. |
+| [NonPrinting](../../aspose.diagram/misc/nonprinting/) { get; } | Especifica si se puede imprimir una forma seleccionada. |
+| [NoObjHandles](../../aspose.diagram/misc/noobjhandles/) { get; } | Especifica si se muestran los controladores de selección cuando se selecciona la forma. |
+| [ObjType](../../aspose.diagram/misc/objtype/) { get; } | Especifica si los objetos se pueden colocar o enrutar en los diagramas cuando usa Microsoft Visio para diseñar formas en la página de dibujo. |
+| [ShapeKeywords](../../aspose.diagram/misc/shapekeywords/) { get; } | Contiene palabras clave de búsqueda que se han asignado a formas maestras personalizadas. |
+| [UpdateAlignBox](../../aspose.diagram/misc/updatealignbox/) { get; } | Especifica si se vuelve a calcular el rectángulo de selección de una forma cada vez que se mueve un controlador de control. |
+| [WalkPreference](../../aspose.diagram/misc/walkpreference/) { get; } | Especifica si un punto final de una forma 1-D se mueve a un punto de conexión horizontal o vertical en la forma a la que está pegado, usando pegamento dinámico, cuando la forma se mueve a una posición ambigua. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

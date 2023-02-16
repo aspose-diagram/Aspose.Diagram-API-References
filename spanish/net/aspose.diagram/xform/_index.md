@@ -1,14 +1,14 @@
 ---
 title: XForm
 second_title: Aspose.Diagram para la referencia de la API de .NET
-description: Contiene elementos que controlan los atributos de línea de una forma como patrón grosor y color. Estos elementos determinan si los extremos de línea tienen formato por ejemplo con una punta de flecha el tamaño de los formatos de fin de línea el radio del círculo de redondeo aplicado a la línea y el estilo de tapa de línea redondo o cuadrado.
+description: Contiene elementos que controlan los atributos de línea de una forma como patrón peso y color. Estos elementos determinan si los extremos de línea tienen formato por ejemplo con una punta de flecha el tamaño de los formatos de fin de línea el radio del círculo de redondeo aplicado a la línea y el estilo de tapa de línea redondo o cuadrado.
 type: docs
-weight: 4420
+weight: 4430
 url: /es/net/aspose.diagram/xform/
 ---
 ## XForm class
 
-Contiene elementos que controlan los atributos de línea de una forma, como patrón, grosor y color. Estos elementos determinan si los extremos de línea tienen formato (por ejemplo, con una punta de flecha), el tamaño de los formatos de fin de línea, el radio del círculo de redondeo aplicado a la línea y el estilo de tapa de línea (redondo o cuadrado).
+Contiene elementos que controlan los atributos de línea de una forma, como patrón, peso y color. Estos elementos determinan si los extremos de línea tienen formato (por ejemplo, con una punta de flecha), el tamaño de los formatos de fin de línea, el radio del círculo de redondeo aplicado a la línea y el estilo de tapa de línea (redondo o cuadrado).
 
 ```csharp
 public class XForm : ICloneable
@@ -18,28 +18,28 @@ public class XForm : ICloneable
 
 | Nombre | Descripción |
 | --- | --- |
-| [Angle](../../aspose.diagram/xform/angle) { get; set; } | Representa el ángulo de rotación actual de la forma en relación con su padre. |
-| [Del](../../aspose.diagram/xform/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [FlipX](../../aspose.diagram/xform/flipx) { get; set; } | Indica si la forma se ha volteado horizontalmente |
-| [FlipY](../../aspose.diagram/xform/flipy) { get; set; } | Indica si la forma se ha volteado verticalmente. |
-| [Height](../../aspose.diagram/xform/height) { get; set; } | Especifica la altura de la forma en unidades de dibujo. |
-| [LocPinX](../../aspose.diagram/xform/locpinx) { get; set; } | Especifica la coordenada x del pasador de la forma (centro de rotación) en relación con el origen de la forma. La fórmula predeterminada para determinar LocPinX es: F='Ancho* 0,5'. |
-| [LocPinY](../../aspose.diagram/xform/locpiny) { get; set; } | Especifica la coordenada y del pasador de la forma (centro de rotación) en relación con el origen de la forma. La fórmula predeterminada para determinar LocPinY es: F='Altura * 0,5'. |
-| [PinPos](../../aspose.diagram/xform/pinpos) { get; set; } | Especifica la posición del pin de la forma |
-| [PinX](../../aspose.diagram/xform/pinx) { get; set; } | Especifica la coordenada x del pasador de la forma (centro de rotación) en relación con el origen de su padre. |
-| [PinY](../../aspose.diagram/xform/piny) { get; set; } | Especifica la coordenada y del pasador de la forma (centro de rotación) en relación con el origen de su padre. |
-| [ResizeMode](../../aspose.diagram/xform/resizemode) { get; set; } | Especifica la configuración de comportamiento de cambio de tamaño actual para la forma cuando está contenida en un grupo. |
-| [Width](../../aspose.diagram/xform/width) { get; set; } | Contiene el ancho de la forma asociada en unidades de dibujo. |
+| [Angle](../../aspose.diagram/xform/angle/) { get; set; } | Representa el ángulo de rotación actual de la forma en relación con su padre. |
+| [Del](../../aspose.diagram/xform/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [FlipX](../../aspose.diagram/xform/flipx/) { get; set; } | Indica si la forma se ha volteado horizontalmente |
+| [FlipY](../../aspose.diagram/xform/flipy/) { get; set; } | Indica si la forma se ha volteado verticalmente. |
+| [Height](../../aspose.diagram/xform/height/) { get; set; } | Especifica la altura de la forma en unidades de dibujo. |
+| [LocPinX](../../aspose.diagram/xform/locpinx/) { get; set; } | Especifica la coordenada x del pasador de la forma (centro de rotación) en relación con el origen de la forma. La fórmula predeterminada para determinar LocPinX es: F='Ancho* 0,5'. |
+| [LocPinY](../../aspose.diagram/xform/locpiny/) { get; set; } | Especifica la coordenada y del pasador de la forma (centro de rotación) en relación con el origen de la forma. La fórmula predeterminada para determinar LocPinY es: F='Altura * 0,5'. |
+| [PinPos](../../aspose.diagram/xform/pinpos/) { get; set; } | Especifica la posición del pin de la forma |
+| [PinX](../../aspose.diagram/xform/pinx/) { get; set; } | Especifica la coordenada x del pasador de la forma (centro de rotación) en relación con el origen de su padre. |
+| [PinY](../../aspose.diagram/xform/piny/) { get; set; } | Especifica la coordenada y del pasador de la forma (centro de rotación) en relación con el origen de su padre. |
+| [ResizeMode](../../aspose.diagram/xform/resizemode/) { get; set; } | Especifica la configuración de comportamiento de cambio de tamaño actual para la forma cuando está contenida en un grupo. |
+| [Width](../../aspose.diagram/xform/width/) { get; set; } | Contiene el ancho de la forma asociada en unidades de dibujo. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/xform/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/xform/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

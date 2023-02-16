@@ -3,7 +3,7 @@ title: HeaderFooterFont
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Gibt die Schriftart an die für den Kopf und Fußzeilentext verwendet wird.
 type: docs
-weight: 1830
+weight: 1850
 url: /de/net/aspose.diagram/headerfooterfont/
 ---
 ## HeaderFooterFont class
@@ -18,24 +18,24 @@ public class HeaderFooterFont
 
 | Name | Beschreibung |
 | --- | --- |
-| [CharSet](../../aspose.diagram/headerfooterfont/charset) { get; set; } | Gibt den Zeichensatz der Schriftart an. Entspricht dem Feld GDI LOGFONT lfCharSet. |
-| [ClipPrecision](../../aspose.diagram/headerfooterfont/clipprecision) { get; set; } | Gibt die Schnittgenauigkeit der Schriftart an. Entspricht dem Feld GDI LOGFONT lfClipPrecision. |
-| [Escapement](../../aspose.diagram/headerfooterfont/escapement) { get; set; } | Gibt das Escapement-Attribut der Schriftart an. Entspricht dem Feld GDI LOGFONT lfEscapement. |
-| [FaceName](../../aspose.diagram/headerfooterfont/facename) { get; set; } | Gibt das Namensattribut für die Schriftart der Schriftart an. Entspricht dem Feld GDI LOGFONT lfFaceName. |
-| [Height](../../aspose.diagram/headerfooterfont/height) { get; set; } | Gibt die Höhe der Schriftart an. Entspricht dem Feld GDI LOGFONT lfHeight. |
-| [Italic](../../aspose.diagram/headerfooterfont/italic) { get; set; } | Gibt die Stärke der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWeight. |
-| [Orientation](../../aspose.diagram/headerfooterfont/orientation) { get; set; } | Gibt die Ausrichtung der Schriftart an. Entspricht dem Feld GDI LOGFONT lfOrientation. |
-| [OutPrecision](../../aspose.diagram/headerfooterfont/outprecision) { get; set; } | Gibt das Ausgabepräzisionsattribut der Schriftart an. Entspricht dem Feld GDI LOGFONT lfOutPrecision. |
-| [PitchAndFamily](../../aspose.diagram/headerfooterfont/pitchandfamily) { get; set; } | Gibt die Tonhöhe und Familie der Schriftart an. Entspricht dem Feld GDI LOGFONT lfPitchAndFamily. |
-| [Quality](../../aspose.diagram/headerfooterfont/quality) { get; set; } | Gibt die Ausgabequalität der Schriftart an. Entspricht dem GDI LOGFONT lfQuality-Feld. |
-| [StrikeOut](../../aspose.diagram/headerfooterfont/strikeout) { get; set; } | Gibt an, ob die Schriftart eine durchgestrichene Schriftart ist. Entspricht dem Feld GDI LOGFONT lfStrikeOut. |
-| [Underline](../../aspose.diagram/headerfooterfont/underline) { get; set; } | Gibt an, ob die Schriftart unterstrichen ist. Entspricht dem Feld GDI LOGFONT lfUnderline. |
-| [Weight](../../aspose.diagram/headerfooterfont/weight) { get; set; } | Gibt die Stärke der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWeight. |
-| [Width](../../aspose.diagram/headerfooterfont/width) { get; set; } | Gibt die Breite der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWidth. |
+| [CharSet](../../aspose.diagram/headerfooterfont/charset/) { get; set; } | Gibt den Zeichensatz der Schriftart an. Entspricht dem Feld GDI LOGFONT lfCharSet. |
+| [ClipPrecision](../../aspose.diagram/headerfooterfont/clipprecision/) { get; set; } | Gibt die Schnittgenauigkeit der Schriftart an. Entspricht dem Feld GDI LOGFONT lfClipPrecision. |
+| [Escapement](../../aspose.diagram/headerfooterfont/escapement/) { get; set; } | Gibt das Escapement-Attribut der Schriftart an. Entspricht dem Feld GDI LOGFONT lfEscapement. |
+| [FaceName](../../aspose.diagram/headerfooterfont/facename/) { get; set; } | Gibt das Namensattribut für die Schriftart der Schriftart an. Entspricht dem Feld GDI LOGFONT lfFaceName. |
+| [Height](../../aspose.diagram/headerfooterfont/height/) { get; set; } | Gibt die Höhe der Schriftart an. Entspricht dem Feld GDI LOGFONT lfHeight. |
+| [Italic](../../aspose.diagram/headerfooterfont/italic/) { get; set; } | Gibt die Stärke der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWeight. |
+| [Orientation](../../aspose.diagram/headerfooterfont/orientation/) { get; set; } | Gibt die Ausrichtung der Schriftart an. Entspricht dem Feld GDI LOGFONT lfOrientation. |
+| [OutPrecision](../../aspose.diagram/headerfooterfont/outprecision/) { get; set; } | Gibt das Ausgabepräzisionsattribut der Schriftart an. Entspricht dem Feld GDI LOGFONT lfOutPrecision. |
+| [PitchAndFamily](../../aspose.diagram/headerfooterfont/pitchandfamily/) { get; set; } | Gibt die Tonhöhe und Familie der Schriftart an. Entspricht dem Feld GDI LOGFONT lfPitchAndFamily. |
+| [Quality](../../aspose.diagram/headerfooterfont/quality/) { get; set; } | Gibt die Ausgabequalität der Schriftart an. Entspricht dem GDI LOGFONT lfQuality-Feld. |
+| [StrikeOut](../../aspose.diagram/headerfooterfont/strikeout/) { get; set; } | Gibt an, ob die Schriftart eine durchgestrichene Schriftart ist. Entspricht dem Feld GDI LOGFONT lfStrikeOut. |
+| [Underline](../../aspose.diagram/headerfooterfont/underline/) { get; set; } | Gibt an, ob die Schriftart unterstrichen ist. Entspricht dem Feld GDI LOGFONT lfUnderline. |
+| [Weight](../../aspose.diagram/headerfooterfont/weight/) { get; set; } | Gibt die Stärke der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWeight. |
+| [Width](../../aspose.diagram/headerfooterfont/width/) { get; set; } | Gibt die Breite der Schriftart an. Entspricht dem Feld GDI LOGFONT lfWidth. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -3,7 +3,7 @@ title: Control
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos para las coordenadas x e y de cada tirador de control definido para una forma y elementos que especifican la forma en que debe comportarse el tirador de control.
 type: docs
-weight: 1000
+weight: 1010
 url: /es/net/aspose.diagram/control/
 ---
 ## Control class
@@ -18,35 +18,35 @@ public class Control : ICloneable
 
 | Nombre | Descripción |
 | --- | --- |
-| [Control](control)() | Constructor. |
+| [Control](control/)() | Constructor. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [CanGlue](../../aspose.diagram/control/canglue) { get; set; } | Determina si un tirador de control se puede pegar a otras formas. |
-| [Del](../../aspose.diagram/control/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [ID](../../aspose.diagram/control/id) { get; set; } | El ID único del elemento dentro de su elemento principal. |
-| [IX](../../aspose.diagram/control/ix) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
-| [Name](../../aspose.diagram/control/name) { get; set; } | El nombre del elemento. |
-| [NameU](../../aspose.diagram/control/nameu) { get; set; } | El nombre universal del elemento. |
-| [Prompt](../../aspose.diagram/control/prompt) { get; set; } | El elemento de solicitud especifica el texto descriptivo que aparece como información sobre herramientas cuando el puntero del mouse se detiene sobre el controlador de una forma. |
-| [X](../../aspose.diagram/control/x) { get; set; } | La coordenada x que indica la ubicación del controlador de una forma. |
-| [XCon](../../aspose.diagram/control/xcon) { get; set; } | Especifica el tipo de comportamiento que exhibe la coordenada x del controlador de control después de mover el controlador. |
-| [XDyn](../../aspose.diagram/control/xdyn) { get; set; } | Especifica la coordenada x para el punto de anclaje de un controlador de control en coordenadas locales. El punto de anclaje se utiliza para bandas elásticas durante la dinámica. |
-| [Y](../../aspose.diagram/control/y) { get; set; } | La coordenada y que indica la ubicación del controlador de una forma. |
-| [YCon](../../aspose.diagram/control/ycon) { get; set; } | Especifica el tipo de comportamiento que exhibe la coordenada x del controlador de control después de mover el controlador. |
-| [YDyn](../../aspose.diagram/control/ydyn) { get; set; } | Especifica la coordenada y para el punto de anclaje de un controlador de control en coordenadas locales. El punto de anclaje se utiliza para bandas elásticas durante la dinámica. |
+| [CanGlue](../../aspose.diagram/control/canglue/) { get; set; } | Determina si un tirador de control se puede pegar a otras formas. |
+| [Del](../../aspose.diagram/control/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [ID](../../aspose.diagram/control/id/) { get; set; } | El ID único del elemento dentro de su elemento principal. |
+| [IX](../../aspose.diagram/control/ix/) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
+| [Name](../../aspose.diagram/control/name/) { get; set; } | El nombre del elemento. |
+| [NameU](../../aspose.diagram/control/nameu/) { get; set; } | El nombre universal del elemento. |
+| [Prompt](../../aspose.diagram/control/prompt/) { get; set; } | El elemento de solicitud especifica el texto descriptivo que aparece como información sobre herramientas cuando el puntero del mouse se detiene sobre el controlador de una forma. |
+| [X](../../aspose.diagram/control/x/) { get; set; } | La coordenada x que indica la ubicación del controlador de una forma. |
+| [XCon](../../aspose.diagram/control/xcon/) { get; set; } | Especifica el tipo de comportamiento que exhibe la coordenada x del controlador de control después de mover el controlador. |
+| [XDyn](../../aspose.diagram/control/xdyn/) { get; set; } | Especifica la coordenada x para el punto de anclaje de un controlador de control en coordenadas locales. El punto de anclaje se utiliza para bandas elásticas durante la dinámica. |
+| [Y](../../aspose.diagram/control/y/) { get; set; } | La coordenada y que indica la ubicación del controlador de una forma. |
+| [YCon](../../aspose.diagram/control/ycon/) { get; set; } | Especifica el tipo de comportamiento que exhibe la coordenada x del controlador de control después de mover el controlador. |
+| [YDyn](../../aspose.diagram/control/ydyn/) { get; set; } | Especifica la coordenada y para el punto de anclaje de un controlador de control en coordenadas locales. El punto de anclaje se utiliza para bandas elásticas durante la dinámica. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/control/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/control/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

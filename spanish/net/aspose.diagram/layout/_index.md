@@ -3,7 +3,7 @@ title: Layout
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos que controlan la ubicación de la forma y la configuración de enrutamiento del conector.
 type: docs
-weight: 2040
+weight: 2050
 url: /es/net/aspose.diagram/layout/
 ---
 ## Layout class
@@ -18,29 +18,29 @@ public class Layout
 
 | Nombre | Descripción |
 | --- | --- |
-| [ConFixedCode](../../aspose.diagram/layout/confixedcode) { get; } | Determina cuándo se redirecciona un conector. |
-| [ConLineJumpCode](../../aspose.diagram/layout/conlinejumpcode) { get; } | Determina si un conector salta cuando dos conectores se cruzan, |
-| [ConLineJumpDirX](../../aspose.diagram/layout/conlinejumpdirx) { get; } | Determina la dirección de salto de línea para los saltos de línea que se producen en un segmento horizontal de un conector dinámico. |
-| [ConLineJumpDirY](../../aspose.diagram/layout/conlinejumpdiry) { get; } | Determina la dirección de salto de línea para los saltos de línea que se producen en un segmento vertical de un conector dinámico. |
-| [ConLineJumpStyle](../../aspose.diagram/layout/conlinejumpstyle) { get; } | Determina el estilo de salto de línea para los saltos de línea en un conector dinámico. |
-| [ConLineRouteExt](../../aspose.diagram/layout/conlinerouteext) { get; } | Determina la apariencia de un conector. |
-| [Del](../../aspose.diagram/layout/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [DisplayLevel](../../aspose.diagram/layout/displaylevel) { get; } | Determina la banda de nivel de visualización (el rango relativo de la agrupación en orden Z) para la forma. |
-| [Relationships](../../aspose.diagram/layout/relationships) { get; } | Almacena las relaciones entre contenedores, listas, llamadas y formas. |
-| [ShapeFixedCode](../../aspose.diagram/layout/shapefixedcode) { get; } | Especifica el comportamiento de colocación de una forma colocable. |
-| [ShapePermeablePlace](../../aspose.diagram/layout/shapepermeableplace) { get; } | Especifica si las formas colocables se pueden colocar encima de una forma cuando un usuario selecciona Diseñar formas (menú Formas). |
-| [ShapePermeableX](../../aspose.diagram/layout/shapepermeablex) { get; } | Especifica si un conector puede enrutarse horizontalmente a través de una forma. |
-| [ShapePermeableY](../../aspose.diagram/layout/shapepermeabley) { get; } | Especifica si un conector puede enrutarse verticalmente a través de una forma. |
-| [ShapePlaceFlip](../../aspose.diagram/layout/shapeplaceflip) { get; } | Especifica cómo se voltea y/o gira una forma colocable en la página cuando un usuario selecciona Diseñar formas (menú Formas). |
-| [ShapePlaceStyle](../../aspose.diagram/layout/shapeplacestyle) { get; set; } | Determina el estilo de colocación de los niños. |
-| [ShapePlowCode](../../aspose.diagram/layout/shapeplowcode) { get; } | Especifica si una forma colocable se aleja cuando arrastra otra forma colocable cerca de la forma en la página de dibujo. |
-| [ShapeRouteStyle](../../aspose.diagram/layout/shaperoutestyle) { get; } | Especifica el estilo de enrutamiento y la dirección de un conector en la página de dibujo. |
-| [ShapeSplit](../../aspose.diagram/layout/shapesplit) { get; } | Determina si esta forma puede dividir formas que se pueden dividir. |
-| [ShapeSplittable](../../aspose.diagram/layout/shapesplittable) { get; } | Determina si esta forma 1-D se puede dividir. |
+| [ConFixedCode](../../aspose.diagram/layout/confixedcode/) { get; } | Determina cuándo se redirecciona un conector. |
+| [ConLineJumpCode](../../aspose.diagram/layout/conlinejumpcode/) { get; } | Determina si un conector salta cuando dos conectores se cruzan, |
+| [ConLineJumpDirX](../../aspose.diagram/layout/conlinejumpdirx/) { get; } | Determina la dirección de salto de línea para los saltos de línea que se producen en un segmento horizontal de un conector dinámico. |
+| [ConLineJumpDirY](../../aspose.diagram/layout/conlinejumpdiry/) { get; } | Determina la dirección de salto de línea para los saltos de línea que se producen en un segmento vertical de un conector dinámico. |
+| [ConLineJumpStyle](../../aspose.diagram/layout/conlinejumpstyle/) { get; } | Determina el estilo de salto de línea para los saltos de línea en un conector dinámico. |
+| [ConLineRouteExt](../../aspose.diagram/layout/conlinerouteext/) { get; } | Determina la apariencia de un conector. |
+| [Del](../../aspose.diagram/layout/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [DisplayLevel](../../aspose.diagram/layout/displaylevel/) { get; } | Determina la banda de nivel de visualización (el rango relativo de la agrupación en orden Z) para la forma. |
+| [Relationships](../../aspose.diagram/layout/relationships/) { get; } | Almacena las relaciones entre contenedores, listas, llamadas y formas. |
+| [ShapeFixedCode](../../aspose.diagram/layout/shapefixedcode/) { get; } | Especifica el comportamiento de colocación de una forma colocable. |
+| [ShapePermeablePlace](../../aspose.diagram/layout/shapepermeableplace/) { get; } | Especifica si las formas colocables se pueden colocar encima de una forma cuando un usuario selecciona Diseñar formas (menú Formas). |
+| [ShapePermeableX](../../aspose.diagram/layout/shapepermeablex/) { get; } | Especifica si un conector puede enrutarse horizontalmente a través de una forma. |
+| [ShapePermeableY](../../aspose.diagram/layout/shapepermeabley/) { get; } | Especifica si un conector puede enrutarse verticalmente a través de una forma. |
+| [ShapePlaceFlip](../../aspose.diagram/layout/shapeplaceflip/) { get; } | Especifica cómo se voltea y/o gira una forma colocable en la página cuando un usuario selecciona Diseñar formas (menú Formas). |
+| [ShapePlaceStyle](../../aspose.diagram/layout/shapeplacestyle/) { get; set; } | Determina el estilo de colocación de los niños. |
+| [ShapePlowCode](../../aspose.diagram/layout/shapeplowcode/) { get; } | Especifica si una forma colocable se aleja cuando arrastra otra forma colocable cerca de la forma en la página de dibujo. |
+| [ShapeRouteStyle](../../aspose.diagram/layout/shaperoutestyle/) { get; } | Especifica el estilo de enrutamiento y la dirección de un conector en la página de dibujo. |
+| [ShapeSplit](../../aspose.diagram/layout/shapesplit/) { get; } | Determina si esta forma puede dividir formas que se pueden dividir. |
+| [ShapeSplittable](../../aspose.diagram/layout/shapesplittable/) { get; } | Determina si esta forma 1-D se puede dividir. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

@@ -3,7 +3,7 @@ title: Control
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Enthält Elemente für die x und yKoordinaten jedes Steuergriffs der für eine Form definiert ist sowie Elemente die angeben wie sich der Steuergriff verhalten soll.
 type: docs
-weight: 1000
+weight: 1010
 url: /de/net/aspose.diagram/control/
 ---
 ## Control class
@@ -18,35 +18,35 @@ public class Control : ICloneable
 
 | Name | Beschreibung |
 | --- | --- |
-| [Control](control)() | Konstruktor. |
+| [Control](control/)() | Konstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [CanGlue](../../aspose.diagram/control/canglue) { get; set; } | Legt fest, ob ein Steuergriff an andere Shapes geklebt werden kann. |
-| [Del](../../aspose.diagram/control/del) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
-| [ID](../../aspose.diagram/control/id) { get; set; } | Die eindeutige ID des Elements innerhalb seines übergeordneten Elements. |
-| [IX](../../aspose.diagram/control/ix) { get; set; } | Der nullbasierte Index des Elements innerhalb seines übergeordneten Elements. |
-| [Name](../../aspose.diagram/control/name) { get; set; } | Der Name des Elements. |
-| [NameU](../../aspose.diagram/control/nameu) { get; set; } | Der universelle Name des Elements. |
-| [Prompt](../../aspose.diagram/control/prompt) { get; set; } | Eingabeaufforderungselement gibt beschreibenden Text an, der als QuickInfo angezeigt wird, wenn der Mauszeiger über dem Steuergriff einer Form gehalten wird. |
-| [X](../../aspose.diagram/control/x) { get; set; } | Die x-Koordinate, die die Position des Steuergriffs einer Form angibt. |
-| [XCon](../../aspose.diagram/control/xcon) { get; set; } | Gibt die Art des Verhaltens an, das die x-Koordinate des Steuergriffs zeigt, nachdem der Griff bewegt wurde. |
-| [XDyn](../../aspose.diagram/control/xdyn) { get; set; } | Gibt die x-Koordinate für den Ankerpunkt eines Steuergriffs in lokalen Koordinaten an. Der Ankerpunkt wird während der Dynamik zum Rubberbanding verwendet. |
-| [Y](../../aspose.diagram/control/y) { get; set; } | Die y-Koordinate, die die Position des Steuergriffs einer Form angibt. |
-| [YCon](../../aspose.diagram/control/ycon) { get; set; } | Gibt die Art des Verhaltens an, das die x-Koordinate des Steuergriffs zeigt, nachdem der Griff bewegt wurde. |
-| [YDyn](../../aspose.diagram/control/ydyn) { get; set; } | Gibt die y-Koordinate für den Ankerpunkt eines Steuergriffs in lokalen Koordinaten an. Der Ankerpunkt wird während der Dynamik zum Rubberbanding verwendet. |
+| [CanGlue](../../aspose.diagram/control/canglue/) { get; set; } | Legt fest, ob ein Steuergriff an andere Shapes geklebt werden kann. |
+| [Del](../../aspose.diagram/control/del/) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
+| [ID](../../aspose.diagram/control/id/) { get; set; } | Die eindeutige ID des Elements innerhalb seines übergeordneten Elements. |
+| [IX](../../aspose.diagram/control/ix/) { get; set; } | Der nullbasierte Index des Elements innerhalb seines übergeordneten Elements. |
+| [Name](../../aspose.diagram/control/name/) { get; set; } | Der Name des Elements. |
+| [NameU](../../aspose.diagram/control/nameu/) { get; set; } | Der universelle Name des Elements. |
+| [Prompt](../../aspose.diagram/control/prompt/) { get; set; } | Eingabeaufforderungselement gibt beschreibenden Text an, der als QuickInfo angezeigt wird, wenn der Mauszeiger über dem Steuergriff einer Form gehalten wird. |
+| [X](../../aspose.diagram/control/x/) { get; set; } | Die x-Koordinate, die die Position des Steuergriffs einer Form angibt. |
+| [XCon](../../aspose.diagram/control/xcon/) { get; set; } | Gibt die Art des Verhaltens an, das die x-Koordinate des Steuergriffs zeigt, nachdem der Griff bewegt wurde. |
+| [XDyn](../../aspose.diagram/control/xdyn/) { get; set; } | Gibt die x-Koordinate für den Ankerpunkt eines Steuergriffs in lokalen Koordinaten an. Der Ankerpunkt wird während der Dynamik zum Rubberbanding verwendet. |
+| [Y](../../aspose.diagram/control/y/) { get; set; } | Die y-Koordinate, die die Position des Steuergriffs einer Form angibt. |
+| [YCon](../../aspose.diagram/control/ycon/) { get; set; } | Gibt die Art des Verhaltens an, das die x-Koordinate des Steuergriffs zeigt, nachdem der Griff bewegt wurde. |
+| [YDyn](../../aspose.diagram/control/ydyn/) { get; set; } | Gibt die y-Koordinate für den Ankerpunkt eines Steuergriffs in lokalen Koordinaten an. Der Ankerpunkt wird während der Dynamik zum Rubberbanding verwendet. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clone](../../aspose.diagram/control/clone)() | Erstellt eine tiefe Kopie dieser Instanz. |
+| [Clone](../../aspose.diagram/control/clone/)() | Erstellt eine tiefe Kopie dieser Instanz. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

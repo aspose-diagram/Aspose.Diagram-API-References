@@ -3,7 +3,7 @@ title: Fill
 second_title: Aspose.Diagram für .NET-API-Referenz
 description: Enthält die aktuellen Füllformatierungswerte für die Form und den Schlagschatten der Form einschließlich Muster Vordergrundfarbe und Hintergrundfarbe.
 type: docs
-weight: 1480
+weight: 1500
 url: /de/net/aspose.diagram/fill/
 ---
 ## Fill class
@@ -18,35 +18,35 @@ public class Fill : ICloneable
 
 | Name | Beschreibung |
 | --- | --- |
-| [Del](../../aspose.diagram/fill/del) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
-| [FillBkgnd](../../aspose.diagram/fill/fillbkgnd) { get; set; } | Gibt die Farbe an, die für den Hintergrund des Füllmusters der Form verwendet wird. |
-| [FillBkgndTrans](../../aspose.diagram/fill/fillbkgndtrans) { get; set; } | Gibt den Transparenzgrad für die Hintergrundfarbe (Füllfarbe) des Füllmusters der Form von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent) an. |
-| [FillForegnd](../../aspose.diagram/fill/fillforegnd) { get; set; } | Gibt die Farbe an, die für den Vordergrund (Strich) des Füllmusters der Form verwendet wird. |
-| [FillForegndTrans](../../aspose.diagram/fill/fillforegndtrans) { get; set; } | Gibt den Transparenzgrad für die Vordergrundfarbe (Füllfarbe) des Füllmusters der Form von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent) an. |
-| [FillPattern](../../aspose.diagram/fill/fillpattern) { get; set; } | Gibt das Füllmuster für die Form an. |
-| [GradientFill](../../aspose.diagram/fill/gradientfill) { get; } | Enthält die aktuellen Werte für die Farbverlaufsfüllung für die Form |
-| [ShapeShdwBlur](../../aspose.diagram/fill/shapeshdwblur) { get; set; } | Gibt die Schattenunschärfegröße einer Form an. kann jetzt keine Unschärfe zeichnen, kann aber jetzt von vsdx analysieren. |
-| [ShapeShdwObliqueAngle](../../aspose.diagram/fill/shapeshdwobliqueangle) { get; set; } | Gibt den Winkel der schrägen Richtung des Schattens einer Form an. |
-| [ShapeShdwOffsetX](../../aspose.diagram/fill/shapeshdwoffsetx) { get; set; } | Bestimmt den Abstand in Seiteneinheiten, um den der Schatten einer Form horizontal von der Form versetzt ist. |
-| [ShapeShdwOffsetY](../../aspose.diagram/fill/shapeshdwoffsety) { get; set; } | Bestimmt den Abstand in Seiteneinheiten, um den der Schatten einer Form vertikal von der Form versetzt ist. |
-| [ShapeShdwScaleFactor](../../aspose.diagram/fill/shapeshdwscalefactor) { get; set; } | Gibt den Prozentsatz an, um den der Schatten einer Form vergrößert oder verkleinert werden kann. |
-| [ShapeShdwShow](../../aspose.diagram/fill/shapeshdwshow) { get; set; } | Gibt den Schattentyp für eine Form an. |
-| [ShapeShdwType](../../aspose.diagram/fill/shapeshdwtype) { get; set; } | Gibt den Schattentyp für eine Form an. |
-| [ShdwBkgnd](../../aspose.diagram/fill/shdwbkgnd) { get; set; } | Gibt die Farbe an, die für den Hintergrund (Füllung) des Schlagschatten-Füllmusters der Form verwendet wird. |
-| [ShdwBkgndTrans](../../aspose.diagram/fill/shdwbkgndtrans) { get; set; } | Legt den Transparenzgrad für den Hintergrund (Füllung) des Schlagschatten-Füllmusters der Form fest, von 0,0 (vollständig undurchsichtig) bis 1,0 (vollständig transparent). |
-| [ShdwForegnd](../../aspose.diagram/fill/shdwforegnd) { get; set; } | Gibt die Farbe an, die für den Vordergrund (Strich) des Schlagschatten-Füllmusters der Form verwendet wird. |
-| [ShdwForegndTrans](../../aspose.diagram/fill/shdwforegndtrans) { get; set; } | Legt den Transparenzgrad für den Vordergrund (Strich) des Schlagschatten-Füllmusters der Form fest, von 0,0 (vollständig undurchsichtig) bis 1,0 (vollständig transparent). |
-| [ShdwPattern](../../aspose.diagram/fill/shdwpattern) { get; set; } | Gibt das Füllmuster für den Schatten einer Form an. |
+| [Del](../../aspose.diagram/fill/del/) { get; set; } | Ein Flag, das angibt, ob das Element lokal gelöscht wurde. Ein Wert von 1 zeigt an, dass das Element lokal gelöscht wurde. |
+| [FillBkgnd](../../aspose.diagram/fill/fillbkgnd/) { get; set; } | Gibt die Farbe an, die für den Hintergrund des Füllmusters der Form verwendet wird. |
+| [FillBkgndTrans](../../aspose.diagram/fill/fillbkgndtrans/) { get; set; } | Gibt den Transparenzgrad für die Hintergrundfarbe (Füllfarbe) des Füllmusters der Form von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent) an. |
+| [FillForegnd](../../aspose.diagram/fill/fillforegnd/) { get; set; } | Gibt die Farbe an, die für den Vordergrund (Strich) des Füllmusters der Form verwendet wird. |
+| [FillForegndTrans](../../aspose.diagram/fill/fillforegndtrans/) { get; set; } | Gibt den Transparenzgrad für die Vordergrundfarbe (Füllfarbe) des Füllmusters der Form von 0 (vollständig undurchsichtig) bis 1 (vollständig transparent) an. |
+| [FillPattern](../../aspose.diagram/fill/fillpattern/) { get; set; } | Gibt das Füllmuster für die Form an. |
+| [GradientFill](../../aspose.diagram/fill/gradientfill/) { get; } | Enthält die aktuellen Werte für die Farbverlaufsfüllung für die Form |
+| [ShapeShdwBlur](../../aspose.diagram/fill/shapeshdwblur/) { get; set; } | Gibt die Schattenunschärfegröße einer Form an. kann jetzt keine Unschärfe zeichnen, kann aber jetzt von vsdx analysieren. |
+| [ShapeShdwObliqueAngle](../../aspose.diagram/fill/shapeshdwobliqueangle/) { get; set; } | Gibt den Winkel der schrägen Richtung des Schattens einer Form an. |
+| [ShapeShdwOffsetX](../../aspose.diagram/fill/shapeshdwoffsetx/) { get; set; } | Bestimmt den Abstand in Seiteneinheiten, um den der Schatten einer Form horizontal von der Form versetzt ist. |
+| [ShapeShdwOffsetY](../../aspose.diagram/fill/shapeshdwoffsety/) { get; set; } | Bestimmt den Abstand in Seiteneinheiten, um den der Schatten einer Form vertikal von der Form versetzt ist. |
+| [ShapeShdwScaleFactor](../../aspose.diagram/fill/shapeshdwscalefactor/) { get; set; } | Gibt den Prozentsatz an, um den der Schatten einer Form vergrößert oder verkleinert werden kann. |
+| [ShapeShdwShow](../../aspose.diagram/fill/shapeshdwshow/) { get; set; } | Gibt den Schattentyp für eine Form an. |
+| [ShapeShdwType](../../aspose.diagram/fill/shapeshdwtype/) { get; set; } | Gibt den Schattentyp für eine Form an. |
+| [ShdwBkgnd](../../aspose.diagram/fill/shdwbkgnd/) { get; set; } | Gibt die Farbe an, die für den Hintergrund (Füllung) des Schlagschatten-Füllmusters der Form verwendet wird. |
+| [ShdwBkgndTrans](../../aspose.diagram/fill/shdwbkgndtrans/) { get; set; } | Legt den Transparenzgrad für den Hintergrund (Füllung) des Schlagschatten-Füllmusters der Form fest, von 0,0 (vollständig undurchsichtig) bis 1,0 (vollständig transparent). |
+| [ShdwForegnd](../../aspose.diagram/fill/shdwforegnd/) { get; set; } | Gibt die Farbe an, die für den Vordergrund (Strich) des Schlagschatten-Füllmusters der Form verwendet wird. |
+| [ShdwForegndTrans](../../aspose.diagram/fill/shdwforegndtrans/) { get; set; } | Legt den Transparenzgrad für den Vordergrund (Strich) des Schlagschatten-Füllmusters der Form fest, von 0,0 (vollständig undurchsichtig) bis 1,0 (vollständig transparent). |
+| [ShdwPattern](../../aspose.diagram/fill/shdwpattern/) { get; set; } | Gibt das Füllmuster für den Schatten einer Form an. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clone](../../aspose.diagram/fill/clone)() | Erstellt eine tiefe Kopie dieser Instanz. |
+| [Clone](../../aspose.diagram/fill/clone/)() | Erstellt eine tiefe Kopie dieser Instanz. |
 
 ### Siehe auch
 
-* namensraum [Aspose.Diagram](../../aspose.diagram)
+* namensraum [Aspose.Diagram](../../aspose.diagram/)
 * Montage [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

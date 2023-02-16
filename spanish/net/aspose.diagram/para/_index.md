@@ -3,7 +3,7 @@ title: Para
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene los elementos de formato de párrafo para el texto de la forma como sangrías interlineado viñetas y alineación horizontal de párrafos.
 type: docs
-weight: 2570
+weight: 2580
 url: /es/net/aspose.diagram/para/
 ---
 ## Para class
@@ -18,38 +18,38 @@ public class Para : ICloneable
 
 | Nombre | Descripción |
 | --- | --- |
-| [Para](para)() | Constructor. |
+| [Para](para/)() | Constructor. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Bullet](../../aspose.diagram/para/bullet) { get; set; } | Determina el estilo de la viñeta. |
-| [BulletFont](../../aspose.diagram/para/bulletfont) { get; set; } | Representa el número de la fuente utilizada para formatear el texto cuando se especifica una cadena de viñetas personalizada y el valor en el elemento Viñeta no es cero. |
-| [BulletFontSize](../../aspose.diagram/para/bulletfontsize) { get; set; } | Especifica el tamaño de una viñeta. |
-| [BulletStr](../../aspose.diagram/para/bulletstr) { get; set; } | "Se utiliza para crear un estilo de viñeta personalizado. Ingrese el estilo como una cadena (entre comillas). Por ejemplo, puede ingresar la cadena, ""ooo"."" |
-| [Del](../../aspose.diagram/para/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [Flags](../../aspose.diagram/para/flags) { get; set; } | Indica si la dirección del texto es de izquierda a derecha o de derecha a izquierda. |
-| [HorzAlign](../../aspose.diagram/para/horzalign) { get; set; } | Especifica la alineación horizontal del texto en el bloque de texto de la forma. |
-| [IndFirst](../../aspose.diagram/para/indfirst) { get; set; } | Especifica la distancia a la que se sangra la primera línea de cada párrafo en el bloque de texto de la forma desde la sangría izquierda del párrafo. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría de la primera línea permanece igual. |
-| [IndLeft](../../aspose.diagram/para/indleft) { get; set; } | Especifica la distancia a la que se sangrarán todas las líneas de texto de un párrafo desde el margen izquierdo del bloque de texto. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría izquierda permanece igual. |
-| [IndRight](../../aspose.diagram/para/indright) { get; set; } | Especifica la distancia a la que se sangrarán todas las líneas de texto de un párrafo desde el margen derecho del bloque de texto. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría derecha sigue siendo la misma. |
-| [IX](../../aspose.diagram/para/ix) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
-| [LocalizeBulletFont](../../aspose.diagram/para/localizebulletfont) { get; set; } | Especifica si la fuente de la viñeta se debe localizar (traducir a otro idioma). |
-| [SpAfter](../../aspose.diagram/para/spafter) { get; set; } | Especifica la cantidad de espacio insertado después de cada párrafo en el bloque de texto de la forma. |
-| [SpBefore](../../aspose.diagram/para/spbefore) { get; set; } | Especifica la cantidad de espacio insertado antes de cada párrafo en el bloque de texto de la forma. |
-| [SpLine](../../aspose.diagram/para/spline) { get; set; } | Especifica la distancia entre una línea de texto y la siguiente, donde 100% es la altura de una línea de texto. |
-| [TextPosAfterBullet](../../aspose.diagram/para/textposafterbullet) { get; set; } | Representa la distancia entre la primera línea del párrafo y la viñeta. |
+| [Bullet](../../aspose.diagram/para/bullet/) { get; set; } | Determina el estilo de la viñeta. |
+| [BulletFont](../../aspose.diagram/para/bulletfont/) { get; set; } | Representa el número de la fuente utilizada para formatear el texto cuando se especifica una cadena de viñetas personalizada y el valor en el elemento Viñeta no es cero. |
+| [BulletFontSize](../../aspose.diagram/para/bulletfontsize/) { get; set; } | Especifica el tamaño de una viñeta. |
+| [BulletStr](../../aspose.diagram/para/bulletstr/) { get; set; } | "Se utiliza para crear un estilo de viñeta personalizado. Ingrese el estilo como una cadena (entre comillas). Por ejemplo, puede ingresar la cadena, ""ooo"."" |
+| [Del](../../aspose.diagram/para/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [Flags](../../aspose.diagram/para/flags/) { get; set; } | Indica si la dirección del texto es de izquierda a derecha o de derecha a izquierda. |
+| [HorzAlign](../../aspose.diagram/para/horzalign/) { get; set; } | Especifica la alineación horizontal del texto en el bloque de texto de la forma. |
+| [IndFirst](../../aspose.diagram/para/indfirst/) { get; set; } | Especifica la distancia a la que se sangra la primera línea de cada párrafo en el bloque de texto de la forma desde la sangría izquierda del párrafo. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría de la primera línea permanece igual. |
+| [IndLeft](../../aspose.diagram/para/indleft/) { get; set; } | Especifica la distancia a la que se sangrarán todas las líneas de texto de un párrafo desde el margen izquierdo del bloque de texto. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría izquierda permanece igual. |
+| [IndRight](../../aspose.diagram/para/indright/) { get; set; } | Especifica la distancia a la que se sangrarán todas las líneas de texto de un párrafo desde el margen derecho del bloque de texto. Este valor es independiente de la escala del dibujo. Si el dibujo está escalado, la sangría derecha sigue siendo la misma. |
+| [IX](../../aspose.diagram/para/ix/) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
+| [LocalizeBulletFont](../../aspose.diagram/para/localizebulletfont/) { get; set; } | Especifica si la fuente de la viñeta se debe localizar (traducir a otro idioma). |
+| [SpAfter](../../aspose.diagram/para/spafter/) { get; set; } | Especifica la cantidad de espacio insertado después de cada párrafo en el bloque de texto de la forma. |
+| [SpBefore](../../aspose.diagram/para/spbefore/) { get; set; } | Especifica la cantidad de espacio insertado antes de cada párrafo en el bloque de texto de la forma. |
+| [SpLine](../../aspose.diagram/para/spline/) { get; set; } | Especifica la distancia entre una línea de texto y la siguiente, donde 100% es la altura de una línea de texto. |
+| [TextPosAfterBullet](../../aspose.diagram/para/textposafterbullet/) { get; set; } | Representa la distancia entre la primera línea del párrafo y la viñeta. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/para/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/para/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

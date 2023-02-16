@@ -3,7 +3,7 @@ title: PageSheet
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos que definen la hoja de página para un elemento Página o Maestro.
 type: docs
-weight: 2560
+weight: 2570
 url: /es/net/aspose.diagram/pagesheet/
 ---
 ## PageSheet class
@@ -18,37 +18,37 @@ public class PageSheet
 
 | Nombre | Descripción |
 | --- | --- |
-| [Acts](../../aspose.diagram/pagesheet/acts) { get; } | Contiene una colección de elementos Act. |
-| [Annotations](../../aspose.diagram/pagesheet/annotations) { get; } | Contiene elementos que contienen información sobre comentarios insertados en una página de documento. |
-| [ConnectionABCDs](../../aspose.diagram/pagesheet/connectionabcds) { get; } | Contiene una colección de elementos ConnectionABCD. |
-| [Connections](../../aspose.diagram/pagesheet/connections) { get; } | Contiene una colección de elementos de conexión. |
-| [FillStyle](../../aspose.diagram/pagesheet/fillstyle) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de relleno. |
-| [Foreign](../../aspose.diagram/pagesheet/foreign) { get; } | Contiene elementos que especifican el ancho y el alto de un objeto de otro programa utilizado en un documento de Microsoft Visio. También incluye elementos que especifican la distancia a la que se desplaza la imagen del objeto dentro de sus bordes. |
-| [ForeignData](../../aspose.diagram/pagesheet/foreigndata) { get; } | Contiene un BLOB codificado MIME (Extensiones multipropósito de correo de Internet) de datos de imagen, como metarchivo de Windows, mapa de bits o datos OLE. |
-| [Hyperlinks](../../aspose.diagram/pagesheet/hyperlinks) { get; } | Contiene una colección de elementos de hipervínculo. |
-| [Layers](../../aspose.diagram/pagesheet/layers) { get; } | Contiene una colección de elementos de capa. |
-| [LineStyle](../../aspose.diagram/pagesheet/linestyle) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de línea. |
-| [PageLayout](../../aspose.diagram/pagesheet/pagelayout) { get; } | Contiene un diagrama que controla la configuración de diseño de página para formas y conectores, como el espacio entre todas las formas de la página, el espacio entre todos los conectores de la página y el estilo de enrutamiento de todos los conectores de la página. |
-| [PageProps](../../aspose.diagram/pagesheet/pageprops) { get; } | Contiene un diagrama que controla los atributos de la página, como el ancho, la altura y la escala de la página. |
-| [PrintProps](../../aspose.diagram/pagesheet/printprops) { get; } | Contiene elementos que controlan cómo se formatea (aparece) la página de dibujo en la página de la impresora. |
-| [Props](../../aspose.diagram/pagesheet/props) { get; } | Contiene una colección de elementos Prop. |
-| [RulerGrid](../../aspose.diagram/pagesheet/rulergrid) { get; } | Contiene elementos que especifican la configuración de las reglas y la cuadrícula de la página. |
-| [Scratchs](../../aspose.diagram/pagesheet/scratchs) { get; } | Contiene una colección de elementos Scratch. |
-| [SmartTagDefs](../../aspose.diagram/pagesheet/smarttagdefs) { get; } | Contiene una colección de elementos SmartTagDef. |
-| [TextStyle](../../aspose.diagram/pagesheet/textstyle) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de texto. |
-| [UniqueID](../../aspose.diagram/pagesheet/uniqueid) { get; set; } | Un GUID (identificador único global) para el elemento. |
-| [Users](../../aspose.diagram/pagesheet/users) { get; } | Contiene una colección de elementos de Usuario. |
-| [XForm](../../aspose.diagram/pagesheet/xform) { get; } | Contiene elementos que especifican información general de posicionamiento sobre una forma. |
+| [Acts](../../aspose.diagram/pagesheet/acts/) { get; } | Contiene una colección de elementos Act. |
+| [Annotations](../../aspose.diagram/pagesheet/annotations/) { get; } | Contiene elementos que contienen información sobre comentarios insertados en una página de documento. |
+| [ConnectionABCDs](../../aspose.diagram/pagesheet/connectionabcds/) { get; } | Contiene una colección de elementos ConnectionABCD. |
+| [Connections](../../aspose.diagram/pagesheet/connections/) { get; } | Contiene una colección de elementos de conexión. |
+| [FillStyle](../../aspose.diagram/pagesheet/fillstyle/) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de relleno. |
+| [Foreign](../../aspose.diagram/pagesheet/foreign/) { get; } | Contiene elementos que especifican el ancho y el alto de un objeto de otro programa utilizado en un documento de Microsoft Visio. También incluye elementos que especifican la distancia a la que se desplaza la imagen del objeto dentro de sus bordes. |
+| [ForeignData](../../aspose.diagram/pagesheet/foreigndata/) { get; } | Contiene un BLOB codificado MIME (Extensiones multipropósito de correo de Internet) de datos de imagen, como metarchivo de Windows, mapa de bits o datos OLE. |
+| [Hyperlinks](../../aspose.diagram/pagesheet/hyperlinks/) { get; } | Contiene una colección de elementos de hipervínculo. |
+| [Layers](../../aspose.diagram/pagesheet/layers/) { get; } | Contiene una colección de elementos de capa. |
+| [LineStyle](../../aspose.diagram/pagesheet/linestyle/) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de línea. |
+| [PageLayout](../../aspose.diagram/pagesheet/pagelayout/) { get; } | Contiene un diagrama que controla la configuración de diseño de página para formas y conectores, como el espacio entre todas las formas de la página, el espacio entre todos los conectores de la página y el estilo de enrutamiento de todos los conectores de la página. |
+| [PageProps](../../aspose.diagram/pagesheet/pageprops/) { get; } | Contiene un diagrama que controla los atributos de la página, como el ancho, la altura y la escala de la página. |
+| [PrintProps](../../aspose.diagram/pagesheet/printprops/) { get; } | Contiene elementos que controlan cómo se formatea (aparece) la página de dibujo en la página de la impresora. |
+| [Props](../../aspose.diagram/pagesheet/props/) { get; } | Contiene una colección de elementos Prop. |
+| [RulerGrid](../../aspose.diagram/pagesheet/rulergrid/) { get; } | Contiene elementos que especifican la configuración de las reglas y la cuadrícula de la página. |
+| [Scratchs](../../aspose.diagram/pagesheet/scratchs/) { get; } | Contiene una colección de elementos Scratch. |
+| [SmartTagDefs](../../aspose.diagram/pagesheet/smarttagdefs/) { get; } | Contiene una colección de elementos SmartTagDef. |
+| [TextStyle](../../aspose.diagram/pagesheet/textstyle/) { get; set; } | Elemento StyleSheet del que PageSheet hereda el formato de texto. |
+| [UniqueID](../../aspose.diagram/pagesheet/uniqueid/) { get; set; } | Un GUID (identificador único global) para el elemento. |
+| [Users](../../aspose.diagram/pagesheet/users/) { get; } | Contiene una colección de elementos de Usuario. |
+| [XForm](../../aspose.diagram/pagesheet/xform/) { get; } | Contiene elementos que especifican información general de posicionamiento sobre una forma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Copy](../../aspose.diagram/pagesheet/copy)(PageSheet) | Copia la hoja de página de un objeto de origen. |
+| [Copy](../../aspose.diagram/pagesheet/copy/)(PageSheet) | Copia la hoja de página de un objeto de origen. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

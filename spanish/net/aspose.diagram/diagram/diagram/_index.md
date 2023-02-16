@@ -16,15 +16,15 @@ public Diagram()
 
 ### Ver también
 
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string) {#constructor_4}
 
-PúblicoDiagram constructor de clase, carga el diagrama desde el archivo.
+Constructor de clase pública, carga el diagrama desde el archivo.
 
 ```csharp
 public Diagram(string filename)
@@ -36,15 +36,15 @@ public Diagram(string filename)
 
 ### Ver también
 
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream) {#constructor_1}
 
-PúblicoDiagram constructor de clase, carga el diagrama de la secuencia.
+Constructor de clase pública, carga el diagrama de la secuencia.
 
 ```csharp
 public Diagram(Stream stream)
@@ -56,15 +56,15 @@ public Diagram(Stream stream)
 
 ### Ver también
 
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string, LoadFileFormat) {#constructor_5}
 
-PúblicoDiagramconstructor de clase, carga el diagrama desde el archivo usando un formato predefinido.
+Constructor de clase pública, carga el diagrama desde el archivo usando un formato predefinido.
 
 ```csharp
 public Diagram(string filename, LoadFileFormat format)
@@ -77,16 +77,16 @@ public Diagram(string filename, LoadFileFormat format)
 
 ### Ver también
 
-* enum [LoadFileFormat](../../loadfileformat)
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* enum [LoadFileFormat](../../loadfileformat/)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream, LoadFileFormat) {#constructor_2}
 
-PúblicoDiagram constructor de clase, carga el diagrama de la secuencia usando un formato predefinido.
+Constructor de clase pública, carga el diagrama de la secuencia usando un formato predefinido.
 
 ```csharp
 public Diagram(Stream stream, LoadFileFormat format)
@@ -95,20 +95,20 @@ public Diagram(Stream stream, LoadFileFormat format)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | stream | Stream | El flujo de datos. |
-| format | LoadFileFormat | Los datos[`cargar formato de archivo`](../../loadfileformat). |
+| format | LoadFileFormat | Los datos[`cargar formato de archivo`](../../loadfileformat/). |
 
 ### Ver también
 
-* enum [LoadFileFormat](../../loadfileformat)
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* enum [LoadFileFormat](../../loadfileformat/)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(string, LoadOptions) {#constructor_6}
 
-PúblicoDiagram constructor de clase, carga el diagrama desde el archivo utilizando opciones de archivo de carga predefinidas.
+Constructor de clase pública, carga el diagrama desde el archivo utilizando opciones de archivo de carga predefinidas.
 
 ```csharp
 public Diagram(string filename, LoadOptions options)
@@ -117,20 +117,20 @@ public Diagram(string filename, LoadOptions options)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | filename | String | El nombre del archivo. |
-| options | LoadOptions | Los datos[`opciones de carga`](../../loadoptions). |
+| options | LoadOptions | Los datos[`opciones de carga`](../../loadoptions/). |
 
 ### Ver también
 
-* class [LoadOptions](../../loadoptions)
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* class [LoadOptions](../../loadoptions/)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 ---
 
 ## Diagram(Stream, LoadOptions) {#constructor_3}
 
-PúblicoDiagram constructor de clase, carga el diagrama de la secuencia usando opciones de archivo de carga predefinidas.
+Constructor de clase pública, carga el diagrama desde la secuencia utilizando opciones de archivo de carga predefinidas.
 
 ```csharp
 public Diagram(Stream stream, LoadOptions options)
@@ -139,13 +139,13 @@ public Diagram(Stream stream, LoadOptions options)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | stream | Stream | El flujo de datos. |
-| options | LoadOptions | Los datos[`opciones de carga`](../../loadoptions). |
+| options | LoadOptions | Los datos[`opciones de carga`](../../loadoptions/). |
 
 ### Ver también
 
-* class [LoadOptions](../../loadoptions)
-* class [Diagram](../../diagram)
-* espacio de nombres [Aspose.Diagram](../../diagram)
+* class [LoadOptions](../../loadoptions/)
+* class [Diagram](../)
+* espacio de nombres [Aspose.Diagram](../../diagram/)
 * asamblea [Aspose.Diagram](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->

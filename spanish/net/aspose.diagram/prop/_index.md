@@ -3,7 +3,7 @@ title: Prop
 second_title: Aspose.Diagram para la referencia de la API de .NET
 description: Contiene elementos para definir propiedades personalizadas y elementos para asociar datos con una forma.
 type: docs
-weight: 2840
+weight: 2850
 url: /es/net/aspose.diagram/prop/
 ---
 ## Prop class
@@ -18,37 +18,37 @@ public class Prop
 
 | Nombre | Descripción |
 | --- | --- |
-| [Prop](prop)() | Constructor. |
+| [Prop](prop/)() | Constructor. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Calendar](../../aspose.diagram/prop/calendar) { get; } | Determina el calendario que se utiliza para propiedades personalizadas, campos de texto y fórmulas de elementos. |
-| [Del](../../aspose.diagram/prop/del) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
-| [Format](../../aspose.diagram/prop/format) { get; } | El elemento de formato especifica el formato de una propiedad personalizada que es una cadena, una lista fija, un número, una lista de variables, una fecha u hora, una duración o una moneda. El tipo de propiedad personalizada se especifica en el elemento Tipo correspondiente. |
-| [ID](../../aspose.diagram/prop/id) { get; set; } | El ID único del elemento dentro de su elemento principal. |
-| [Invisible](../../aspose.diagram/prop/invisible) { get; } | Elemento invisible especifica si la propiedad personalizada está visible en el cuadro de diálogo Propiedades personalizadas en Microsoft Visio. |
-| [IX](../../aspose.diagram/prop/ix) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
-| [Label](../../aspose.diagram/prop/label) { get; } | Especifica la etiqueta que aparece a los usuarios en el cuadro de diálogo Propiedades personalizadas. |
-| [LangID](../../aspose.diagram/prop/langid) { get; } | Indica el Id. de configuración regional (LCID) del idioma en el que se ingresó la fórmula de celda, el texto, la propiedad personalizada o el comentario. |
-| [Name](../../aspose.diagram/prop/name) { get; set; } | El nombre del elemento. |
-| [NameU](../../aspose.diagram/prop/nameu) { get; set; } | El nombre universal del elemento. |
-| [Prompt](../../aspose.diagram/prop/prompt) { get; } | El elemento de solicitud especifica el texto descriptivo o instructivo que aparece a los usuarios en el cuadro de diálogo Propiedades personalizadas cuando se selecciona la propiedad. Este texto también aparece como información sobre herramientas cuando el puntero del mouse se detiene sobre la propiedad en la ventana Propiedades personalizadas. |
-| [SortKey](../../aspose.diagram/prop/sortkey) { get; } | Especifica una clave que determina el orden en que se enumeran las propiedades personalizadas en la interfaz de usuario de la aplicación. |
-| [Type](../../aspose.diagram/prop/type) { get; } | Tipo especifica un tipo de datos para el valor de la propiedad personalizada. |
-| [Value](../../aspose.diagram/prop/value) { get; } | Contiene datos XML bien formados y específicos de la solución que tienen un prefijo en un espacio de nombres explícito y se almacenan con un documento. |
-| [Verify](../../aspose.diagram/prop/verify) { get; } | Especifica si se solicita al usuario que ingrese información de propiedad personalizada para una forma cuando se crea una instancia o si la forma se duplica o copia. |
+| [Calendar](../../aspose.diagram/prop/calendar/) { get; } | Determina el calendario que se utiliza para propiedades personalizadas, campos de texto y fórmulas de elementos. |
+| [Del](../../aspose.diagram/prop/del/) { get; set; } | Un indicador que indica si el elemento se ha eliminado localmente. Un valor de 1 indica que el elemento se eliminó localmente. |
+| [Format](../../aspose.diagram/prop/format/) { get; } | El elemento de formato especifica el formato de una propiedad personalizada que es una cadena, una lista fija, un número, una lista de variables, una fecha u hora, una duración o una moneda. El tipo de propiedad personalizada se especifica en el elemento Tipo correspondiente. |
+| [ID](../../aspose.diagram/prop/id/) { get; set; } | El ID único del elemento dentro de su elemento principal. |
+| [Invisible](../../aspose.diagram/prop/invisible/) { get; } | Elemento invisible especifica si la propiedad personalizada está visible en el cuadro de diálogo Propiedades personalizadas en Microsoft Visio. |
+| [IX](../../aspose.diagram/prop/ix/) { get; set; } | El índice de base cero del elemento dentro de su elemento principal. |
+| [Label](../../aspose.diagram/prop/label/) { get; } | Especifica la etiqueta que aparece a los usuarios en el cuadro de diálogo Propiedades personalizadas. |
+| [LangID](../../aspose.diagram/prop/langid/) { get; } | Indica el Id. de configuración regional (LCID) del idioma en el que se ingresó la fórmula de celda, el texto, la propiedad personalizada o el comentario. |
+| [Name](../../aspose.diagram/prop/name/) { get; set; } | El nombre del elemento. |
+| [NameU](../../aspose.diagram/prop/nameu/) { get; set; } | El nombre universal del elemento. |
+| [Prompt](../../aspose.diagram/prop/prompt/) { get; } | El elemento de solicitud especifica el texto descriptivo o instructivo que aparece a los usuarios en el cuadro de diálogo Propiedades personalizadas cuando se selecciona la propiedad. Este texto también aparece como información sobre herramientas cuando el puntero del mouse se detiene sobre la propiedad en la ventana Propiedades personalizadas. |
+| [SortKey](../../aspose.diagram/prop/sortkey/) { get; } | Especifica una clave que determina el orden en que se enumeran las propiedades personalizadas en la interfaz de usuario de la aplicación. |
+| [Type](../../aspose.diagram/prop/type/) { get; } | Tipo especifica un tipo de datos para el valor de la propiedad personalizada. |
+| [Value](../../aspose.diagram/prop/value/) { get; } | Contiene datos XML bien formados y específicos de la solución que tienen un prefijo en un espacio de nombres explícito y se almacenan con un documento. |
+| [Verify](../../aspose.diagram/prop/verify/) { get; } | Especifica si se solicita al usuario que ingrese información de propiedad personalizada para una forma cuando se crea una instancia o si la forma se duplica o copia. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Clone](../../aspose.diagram/prop/clone)() | Crea una copia profunda de esta instancia. |
+| [Clone](../../aspose.diagram/prop/clone/)() | Crea una copia profunda de esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.Diagram](../../aspose.diagram)
+* espacio de nombres [Aspose.Diagram](../../aspose.diagram/)
 * asamblea [Aspose.Diagram](../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
