@@ -1,0 +1,47 @@
+---
+title: DocumentProperties
+second_title: Aspose.Diagram per riferimento API .NET
+description: Contiene elementi di proprietà del documento come il titolo del documento lautore e così via.
+type: docs
+weight: 1240
+url: /it/net/aspose.diagram/documentproperties/
+---
+## DocumentProperties class
+
+Contiene elementi di proprietà del documento come il titolo del documento, l'autore e così via.
+
+```csharp
+public class DocumentProperties
+```
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [AlternateNames](../../aspose.diagram/documentproperties/alternatenames/) { get; set; } | Specifica i nomi alternativi per un documento. |
+| [BuildNumberCreated](../../aspose.diagram/documentproperties/buildnumbercreated/) { get; set; } | Contiene il numero di build completo dell'istanza utilizzata per creare il documento. |
+| [BuildNumberEdited](../../aspose.diagram/documentproperties/buildnumberedited/) { get; set; } | Contiene il numero di build dell'ultima istanza utilizzata per modificare il documento. |
+| [Category](../../aspose.diagram/documentproperties/category/) { get; set; } | Specifica il testo descrittivo per il tipo di disegno, ad esempio diagramma di flusso o layout ufficio. Questo testo può essere immesso anche nell'interfaccia utente di Microsoft Visio nella casella Categoria nella finestra di dialogo Proprietà. |
+| [Company](../../aspose.diagram/documentproperties/company/) { get; set; } | Contiene le informazioni immesse dall'utente che identificano la società che crea il disegno o la società per cui viene creato il disegno. La lunghezza massima è di 63 caratteri. |
+| [Creator](../../aspose.diagram/documentproperties/creator/) { get; set; } | Identifica chi ha creato o aggiornato per ultimo il file. La lunghezza massima è di 63 caratteri. |
+| [CustomProps](../../aspose.diagram/documentproperties/customprops/) { get; } | Raccolta di CustomProp. |
+| [Desc](../../aspose.diagram/documentproperties/desc/) { get; set; } | Contiene una stringa di testo descrittiva per un documento. Utilizzare questo elemento per archiviare informazioni importanti sul documento, come il suo scopo, le modifiche recenti o in attesa. Il massimo è di 191 caratteri. |
+| [HyperlinkBase](../../aspose.diagram/documentproperties/hyperlinkbase/) { get; set; } | Contiene il percorso da utilizzare per i collegamenti ipertestuali relativi (collegamenti ipertestuali per i quali è descritta la posizione del file collegato in relazione al diagramma di Microsoft Visio). Per impostazione predefinita, un percorso di collegamento ipertestuale è relativo al documento corrente a meno che non sia specificato un percorso diverso in questo elemento. La lunghezza massima è di 256 caratteri. |
+| [Keywords](../../aspose.diagram/documentproperties/keywords/) { get; set; } | Contiene una stringa di testo che identifica gli argomenti o altre informazioni importanti sul file, come il nome del progetto, il nome del client o il numero di versione. La lunghezza massima della stringa è di 63 caratteri. |
+| [Language](../../aspose.diagram/documentproperties/language/) { get; set; } | Specifica la lingua |
+| [Manager](../../aspose.diagram/documentproperties/manager/) { get; set; } | Contiene una stringa di testo immessa dall'utente che identifica la persona responsabile del progetto o del dipartimento. La lunghezza massima è di 63 caratteri. |
+| [PreviewPicture](../../aspose.diagram/documentproperties/previewpicture/) { get; set; } | Contiene un flusso di metafile che funge da anteprima del documento. |
+| [Subject](../../aspose.diagram/documentproperties/subject/) { get; set; } | Contiene una stringa di testo definita dall'utente che descrive il contenuto del documento. La lunghezza massima è di 63 caratteri. |
+| [Template](../../aspose.diagram/documentproperties/template/) { get; set; } | Contiene un valore stringa che specifica il nome file del modello da cui è stato creato il documento. |
+| [TimeCreated](../../aspose.diagram/documentproperties/timecreated/) { get; set; } | Contiene il valore di data e ora che indica quando è stato creato il documento. |
+| [TimeEdited](../../aspose.diagram/documentproperties/timeedited/) { get; set; } | Contiene il valore di data e ora che indica quando il documento è stato modificato l'ultima volta. |
+| [TimePrinted](../../aspose.diagram/documentproperties/timeprinted/) { get; set; } | Contiene il valore di data e ora che indica quando il documento è stato stampato l'ultima volta. |
+| [TimeSaved](../../aspose.diagram/documentproperties/timesaved/) { get; set; } | Contiene il valore di data e ora che indica quando il documento è stato salvato l'ultima volta. |
+| [Title](../../aspose.diagram/documentproperties/title/) { get; set; } | Contiene una stringa di testo definita dall'utente che funge da titolo descrittivo per il documento. La lunghezza massima è di 63 caratteri. |
+
+### Guarda anche
+
+* spazio dei nomi [Aspose.Diagram](../../aspose.diagram/)
+* assemblea [Aspose.Diagram](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
