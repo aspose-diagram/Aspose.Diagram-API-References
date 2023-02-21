@@ -1,0 +1,279 @@
+---
+title: Remove
+second_title: .NET API 참조용 Aspose.Diagram
+description: 컬렉션에서 좌표 개체를 제거합니다.
+type: docs
+weight: 180
+url: /ko/net/aspose.diagram/coordinatecollection/remove/
+---
+## Remove(Coordinate) {#remove_1}
+
+컬렉션에서 좌표 개체를 제거합니다.
+
+```csharp
+public void Remove(Coordinate item)
+```
+
+### 또한보십시오
+
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(MoveTo) {#remove_6}
+
+컬렉션에서 MoveTo 개체를 제거합니다.
+
+```csharp
+public void Remove(MoveTo item)
+```
+
+### 또한보십시오
+
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(LineTo) {#remove_5}
+
+컬렉션에서 LineTo 개체를 제거합니다.
+
+```csharp
+public void Remove(LineTo item)
+```
+
+### 또한보십시오
+
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(ArcTo) {#remove}
+
+컬렉션에서 ArcTo 개체를 제거합니다.
+
+```csharp
+public void Remove(ArcTo item)
+```
+
+### 또한보십시오
+
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(InfiniteLine) {#remove_4}
+
+컬렉션에서 InfiniteLine 개체를 제거합니다.
+
+```csharp
+public void Remove(InfiniteLine item)
+```
+
+### 또한보십시오
+
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(Ellipse) {#remove_2}
+
+컬렉션에서 타원 개체를 제거합니다.
+
+```csharp
+public void Remove(Ellipse item)
+```
+
+### 또한보십시오
+
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(EllipticalArcTo) {#remove_3}
+
+컬렉션에서 EllipticalArcTo 개체를 제거합니다.
+
+```csharp
+public void Remove(EllipticalArcTo item)
+```
+
+### 또한보십시오
+
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(SplineStart) {#remove_15}
+
+컬렉션에서 SplineStart 개체를 제거합니다.
+
+```csharp
+public void Remove(SplineStart item)
+```
+
+### 또한보십시오
+
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(SplineKnot) {#remove_14}
+
+컬렉션에서 SplineKnot 개체를 제거합니다.
+
+```csharp
+public void Remove(SplineKnot item)
+```
+
+### 또한보십시오
+
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(PolylineTo) {#remove_8}
+
+컬렉션에서 PolylineTo 개체를 제거합니다.
+
+```csharp
+public void Remove(PolylineTo item)
+```
+
+### 또한보십시오
+
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(NURBSTo) {#remove_7}
+
+컬렉션에서 NURBSTo 개체를 제거합니다.
+
+```csharp
+public void Remove(NURBSTo item)
+```
+
+### 또한보십시오
+
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(RelCubBezTo) {#remove_9}
+
+컬렉션에서 RelCubBezTo 개체를 제거합니다.
+
+```csharp
+public void Remove(RelCubBezTo item)
+```
+
+### 또한보십시오
+
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(RelQuadBezTo) {#remove_13}
+
+컬렉션에서 RelQuadBezTo 개체를 제거합니다.
+
+```csharp
+public void Remove(RelQuadBezTo item)
+```
+
+### 또한보십시오
+
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(RelMoveTo) {#remove_12}
+
+컬렉션에서 RelMoveTo 개체를 제거합니다.
+
+```csharp
+public void Remove(RelMoveTo item)
+```
+
+### 또한보십시오
+
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(RelLineTo) {#remove_11}
+
+컬렉션에서 RelLineTo 개체를 제거합니다.
+
+```csharp
+public void Remove(RelLineTo item)
+```
+
+### 또한보십시오
+
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+---
+
+## Remove(RelEllipticalArcTo) {#remove_10}
+
+컬렉션에서 RelEllipticalArcTo 개체를 제거합니다.
+
+```csharp
+public void Remove(RelEllipticalArcTo item)
+```
+
+### 또한보십시오
+
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* 네임스페이스 [Aspose.Diagram](../../coordinatecollection/)
+* 집회 [Aspose.Diagram](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
