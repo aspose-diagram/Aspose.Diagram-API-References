@@ -19,6 +19,7 @@ Enumeration for saving diagram format selection.
 | Field | Description |
 | --- | --- |
 | [BMP](#BMP) | Bmp image format. |
+| [CSV](#CSV) | Comma-Separated Values(CSV) text file. |
 | [EMF](#EMF) | EMF image format. |
 | [GIF](#GIF) | Gif format. |
 | [HTML](#HTML) | Html format. |
@@ -58,6 +59,14 @@ public static final int BMP
 
 
 Bmp image format.
+
+### CSV {#CSV}
+```
+public static final int CSV
+```
+
+
+Comma-Separated Values(CSV) text file.
 
 ### EMF {#EMF}
 ```

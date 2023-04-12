@@ -3,7 +3,7 @@ title: WindowStateValue
 second_title: Aspose.Diagram for Java API Reference
 description: An integer specifying bit flags.
 type: docs
-weight: 446
+weight: 447
 url: /java/com.aspose.diagram/windowstatevalue/
 ---
 

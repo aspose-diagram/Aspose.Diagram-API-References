@@ -3,7 +3,7 @@ title: VisRuleTargetsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies contents that define the target of the validation rule passed to and returned by the ValidationRule.TargetType property.
 type: docs
-weight: 439
+weight: 440
 url: /java/com.aspose.diagram/visruletargetsvalue/
 ---
 

@@ -3,7 +3,7 @@ title: WarningType
 second_title: Aspose.Diagram for Java API Reference
 description: WarningType
 type: docs
-weight: 443
+weight: 444
 url: /java/com.aspose.diagram/warningtype/
 ---
 

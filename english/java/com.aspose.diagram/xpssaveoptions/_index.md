@@ -3,7 +3,7 @@ title: XPSSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to XPS.
 type: docs
-weight: 453
+weight: 454
 url: /java/com.aspose.diagram/xpssaveoptions/
 ---
 

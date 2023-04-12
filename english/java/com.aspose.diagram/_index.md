@@ -418,6 +418,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [ToggleButtonActiveXControl](../com.aspose.diagram/togglebuttonactivexcontrol) | Represents a ToggleButton ActiveX control. |
 | [Tp](../com.aspose.diagram/tp) | Specifies the beginning of a tabs properties run. |
 | [Txt](../com.aspose.diagram/txt) | Text of the shape |
+| [TxtSaveOptions](../com.aspose.diagram/txtsaveoptions) | Represents the save options for csv/other text format. |
 | [TypeConnection](../com.aspose.diagram/typeconnection) | Specifies various types, based on the element in which it is contained. |
 | [TypeConnectionValue](../com.aspose.diagram/typeconnectionvalue) | Specifies various types, based on the element in which it is contained. |
 | [TypeField](../com.aspose.diagram/typefield) | Type specifies a data type for the text field value. |

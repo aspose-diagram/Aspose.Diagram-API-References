@@ -3,7 +3,7 @@ title: WindowTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: An enumerated value that may be one of the following Drawing Sheet Stencil or Icon.
 type: docs
-weight: 447
+weight: 448
 url: /java/com.aspose.diagram/windowtypevalue/
 ---
 
