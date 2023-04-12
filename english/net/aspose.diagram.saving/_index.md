@@ -26,6 +26,7 @@ Contains classes for save options.
 | [SaveOptions](./saveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
 | [SVGSaveOptions](./svgsaveoptions) | Allows to specify additional options when rendering diagram pages to SVG. |
 | [SWFSaveOptions](./swfsaveoptions) | Allows to specify additional options when rendering diagram pages to SWF. |
+| [TxtSaveOptions](./txtsaveoptions) | Represents the save options for csv/other text format. |
 | [XAMLSaveOptions](./xamlsaveoptions) | Allows to specify additional options when rendering diagram pages to XAML. |
 | [XPSSaveOptions](./xpssaveoptions) | Allows to specify additional options when rendering diagram pages to XPS. |
 ## Interfaces
