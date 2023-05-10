@@ -27,6 +27,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [bringToFront()](#bringToFront--) | Brings the shape to the front of the z-order. |
 | [centerDrawing()](#centerDrawing--) | Center the shape with respect to the extent of the page |
 | [connectedShapes(int flag, String categoryFilter)](#connectedShapes-int-java.lang.String-) | Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape. |
+| [convertToGroup()](#convertToGroup--) | Converts a selection or an object from another application (a linked or embedded object) to a group. |
 | [copy(Shape source)](#copy-com.aspose.diagram.Shape-) |  |
 | [dependsOnShapes()](#dependsOnShapes--) | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -212,6 +213,14 @@ Returns an array that contains the identifiers (IDs) of the shapes that are conn
 
 **Returns:**
 long[] - IDs arraylong.
+### convertToGroup() {#convertToGroup--}
+```
+public void convertToGroup()
+```
+
+
+Converts a selection or an object from another application (a linked or embedded object) to a group.
+
 ### copy(Shape source) {#copy-com.aspose.diagram.Shape-}
 ```
 public void copy(Shape source)
