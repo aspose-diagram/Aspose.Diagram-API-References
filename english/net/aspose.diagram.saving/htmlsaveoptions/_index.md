@@ -1,7 +1,7 @@
 ---
-title: HTMLSaveOptions
+title: Class HTMLSaveOptions
 second_title: Aspose.Diagram for .NET API Reference
-description: Allows to specify additional options when rendering diagram pages to HTML.
+description: Aspose.Diagram.Saving.HTMLSaveOptions class. Allows to specify additional options when rendering diagram pages to HTML
 type: docs
 url: /net/aspose.diagram.saving/htmlsaveoptions/
 ---
@@ -17,37 +17,37 @@ public class HTMLSaveOptions : RenderingSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [HTMLSaveOptions](htmlsaveoptions)() | Initializes a new instance of this class that can be used to save a document in the [`HTML`](../../aspose.diagram/savefileformat) format. |
+| [HTMLSaveOptions](htmlsaveoptions/)() | Initializes a new instance of this class that can be used to save a document in the [`HTML`](../../aspose.diagram/savefileformat/) format. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Area](../../aspose.diagram.saving/renderingsaveoptions/area) { get; set; } | Gets or sets the area of the shapes will be saved . |
-| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
-| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting) { get; set; } | Setting for rendering Emf metafile. |
-| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage) { get; set; } | Specifies whether enlarge page . |
-| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes) { get; set; } | Defines whether need exporting the guide shapes or not. |
-| [ExportHiddenPage](../../aspose.diagram.saving/htmlsaveoptions/exporthiddenpage) { get; set; } | Defines whether need exporting the hidden page or not. |
-| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments) { get; set; } | Defines whether need exporting the comments or not. |
-| [PageCount](../../aspose.diagram.saving/htmlsaveoptions/pagecount) { get; set; } | Gets or sets the number of pages to render in HTML. Default is MaxValue which means all pages of the diagram will be rendered. |
-| [PageIndex](../../aspose.diagram.saving/htmlsaveoptions/pageindex) { get; set; } | Gets or sets the 0-based index of the first page to render. Default is 0. |
-| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize) { get; set; } | Gets or sets the page size for the generated images. Can be [`PageSize`](../pagesize) or null. |
-| [Resolution](../../aspose.diagram.saving/htmlsaveoptions/resolution) { get; set; } | Gets or sets the resolution for the generated html, in dots per inch. |
-| [SaveAsSingleFile](../../aspose.diagram.saving/htmlsaveoptions/saveassinglefile) { get; set; } | Indicates whether save the html as single file. The default value is false. |
-| [SaveForegroundPagesOnly](../../aspose.diagram.saving/htmlsaveoptions/saveforegroundpagesonly) { get; set; } | Specifies whether all pages will be saved in image or only foreground. |
-| override [SaveFormat](../../aspose.diagram.saving/htmlsaveoptions/saveformat) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`HTML`](../../aspose.diagram/savefileformat) only. |
-| [SaveTitle](../../aspose.diagram.saving/htmlsaveoptions/savetitle) { get; set; } | Defines whether need exporting the title or not. |
-| [SaveToolBar](../../aspose.diagram.saving/htmlsaveoptions/savetoolbar) { get; set; } | Specifies whether saving toolbar The default value is true. |
-| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes) { get; set; } | Gets or sets shapes to render. Default count is 0. |
-| [StreamProvider](../../aspose.diagram.saving/htmlsaveoptions/streamprovider) { get; set; } | Gets or sets the IStreamProvider for exporting objects. |
-| [Title](../../aspose.diagram.saving/htmlsaveoptions/title) { get; set; } | Gets or sets the title of diagram to render in HTML. If Title is null Diagram.DocumentProperties.Title [`DocumentProperties`](../../aspose.diagram/documentproperties) will be used as Title. If Diagram.DocumentProperties.Title is null or empty the file name of Diagram will be used as Title. |
-| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback) { get; set; } | Gets or sets warning callback. |
+| [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Gets or sets the area of the shapes will be saved . |
+| virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
+| [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | Setting for rendering Emf metafile. |
+| [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | Specifies whether enlarge page . |
+| [ExportGuideShapes](../../aspose.diagram.saving/renderingsaveoptions/exportguideshapes/) { get; set; } | Defines whether need exporting the guide shapes or not. |
+| [ExportHiddenPage](../../aspose.diagram.saving/htmlsaveoptions/exporthiddenpage/) { get; set; } | Defines whether need exporting the hidden page or not. |
+| [IsExportComments](../../aspose.diagram.saving/renderingsaveoptions/isexportcomments/) { get; set; } | Defines whether need exporting the comments or not. |
+| [PageCount](../../aspose.diagram.saving/htmlsaveoptions/pagecount/) { get; set; } | Gets or sets the number of pages to render in HTML. Default is MaxValue which means all pages of the diagram will be rendered. |
+| [PageIndex](../../aspose.diagram.saving/htmlsaveoptions/pageindex/) { get; set; } | Gets or sets the 0-based index of the first page to render. Default is 0. |
+| [PageSize](../../aspose.diagram.saving/renderingsaveoptions/pagesize/) { get; set; } | Gets or sets the page size for the generated images. Can be [`PageSize`](../pagesize/) or null. |
+| [Resolution](../../aspose.diagram.saving/htmlsaveoptions/resolution/) { get; set; } | Gets or sets the resolution for the generated html, in dots per inch. |
+| [SaveAsSingleFile](../../aspose.diagram.saving/htmlsaveoptions/saveassinglefile/) { get; set; } | Indicates whether save the html as single file. The default value is false. |
+| [SaveForegroundPagesOnly](../../aspose.diagram.saving/htmlsaveoptions/saveforegroundpagesonly/) { get; set; } | Specifies whether all pages will be saved in image or only foreground. |
+| override [SaveFormat](../../aspose.diagram.saving/htmlsaveoptions/saveformat/) { get; set; } | Specifies the format in which the rendered diagram pages will be saved if this save options object is used. Can be [`HTML`](../../aspose.diagram/savefileformat/) only. |
+| [SaveTitle](../../aspose.diagram.saving/htmlsaveoptions/savetitle/) { get; set; } | Defines whether need exporting the title or not. |
+| [SaveToolBar](../../aspose.diagram.saving/htmlsaveoptions/savetoolbar/) { get; set; } | Specifies whether saving toolbar The default value is true. |
+| [Shapes](../../aspose.diagram.saving/renderingsaveoptions/shapes/) { get; set; } | Gets or sets shapes to render. Default count is 0. |
+| [StreamProvider](../../aspose.diagram.saving/htmlsaveoptions/streamprovider/) { get; set; } | Gets or sets the IStreamProvider for exporting objects. |
+| [Title](../../aspose.diagram.saving/htmlsaveoptions/title/) { get; set; } | Gets or sets the title of diagram to render in HTML. If Title is null Diagram.DocumentProperties.Title [`DocumentProperties`](../../aspose.diagram/documentproperties/) will be used as Title. If Diagram.DocumentProperties.Title is null or empty the file name of Diagram will be used as Title. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | Gets or sets warning callback. |
 
 ### See Also
 
-* class [RenderingSaveOptions](../renderingsaveoptions)
-* namespace [Aspose.Diagram.Saving](../../aspose.diagram.saving)
+* class [RenderingSaveOptions](../renderingsaveoptions/)
+* namespace [Aspose.Diagram.Saving](../../aspose.diagram.saving/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

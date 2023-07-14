@@ -1,7 +1,7 @@
 ---
-title: Protection
+title: Class Protection
 second_title: Aspose.Diagram for .NET API Reference
-description: Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window.
+description: Aspose.Diagram.Protection class. Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window
 type: docs
 url: /net/aspose.diagram/protection/
 ---
@@ -17,31 +17,31 @@ public class Protection
 
 | Name | Description |
 | --- | --- |
-| [Del](../../aspose.diagram/protection/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [LockAspect](../../aspose.diagram/protection/lockaspect) { get; } | Specifies whether the aspect ratio of the shape is locked. If locked, the shape can only be sized proportionally; it cannot be sized in a single dimension. |
-| [LockBegin](../../aspose.diagram/protection/lockbegin) { get; } | Specifies whether the begin point of a 1-D shape is locked to a specific location. |
-| [LockCalcWH](../../aspose.diagram/protection/lockcalcwh) { get; } | Specifies whether a shape's selection rectangle is locked so it cannot be recalculated when a vertex is edited or an element type is changed in the Geom element. |
-| [LockCrop](../../aspose.diagram/protection/lockcrop) { get; } | Specifies whether a foreign object is locked against being cropped with the Crop tool in Microsoft Visio. |
-| [LockCustProp](../../aspose.diagram/protection/lockcustprop) { get; } | Determines whether the user can add, delete, or modify custom properties in the user interface (UI) by using the Define Custom Properties dialog box. |
-| [LockDelete](../../aspose.diagram/protection/lockdelete) { get; } | Specifies whether a shape is locked against being deleted. |
-| [LockEnd](../../aspose.diagram/protection/lockend) { get; } | Specifies whether the end point of a 1-D shape is locked to a specific location. |
-| [LockFormat](../../aspose.diagram/protection/lockformat) { get; } | Specifies whether the formatting of a shape is locked so it cannot be changed. Specifically, this element protects against changing text, line, and fill formatting, or changing which Style element the shape inherits from. |
-| [LockFromGroupFormat](../../aspose.diagram/protection/lockfromgroupformat) { get; } | Allows a subshape to block formatting changes that get applied to a parent group shape in the Visio user interface and would otherwise cascade down to individual group shapes. |
-| [LockGroup](../../aspose.diagram/protection/lockgroup) { get; } | Specifies whether a group is locked so that it cannot be ungrouped. |
-| [LockHeight](../../aspose.diagram/protection/lockheight) { get; } | Specifies whether the height of the shape is locked. If locked, its height remains unchanged when the shape is resized. |
-| [LockMoveX](../../aspose.diagram/protection/lockmovex) { get; } | Specifies whether the horizontal position of the shape is locked so that it cannot be moved horizontally. |
-| [LockMoveY](../../aspose.diagram/protection/lockmovey) { get; } | Specifies whether the vertical position of the shape is locked so that it cannot be moved vertically. |
-| [LockRotate](../../aspose.diagram/protection/lockrotate) { get; } | Specifies whether the shape is locked against being rotated with the Rotation tool or the Rotate Left or Rotate Right commands in Microsoft Visio. |
-| [LockSelect](../../aspose.diagram/protection/lockselect) { get; } | Specifies whether a shape's selection rectangle is locked so it cannot be recalculated when a vertex is edited or an element type is changed in the Geom element. |
-| [LockTextEdit](../../aspose.diagram/protection/locktextedit) { get; } | Specifies whether the text of a shape is locked so that it cannot be edited. However, the text may still be formatted by applying a style, using the Style options on the Font tab of the Text dialog box. |
-| [LockThemeColors](../../aspose.diagram/protection/lockthemecolors) { get; } | Prevents users from applying theme colors to the shape. |
-| [LockThemeEffects](../../aspose.diagram/protection/lockthemeeffects) { get; } | Prevents users from applying theme effects to the shape. |
-| [LockVtxEdit](../../aspose.diagram/protection/lockvtxedit) { get; } | Specifies whether the vertices of a shape are locked so that they cannot be edited with any tools on the toolbar. |
-| [LockWidth](../../aspose.diagram/protection/lockwidth) { get; } | Specifies whether the width of the shape is locked so that it remains unchanged when the shape is resized. |
+| [Del](../../aspose.diagram/protection/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [LockAspect](../../aspose.diagram/protection/lockaspect/) { get; } | Specifies whether the aspect ratio of the shape is locked. If locked, the shape can only be sized proportionally; it cannot be sized in a single dimension. |
+| [LockBegin](../../aspose.diagram/protection/lockbegin/) { get; } | Specifies whether the begin point of a 1-D shape is locked to a specific location. |
+| [LockCalcWH](../../aspose.diagram/protection/lockcalcwh/) { get; } | Specifies whether a shape's selection rectangle is locked so it cannot be recalculated when a vertex is edited or an element type is changed in the Geom element. |
+| [LockCrop](../../aspose.diagram/protection/lockcrop/) { get; } | Specifies whether a foreign object is locked against being cropped with the Crop tool in Microsoft Visio. |
+| [LockCustProp](../../aspose.diagram/protection/lockcustprop/) { get; } | Determines whether the user can add, delete, or modify custom properties in the user interface (UI) by using the Define Custom Properties dialog box. |
+| [LockDelete](../../aspose.diagram/protection/lockdelete/) { get; } | Specifies whether a shape is locked against being deleted. |
+| [LockEnd](../../aspose.diagram/protection/lockend/) { get; } | Specifies whether the end point of a 1-D shape is locked to a specific location. |
+| [LockFormat](../../aspose.diagram/protection/lockformat/) { get; } | Specifies whether the formatting of a shape is locked so it cannot be changed. Specifically, this element protects against changing text, line, and fill formatting, or changing which Style element the shape inherits from. |
+| [LockFromGroupFormat](../../aspose.diagram/protection/lockfromgroupformat/) { get; } | Allows a subshape to block formatting changes that get applied to a parent group shape in the Visio user interface and would otherwise cascade down to individual group shapes. |
+| [LockGroup](../../aspose.diagram/protection/lockgroup/) { get; } | Specifies whether a group is locked so that it cannot be ungrouped. |
+| [LockHeight](../../aspose.diagram/protection/lockheight/) { get; } | Specifies whether the height of the shape is locked. If locked, its height remains unchanged when the shape is resized. |
+| [LockMoveX](../../aspose.diagram/protection/lockmovex/) { get; } | Specifies whether the horizontal position of the shape is locked so that it cannot be moved horizontally. |
+| [LockMoveY](../../aspose.diagram/protection/lockmovey/) { get; } | Specifies whether the vertical position of the shape is locked so that it cannot be moved vertically. |
+| [LockRotate](../../aspose.diagram/protection/lockrotate/) { get; } | Specifies whether the shape is locked against being rotated with the Rotation tool or the Rotate Left or Rotate Right commands in Microsoft Visio. |
+| [LockSelect](../../aspose.diagram/protection/lockselect/) { get; } | Specifies whether a shape's selection rectangle is locked so it cannot be recalculated when a vertex is edited or an element type is changed in the Geom element. |
+| [LockTextEdit](../../aspose.diagram/protection/locktextedit/) { get; } | Specifies whether the text of a shape is locked so that it cannot be edited. However, the text may still be formatted by applying a style, using the Style options on the Font tab of the Text dialog box. |
+| [LockThemeColors](../../aspose.diagram/protection/lockthemecolors/) { get; } | Prevents users from applying theme colors to the shape. |
+| [LockThemeEffects](../../aspose.diagram/protection/lockthemeeffects/) { get; } | Prevents users from applying theme effects to the shape. |
+| [LockVtxEdit](../../aspose.diagram/protection/lockvtxedit/) { get; } | Specifies whether the vertices of a shape are locked so that they cannot be edited with any tools on the toolbar. |
+| [LockWidth](../../aspose.diagram/protection/lockwidth/) { get; } | Specifies whether the width of the shape is locked so that it remains unchanged when the shape is resized. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

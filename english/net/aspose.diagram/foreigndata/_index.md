@@ -1,7 +1,7 @@
 ---
-title: ForeignData
+title: Class ForeignData
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains a MIME Multipurpose Internet Mail Extensions encoded BLOB of picture data such as Windows metafile bitmap or OLE data.
+description: Aspose.Diagram.ForeignData class. Contains a MIME Multipurpose Internet Mail Extensions encoded BLOB of picture data such as Windows metafile bitmap or OLE data
 type: docs
 url: /net/aspose.diagram/foreigndata/
 ---
@@ -17,30 +17,30 @@ public class ForeignData
 
 | Name | Description |
 | --- | --- |
-| [CompressionLevel](../../aspose.diagram/foreigndata/compressionlevel) { get; set; } | This attribute is only meaningful if the foreign data is a raster-based foreign object, such as a DIB, JPG, PNG, TIFF, or GIF file. The value indicates the level of compression applied to the file. Compression level is measured in hundreds of a percent. |
-| [CompressionType](../../aspose.diagram/foreigndata/compressiontype) { get; set; } | This attribute is only meaningful if the foreign data is a raster-based foreign object, such as a DIB, JPG, PNG, TIFF, or GIF file. The value indicates the type of compression applied to the file. |
-| [ExtentX](../../aspose.diagram/foreigndata/extentx) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the horizontal extent of the metafile. |
-| [ExtentY](../../aspose.diagram/foreigndata/extenty) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the vertical extent of the metafile. |
-| [ForeignType](../../aspose.diagram/foreigndata/foreigntype) { get; set; } | Data type. |
-| [ImageData](../../aspose.diagram/foreigndata/imagedata) { get; set; } | Represents image of ole object as byte array. |
-| [MappingMode](../../aspose.diagram/foreigndata/mappingmode) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the metafile mapping mode. |
-| [ObjectData](../../aspose.diagram/foreigndata/objectdata) { get; set; } | Represents embedded ole object data as byte array. |
-| [ObjectHeight](../../aspose.diagram/foreigndata/objectheight) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. The value expresses the height of the object in page units. |
-| [ObjectSourceFullName](../../aspose.diagram/foreigndata/objectsourcefullname) { get; set; } | Returns the source full name of the source file for the linked OLE object. |
-| [ObjectType](../../aspose.diagram/foreigndata/objecttype) { get; set; } | If the ForeignType attribute is "Object", the ForeignData element must also have an ObjectType attribute. |
-| [ObjectWidth](../../aspose.diagram/foreigndata/objectwidth) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. The value expresses the width of the object in page units. |
-| [ShowAsIcon](../../aspose.diagram/foreigndata/showasicon) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. |
-| [Value](../../aspose.diagram/foreigndata/value) { get; set; } | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
+| [CompressionLevel](../../aspose.diagram/foreigndata/compressionlevel/) { get; set; } | This attribute is only meaningful if the foreign data is a raster-based foreign object, such as a DIB, JPG, PNG, TIFF, or GIF file. The value indicates the level of compression applied to the file. Compression level is measured in hundreds of a percent. |
+| [CompressionType](../../aspose.diagram/foreigndata/compressiontype/) { get; set; } | This attribute is only meaningful if the foreign data is a raster-based foreign object, such as a DIB, JPG, PNG, TIFF, or GIF file. The value indicates the type of compression applied to the file. |
+| [ExtentX](../../aspose.diagram/foreigndata/extentx/) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the horizontal extent of the metafile. |
+| [ExtentY](../../aspose.diagram/foreigndata/extenty/) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the vertical extent of the metafile. |
+| [ForeignType](../../aspose.diagram/foreigndata/foreigntype/) { get; set; } | Data type. |
+| [ImageData](../../aspose.diagram/foreigndata/imagedata/) { get; set; } | Represents image of ole object as byte array. |
+| [MappingMode](../../aspose.diagram/foreigndata/mappingmode/) { get; set; } | This attribute is only meaningful if the foreign data is a metafile. The value indicates the metafile mapping mode. |
+| [ObjectData](../../aspose.diagram/foreigndata/objectdata/) { get; set; } | Represents embedded ole object data as byte array. |
+| [ObjectHeight](../../aspose.diagram/foreigndata/objectheight/) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. The value expresses the height of the object in page units. |
+| [ObjectSourceFullName](../../aspose.diagram/foreigndata/objectsourcefullname/) { get; set; } | Returns the source full name of the source file for the linked OLE object. |
+| [ObjectType](../../aspose.diagram/foreigndata/objecttype/) { get; set; } | If the ForeignType attribute is "Object", the ForeignData element must also have an ObjectType attribute. |
+| [ObjectWidth](../../aspose.diagram/foreigndata/objectwidth/) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. The value expresses the width of the object in page units. |
+| [ShowAsIcon](../../aspose.diagram/foreigndata/showasicon/) { get; set; } | This attribute is only meaningful if the foreign data is an OLE2 embedded object. |
+| [Value](../../aspose.diagram/foreigndata/value/) { get; set; } | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/foreigndata/clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/foreigndata/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: PrintProps
+title: Class PrintProps
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains elements that control how the drawing page is formatted appears on the printer page.
+description: Aspose.Diagram.PrintProps class. Contains elements that control how the drawing page is formatted appears on the printer page
 type: docs
 url: /net/aspose.diagram/printprops/
 ---
@@ -17,26 +17,26 @@ public class PrintProps
 
 | Name | Description |
 | --- | --- |
-| [CenterX](../../aspose.diagram/printprops/centerx) { get; } | Determines whether the drawing page is centered horizontally on the printed page. |
-| [CenterY](../../aspose.diagram/printprops/centery) { get; } | Determines whether the drawing page is centered vertically on the printed page. |
-| [Del](../../aspose.diagram/printprops/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [OnPage](../../aspose.diagram/printprops/onpage) { get; } | Indicates whether the drawing is printed on a specific number of printer pages. |
-| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin) { get; } | Specifies the margin at the bottom of the printed page. |
-| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin) { get; } | Specifies the margin at the left of the printed page. |
-| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin) { get; } | Specifies the margin at the right of the printed page. |
-| [PagesX](../../aspose.diagram/printprops/pagesx) { get; } | Determines the number of printer pages on which to fit the drawing page horizontally. |
-| [PagesY](../../aspose.diagram/printprops/pagesy) { get; } | Determines the number of printer pages on which to fit the drawing page vertically. |
-| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin) { get; } | Specifies the margin at the top of the printer page. |
-| [PaperKind](../../aspose.diagram/printprops/paperkind) { get; } | Specifies the type of paper on which to print the page. |
-| [PaperSource](../../aspose.diagram/printprops/papersource) { get; } | Determines the paper source for the page. |
-| [PrintGrid](../../aspose.diagram/printprops/printgrid) { get; } | Specifies whether to print the grid when printing a document page. |
-| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation) { get; } | Determines whether the page is printed in portrait or landscape orientation. |
-| [ScaleX](../../aspose.diagram/printprops/scalex) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the x (horizontal) direction. |
-| [ScaleY](../../aspose.diagram/printprops/scaley) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the y (vertical) direction. |
+| [CenterX](../../aspose.diagram/printprops/centerx/) { get; } | Determines whether the drawing page is centered horizontally on the printed page. |
+| [CenterY](../../aspose.diagram/printprops/centery/) { get; } | Determines whether the drawing page is centered vertically on the printed page. |
+| [Del](../../aspose.diagram/printprops/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [OnPage](../../aspose.diagram/printprops/onpage/) { get; } | Indicates whether the drawing is printed on a specific number of printer pages. |
+| [PageBottomMargin](../../aspose.diagram/printprops/pagebottommargin/) { get; } | Specifies the margin at the bottom of the printed page. |
+| [PageLeftMargin](../../aspose.diagram/printprops/pageleftmargin/) { get; } | Specifies the margin at the left of the printed page. |
+| [PageRightMargin](../../aspose.diagram/printprops/pagerightmargin/) { get; } | Specifies the margin at the right of the printed page. |
+| [PagesX](../../aspose.diagram/printprops/pagesx/) { get; } | Determines the number of printer pages on which to fit the drawing page horizontally. |
+| [PagesY](../../aspose.diagram/printprops/pagesy/) { get; } | Determines the number of printer pages on which to fit the drawing page vertically. |
+| [PageTopMargin](../../aspose.diagram/printprops/pagetopmargin/) { get; } | Specifies the margin at the top of the printer page. |
+| [PaperKind](../../aspose.diagram/printprops/paperkind/) { get; } | Specifies the type of paper on which to print the page. |
+| [PaperSource](../../aspose.diagram/printprops/papersource/) { get; } | Determines the paper source for the page. |
+| [PrintGrid](../../aspose.diagram/printprops/printgrid/) { get; } | Specifies whether to print the grid when printing a document page. |
+| [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation/) { get; } | Determines whether the page is printed in portrait or landscape orientation. |
+| [ScaleX](../../aspose.diagram/printprops/scalex/) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the x (horizontal) direction. |
+| [ScaleY](../../aspose.diagram/printprops/scaley/) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the y (vertical) direction. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

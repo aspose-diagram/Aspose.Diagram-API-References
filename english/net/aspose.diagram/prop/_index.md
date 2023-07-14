@@ -1,7 +1,7 @@
 ---
-title: Prop
+title: Class Prop
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains elements for defining custom properties and elements for associating data with a shape.
+description: Aspose.Diagram.Prop class. Contains elements for defining custom properties and elements for associating data with a shape
 type: docs
 url: /net/aspose.diagram/prop/
 ---
@@ -17,37 +17,37 @@ public class Prop
 
 | Name | Description |
 | --- | --- |
-| [Prop](prop)() | Constructor. |
+| [Prop](prop/)() | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Calendar](../../aspose.diagram/prop/calendar) { get; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
-| [Del](../../aspose.diagram/prop/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [Format](../../aspose.diagram/prop/format) { get; } | Format element specifies the formatting of a custom property that is a string, fixed list, number, variable list, date or time, duration, or currency. The custom property type is specified in the corresponding Type element. |
-| [ID](../../aspose.diagram/prop/id) { get; set; } | The unique ID of the element within its parent element. |
-| [Invisible](../../aspose.diagram/prop/invisible) { get; } | Invisible element specifies whether the custom property is visible in the Custom Properties dialog box in Microsoft Visio. |
-| [IX](../../aspose.diagram/prop/ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Label](../../aspose.diagram/prop/label) { get; } | Specifies the label that appears to users in the Custom Properties dialog box. |
-| [LangID](../../aspose.diagram/prop/langid) { get; } | Indicates the locale ID (LCID) of the language in which the cell formula, text, custom property, or comment was entered. |
-| [Name](../../aspose.diagram/prop/name) { get; set; } | The name of the element. |
-| [NameU](../../aspose.diagram/prop/nameu) { get; set; } | The universal name of the element. |
-| [Prompt](../../aspose.diagram/prop/prompt) { get; } | Prompt element specifies descriptive or instructional text that appears to users in the Custom Properties dialog box when the property is selected. This text also appears as a tool tip when the mouse pointer is paused over the property in the Custom Properties window. |
-| [SortKey](../../aspose.diagram/prop/sortkey) { get; } | It specifies a key that determines the order in which custom properties are listed in the application's user interface. |
-| [Type](../../aspose.diagram/prop/type) { get; } | Type specifies a data type for the custom property value. |
-| [Value](../../aspose.diagram/prop/value) { get; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
-| [Verify](../../aspose.diagram/prop/verify) { get; } | Specifies whether the user is queried to enter custom property information for a shape when an instance is created or the shape is duplicated or copied. |
+| [Calendar](../../aspose.diagram/prop/calendar/) { get; } | Determines the calendar that is used for custom properties, text fields, and element formulas. |
+| [Del](../../aspose.diagram/prop/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [Format](../../aspose.diagram/prop/format/) { get; } | Format element specifies the formatting of a custom property that is a string, fixed list, number, variable list, date or time, duration, or currency. The custom property type is specified in the corresponding Type element. |
+| [ID](../../aspose.diagram/prop/id/) { get; set; } | The unique ID of the element within its parent element. |
+| [Invisible](../../aspose.diagram/prop/invisible/) { get; } | Invisible element specifies whether the custom property is visible in the Custom Properties dialog box in Microsoft Visio. |
+| [IX](../../aspose.diagram/prop/ix/) { get; set; } | The zero-based index of the element within its parent element. |
+| [Label](../../aspose.diagram/prop/label/) { get; } | Specifies the label that appears to users in the Custom Properties dialog box. |
+| [LangID](../../aspose.diagram/prop/langid/) { get; } | Indicates the locale ID (LCID) of the language in which the cell formula, text, custom property, or comment was entered. |
+| [Name](../../aspose.diagram/prop/name/) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/prop/nameu/) { get; set; } | The universal name of the element. |
+| [Prompt](../../aspose.diagram/prop/prompt/) { get; } | Prompt element specifies descriptive or instructional text that appears to users in the Custom Properties dialog box when the property is selected. This text also appears as a tool tip when the mouse pointer is paused over the property in the Custom Properties window. |
+| [SortKey](../../aspose.diagram/prop/sortkey/) { get; } | It specifies a key that determines the order in which custom properties are listed in the application's user interface. |
+| [Type](../../aspose.diagram/prop/type/) { get; } | Type specifies a data type for the custom property value. |
+| [Value](../../aspose.diagram/prop/value/) { get; } | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document. |
+| [Verify](../../aspose.diagram/prop/verify/) { get; } | Specifies whether the user is queried to enter custom property information for a shape when an instance is created or the shape is duplicated or copied. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/prop/clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/prop/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

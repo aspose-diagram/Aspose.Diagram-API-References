@@ -1,7 +1,7 @@
 ---
-title: SpinButtonActiveXControl
+title: Class SpinButtonActiveXControl
 second_title: Aspose.Diagram for .NET API Reference
-description: Represents the SpinButton control.
+description: Aspose.Diagram.ActiveXControls.SpinButtonActiveXControl class. Represents the SpinButton control
 type: docs
 url: /net/aspose.diagram.activexcontrols/spinbuttonactivexcontrol/
 ---
@@ -17,29 +17,29 @@ public class SpinButtonActiveXControl : ActiveXControl
 
 | Name | Description |
 | --- | --- |
-| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor) { get; set; } | Gets and sets the ole color of the background. |
-| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data) { get; } | Gets and sets the binary data of the control. |
-| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor) { get; set; } | Gets and sets the ole color of the foreground. |
-| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height) { get; set; } | Gets and sets the height of the control in unit of points. |
-| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode) { get; set; } | Gets and sets the default run-time mode of the Input Method Editor for the control as it receives focus. |
-| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize) { get; set; } | Indicates whether the control will automatically resize to display its entire contents. |
-| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled) { get; set; } | Indicates whether the control can receive the focus and respond to user-generated events. |
-| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked) { get; set; } | Indicates whether data in the control is locked for editing. |
-| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent) { get; set; } | Indicates whether the control is transparent. |
-| [Max](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/max) { get; set; } | Gets and sets the maximum acceptable value. |
-| [Min](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/min) { get; set; } | Gets and sets the minimum acceptable value. |
-| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon) { get; set; } | Gets and sets a custom icon to display as the mouse pointer for the control. |
-| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
-| [Orientation](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/orientation) { get; set; } | Gets and sets whether the SpinButton or ScrollBar is oriented vertically or horizontally. |
-| [Position](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/position) { get; set; } | Gets and sets the value. |
-| [SmallChange](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/smallchange) { get; set; } | Gets and sets the amount by which the Position property changes |
-| override [Type](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/type) { get; } | Gets the type of the ActiveX control. |
-| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width) { get; set; } | Gets and sets the width of the control in unit of point. |
+| [BackOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/backolecolor/) { get; set; } | Gets and sets the ole color of the background. |
+| override [Data](../../aspose.diagram.activexcontrols/activexcontrol/data/) { get; } | Gets and sets the binary data of the control. |
+| virtual [ForeOleColor](../../aspose.diagram.activexcontrols/activexcontrolbase/foreolecolor/) { get; set; } | Gets and sets the ole color of the foreground. |
+| virtual [Height](../../aspose.diagram.activexcontrols/activexcontrolbase/height/) { get; set; } | Gets and sets the height of the control in unit of points. |
+| [IMEMode](../../aspose.diagram.activexcontrols/activexcontrol/imemode/) { get; set; } | Gets and sets the default run-time mode of the Input Method Editor for the control as it receives focus. |
+| virtual [IsAutoSize](../../aspose.diagram.activexcontrols/activexcontrol/isautosize/) { get; set; } | Indicates whether the control will automatically resize to display its entire contents. |
+| [IsEnabled](../../aspose.diagram.activexcontrols/activexcontrol/isenabled/) { get; set; } | Indicates whether the control can receive the focus and respond to user-generated events. |
+| [IsLocked](../../aspose.diagram.activexcontrols/activexcontrol/islocked/) { get; set; } | Indicates whether data in the control is locked for editing. |
+| [IsTransparent](../../aspose.diagram.activexcontrols/activexcontrol/istransparent/) { get; set; } | Indicates whether the control is transparent. |
+| [Max](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/max/) { get; set; } | Gets and sets the maximum acceptable value. |
+| [Min](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/min/) { get; set; } | Gets and sets the minimum acceptable value. |
+| [MouseIcon](../../aspose.diagram.activexcontrols/activexcontrolbase/mouseicon/) { get; set; } | Gets and sets a custom icon to display as the mouse pointer for the control. |
+| [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
+| [Orientation](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/orientation/) { get; set; } | Gets and sets whether the SpinButton or ScrollBar is oriented vertically or horizontally. |
+| [Position](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/position/) { get; set; } | Gets and sets the value. |
+| [SmallChange](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/smallchange/) { get; set; } | Gets and sets the amount by which the Position property changes |
+| override [Type](../../aspose.diagram.activexcontrols/spinbuttonactivexcontrol/type/) { get; } | Gets the type of the ActiveX control. |
+| virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Gets and sets the width of the control in unit of point. |
 
 ### See Also
 
-* class [ActiveXControl](../activexcontrol)
-* namespace [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols)
+* class [ActiveXControl](../activexcontrol/)
+* namespace [Aspose.Diagram.ActiveXControls](../../aspose.diagram.activexcontrols/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

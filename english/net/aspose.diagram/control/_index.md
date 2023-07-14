@@ -1,7 +1,7 @@
 ---
-title: Control
+title: Class Control
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains elements for the x and ycoordinates of each control handle defined for a shape and elements that specify the way the control handle should behave.
+description: Aspose.Diagram.Control class. Contains elements for the x and ycoordinates of each control handle defined for a shape and elements that specify the way the control handle should behave
 type: docs
 url: /net/aspose.diagram/control/
 ---
@@ -17,35 +17,35 @@ public class Control : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Control](control)() | Constructor. |
+| [Control](control/)() | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CanGlue](../../aspose.diagram/control/canglue) { get; set; } | Determines whether a control handle can be glued to other shapes. |
-| [Del](../../aspose.diagram/control/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [ID](../../aspose.diagram/control/id) { get; set; } | The unique ID of the element within its parent element. |
-| [IX](../../aspose.diagram/control/ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Name](../../aspose.diagram/control/name) { get; set; } | The name of the element. |
-| [NameU](../../aspose.diagram/control/nameu) { get; set; } | The universal name of the element. |
-| [Prompt](../../aspose.diagram/control/prompt) { get; set; } | Prompt element specifies descriptive text that appears as a tool tip when the mouse pointer is paused over a shape's control handle. |
-| [X](../../aspose.diagram/control/x) { get; set; } | The x-coordinate that indicates the location of a shape's control handle. |
-| [XCon](../../aspose.diagram/control/xcon) { get; set; } | Specifies the type of behavior the x-coordinate of the control handle exhibits after the handle is moved. |
-| [XDyn](../../aspose.diagram/control/xdyn) { get; set; } | Specifies the x-coordinate for a control handle's anchor point in local coordinates. The anchor point is used for rubber-banding during dynamics. |
-| [Y](../../aspose.diagram/control/y) { get; set; } | The y-coordinate that indicates the location of a shape's control handle. |
-| [YCon](../../aspose.diagram/control/ycon) { get; set; } | Specifies the type of behavior the x-coordinate of the control handle exhibits after the handle is moved. |
-| [YDyn](../../aspose.diagram/control/ydyn) { get; set; } | Specifies the y-coordinate for a control handle's anchor point in local coordinates. The anchor point is used for rubber-banding during dynamics. |
+| [CanGlue](../../aspose.diagram/control/canglue/) { get; set; } | Determines whether a control handle can be glued to other shapes. |
+| [Del](../../aspose.diagram/control/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [ID](../../aspose.diagram/control/id/) { get; set; } | The unique ID of the element within its parent element. |
+| [IX](../../aspose.diagram/control/ix/) { get; set; } | The zero-based index of the element within its parent element. |
+| [Name](../../aspose.diagram/control/name/) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/control/nameu/) { get; set; } | The universal name of the element. |
+| [Prompt](../../aspose.diagram/control/prompt/) { get; set; } | Prompt element specifies descriptive text that appears as a tool tip when the mouse pointer is paused over a shape's control handle. |
+| [X](../../aspose.diagram/control/x/) { get; set; } | The x-coordinate that indicates the location of a shape's control handle. |
+| [XCon](../../aspose.diagram/control/xcon/) { get; set; } | Specifies the type of behavior the x-coordinate of the control handle exhibits after the handle is moved. |
+| [XDyn](../../aspose.diagram/control/xdyn/) { get; set; } | Specifies the x-coordinate for a control handle's anchor point in local coordinates. The anchor point is used for rubber-banding during dynamics. |
+| [Y](../../aspose.diagram/control/y/) { get; set; } | The y-coordinate that indicates the location of a shape's control handle. |
+| [YCon](../../aspose.diagram/control/ycon/) { get; set; } | Specifies the type of behavior the x-coordinate of the control handle exhibits after the handle is moved. |
+| [YDyn](../../aspose.diagram/control/ydyn/) { get; set; } | Specifies the y-coordinate for a control handle's anchor point in local coordinates. The anchor point is used for rubber-banding during dynamics. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/control/clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/control/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

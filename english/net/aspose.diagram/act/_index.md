@@ -1,7 +1,7 @@
 ---
-title: Act
+title: Class Act
 second_title: Aspose.Diagram for .NET API Reference
-description: Defines custom command names that appear on an objects shortcut menu and specifies the actions that the commands take.
+description: Aspose.Diagram.Act class. Defines custom command names that appear on an objects shortcut menu and specifies the actions that the commands take
 type: docs
 url: /net/aspose.diagram/act/
 ---
@@ -17,38 +17,38 @@ public class Act
 
 | Name | Description |
 | --- | --- |
-| [Act](act)() | Constructor. |
+| [Act](act/)() | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Action](../../aspose.diagram/act/action) { get; } | Contains the formula to execute when a user clicks the command name defined in the corresponding Menu element. |
-| [BeginGroup](../../aspose.diagram/act/begingroup) { get; } | Indicates whether a separator is inserted into the menu above this action. |
-| [ButtonFace](../../aspose.diagram/act/buttonface) { get; } | It identifies the icon that appears next to an item on a shortcut menu. |
-| [Checked](../../aspose.diagram/act/checked) { get; } | Determines whether a check mark is displayed beside the command name on a shape's shortcut menu. |
-| [Del](../../aspose.diagram/act/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [Disabled](../../aspose.diagram/act/disabled) { get; } | Disabled element determines whether the command name is displayed on the shortcut menu. |
-| [FlyoutChild](../../aspose.diagram/act/flyoutchild) { get; } | Determines whether the action row is a child flyout menu of the last row above it that is not a flyout child. |
-| [ID](../../aspose.diagram/act/id) { get; set; } | The unique ID of the element within its parent element. |
-| [Invisible](../../aspose.diagram/act/invisible) { get; } | Invisible element indicates whether the action is visible on the smart tag or shortcut menu. |
-| [IX](../../aspose.diagram/act/ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Menu](../../aspose.diagram/act/menu) { get; } | Specifies the name of the command that appears on the shortcut menu for a shape or page. |
-| [Name](../../aspose.diagram/act/name) { get; set; } | The name of the element. |
-| [NameU](../../aspose.diagram/act/nameu) { get; set; } | The universal name of the element. |
-| [ReadOnly](../../aspose.diagram/act/readonly) { get; } | Determines whether the action on a smart tag or shortcut menu is read-only. |
-| [SortKey](../../aspose.diagram/act/sortkey) { get; } | It specifies a number that determines the order of actions that appear on a shortcut or smart tag menu. |
-| [TagName](../../aspose.diagram/act/tagname) { get; } | It contains the name of the smart tag that the action is associated with. |
+| [Action](../../aspose.diagram/act/action/) { get; } | Contains the formula to execute when a user clicks the command name defined in the corresponding Menu element. |
+| [BeginGroup](../../aspose.diagram/act/begingroup/) { get; } | Indicates whether a separator is inserted into the menu above this action. |
+| [ButtonFace](../../aspose.diagram/act/buttonface/) { get; } | It identifies the icon that appears next to an item on a shortcut menu. |
+| [Checked](../../aspose.diagram/act/checked/) { get; } | Determines whether a check mark is displayed beside the command name on a shape's shortcut menu. |
+| [Del](../../aspose.diagram/act/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [Disabled](../../aspose.diagram/act/disabled/) { get; } | Disabled element determines whether the command name is displayed on the shortcut menu. |
+| [FlyoutChild](../../aspose.diagram/act/flyoutchild/) { get; } | Determines whether the action row is a child flyout menu of the last row above it that is not a flyout child. |
+| [ID](../../aspose.diagram/act/id/) { get; set; } | The unique ID of the element within its parent element. |
+| [Invisible](../../aspose.diagram/act/invisible/) { get; } | Invisible element indicates whether the action is visible on the smart tag or shortcut menu. |
+| [IX](../../aspose.diagram/act/ix/) { get; set; } | The zero-based index of the element within its parent element. |
+| [Menu](../../aspose.diagram/act/menu/) { get; } | Specifies the name of the command that appears on the shortcut menu for a shape or page. |
+| [Name](../../aspose.diagram/act/name/) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/act/nameu/) { get; set; } | The universal name of the element. |
+| [ReadOnly](../../aspose.diagram/act/readonly/) { get; } | Determines whether the action on a smart tag or shortcut menu is read-only. |
+| [SortKey](../../aspose.diagram/act/sortkey/) { get; } | It specifies a number that determines the order of actions that appear on a shortcut or smart tag menu. |
+| [TagName](../../aspose.diagram/act/tagname/) { get; } | It contains the name of the smart tag that the action is associated with. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/act/clone)() | Creates deep copy of this instance. |
+| [Clone](../../aspose.diagram/act/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+
