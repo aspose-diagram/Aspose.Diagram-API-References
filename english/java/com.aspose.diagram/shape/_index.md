@@ -64,6 +64,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getInheritChars()](#getInheritChars--) | Contains the char values for the shape inherit by the master shape. |
 | [getInheritFill()](#getInheritFill--) | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [getInheritGeoms()](#getInheritGeoms--) | Contains the Geoms values for the shape inherit by the master shape. |
+| [getInheritGroup()](#getInheritGroup--) |  |
 | [getInheritLine()](#getInheritLine--) | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
 | [getInheritParas()](#getInheritParas--) | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [getInheritProps()](#getInheritProps--) | Contains the props for the shape inherit by the master shape. |
@@ -589,6 +590,16 @@ Contains the Geoms values for the shape inherit by the master shape.
 
 **Returns:**
 [GeomCollection](../../com.aspose.diagram/geomcollection)
+### getInheritGroup() {#getInheritGroup--}
+```
+public Group getInheritGroup()
+```
+
+
+
+
+**Returns:**
+[Group](../../com.aspose.diagram/group)
 ### getInheritLine() {#getInheritLine--}
 ```
 public Line getInheritLine()

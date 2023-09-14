@@ -31,6 +31,12 @@ Contains elements that control how you add shapes to a group, move members of a 
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setDel(int value)](#setDel-int-) | For the description of this property, please see [getDel()](../../com.aspose.diagram/group\#getDel--) |
+| [setDisplayMode(DisplayMode value)](#setDisplayMode-com.aspose.diagram.DisplayMode-) | For the description of this property, please see [getDisplayMode()](../../com.aspose.diagram/group\#getDisplayMode--) |
+| [setDontMoveChildren(BoolValue value)](#setDontMoveChildren-com.aspose.diagram.BoolValue-) | For the description of this property, please see [getDontMoveChildren()](../../com.aspose.diagram/group\#getDontMoveChildren--) |
+| [setDropTarget(BoolValue value)](#setDropTarget-com.aspose.diagram.BoolValue-) | For the description of this property, please see [isDropTarget()](../../com.aspose.diagram/group\#isDropTarget--) |
+| [setSelectMode(SelectMode value)](#setSelectMode-com.aspose.diagram.SelectMode-) | For the description of this property, please see [getSelectMode()](../../com.aspose.diagram/group\#getSelectMode--) |
+| [setSnapTarget(BoolValue value)](#setSnapTarget-com.aspose.diagram.BoolValue-) | For the description of this property, please see [isSnapTarget()](../../com.aspose.diagram/group\#isSnapTarget--) |
+| [setTextEditTarget(BoolValue value)](#setTextEditTarget-com.aspose.diagram.BoolValue-) | For the description of this property, please see [isTextEditTarget()](../../com.aspose.diagram/group\#isTextEditTarget--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -168,6 +174,84 @@ For the description of this property, please see [getDel()](../../com.aspose.dia
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setDisplayMode(DisplayMode value) {#setDisplayMode-com.aspose.diagram.DisplayMode-}
+```
+public void setDisplayMode(DisplayMode value)
+```
+
+
+For the description of this property, please see [getDisplayMode()](../../com.aspose.diagram/group\#getDisplayMode--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [DisplayMode](../../com.aspose.diagram/displaymode) |  |
+
+### setDontMoveChildren(BoolValue value) {#setDontMoveChildren-com.aspose.diagram.BoolValue-}
+```
+public void setDontMoveChildren(BoolValue value)
+```
+
+
+For the description of this property, please see [getDontMoveChildren()](../../com.aspose.diagram/group\#getDontMoveChildren--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BoolValue](../../com.aspose.diagram/boolvalue) |  |
+
+### setDropTarget(BoolValue value) {#setDropTarget-com.aspose.diagram.BoolValue-}
+```
+public void setDropTarget(BoolValue value)
+```
+
+
+For the description of this property, please see [isDropTarget()](../../com.aspose.diagram/group\#isDropTarget--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BoolValue](../../com.aspose.diagram/boolvalue) |  |
+
+### setSelectMode(SelectMode value) {#setSelectMode-com.aspose.diagram.SelectMode-}
+```
+public void setSelectMode(SelectMode value)
+```
+
+
+For the description of this property, please see [getSelectMode()](../../com.aspose.diagram/group\#getSelectMode--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [SelectMode](../../com.aspose.diagram/selectmode) |  |
+
+### setSnapTarget(BoolValue value) {#setSnapTarget-com.aspose.diagram.BoolValue-}
+```
+public void setSnapTarget(BoolValue value)
+```
+
+
+For the description of this property, please see [isSnapTarget()](../../com.aspose.diagram/group\#isSnapTarget--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BoolValue](../../com.aspose.diagram/boolvalue) |  |
+
+### setTextEditTarget(BoolValue value) {#setTextEditTarget-com.aspose.diagram.BoolValue-}
+```
+public void setTextEditTarget(BoolValue value)
+```
+
+
+For the description of this property, please see [isTextEditTarget()](../../com.aspose.diagram/group\#isTextEditTarget--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BoolValue](../../com.aspose.diagram/boolvalue) |  |
 
 ### toString() {#toString--}
 ```
