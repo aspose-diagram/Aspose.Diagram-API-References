@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/issnaptarget/
 Specifies whether snapping to a group or to shapes within the group is enabled.
 
 ```csharp
-public BoolValue IsSnapTarget { get; }
+public BoolValue IsSnapTarget { get; set; }
 ```
 
 ### See Also

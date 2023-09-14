@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/istextedittarget/
 Specifies how to assign text to a group.
 
 ```csharp
-public BoolValue IsTextEditTarget { get; }
+public BoolValue IsTextEditTarget { get; set; }
 ```
 
 ### See Also

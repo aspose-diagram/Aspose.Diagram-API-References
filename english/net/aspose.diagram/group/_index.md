@@ -18,12 +18,12 @@ public class Group
 | Name | Description |
 | --- | --- |
 | [Del](../../aspose.diagram/group/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [DisplayMode](../../aspose.diagram/group/displaymode/) { get; } | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
-| [DontMoveChildren](../../aspose.diagram/group/dontmovechildren/) { get; } | Specifies whether you can drag shapes in a group by using the mouse. |
-| [IsDropTarget](../../aspose.diagram/group/isdroptarget/) { get; } | Specifies whether the group allows a shape to be added to it when the shape is dropped on the group. |
-| [IsSnapTarget](../../aspose.diagram/group/issnaptarget/) { get; } | Specifies whether snapping to a group or to shapes within the group is enabled. |
-| [IsTextEditTarget](../../aspose.diagram/group/istextedittarget/) { get; } | Specifies how to assign text to a group. |
-| [SelectMode](../../aspose.diagram/group/selectmode/) { get; } | Specifies how the user selects a group shape and its members. |
+| [DisplayMode](../../aspose.diagram/group/displaymode/) { get; set; } | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
+| [DontMoveChildren](../../aspose.diagram/group/dontmovechildren/) { get; set; } | Specifies whether you can drag shapes in a group by using the mouse. |
+| [IsDropTarget](../../aspose.diagram/group/isdroptarget/) { get; set; } | Specifies whether the group allows a shape to be added to it when the shape is dropped on the group. |
+| [IsSnapTarget](../../aspose.diagram/group/issnaptarget/) { get; set; } | Specifies whether snapping to a group or to shapes within the group is enabled. |
+| [IsTextEditTarget](../../aspose.diagram/group/istextedittarget/) { get; set; } | Specifies how to assign text to a group. |
+| [SelectMode](../../aspose.diagram/group/selectmode/) { get; set; } | Specifies how the user selects a group shape and its members. |
 
 ### See Also
 

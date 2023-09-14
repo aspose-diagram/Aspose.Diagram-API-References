@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/isdroptarget/
 Specifies whether the group allows a shape to be added to it when the shape is dropped on the group.
 
 ```csharp
-public BoolValue IsDropTarget { get; }
+public BoolValue IsDropTarget { get; set; }
 ```
 
 ### See Also

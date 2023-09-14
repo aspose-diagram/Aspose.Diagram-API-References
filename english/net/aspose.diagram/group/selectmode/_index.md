@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/selectmode/
 Specifies how the user selects a group shape and its members.
 
 ```csharp
-public SelectMode SelectMode { get; }
+public SelectMode SelectMode { get; set; }
 ```
 
 ### See Also

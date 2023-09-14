@@ -1,32 +1,10 @@
 ---
 title: Shape.ToHTML
 second_title: Aspose.Diagram for .NET API Reference
-description: Shape method. Creates the html and saves it to a file
+description: Shape method. Creates the shape html and saves it to a stream in the specified format
 type: docs
 url: /net/aspose.diagram/shape/tohtml/
 ---
-## ToHTML(string, HTMLSaveOptions) {#tohtml_1}
-
-Creates the html and saves it to a file.
-
-```csharp
-public void ToHTML(string fileName, HTMLSaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | String | The file name with full path. |
-| options | HTMLSaveOptions | html save options |
-
-### See Also
-
-* class [HTMLSaveOptions](../../../aspose.diagram.saving/htmlsaveoptions/)
-* class [Shape](../)
-* namespace [Aspose.Diagram](../../shape/)
-* assembly [Aspose.Diagram](../../../)
-
----
-
 ## ToHTML(Stream, HTMLSaveOptions) {#tohtml}
 
 Creates the shape html and saves it to a stream in the specified format.
@@ -39,6 +17,28 @@ public void ToHTML(Stream stream, HTMLSaveOptions options)
 | --- | --- | --- |
 | stream | Stream | The output stream. |
 | options | HTMLSaveOptions | Addtional html creation options |
+
+### See Also
+
+* class [HTMLSaveOptions](../../../aspose.diagram.saving/htmlsaveoptions/)
+* class [Shape](../)
+* namespace [Aspose.Diagram](../../shape/)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## ToHTML(string, HTMLSaveOptions) {#tohtml_1}
+
+Creates the html and saves it to a file.
+
+```csharp
+public void ToHTML(string fileName, HTMLSaveOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | String | The file name with full path. |
+| options | HTMLSaveOptions | html save options |
 
 ### See Also
 

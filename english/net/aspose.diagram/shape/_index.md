@@ -52,6 +52,7 @@ public class Shape
 | [InheritChars](../../aspose.diagram/shape/inheritchars/) { get; } | Contains the char values for the shape inherit by the master shape. |
 | [InheritFill](../../aspose.diagram/shape/inheritfill/) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritGeoms](../../aspose.diagram/shape/inheritgeoms/) { get; } | Contains the Geoms values for the shape inherit by the master shape. |
+| [InheritGroup](../../aspose.diagram/shape/inheritgroup/) { get; } |  |
 | [InheritLine](../../aspose.diagram/shape/inheritline/) { get; } | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritParas](../../aspose.diagram/shape/inheritparas/) { get; } | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [InheritProps](../../aspose.diagram/shape/inheritprops/) { get; } | Contains the props for the shape inherit by the master shape. |

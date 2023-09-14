@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/displaymode/
 When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed.
 
 ```csharp
-public DisplayMode DisplayMode { get; }
+public DisplayMode DisplayMode { get; set; }
 ```
 
 ### See Also

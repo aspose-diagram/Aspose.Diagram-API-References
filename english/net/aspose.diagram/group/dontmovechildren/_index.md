@@ -10,7 +10,7 @@ url: /net/aspose.diagram/group/dontmovechildren/
 Specifies whether you can drag shapes in a group by using the mouse.
 
 ```csharp
-public BoolValue DontMoveChildren { get; }
+public BoolValue DontMoveChildren { get; set; }
 ```
 
 ### See Also
