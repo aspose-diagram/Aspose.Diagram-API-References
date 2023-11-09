@@ -66,6 +66,12 @@ public enum FileFormatType
 | XML | `45` | Represents an simple xml file. |
 | SLDX | `46` | Represents a sldx file. |
 | Pptx | `47` | Represents a pptx file. |
+| Bmp | `54` | Represents a BMP file. |
+| Emf | `258` | Windows Enhanced Metafile. |
+| Wmf | `259` | Windows Metafile. |
+| Jpg | `261` | JPEG JFIF. |
+| Png | `262` | Portable Network Graphics. |
+| Gif | `322` | Gif |
 
 ### See Also
 

@@ -357,6 +357,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [PropType](./proptype/) | Type of Property. |
 | [RectangleAlignmentType](./rectanglealignmenttype/) | Represents how to position two rectangles relative to each other. |
 | [ReflectionEffectType](./reflectioneffecttype/) |  |
+| [RelationFlag](./relationflag/) | Stores the relationships between shapes. |
 | [RemoveHiddenInfoItem](./removehiddeninfoitem/) | Specifies the remove hidden info for the diagram. |
 | [ResizeModeValue](./resizemodevalue/) | Specifies the current resize behavior setting for the shape when contained in a group. |
 | [RotationTypeValue](./rotationtypevalue/) | Specifies the type of projection of the effect properties of a shape |

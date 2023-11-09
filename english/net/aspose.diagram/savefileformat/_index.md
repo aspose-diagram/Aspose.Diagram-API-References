@@ -18,47 +18,26 @@ public enum SaveFileFormat
 | Name | Value | Description |
 | --- | --- | --- |
 | Vdx | `0` | MS Visio Vdx xml format. |
-| VDX | `0` |  |
 | Vsx | `1` | MS Visio Vsx xml stencil format. |
-| VSX | `1` |  |
 | Vtx | `2` | MS Visio Vst xml template format. |
-| VTX | `2` |  |
 | Tiff | `3` | Tiff image format. |
-| TIFF | `3` |  |
 | Png | `4` | Png image format. |
-| PNG | `4` |  |
 | Bmp | `5` | Bmp image format. |
-| BMP | `5` |  |
 | Emf | `6` | EMF image format. |
-| EMF | `6` |  |
 | Jpeg | `7` | Jpeg image format. |
-| JPEG | `7` |  |
 | Pdf | `8` | Pdf format. |
-| PDF | `8` |  |
 | Xps | `9` | Xps format. |
-| XPS | `9` |  |
 | Gif | `10` | Gif format. |
-| GIF | `10` |  |
 | Html | `11` | Html format. |
-| HTML | `11` |  |
 | Svg | `12` | Svg format. |
-| SVG | `12` |  |
 | Swf | `13` | Swf format. |
-| SWF | `13` |  |
 | Xaml | `14` | Xaml format. |
-| XAML | `14` |  |
 | Vsdx | `15` | MS Visio 2013 Vsdx file format. |
-| VSDX | `15` |  |
 | Vstx | `16` | MS Visio 2013 Vstx file format,Template file. |
-| VSTX | `16` |  |
 | Vssx | `17` | MS Visio 2013 Vssx file format |
-| VSSX | `17` |  |
 | Vsdm | `18` | MS Visio Vsdm file format which enable macros. |
-| VSDM | `18` |  |
 | Vssm | `19` | MS Visio Vssm file format which enable macros. |
-| VSSM | `19` |  |
 | Vstm | `20` | MS Visio Vstm file format which enable macros. |
-| VSTM | `20` |  |
 | Csv | `21` | Comma-Separated Values(CSV) text file. |
 
 ### See Also
