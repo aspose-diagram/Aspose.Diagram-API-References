@@ -3,7 +3,7 @@ title: SelectModeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how the user selects a group shape and its members.
 type: docs
-weight: 354
+weight: 355
 url: /java/com.aspose.diagram/selectmodevalue/
 ---
 

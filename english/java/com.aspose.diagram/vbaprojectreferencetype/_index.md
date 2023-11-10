@@ -3,7 +3,7 @@ title: VbaProjectReferenceType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the type of VBA project reference.
 type: docs
-weight: 437
+weight: 438
 url: /java/com.aspose.diagram/vbaprojectreferencetype/
 ---
 

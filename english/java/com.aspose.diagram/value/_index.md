@@ -3,7 +3,7 @@ title: Value
 second_title: Aspose.Diagram for Java API Reference
 description: Value.
 type: docs
-weight: 430
+weight: 431
 url: /java/com.aspose.diagram/value/
 ---
 

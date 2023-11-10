@@ -3,7 +3,7 @@ title: TextDirection
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the direction of the characters in a text block.
 type: docs
-weight: 403
+weight: 404
 url: /java/com.aspose.diagram/textdirection/
 ---
 

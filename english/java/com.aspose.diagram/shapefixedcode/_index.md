@@ -3,7 +3,7 @@ title: ShapeFixedCode
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies placement behavior for a placeable shape.
 type: docs
-weight: 357
+weight: 358
 url: /java/com.aspose.diagram/shapefixedcode/
 ---
 

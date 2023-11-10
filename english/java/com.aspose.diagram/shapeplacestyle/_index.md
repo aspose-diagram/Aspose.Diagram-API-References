@@ -3,7 +3,7 @@ title: ShapePlaceStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the placement style for children.
 type: docs
-weight: 361
+weight: 362
 url: /java/com.aspose.diagram/shapeplacestyle/
 ---
 

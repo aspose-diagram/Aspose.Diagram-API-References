@@ -3,7 +3,7 @@ title: Tp
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the beginning of a tabs properties run.
 type: docs
-weight: 411
+weight: 412
 url: /java/com.aspose.diagram/tp/
 ---
 

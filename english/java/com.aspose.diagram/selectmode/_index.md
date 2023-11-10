@@ -3,7 +3,7 @@ title: SelectMode
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how the user selects a group shape and its members.
 type: docs
-weight: 353
+weight: 354
 url: /java/com.aspose.diagram/selectmode/
 ---
 

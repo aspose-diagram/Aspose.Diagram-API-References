@@ -3,7 +3,7 @@ title: VbaModule
 second_title: Aspose.Diagram for Java API Reference
 description: Represents module that is contained in VBA project.
 type: docs
-weight: 431
+weight: 432
 url: /java/com.aspose.diagram/vbamodule/
 ---
 

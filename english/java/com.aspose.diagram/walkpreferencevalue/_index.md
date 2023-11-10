@@ -3,7 +3,7 @@ title: WalkPreferenceValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether an endpoint of a 1-D shape moves to a horizontal or vertical connection point on the shape it is glued to using dynamic glue when the shape is moved to an ambiguous position.
 type: docs
-weight: 442
+weight: 443
 url: /java/com.aspose.diagram/walkpreferencevalue/
 ---
 

@@ -331,6 +331,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [RelMoveToCollection](../com.aspose.diagram/relmovetocollection) | RelMoveTo collection. |
 | [RelQuadBezTo](../com.aspose.diagram/relquadbezto) | Contains x- and y-coordinates for a RelQuadBezTo's points. |
 | [RelQuadBezToCollection](../com.aspose.diagram/relquadbeztocollection) | RelQuadBezTo collection. |
+| [RelationFlag](../com.aspose.diagram/relationflag) | Stores the relationships between shapes. |
 | [RemoveHiddenInfoItem](../com.aspose.diagram/removehiddeninfoitem) | Specifies the remove hidden info for the diagram. |
 | [RenderingSaveOptions](../com.aspose.diagram/renderingsaveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
 | [ResizeMode](../com.aspose.diagram/resizemode) | Specifies the current resize behavior setting for the shape when contained in a group. |

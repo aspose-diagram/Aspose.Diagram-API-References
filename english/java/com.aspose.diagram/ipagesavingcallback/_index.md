@@ -3,7 +3,7 @@ title: IPageSavingCallback
 second_title: Aspose.Diagram for Java API Reference
 description: Control/Indicate progress of page saving process.
 type: docs
-weight: 457
+weight: 458
 url: /java/com.aspose.diagram/ipagesavingcallback/
 ---
 ```

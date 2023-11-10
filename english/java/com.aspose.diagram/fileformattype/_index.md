@@ -18,6 +18,7 @@ Enumerates spreadsheet file format types
 
 | Field | Description |
 | --- | --- |
+| [BMP](#BMP) | Represents a BMP file. |
 | [CSV](#CSV) | Represents a CSV file. |
 | [DIF](#DIF) | Data Interchange Format. |
 | [DOC](#DOC) | Represents a doc file. |
@@ -25,15 +26,19 @@ Enumerates spreadsheet file format types
 | [DOCX](#DOCX) | Represents a docx file. |
 | [DOTM](#DOTM) | Represents a dotm file. |
 | [DOTX](#DOTX) | Represents a dotx file. |
+| [EMF](#EMF) | Windows Enhanced Metafile. |
 | [EXCEL_2003_XML](#EXCEL-2003-XML) | Represents an Excel 2003 xml file. |
 | [EXCEL_97_TO_2003](#EXCEL-97-TO-2003) | Represents an Excel97-2003 xls file. |
+| [GIF](#GIF) | Gif |
 | [HTML](#HTML) | Represents a html file. |
+| [JPG](#JPG) | JPEG JFIF. |
 | [MAPI_MESSAGE](#MAPI-MESSAGE) | Represents a email file. |
 | [MS_EQUATION](#MS-EQUATION) | Represents the MS Equation 3.0 object. |
 | [ODS](#ODS) | Represents a ods file. |
 | [OLE_10_NATIVE](#OLE-10-NATIVE) | Represents the embedded native object. |
 | [OOXML](#OOXML) | Represents office open xml file(such as xlsx, docx,pptx, etc). |
 | [PDF](#PDF) | Represents a Pdf file. |
+| [PNG](#PNG) | Portable Network Graphics. |
 | [POTM](#POTM) | Represents a Potm file. |
 | [POTX](#POTX) | Represents a Potx file. |
 | [PPSM](#PPSM) | Represents a ppsm file. |
@@ -59,6 +64,7 @@ Enumerates spreadsheet file format types
 | [VSTX](#VSTX) | MS Visio 2013 VSTX Template file format. |
 | [VSX](#VSX) | MS Visio VSX xml stencil format. |
 | [VTX](#VTX) | MS Visio VTX xml template format. |
+| [WMF](#WMF) | Windows Metafile. |
 | [XLAM](#XLAM) | Represents a addinMacro-enabled template xltm file. |
 | [XLSB](#XLSB) | Represents an xlsb file. |
 | [XLSM](#XLSM) | Represents an xlsm file which enable macros. |
@@ -80,6 +86,14 @@ Enumerates spreadsheet file format types
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### BMP {#BMP}
+```
+public static final int BMP
+```
+
+
+Represents a BMP file. The file format is not supported Only for detecting file type.
+
 ### CSV {#CSV}
 ```
 public static final int CSV
@@ -136,6 +150,14 @@ public static final int DOTX
 
 Represents a dotx file. The file format is not supported Only for detecting file type.
 
+### EMF {#EMF}
+```
+public static final int EMF
+```
+
+
+Windows Enhanced Metafile.
+
 ### EXCEL_2003_XML {#EXCEL-2003-XML}
 ```
 public static final int EXCEL_2003_XML
@@ -152,6 +174,14 @@ public static final int EXCEL_97_TO_2003
 
 Represents an Excel97-2003 xls file. The file format is not supported Only for detecting file type.
 
+### GIF {#GIF}
+```
+public static final int GIF
+```
+
+
+Gif
+
 ### HTML {#HTML}
 ```
 public static final int HTML
@@ -159,6 +189,14 @@ public static final int HTML
 
 
 Represents a html file.
+
+### JPG {#JPG}
+```
+public static final int JPG
+```
+
+
+JPEG JFIF.
 
 ### MAPI_MESSAGE {#MAPI-MESSAGE}
 ```
@@ -207,6 +245,14 @@ public static final int PDF
 
 
 Represents a Pdf file.
+
+### PNG {#PNG}
+```
+public static final int PNG
+```
+
+
+Portable Network Graphics.
 
 ### POTM {#POTM}
 ```
@@ -407,6 +453,14 @@ public static final int VTX
 
 
 MS Visio VTX xml template format.
+
+### WMF {#WMF}
+```
+public static final int WMF
+```
+
+
+Windows Metafile.
 
 ### XLAM {#XLAM}
 ```

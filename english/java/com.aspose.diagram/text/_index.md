@@ -3,7 +3,7 @@ title: Text
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the text of a shape.
 type: docs
-weight: 399
+weight: 400
 url: /java/com.aspose.diagram/text/
 ---
 

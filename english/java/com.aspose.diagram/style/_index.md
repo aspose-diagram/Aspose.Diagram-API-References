@@ -3,7 +3,7 @@ title: Style
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the character formatting applied to a range of text in the shapes text block.
 type: docs
-weight: 391
+weight: 392
 url: /java/com.aspose.diagram/style/
 ---
 

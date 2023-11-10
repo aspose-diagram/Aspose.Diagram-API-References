@@ -3,7 +3,7 @@ title: RuleCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Rule collection.
 type: docs
-weight: 339
+weight: 340
 url: /java/com.aspose.diagram/rulecollection/
 ---
 
