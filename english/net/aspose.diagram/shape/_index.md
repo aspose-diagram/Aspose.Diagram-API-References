@@ -111,6 +111,7 @@ public class Shape
 | [GetDisplayText](../../aspose.diagram/shape/getdisplaytext/)() | Get the text displayed on the interface |
 | [GetPureText](../../aspose.diagram/shape/getpuretext/)() | Get the text string |
 | [GetRelationFlag](../../aspose.diagram/shape/getrelationflag/)(Shape) | Returns RelationFlag that represents the relationship of one shape to another shape. |
+| [GetRelationShapeCollection](../../aspose.diagram/shape/getrelationshapecollection/)() | Returns RelationShapeCollection that represents the relationshapes of one shape. |
 | [GluedShapes](../../aspose.diagram/shape/gluedshapes/)(GluedShapesFlags, string, Shape) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
 | [IsConnected](../../aspose.diagram/shape/isconnected/)(Shape) | Indicates whether this two shapes are connected. |
 | [IsContain](../../aspose.diagram/shape/iscontain/)(Shape) | Indicates whether this shape is contain another shape. |

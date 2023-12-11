@@ -27,6 +27,7 @@ public class LoadOptions
 | [CultureInfo](../../aspose.diagram/loadoptions/cultureinfo/) { get; set; } | Gets or sets the system culture info at the time the file was loaded. |
 | [FontConfigs](../../aspose.diagram/loadoptions/fontconfigs/) { get; set; } | Gets and sets individual font configs. Only works for the [`Diagram`](../diagram/) which uses this `LoadOptions` to load. |
 | [InterruptMonitor](../../aspose.diagram/loadoptions/interruptmonitor/) { get; set; } | Gets and sets the interrupt monitor. |
+| [LoadFilter](../../aspose.diagram/loadoptions/loadfilter/) { get; set; } | The filter to denote how to load data. |
 | [LoadFormat](../../aspose.diagram/loadoptions/loadformat/) { get; set; } | Specifies the format of the diagram to be loaded. Default is [`VSD`](../loadfileformat/). Read/write [`LoadFileFormat`](../loadfileformat/). |
 | [Pages](../../aspose.diagram/loadoptions/pages/) { get; set; } | Specifies the index of the pages to be loaded. |
 

@@ -142,6 +142,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineRouteExt](./linerouteext/) | Specifies the default appearance for all connectors on a page. |
 | [LineTo](./lineto/) | Contains x- and y-coordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements, respectively. |
 | [LineToCollection](./linetocollection/) | LineTo collection. |
+| [LoadFilter](./loadfilter/) | Represents the filter that provides options for loading data when loading diagram from template. |
 | [LoadOptions](./loadoptions/) | Allows to specify additional options when loading a diagram into a Diagram object. |
 | [LocalizeFont](./localizefont/) | Specifies whether the shape text should be localized (translated into another language). |
 | [Margin](./margin/) | Specifies the margin. |
@@ -182,6 +183,8 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Prop](./prop/) | Contains elements for defining custom properties and elements for associating data with a shape. |
 | [PropCollection](./propcollection/) | Prop collection. |
 | [Protection](./protection/) | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. It also does not protect against changes made in the ShapeSheet window. |
+| [RelationShape](./relationshape/) | Contains elements that define a shape and relationflag. |
+| [RelationShapeCollection](./relationshapecollection/) | RelationShape collection. |
 | [RelCubBezTo](./relcubbezto/) | Contains x- and y-coordinates for a RelCubBezTo's points. |
 | [RelCubBezToCollection](./relcubbeztocollection/) | RelCubBezTo collection. |
 | [RelEllipticalArcTo](./relellipticalarcto/) | Contains elements that specify information about an elliptical arc.Coordinates are specified as relative coordinates. |
@@ -330,6 +333,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineJumpCodeValue](./linejumpcodevalue/) | Determines the dynamic connectors to which you want to add jumps. |
 | [LineJumpStyleValue](./linejumpstylevalue/) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
 | [LineRouteExtValue](./linerouteextvalue/) | Specifies the default appearance for all connectors on a page. |
+| [LoadDataFilterOptions](./loaddatafilteroptions/) | Represents the options to filter data when loading diagram from template. |
 | [LoadFileFormat](./loadfileformat/) | Enumeration for loading diagram format selection. |
 | [LocalizeFontValue](./localizefontvalue/) | Specifies whether the shape text should be localized (translated into another language). |
 | [MeasureConst](./measureconst/) | Units of\ measure. |
