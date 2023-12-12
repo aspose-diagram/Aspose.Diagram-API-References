@@ -3,7 +3,7 @@ title: YJustifyValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements.
 type: docs
-weight: 457
+weight: 462
 url: /java/com.aspose.diagram/yjustifyvalue/
 ---
 

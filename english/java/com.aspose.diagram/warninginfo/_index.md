@@ -3,7 +3,7 @@ title: WarningInfo
 second_title: Aspose.Diagram for Java API Reference
 description: Warning info
 type: docs
-weight: 444
+weight: 449
 url: /java/com.aspose.diagram/warninginfo/
 ---
 

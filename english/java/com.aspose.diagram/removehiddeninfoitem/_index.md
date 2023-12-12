@@ -3,7 +3,7 @@ title: RemoveHiddenInfoItem
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the remove hidden info for the diagram.
 type: docs
-weight: 327
+weight: 332
 url: /java/com.aspose.diagram/removehiddeninfoitem/
 ---
 

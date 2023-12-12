@@ -3,7 +3,7 @@ title: PixelOffsetMode
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how pixels are offset during rendering.
 type: docs
-weight: 284
+weight: 287
 url: /java/com.aspose.diagram/pixeloffsetmode/
 ---
 

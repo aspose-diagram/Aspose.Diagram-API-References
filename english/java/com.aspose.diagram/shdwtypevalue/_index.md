@@ -3,7 +3,7 @@ title: ShdwTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates the default shadow type for a page.
 type: docs
-weight: 373
+weight: 378
 url: /java/com.aspose.diagram/shdwtypevalue/
 ---
 

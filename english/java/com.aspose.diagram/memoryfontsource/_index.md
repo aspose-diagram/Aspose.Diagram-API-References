@@ -3,7 +3,7 @@ title: MemoryFontSource
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the single TrueType font file stored in memory.
 type: docs
-weight: 245
+weight: 247
 url: /java/com.aspose.diagram/memoryfontsource/
 ---
 

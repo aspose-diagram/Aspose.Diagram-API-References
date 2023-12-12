@@ -3,7 +3,7 @@ title: VbaModuleType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the type of VBA module.
 type: docs
-weight: 434
+weight: 439
 url: /java/com.aspose.diagram/vbamoduletype/
 ---
 

@@ -3,7 +3,7 @@ title: PresetCameraType
 second_title: Aspose.Diagram for Java API Reference
 description: Represent different algorithmic methods for setting all camera properties including position.
 type: docs
-weight: 296
+weight: 299
 url: /java/com.aspose.diagram/presetcameratype/
 ---
 

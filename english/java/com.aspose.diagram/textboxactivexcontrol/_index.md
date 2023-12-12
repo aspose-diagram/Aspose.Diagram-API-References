@@ -3,7 +3,7 @@ title: TextBoxActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a text box ActiveX control.
 type: docs
-weight: 402
+weight: 407
 url: /java/com.aspose.diagram/textboxactivexcontrol/
 ---
 

@@ -3,7 +3,7 @@ title: User
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a work area for entering formulas in user-specific elements that are referred to by other elements and add-on tools.
 type: docs
-weight: 427
+weight: 432
 url: /java/com.aspose.diagram/user/
 ---
 

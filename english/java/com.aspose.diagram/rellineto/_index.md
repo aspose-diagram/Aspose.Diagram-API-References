@@ -3,7 +3,7 @@ title: RelLineTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates of the ending vertex of a straight line segment.
 type: docs
-weight: 320
+weight: 323
 url: /java/com.aspose.diagram/rellineto/
 ---
 

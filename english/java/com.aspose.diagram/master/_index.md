@@ -3,7 +3,7 @@ title: Master
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a master for the document.
 type: docs
-weight: 240
+weight: 242
 url: /java/com.aspose.diagram/master/
 ---
 

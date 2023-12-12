@@ -3,7 +3,7 @@ title: PrintPageOrientation
 second_title: Aspose.Diagram for Java API Reference
 description: Determines whether the page is printed in portrait or landscape orientation.
 type: docs
-weight: 305
+weight: 308
 url: /java/com.aspose.diagram/printpageorientation/
 ---
 

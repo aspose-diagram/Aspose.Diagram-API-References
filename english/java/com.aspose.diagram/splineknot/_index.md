@@ -3,7 +3,7 @@ title: SplineKnot
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates for a splines control point and a splines knot represented by the X Y and A elements respectively.
 type: docs
-weight: 385
+weight: 390
 url: /java/com.aspose.diagram/splineknot/
 ---
 

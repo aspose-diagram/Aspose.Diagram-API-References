@@ -3,7 +3,7 @@ title: TextXForm
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify positioning information about a shapes text block.
 type: docs
-weight: 406
+weight: 411
 url: /java/com.aspose.diagram/textxform/
 ---
 

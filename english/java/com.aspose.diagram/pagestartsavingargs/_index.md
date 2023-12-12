@@ -3,7 +3,7 @@ title: PageStartSavingArgs
 second_title: Aspose.Diagram for Java API Reference
 description: Info for a page starts saving process.
 type: docs
-weight: 272
+weight: 275
 url: /java/com.aspose.diagram/pagestartsavingargs/
 ---
 

@@ -3,7 +3,7 @@ title: TextBlock
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify the alignment margins and default tab stop positions of text in a shapes text block.
 type: docs
-weight: 401
+weight: 406
 url: /java/com.aspose.diagram/textblock/
 ---
 

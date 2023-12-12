@@ -3,7 +3,7 @@ title: PolylineTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates of the last point of a polyline and a polyline formula.
 type: docs
-weight: 291
+weight: 294
 url: /java/com.aspose.diagram/polylineto/
 ---
 

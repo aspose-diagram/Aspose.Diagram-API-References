@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when loading a diagram into a Diagram object.
 type: docs
-weight: 236
+weight: 238
 url: /java/com.aspose.diagram/loadoptions/
 ---
 
@@ -28,6 +28,7 @@ Allows to specify additional options when loading a diagram into a Diagram objec
 | [getClass()](#getClass--) |  |
 | [getFontConfigs()](#getFontConfigs--) | individual font configs. |
 | [getInterruptMonitor()](#getInterruptMonitor--) | the interrupt monitor. |
+| [getLoadFilter()](#getLoadFilter--) | The filter to denote how to load data. |
 | [getLoadFormat()](#getLoadFormat--) | Specifies the format of the diagram to be loaded. |
 | [getLocale()](#getLocale--) | the Locale used for diagram at the time the file was loaded. |
 | [getPages()](#getPages--) | Specifies the index of the pages to be loaded. |
@@ -36,6 +37,7 @@ Allows to specify additional options when loading a diagram into a Diagram objec
 | [notifyAll()](#notifyAll--) |  |
 | [setFontConfigs(IndividualFontConfigs value)](#setFontConfigs-com.aspose.diagram.IndividualFontConfigs-) | For the description of this property, please see [getFontConfigs()](../../com.aspose.diagram/loadoptions\#getFontConfigs--) |
 | [setInterruptMonitor(AbstractInterruptMonitor value)](#setInterruptMonitor-com.aspose.diagram.AbstractInterruptMonitor-) | For the description of this property, please see [getInterruptMonitor()](../../com.aspose.diagram/loadoptions\#getInterruptMonitor--) |
+| [setLoadFilter(LoadFilter value)](#setLoadFilter-com.aspose.diagram.LoadFilter-) | For the description of this property, please see [getLoadFilter()](../../com.aspose.diagram/loadoptions\#getLoadFilter--) |
 | [setLoadFormat(int value)](#setLoadFormat-int-) | For the description of this property, please see [getLoadFormat()](../../com.aspose.diagram/loadoptions\#getLoadFormat--) |
 | [setLocale(Locale value)](#setLocale-java.util.Locale-) | For the description of this property, please see [getLocale()](../../com.aspose.diagram/loadoptions\#getLocale--) |
 | [setPages(ArrayList value)](#setPages-java.util.ArrayList-) | For the description of this property, please see [getPages()](../../com.aspose.diagram/loadoptions\#getPages--) |
@@ -109,6 +111,16 @@ the interrupt monitor.
 
 **Returns:**
 [AbstractInterruptMonitor](../../com.aspose.diagram/abstractinterruptmonitor)
+### getLoadFilter() {#getLoadFilter--}
+```
+public LoadFilter getLoadFilter()
+```
+
+
+The filter to denote how to load data.
+
+**Returns:**
+[LoadFilter](../../com.aspose.diagram/loadfilter)
 ### getLoadFormat() {#getLoadFormat--}
 ```
 public int getLoadFormat()
@@ -190,6 +202,19 @@ For the description of this property, please see [getInterruptMonitor()](../../c
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [AbstractInterruptMonitor](../../com.aspose.diagram/abstractinterruptmonitor) |  |
+
+### setLoadFilter(LoadFilter value) {#setLoadFilter-com.aspose.diagram.LoadFilter-}
+```
+public void setLoadFilter(LoadFilter value)
+```
+
+
+For the description of this property, please see [getLoadFilter()](../../com.aspose.diagram/loadoptions\#getLoadFilter--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [LoadFilter](../../com.aspose.diagram/loadfilter) |  |
 
 ### setLoadFormat(int value) {#setLoadFormat-int-}
 ```

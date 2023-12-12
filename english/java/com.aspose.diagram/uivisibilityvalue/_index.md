@@ -3,7 +3,7 @@ title: UIVisibilityValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the tab alignment.
 type: docs
-weight: 423
+weight: 428
 url: /java/com.aspose.diagram/uivisibilityvalue/
 ---
 

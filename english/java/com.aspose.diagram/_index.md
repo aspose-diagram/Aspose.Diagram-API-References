@@ -1,14 +1,11 @@
 ---
 title: com.aspose.diagram
 second_title: Aspose.Diagram for Java API Reference
-description: The com.aspose.diagram package provides classes for generating converting modifying rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
+description: 
 type: docs
 weight: 10
 url: /java/com.aspose.diagram/
 ---
-
-
-The com.aspose.diagram package provides classes for generating, converting, modifying, rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
 
 
 ## Classes
@@ -240,7 +237,9 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [LineTo](../com.aspose.diagram/lineto) | Contains x- and y-coordinates of the ending vertex of a straight line segment. |
 | [LineToCollection](../com.aspose.diagram/linetocollection) | LineTo collection. |
 | [ListBoxActiveXControl](../com.aspose.diagram/listboxactivexcontrol) | Represents a ListBox ActiveX control. |
+| [LoadDataFilterOptions](../com.aspose.diagram/loaddatafilteroptions) | Represents the options to filter data when loading diagram from template. |
 | [LoadFileFormat](../com.aspose.diagram/loadfileformat) | Enumeration for loading diagram format selection. |
+| [LoadFilter](../com.aspose.diagram/loadfilter) | Represents the filter that provides options for loading data when loading diagram from template. |
 | [LoadOptions](../com.aspose.diagram/loadoptions) | Allows to specify additional options when loading a diagram into a Diagram object. |
 | [LocalizeFont](../com.aspose.diagram/localizefont) | Specifies whether the shape text should be localized (translated into another language). |
 | [LocalizeFontValue](../com.aspose.diagram/localizefontvalue) | Specifies whether the shape text should be localized (translated into another language). |
@@ -251,6 +250,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [MasterShortcutCollection](../com.aspose.diagram/mastershortcutcollection) | MasterShortcut collection. |
 | [MeasureConst](../com.aspose.diagram/measureconst) | Units of\\ measure. |
 | [MemoryFontSource](../com.aspose.diagram/memoryfontsource) | Represents the single TrueType font file stored in memory. |
+| [Metered](../com.aspose.diagram/metered) | Provides methods to set metered key. |
 | [MilestoneHelper](../com.aspose.diagram/milestonehelper) | MilestoneHelper to set property of milestone shape. |
 | [Misc](../com.aspose.diagram/misc) | Contains various elements of shapes and groups, such as those that control selection highlighting and visibility. |
 | [MoveTo](../com.aspose.diagram/moveto) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
@@ -332,6 +332,8 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [RelQuadBezTo](../com.aspose.diagram/relquadbezto) | Contains x- and y-coordinates for a RelQuadBezTo's points. |
 | [RelQuadBezToCollection](../com.aspose.diagram/relquadbeztocollection) | RelQuadBezTo collection. |
 | [RelationFlag](../com.aspose.diagram/relationflag) | Stores the relationships between shapes. |
+| [RelationShape](../com.aspose.diagram/relationshape) | Contains elements that define a shape and relationflag. |
+| [RelationShapeCollection](../com.aspose.diagram/relationshapecollection) | RelationShape collection. |
 | [RemoveHiddenInfoItem](../com.aspose.diagram/removehiddeninfoitem) | Specifies the remove hidden info for the diagram. |
 | [RenderingSaveOptions](../com.aspose.diagram/renderingsaveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
 | [ResizeMode](../com.aspose.diagram/resizemode) | Specifies the current resize behavior setting for the shape when contained in a group. |

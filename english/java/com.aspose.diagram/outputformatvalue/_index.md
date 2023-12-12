@@ -3,7 +3,7 @@ title: OutputFormatValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the output format for a drawing.
 type: docs
-weight: 259
+weight: 262
 url: /java/com.aspose.diagram/outputformatvalue/
 ---
 

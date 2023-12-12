@@ -3,7 +3,7 @@ title: Scratch
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a work area for entering and testing formulas that are referred to by other elements.
 type: docs
-weight: 351
+weight: 356
 url: /java/com.aspose.diagram/scratch/
 ---
 

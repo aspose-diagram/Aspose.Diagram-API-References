@@ -3,7 +3,7 @@ title: UserCollection
 second_title: Aspose.Diagram for Java API Reference
 description: User collection.
 type: docs
-weight: 428
+weight: 433
 url: /java/com.aspose.diagram/usercollection/
 ---
 

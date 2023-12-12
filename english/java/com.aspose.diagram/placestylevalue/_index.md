@@ -3,7 +3,7 @@ title: PlaceStyleValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes Shape menu.
 type: docs
-weight: 290
+weight: 293
 url: /java/com.aspose.diagram/placestylevalue/
 ---
 

@@ -3,7 +3,7 @@ title: TimeLineHelper
 second_title: Aspose.Diagram for Java API Reference
 description: TimeLineHelper to set property of timeline shape.
 type: docs
-weight: 409
+weight: 414
 url: /java/com.aspose.diagram/timelinehelper/
 ---
 

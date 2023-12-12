@@ -3,7 +3,7 @@ title: RelEllipticalArcTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify information about an elliptical arc.Coordinates are specified as relative coordinates.
 type: docs
-weight: 318
+weight: 321
 url: /java/com.aspose.diagram/relellipticalarcto/
 ---
 

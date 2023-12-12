@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 260
+weight: 263
 url: /java/com.aspose.diagram/page/
 ---
 

@@ -3,7 +3,7 @@ title: ObjectKind
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates the type of text field.
 type: docs
-weight: 254
+weight: 257
 url: /java/com.aspose.diagram/objectkind/
 ---
 

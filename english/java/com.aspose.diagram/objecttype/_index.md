@@ -3,7 +3,7 @@ title: ObjectType
 second_title: Aspose.Diagram for Java API Reference
 description: If the ForeignType attribute is Object the ForeignData element must also have an ObjectType attribute.
 type: docs
-weight: 256
+weight: 259
 url: /java/com.aspose.diagram/objecttype/
 ---
 

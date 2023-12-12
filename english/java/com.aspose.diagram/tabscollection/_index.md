@@ -3,7 +3,7 @@ title: TabsCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a collection of TabCollection elements
 type: docs
-weight: 399
+weight: 404
 url: /java/com.aspose.diagram/tabscollection/
 ---
 

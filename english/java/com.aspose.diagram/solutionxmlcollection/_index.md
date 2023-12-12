@@ -3,7 +3,7 @@ title: SolutionXMLCollection
 second_title: Aspose.Diagram for Java API Reference
 description: SolutionXML collection.
 type: docs
-weight: 383
+weight: 388
 url: /java/com.aspose.diagram/solutionxmlcollection/
 ---
 

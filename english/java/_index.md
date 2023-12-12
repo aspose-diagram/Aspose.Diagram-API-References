@@ -10,4 +10,4 @@ is_root: true
 ## Packages
 | Package | Description |
 | --- | --- |
-| [com.aspose.diagram](./com.aspose.diagram) | The com.aspose.diagram package provides classes for generating, converting, modifying, rendering and printing Microsoft Visio documents without utilizing Microsoft Visio. |
+| [com.aspose.diagram](./com.aspose.diagram) |  |

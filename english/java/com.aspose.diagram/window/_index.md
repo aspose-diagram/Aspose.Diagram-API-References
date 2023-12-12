@@ -3,7 +3,7 @@ title: Window
 second_title: Aspose.Diagram for Java API Reference
 description: Represents an open window in a Microsoft Visio instance.
 type: docs
-weight: 446
+weight: 451
 url: /java/com.aspose.diagram/window/
 ---
 

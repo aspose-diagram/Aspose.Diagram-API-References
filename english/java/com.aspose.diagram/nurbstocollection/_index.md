@@ -3,7 +3,7 @@ title: NURBSToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: NURBSTo collection.
 type: docs
-weight: 251
+weight: 254
 url: /java/com.aspose.diagram/nurbstocollection/
 ---
 

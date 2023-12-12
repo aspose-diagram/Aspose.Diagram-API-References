@@ -3,7 +3,7 @@ title: StyleProp
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control style behavior such as whether a style includes text line and fill attributes.
 type: docs
-weight: 393
+weight: 398
 url: /java/com.aspose.diagram/styleprop/
 ---
 

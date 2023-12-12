@@ -3,7 +3,7 @@ title: ShapeShdwShow
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of shadow for a shape.
 type: docs
-weight: 368
+weight: 373
 url: /java/com.aspose.diagram/shapeshdwshow/
 ---
 

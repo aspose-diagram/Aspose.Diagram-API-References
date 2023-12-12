@@ -3,7 +3,7 @@ title: Protection
 second_title: Aspose.Diagram for Java API Reference
 description: Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances.
 type: docs
-weight: 312
+weight: 315
 url: /java/com.aspose.diagram/protection/
 ---
 

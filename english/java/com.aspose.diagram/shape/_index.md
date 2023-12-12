@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 356
+weight: 361
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -87,6 +87,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getProtection()](#getProtection--) | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. |
 | [getPureText()](#getPureText--) | Get the text string |
 | [getRelationFlag(Shape shape)](#getRelationFlag-com.aspose.diagram.Shape-) | Returns RelationFlag that represents the relationship of one shape to another shape. |
+| [getRelationShapeCollection()](#getRelationShapeCollection--) | Returns RelationShapeCollection that represents the relationshapes of one shape. |
 | [getRootShape()](#getRootShape--) | Returns the top-level shape of an instance if this shape is part of a master instance. |
 | [getScratchs()](#getScratchs--) | Contains a collection of Scratch elements. |
 | [getShapes()](#getShapes--) | Contains a collection of Shape elements. |
@@ -826,6 +827,16 @@ Returns RelationFlag that represents the relationship of one shape to another sh
 
 **Returns:**
 int
+### getRelationShapeCollection() {#getRelationShapeCollection--}
+```
+public RelationShapeCollection getRelationShapeCollection()
+```
+
+
+Returns RelationShapeCollection that represents the relationshapes of one shape.
+
+**Returns:**
+[RelationShapeCollection](../../com.aspose.diagram/relationshapecollection)
 ### getRootShape() {#getRootShape--}
 ```
 public Shape getRootShape()

@@ -3,7 +3,7 @@ title: VbaModuleCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the list of
 type: docs
-weight: 433
+weight: 438
 url: /java/com.aspose.diagram/vbamodulecollection/
 ---
 

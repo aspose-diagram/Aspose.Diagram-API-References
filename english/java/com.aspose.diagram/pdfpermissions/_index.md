@@ -3,7 +3,7 @@ title: PdfPermissions
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies user permissions for PDF document.
 type: docs
-weight: 280
+weight: 283
 url: /java/com.aspose.diagram/pdfpermissions/
 ---
 

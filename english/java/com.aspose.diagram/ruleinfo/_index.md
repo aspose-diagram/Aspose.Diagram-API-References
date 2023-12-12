@@ -3,7 +3,7 @@ title: RuleInfo
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies information about the validation rule that the parent validation issue pertains to.
 type: docs
-weight: 341
+weight: 346
 url: /java/com.aspose.diagram/ruleinfo/
 ---
 
