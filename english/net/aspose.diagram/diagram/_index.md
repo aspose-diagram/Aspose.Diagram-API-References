@@ -79,10 +79,10 @@ public class Diagram : IDisposable
 | [HasHiddenInfo](../../aspose.diagram/diagram/hashiddeninfo/)() | Indicates whether this diagram has hidden information. |
 | [Layout](../../aspose.diagram/diagram/layout/)(LayoutOptions) | Lays out the shapes and/or reroutes the connectors for all pages of diagram. |
 | [Print](../../aspose.diagram/diagram/print/#print)() | Prints the whole document to the default printer. |
-| [Print](../../aspose.diagram/diagram/print/#print_2)(PrinterSettings) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print/#print_2)(PrinterSettings) |  |
 | [Print](../../aspose.diagram/diagram/print/#print_1)(PrintSaveOptions) | Prints the whole document to the default printer. |
 | [Print](../../aspose.diagram/diagram/print/#print_6)(string) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
-| [Print](../../aspose.diagram/diagram/print/#print_3)(PrinterSettings, PrintSaveOptions) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller. |
+| [Print](../../aspose.diagram/diagram/print/#print_3)(PrinterSettings, PrintSaveOptions) |  |
 | [Print](../../aspose.diagram/diagram/print/#print_4)(PrinterSettings, string) | Prints the document according to the specified printer settings,using the standard (no User Interface) print controller and a document name. |
 | [Print](../../aspose.diagram/diagram/print/#print_7)(string, PrintSaveOptions) | Print the whole document to the specified printer,using the standard (no User Interface) print controller. |
 | [Print](../../aspose.diagram/diagram/print/#print_8)(string, string) | Prints the document,using the standard (no User Interface) print controller and a document name. |

@@ -16,6 +16,7 @@ is_root: true
 | [Aspose.Diagram.AutoLayout](./aspose.diagram.autolayout/) | Contains classes to auto lay out diagrams. |
 | [Aspose.Diagram.Manipulation](./aspose.diagram.manipulation/) | Contains classes for manipulate diagrams |
 | [Aspose.Diagram.Printing](./aspose.diagram.printing/) | Contains classes for print |
+| [Aspose.Diagram.Properties](./aspose.diagram.properties/) |  |
 | [Aspose.Diagram.Saving](./aspose.diagram.saving/) | Contains classes for save options. |
 | [Aspose.Diagram.Vba](./aspose.diagram.vba/) |  |
 

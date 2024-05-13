@@ -94,20 +94,13 @@ If printerName is Null or empty will be used default printer.
 
 ## Print(PrinterSettings, PrintSaveOptions) {#print_3}
 
-Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
-
 ```csharp
 public void Print(PrinterSettings printerSettings, PrintSaveOptions options)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The printer settings to use. |
-| options | PrintSaveOptions | The print options. |
-
-## Remarks
-
-The System.Drawing.Printing.PrinterSettingsobject allows you to specify the printer to print on, the range of pages of to print and other options.
+| Parameter | Description |
+| --- | --- |
+| options | The print options. |
 
 ### See Also
 
@@ -120,19 +113,9 @@ The System.Drawing.Printing.PrinterSettingsobject allows you to specify the prin
 
 ## Print(PrinterSettings) {#print_2}
 
-Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
-
 ```csharp
 public void Print(PrinterSettings printerSettings)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The printer settings to use. |
-
-## Remarks
-
-The System.Drawing.Printing.PrinterSettingsobject allows you to specify the printer to print on, the range of pages of to print and other options.
 
 ### See Also
 
