@@ -45,6 +45,7 @@ public class Shape
 | [ForeignData](../../aspose.diagram/shape/foreigndata/) { get; } | Contains a MIME (Multipurpose Internet Mail Extensions) encoded BLOB of picture data, such as Windows metafile, bitmap, or OLE data. |
 | [Geoms](../../aspose.diagram/shape/geoms/) { get; } | Contains a collection of Geom elements. |
 | [Group](../../aspose.diagram/shape/group/) { get; } | Contains elements that control how you add shapes to a group, move members of a group, and select groups. |
+| [HasThemeColor](../../aspose.diagram/shape/hasthemecolor/) { get; } | Gets whether the shape has theme color. |
 | [Help](../../aspose.diagram/shape/help/) { get; } | Contains elements specifying the Shape element's Help file topic and copyright information. |
 | [Hyperlinks](../../aspose.diagram/shape/hyperlinks/) { get; } | Contains a collection of Hyperlink elements. |
 | [ID](../../aspose.diagram/shape/id/) { get; set; } | The unique ID of the element within its parent element. |
