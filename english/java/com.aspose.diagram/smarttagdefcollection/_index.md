@@ -3,7 +3,7 @@ title: SmartTagDefCollection
 second_title: Aspose.Diagram for Java API Reference
 description: SmartTagDef collection.
 type: docs
-weight: 381
+weight: 383
 url: /java/com.aspose.diagram/smarttagdefcollection/
 ---
 

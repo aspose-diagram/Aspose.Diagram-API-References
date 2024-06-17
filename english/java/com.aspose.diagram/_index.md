@@ -128,6 +128,8 @@ url: /java/com.aspose.diagram/
 | [DisplayModeValue](../com.aspose.diagram/displaymodevalue) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
 | [DocProps](../com.aspose.diagram/docprops) | Contains elements that control the document's preview quality, scope, and output format. |
 | [DocumentProperties](../com.aspose.diagram/documentproperties) | Contains document property elements such as the document's title, author, and so on. |
+| [DocumentProperty](../com.aspose.diagram/documentproperty) | Represents a custom or built-in document property. |
+| [DocumentPropertyCollection](../com.aspose.diagram/documentpropertycollection) | Base class for collections. |
 | [DocumentSettings](../com.aspose.diagram/documentsettings) | Contains elements that specify document settings. |
 | [DocumentSheet](../com.aspose.diagram/documentsheet) | Specifies a document's ShapeSheet structure. |
 | [DoubleValue](../com.aspose.diagram/doublevalue) | Double value |

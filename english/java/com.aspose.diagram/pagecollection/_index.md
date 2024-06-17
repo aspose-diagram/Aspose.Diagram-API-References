@@ -3,7 +3,7 @@ title: PageCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Page collection.
 type: docs
-weight: 264
+weight: 266
 url: /java/com.aspose.diagram/pagecollection/
 ---
 

@@ -3,7 +3,7 @@ title: LineAdjustToValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies which dynamic connectors to line up on top of one another if they route on top of each other.
 type: docs
-weight: 225
+weight: 227
 url: /java/com.aspose.diagram/lineadjusttovalue/
 ---
 

@@ -3,7 +3,7 @@ title: StyleSheetCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Collection of StyleSheets.
 type: docs
-weight: 400
+weight: 402
 url: /java/com.aspose.diagram/stylesheetcollection/
 ---
 

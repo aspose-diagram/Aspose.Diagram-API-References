@@ -3,7 +3,7 @@ title: InfiniteLine
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements specifying the x- and y-coordinates of two points on an infinite line.
 type: docs
-weight: 202
+weight: 204
 url: /java/com.aspose.diagram/infiniteline/
 ---
 

@@ -3,7 +3,7 @@ title: IWarningCallback
 second_title: Aspose.Diagram for Java API Reference
 description: Callback interface of warning.
 type: docs
-weight: 465
+weight: 467
 url: /java/com.aspose.diagram/iwarningcallback/
 ---
 ```

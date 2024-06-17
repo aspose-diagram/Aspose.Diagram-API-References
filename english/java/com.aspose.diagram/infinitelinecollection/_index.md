@@ -3,7 +3,7 @@ title: InfiniteLineCollection
 second_title: Aspose.Diagram for Java API Reference
 description: InfiniteLine collection.
 type: docs
-weight: 203
+weight: 205
 url: /java/com.aspose.diagram/infinitelinecollection/
 ---
 

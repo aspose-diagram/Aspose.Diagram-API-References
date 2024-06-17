@@ -3,7 +3,7 @@ title: FormatTxt
 second_title: Aspose.Diagram for Java API Reference
 description: Abstract class for formatting of text
 type: docs
-weight: 166
+weight: 168
 url: /java/com.aspose.diagram/formattxt/
 ---
 

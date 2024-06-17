@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 361
+weight: 363
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -106,6 +106,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getXForm1D()](#getXForm1D--) | Contains x- and y-coordinates of the begin point and end point of a 1-D shape. |
 | [getZOrderIndex()](#getZOrderIndex--) | Returns the index of a shape in the z-order except the guide shape. |
 | [gluedShapes(int flag, String categoryFilter, Shape otherShape)](#gluedShapes-int-java.lang.String-com.aspose.diagram.Shape-) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
+| [hasThemeColor()](#hasThemeColor--) | Gets whether the shape has theme color. |
 | [hashCode()](#hashCode--) |  |
 | [isConnected(Shape shape)](#isConnected-com.aspose.diagram.Shape-) | Indicates whether this two shapes are connected. |
 | [isContain(Shape shape)](#isContain-com.aspose.diagram.Shape-) | Indicates whether this shape is contain another shape. |
@@ -1024,6 +1025,16 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 **Returns:**
 long[] - IDs arraylong.
+### hasThemeColor() {#hasThemeColor--}
+```
+public boolean hasThemeColor()
+```
+
+
+Gets whether the shape has theme color.
+
+**Returns:**
+boolean
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

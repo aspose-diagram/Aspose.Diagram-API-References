@@ -3,7 +3,7 @@ title: PageSheet
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define the page sheet for a Page or Master element.
 type: docs
-weight: 273
+weight: 275
 url: /java/com.aspose.diagram/pagesheet/
 ---
 

@@ -3,7 +3,7 @@ title: MeasureConst
 second_title: Aspose.Diagram for Java API Reference
 description: Units of measure.
 type: docs
-weight: 246
+weight: 248
 url: /java/com.aspose.diagram/measureconst/
 ---
 

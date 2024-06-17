@@ -3,7 +3,7 @@ title: SVGSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to SVG.
 type: docs
-weight: 353
+weight: 355
 url: /java/com.aspose.diagram/svgsaveoptions/
 ---
 

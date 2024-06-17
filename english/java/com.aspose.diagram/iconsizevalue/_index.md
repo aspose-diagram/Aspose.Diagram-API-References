@@ -3,7 +3,7 @@ title: IconSizeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Optional int.
 type: docs
-weight: 195
+weight: 197
 url: /java/com.aspose.diagram/iconsizevalue/
 ---
 

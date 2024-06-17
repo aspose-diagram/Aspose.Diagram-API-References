@@ -3,7 +3,7 @@ title: ShapeCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Collection of Shapes.
 type: docs
-weight: 362
+weight: 364
 url: /java/com.aspose.diagram/shapecollection/
 ---
 

@@ -3,7 +3,7 @@ title: Event
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify formulas that control shape events.
 type: docs
-weight: 144
+weight: 146
 url: /java/com.aspose.diagram/event/
 ---
 

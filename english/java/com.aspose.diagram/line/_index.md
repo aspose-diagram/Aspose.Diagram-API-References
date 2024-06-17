@@ -3,7 +3,7 @@ title: Line
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements specifying general positioning information about a shape.
 type: docs
-weight: 221
+weight: 223
 url: /java/com.aspose.diagram/line/
 ---
 

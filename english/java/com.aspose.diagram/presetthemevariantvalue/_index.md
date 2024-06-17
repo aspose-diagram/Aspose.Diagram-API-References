@@ -3,7 +3,7 @@ title: PresetThemeVariantValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the theme Variant value
 type: docs
-weight: 305
+weight: 307
 url: /java/com.aspose.diagram/presetthemevariantvalue/
 ---
 

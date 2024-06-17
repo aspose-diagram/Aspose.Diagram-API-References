@@ -3,7 +3,7 @@ title: Group
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control how you add shapes to a group move members of a group and select groups.
 type: docs
-weight: 186
+weight: 188
 url: /java/com.aspose.diagram/group/
 ---
 

@@ -3,7 +3,7 @@ title: LineJumpCodeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the dynamic connectors to which you want to add jumps.
 type: docs
-weight: 227
+weight: 229
 url: /java/com.aspose.diagram/linejumpcodevalue/
 ---
 

@@ -3,7 +3,7 @@ title: HeaderFooterFont
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the font used for the header and footer text.
 type: docs
-weight: 189
+weight: 191
 url: /java/com.aspose.diagram/headerfooterfont/
 ---
 

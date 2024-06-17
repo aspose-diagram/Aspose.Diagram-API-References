@@ -3,7 +3,7 @@ title: LabelActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the label ActiveX control.
 type: docs
-weight: 211
+weight: 213
 url: /java/com.aspose.diagram/labelactivexcontrol/
 ---
 

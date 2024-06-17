@@ -3,7 +3,7 @@ title: RelQuadBezToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelQuadBezTo collection.
 type: docs
-weight: 328
+weight: 330
 url: /java/com.aspose.diagram/relquadbeztocollection/
 ---
 
