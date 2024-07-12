@@ -13,6 +13,10 @@ Set Connectors type
 public void SetConnectorsType(ConnectorsTypeValue type)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | ConnectorsTypeValue | Connectors type value |
+
 ### See Also
 
 * enum [ConnectorsTypeValue](../../connectorstypevalue/)

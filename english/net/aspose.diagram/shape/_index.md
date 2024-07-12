@@ -126,6 +126,7 @@ public class Shape
 | [SendBackward](../../aspose.diagram/shape/sendbackward/)() | Moves the shape back one position in the z-order. |
 | [SendToBack](../../aspose.diagram/shape/sendtoback/)() | Moves the shape to the back of the z-order. |
 | [SetAngle](../../aspose.diagram/shape/setangle/)(double) | Sets new angle of shape. The angle's unit is radian. |
+| [SetConnectorJumpValue](../../aspose.diagram/shape/setconnectorjumpvalue/)(ConLineJumpCodeValue, ConLineJumpStyleValue) | Set Jump code value and Jump style value for Connector |
 | [SetConnectorsType](../../aspose.diagram/shape/setconnectorstype/)(ConnectorsTypeValue) | Set Connectors type |
 | [SetHeight](../../aspose.diagram/shape/setheight/)(double) | Sets new height of shape. |
 | [SetPresetThemeStyleMatrics](../../aspose.diagram/shape/setpresetthemestylematrics/)(PresetStyleMatricsValue, PresetColorMatricsValue) | pply a preset theme variant quickstyle to this shape, like theme styles options in shape styles dropdown list |
