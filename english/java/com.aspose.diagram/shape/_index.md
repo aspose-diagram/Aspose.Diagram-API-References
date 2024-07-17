@@ -124,6 +124,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [sendToBack()](#sendToBack--) | Moves the shape to the back of the z-order. |
 | [setAngle(double angle)](#setAngle-double-) | Sets new angle of shape. |
 | [setClippingPath(String value)](#setClippingPath-java.lang.String-) | For the description of this property, please see [getClippingPath()](../../com.aspose.diagram/shape\#getClippingPath--) |
+| [setConnectorJumpValue(int code, int style)](#setConnectorJumpValue-int-int-) | Set Jump code value and Jump style value for Connector |
 | [setConnectorsType(int type)](#setConnectorsType-int-) | Set Connectors type |
 | [setData1(String value)](#setData1-java.lang.String-) | For the description of this property, please see [getData1()](../../com.aspose.diagram/shape\#getData1--) |
 | [setData2(String value)](#setData2-java.lang.String-) | For the description of this property, please see [getData2()](../../com.aspose.diagram/shape\#getData2--) |
@@ -824,7 +825,7 @@ Returns RelationFlag that represents the relationship of one shape to another sh
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shape | [Shape](../../com.aspose.diagram/shape) |  |
+| shape | [Shape](../../com.aspose.diagram/shape) | Shape |
 
 **Returns:**
 int
@@ -1233,6 +1234,20 @@ For the description of this property, please see [getClippingPath()](../../com.a
 | --- | --- | --- |
 | value | java.lang.String |  |
 
+### setConnectorJumpValue(int code, int style) {#setConnectorJumpValue-int-int-}
+```
+public void setConnectorJumpValue(int code, int style)
+```
+
+
+Set Jump code value and Jump style value for Connector
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| code | int | Jump Code Value |
+| style | int | Jump Code Style |
+
 ### setConnectorsType(int type) {#setConnectorsType-int-}
 ```
 public void setConnectorsType(int type)
@@ -1244,7 +1259,7 @@ Set Connectors type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | int |  |
+| type | int | Connectors type value |
 
 ### setData1(String value) {#setData1-java.lang.String-}
 ```
