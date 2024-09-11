@@ -29,6 +29,7 @@ Enumeration for saving diagram format selection.
 | [SVG](#SVG) | Svg format. |
 | [TIFF](#TIFF) | Tiff image format. |
 | [VDX](#VDX) | MS Visio Vdx xml format. |
+| [VSD](#VSD) | MS Visio Vsd binary format. |
 | [VSDM](#VSDM) | MS Visio Vsdm file format which enable macros. |
 | [VSDX](#VSDX) | MS Visio 2013 Vsdx file format. |
 | [VSSM](#VSSM) | MS Visio Vssm file format which enable macros. |
@@ -139,6 +140,14 @@ public static final int VDX
 
 
 MS Visio Vdx xml format.
+
+### VSD {#VSD}
+```
+public static final int VSD
+```
+
+
+MS Visio Vsd binary format.
 
 ### VSDM {#VSDM}
 ```

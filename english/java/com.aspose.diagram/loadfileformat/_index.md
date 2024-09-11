@@ -18,6 +18,7 @@ Enumeration for loading diagram format selection.
 
 | Field | Description |
 | --- | --- |
+| [HTML](#HTML) | Html. |
 | [VDW](#VDW) | MS Visio Vdw web drawing format. |
 | [VDX](#VDX) | MS Visio VDX xml format. |
 | [VSD](#VSD) | MS Visio Vsd binary format. |
@@ -44,6 +45,14 @@ Enumeration for loading diagram format selection.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### HTML {#HTML}
+```
+public static final int HTML
+```
+
+
+Html.
+
 ### VDW {#VDW}
 ```
 public static final int VDW
