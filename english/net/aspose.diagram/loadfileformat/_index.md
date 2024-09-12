@@ -30,6 +30,7 @@ public enum LoadFileFormat
 | Vsdm | `10` | MS Visio Vsdm file format which enable macros. |
 | Vssm | `11` | MS Visio Vssm file format which enable macros. |
 | Vstm | `12` | MS Visio Vstm file format which enable macros. |
+| Html | `13` | Html. |
 
 ### See Also
 
