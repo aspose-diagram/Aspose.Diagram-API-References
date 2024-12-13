@@ -10,7 +10,7 @@ url: /net/aspose.diagram/rulerdensity/
 Specifies the horizontal subdivisions on the ruler for the page.
 
 ```csharp
-public class RulerDensity
+public class RulerDensity : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class RulerDensity
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/rulerdensity/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/rulerdensity/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/rulerdensity/gethashcode/)() | Serves as a hash function for a particular type. |
 

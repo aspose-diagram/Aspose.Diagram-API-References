@@ -10,7 +10,7 @@ url: /net/aspose.diagram/previewscope/
 Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document.
 
 ```csharp
-public class PreviewScope
+public class PreviewScope : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class PreviewScope
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/previewscope/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/previewscope/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/previewscope/gethashcode/)() | Serves as a hash function for a particular type. |
 

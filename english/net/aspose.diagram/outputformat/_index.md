@@ -10,7 +10,7 @@ url: /net/aspose.diagram/outputformat/
 Specifies the output format for a drawing.
 
 ```csharp
-public class OutputFormat
+public class OutputFormat : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class OutputFormat
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/outputformat/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/outputformat/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/outputformat/gethashcode/)() | Serves as a hash function for a particular type. |
 

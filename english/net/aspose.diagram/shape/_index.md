@@ -59,7 +59,6 @@ public class Shape
 | [InheritProps](../../aspose.diagram/shape/inheritprops/) { get; } | Contains the props for the shape inherit by the master shape. |
 | [InheritTextBlock](../../aspose.diagram/shape/inherittextblock/) { get; } | Contains the textblock values for the shape inherit by the parent style and the master shape. |
 | [InheritUsers](../../aspose.diagram/shape/inheritusers/) { get; } | Contains the users for the shape inherit by the master shape. |
-| [IsTextEmpty](../../aspose.diagram/shape/istextempty/) { get; } | Indicate the shape has text and the text is empty or not. |
 | [LayerMem](../../aspose.diagram/shape/layermem/) { get; } | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [Layout](../../aspose.diagram/shape/layout/) { get; } | Contains elements that control shape placement and connector routing settings. |
 | [Line](../../aspose.diagram/shape/line/) { get; } | Contains elements that control line attributes for a shape, such as pattern, weight, and color. These elements determine whether the line ends are formatted (for example, with an arrowhead), the size of line end formats, radius of the rounding circle applied to the line, and line cap style (round or square). |

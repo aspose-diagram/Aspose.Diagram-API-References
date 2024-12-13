@@ -10,7 +10,7 @@ url: /net/aspose.diagram/griddensity/
 Specifies the type of horizontal/vertical grid to use for a page.
 
 ```csharp
-public class GridDensity
+public class GridDensity : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class GridDensity
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/griddensity/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/griddensity/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/griddensity/gethashcode/)() | Serves as a hash function for a particular type. |
 

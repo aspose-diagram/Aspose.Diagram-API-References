@@ -10,7 +10,7 @@ url: /net/aspose.diagram/drawingsizetype/
 Specifies the drawing size of a page.
 
 ```csharp
-public class DrawingSizeType
+public class DrawingSizeType : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class DrawingSizeType
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/drawingsizetype/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/drawingsizetype/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/drawingsizetype/gethashcode/)() | Serves as a hash function for a particular type. |
 

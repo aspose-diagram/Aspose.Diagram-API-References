@@ -10,7 +10,7 @@ url: /net/aspose.diagram/docprops/
 Contains elements that control the document's preview quality, scope, and output format.
 
 ```csharp
-public class DocProps
+public class DocProps : ICloneable
 ```
 
 ## Properties
@@ -25,6 +25,12 @@ public class DocProps
 | [PreviewQuality](../../aspose.diagram/docprops/previewquality/) { get; } | Specifies whether the drawing preview is draft quality or detailed. |
 | [PreviewScope](../../aspose.diagram/docprops/previewscope/) { get; } | Specifies whether the document includes a preview, and, if so, whether the preview shows only the first page or all the pages in the document. |
 | [ViewMarkup](../../aspose.diagram/docprops/viewmarkup/) { get; } | Determines whether markup appears in the drawing window. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/docprops/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 

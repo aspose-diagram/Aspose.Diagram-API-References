@@ -10,7 +10,7 @@ url: /net/aspose.diagram/shdwtype/
 Indicates the default shadow type for a page.
 
 ```csharp
-public class ShdwType
+public class ShdwType : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class ShdwType
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/shdwtype/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/shdwtype/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/shdwtype/gethashcode/)() | Serves as a hash function for a particular type. |
 

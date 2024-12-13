@@ -10,7 +10,7 @@ url: /net/aspose.diagram/drawingresizetype/
 Determines whether the drawing page resizes automatically to fit the diagram.
 
 ```csharp
-public class DrawingResizeType
+public class DrawingResizeType : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class DrawingResizeType
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/drawingresizetype/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/drawingresizetype/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/drawingresizetype/gethashcode/)() | Serves as a hash function for a particular type. |
 

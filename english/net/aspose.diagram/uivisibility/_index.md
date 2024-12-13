@@ -10,7 +10,7 @@ url: /net/aspose.diagram/uivisibility/
 Specifies the tab alignment.
 
 ```csharp
-public class UIVisibility
+public class UIVisibility : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class UIVisibility
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/uivisibility/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/uivisibility/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/uivisibility/gethashcode/)() | Serves as a hash function for a particular type. |
 

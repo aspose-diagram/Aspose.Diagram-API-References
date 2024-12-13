@@ -10,7 +10,7 @@ url: /net/aspose.diagram/pageprops/
 Contains cells that control page attributes, such as the page width, height, and scale.
 
 ```csharp
-public class PageProps
+public class PageProps : ICloneable
 ```
 
 ## Properties

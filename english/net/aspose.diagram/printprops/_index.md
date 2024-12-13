@@ -10,7 +10,7 @@ url: /net/aspose.diagram/printprops/
 Contains elements that control how the drawing page is formatted (appears) on the printer page.
 
 ```csharp
-public class PrintProps
+public class PrintProps : ICloneable
 ```
 
 ## Properties
@@ -33,6 +33,12 @@ public class PrintProps
 | [PrintPageOrientation](../../aspose.diagram/printprops/printpageorientation/) { get; } | Determines whether the page is printed in portrait or landscape orientation. |
 | [ScaleX](../../aspose.diagram/printprops/scalex/) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the x (horizontal) direction. |
 | [ScaleY](../../aspose.diagram/printprops/scaley/) { get; } | Specifies the percentage of magnification of the drawing page on the printer page, in the y (vertical) direction. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/printprops/clone/)() | Creates deep copy of this instance. |
 
 ### See Also
 

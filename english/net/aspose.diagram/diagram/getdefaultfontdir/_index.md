@@ -10,7 +10,7 @@ url: /net/aspose.diagram/diagram/getdefaultfontdir/
 Get the Default Fonts folder path
 
 ```csharp
-public string GetDefaultFontDir()
+public ArrayList GetDefaultFontDir()
 ```
 
 ### See Also

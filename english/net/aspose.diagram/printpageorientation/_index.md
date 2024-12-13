@@ -10,7 +10,7 @@ url: /net/aspose.diagram/printpageorientation/
 Determines whether the page is printed in portrait or landscape orientation.
 
 ```csharp
-public class PrintPageOrientation
+public class PrintPageOrientation : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class PrintPageOrientation
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/printpageorientation/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/printpageorientation/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/printpageorientation/gethashcode/)() | Serves as a hash function for a particular type. |
 

@@ -10,7 +10,7 @@ url: /net/aspose.diagram/drawingscaletype/
 Specifies the type of drawing scale to use for a page.
 
 ```csharp
-public class DrawingScaleType
+public class DrawingScaleType : ICloneable
 ```
 
 ## Constructors
@@ -30,6 +30,7 @@ public class DrawingScaleType
 
 | Name | Description |
 | --- | --- |
+| [Clone](../../aspose.diagram/drawingscaletype/clone/)() | Creates deep copy of this instance. |
 | override [Equals](../../aspose.diagram/drawingscaletype/equals/)(object) | Are objects equal. |
 | override [GetHashCode](../../aspose.diagram/drawingscaletype/gethashcode/)() | Serves as a hash function for a particular type. |
 
