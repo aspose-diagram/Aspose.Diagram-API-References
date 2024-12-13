@@ -497,14 +497,14 @@ The collection of DataRecordset objects associated with a Document object.
 [DataRecordSetCollection](../../com.aspose.diagram/datarecordsetcollection)
 ### getDefaultFontDir() {#getDefaultFontDir--}
 ```
-public String getDefaultFontDir()
+public ArrayList getDefaultFontDir()
 ```
 
 
 Get the Default Fonts folder path
 
 **Returns:**
-java.lang.String
+java.util.ArrayList
 ### getDocLangID() {#getDocLangID--}
 ```
 public int getDocLangID()

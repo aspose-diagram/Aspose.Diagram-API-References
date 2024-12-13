@@ -113,7 +113,6 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [isGlued(Shape shape)](#isGlued-com.aspose.diagram.Shape-) | Indicates whether this two shapes are glued. |
 | [isInGroup()](#isInGroup--) | Indicates whether this shape is in a group shape. |
 | [isIntersect(Shape shape)](#isIntersect-com.aspose.diagram.Shape-) | Indicates whether this shape is intersect another shape. |
-| [isTextEmpty()](#isTextEmpty--) | Indicate the shape has text and the text is empty or not. |
 | [move(double dX, double dY)](#move-double-double-) | Moves shape on the dX and dY inches from current position. |
 | [moveTo(double newPinX, double newPinY)](#moveTo-double-double-) | Moves shape on new absolute position on the page. |
 | [notify()](#notify--) |  |
@@ -1113,16 +1112,6 @@ Indicates whether this shape is intersect another shape.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | shape | [Shape](../../com.aspose.diagram/shape) |  |
-
-**Returns:**
-boolean
-### isTextEmpty() {#isTextEmpty--}
-```
-public boolean isTextEmpty()
-```
-
-
-Indicate the shape has text and the text is empty or not.
 
 **Returns:**
 boolean

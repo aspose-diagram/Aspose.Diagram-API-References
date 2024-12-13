@@ -23,6 +23,7 @@ Specifies the type of horizontal/vertical grid to use for a page.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -48,6 +49,16 @@ Constructor.
 | --- | --- | --- |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)

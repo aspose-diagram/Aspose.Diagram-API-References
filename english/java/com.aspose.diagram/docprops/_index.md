@@ -18,6 +18,7 @@ Contains elements that control the document's preview quality, scope, and output
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAddMarkup()](#getAddMarkup--) | Indicates whether the document is being reviewed for markup. |
 | [getClass()](#getClass--) |  |
@@ -36,6 +37,16 @@ Contains elements that control the document's preview quality, scope, and output
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

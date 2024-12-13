@@ -23,6 +23,7 @@ Determines whether the page is printed in portrait or landscape orientation.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -49,6 +50,16 @@ Constructor.
 | pp | [PrintProps](../../com.aspose.diagram/printprops) |  |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)
