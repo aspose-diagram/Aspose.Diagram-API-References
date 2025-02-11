@@ -31,7 +31,7 @@ Represents a command button.
 | [getMousePointer()](#getMousePointer--) | the type of icon displayed as the mouse pointer for the control. |
 | [getPicture()](#getPicture--) | the data of the picture. |
 | [getPicturePosition()](#getPicturePosition--) | the location of the control's picture relative to its caption. |
-| [getTakeFocusOnClick()](#getTakeFocusOnClick--) | Inidcates whether the control takes the focus when clicked. |
+| [getTakeFocusOnClick()](#getTakeFocusOnClick--) | Indicates whether the control takes the focus when clicked. |
 | [getType()](#getType--) | Gets the type of the ActiveX control. |
 | [getWidth()](#getWidth--) | the width of the control in unit of point. |
 | [hashCode()](#hashCode--) |  |
@@ -204,7 +204,7 @@ public boolean getTakeFocusOnClick()
 ```
 
 
-Inidcates whether the control takes the focus when clicked.
+Indicates whether the control takes the focus when clicked.
 
 **Returns:**
 boolean
