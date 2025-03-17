@@ -33,7 +33,7 @@ public class CommandButtonActiveXControl : ActiveXControl
 | [MousePointer](../../aspose.diagram.activexcontrols/activexcontrolbase/mousepointer/) { get; set; } | Gets and sets the type of icon displayed as the mouse pointer for the control. |
 | [Picture](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/picture/) { get; set; } | Gets and sets the data of the picture. |
 | [PicturePosition](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/pictureposition/) { get; set; } | Gets and set the location of the control's picture relative to its caption. |
-| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick/) { get; set; } | Inidcates whether the control takes the focus when clicked. |
+| [TakeFocusOnClick](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/takefocusonclick/) { get; set; } | Indicates whether the control takes the focus when clicked. |
 | override [Type](../../aspose.diagram.activexcontrols/commandbuttonactivexcontrol/type/) { get; } | Gets the type of the ActiveX control. |
 | virtual [Width](../../aspose.diagram.activexcontrols/activexcontrolbase/width/) { get; set; } | Gets and sets the width of the control in unit of point. |
 

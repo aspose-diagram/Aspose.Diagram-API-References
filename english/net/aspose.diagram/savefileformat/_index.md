@@ -40,6 +40,8 @@ public enum SaveFileFormat
 | Vstm | `20` | MS Visio Vstm file format which enable macros. |
 | Csv | `21` | Comma-Separated Values(CSV) text file. |
 | Vsd | `22` | MS Visio Vsd binary format. |
+| Vss | `23` | MS Visio Vss binary format. |
+| Vst | `24` | MS Visio Vst binary format. |
 
 ### See Also
 

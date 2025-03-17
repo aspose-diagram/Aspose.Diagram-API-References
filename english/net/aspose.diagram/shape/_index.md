@@ -50,6 +50,7 @@ public class Shape
 | [Hyperlinks](../../aspose.diagram/shape/hyperlinks/) { get; } | Contains a collection of Hyperlink elements. |
 | [ID](../../aspose.diagram/shape/id/) { get; set; } | The unique ID of the element within its parent element. |
 | [Image](../../aspose.diagram/shape/image/) { get; } | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
+| [InheritActs](../../aspose.diagram/shape/inheritacts/) { get; } | Contains the actions for the shape inherit by the master shape. |
 | [InheritChars](../../aspose.diagram/shape/inheritchars/) { get; } | Contains the char values for the shape inherit by the master shape. |
 | [InheritFill](../../aspose.diagram/shape/inheritfill/) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritGeoms](../../aspose.diagram/shape/inheritgeoms/) { get; } | Contains the Geoms values for the shape inherit by the master shape. |
