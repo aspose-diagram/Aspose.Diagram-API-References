@@ -32,8 +32,10 @@ Enumeration for saving diagram format selection.
 | [VSD](#VSD) | MS Visio Vsd binary format. |
 | [VSDM](#VSDM) | MS Visio Vsdm file format which enable macros. |
 | [VSDX](#VSDX) | MS Visio 2013 Vsdx file format. |
+| [VSS](#VSS) | MS Visio Vss binary format. |
 | [VSSM](#VSSM) | MS Visio Vssm file format which enable macros. |
 | [VSSX](#VSSX) | MS Visio 2013 Vssx file format |
+| [VST](#VST) | MS Visio Vst binary format. |
 | [VSTM](#VSTM) | MS Visio Vstm file format which enable macros. |
 | [VSTX](#VSTX) | MS Visio 2013 Vstx file format,Template file. |
 | [VSX](#VSX) | MS Visio Vsx xml stencil format. |
@@ -165,6 +167,14 @@ public static final int VSDX
 
 MS Visio 2013 Vsdx file format.
 
+### VSS {#VSS}
+```
+public static final int VSS
+```
+
+
+MS Visio Vss binary format.
+
 ### VSSM {#VSSM}
 ```
 public static final int VSSM
@@ -180,6 +190,14 @@ public static final int VSSX
 
 
 MS Visio 2013 Vssx file format
+
+### VST {#VST}
+```
+public static final int VST
+```
+
+
+MS Visio Vst binary format.
 
 ### VSTM {#VSTM}
 ```

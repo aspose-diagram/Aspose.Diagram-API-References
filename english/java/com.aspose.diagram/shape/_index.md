@@ -61,6 +61,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getHyperlinks()](#getHyperlinks--) | Contains a collection of Hyperlink elements. |
 | [getID()](#getID--) | The unique ID of the element within its parent element. |
 | [getImage()](#getImage--) | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
+| [getInheritActs()](#getInheritActs--) | Contains the actions for the shape inherit by the master shape. |
 | [getInheritChars()](#getInheritChars--) | Contains the char values for the shape inherit by the master shape. |
 | [getInheritFill()](#getInheritFill--) | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [getInheritGeoms()](#getInheritGeoms--) | Contains the Geoms values for the shape inherit by the master shape. |
@@ -563,6 +564,16 @@ Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparen
 
 **Returns:**
 [Image](../../com.aspose.diagram/image)
+### getInheritActs() {#getInheritActs--}
+```
+public ActCollection getInheritActs()
+```
+
+
+Contains the actions for the shape inherit by the master shape.
+
+**Returns:**
+[ActCollection](../../com.aspose.diagram/actcollection)
 ### getInheritChars() {#getInheritChars--}
 ```
 public CharCollection getInheritChars()
