@@ -18,6 +18,7 @@ public enum WarningType
 | Name | Value | Description |
 | --- | --- | --- |
 | FontSubstitution | `0` | Font substitution warning type when a font has not been found, this warning type can be get. |
+| UnsupportedImageType | `1` | Unsupported Image Type. |
 
 ### See Also
 
