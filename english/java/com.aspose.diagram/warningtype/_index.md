@@ -19,6 +19,7 @@ WarningType
 | Field | Description |
 | --- | --- |
 | [FONT_SUBSTITUTION](#FONT-SUBSTITUTION) | Font substitution warning type when a font has not been found, this warning type can be get. |
+| [UNSUPPORTED_IMAGE_TYPE](#UNSUPPORTED-IMAGE-TYPE) | Unsupported Image Type. |
 ## Methods
 
 | Method | Description |
@@ -39,6 +40,14 @@ public static final int FONT_SUBSTITUTION
 
 
 Font substitution warning type when a font has not been found, this warning type can be get.
+
+### UNSUPPORTED_IMAGE_TYPE {#UNSUPPORTED-IMAGE-TYPE}
+```
+public static final int UNSUPPORTED_IMAGE_TYPE
+```
+
+
+Unsupported Image Type.
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
