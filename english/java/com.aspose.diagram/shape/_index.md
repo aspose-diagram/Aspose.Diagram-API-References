@@ -165,7 +165,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [toPdf(OutputStream stream)](#toPdf-java.io.OutputStream-) | Creates the shape pdf and saves it to a stream. |
 | [toPdf(String fileName)](#toPdf-java.lang.String-) | Saves the shape to a pdf file. |
 | [toString()](#toString--) |  |
-| [toSvg(String imageFile, SVGSaveOptions options)](#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-) | Saves the shape to a svg file. |
+| [toSvg(String fileName, SVGSaveOptions options)](#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-) | Saves the shape to a svg file. |
 | [ungroup()](#ungroup--) | Ungroup Shape |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -1678,7 +1678,7 @@ Creates the html and saves it to a file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | The file name with full path. |
 | options | [HTMLSaveOptions](../../com.aspose.diagram/htmlsaveoptions) | html save options |
 
 ### toImage(InputStream stream, ImageSaveOptions options) {#toImage-java.io.InputStream-com.aspose.diagram.ImageSaveOptions-}
@@ -1774,9 +1774,9 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### toSvg(String imageFile, SVGSaveOptions options) {#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-}
+### toSvg(String fileName, SVGSaveOptions options) {#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-}
 ```
-public void toSvg(String imageFile, SVGSaveOptions options)
+public void toSvg(String fileName, SVGSaveOptions options)
 ```
 
 
@@ -1785,7 +1785,7 @@ Saves the shape to a svg file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | java.lang.String |  |
+| fileName | java.lang.String | the svg file name with full path |
 | options | [SVGSaveOptions](../../com.aspose.diagram/svgsaveoptions) |  |
 
 ### ungroup() {#ungroup--}
