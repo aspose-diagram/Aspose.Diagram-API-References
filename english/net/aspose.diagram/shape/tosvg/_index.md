@@ -10,7 +10,7 @@ url: /net/aspose.diagram/shape/tosvg/
 Saves the shape to a svg file.
 
 ```csharp
-public void ToSvg(string imageFile, SVGSaveOptions options)
+public void ToSvg(string fileName, SVGSaveOptions options)
 ```
 
 | Parameter | Description |

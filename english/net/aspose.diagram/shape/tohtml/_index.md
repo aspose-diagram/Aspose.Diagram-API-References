@@ -15,7 +15,7 @@ public void ToHTML(string fileName, HTMLSaveOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | String | The file name with full path. |
+| fileName | String | The file name with full path. |
 | options | HTMLSaveOptions | html save options |
 
 ### See Also

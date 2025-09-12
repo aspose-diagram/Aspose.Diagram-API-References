@@ -20,6 +20,12 @@ public class LayerMem
 | [Del](../../aspose.diagram/layermem/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
 | [LayerMember](../../aspose.diagram/layermem/layermember/) { get; } | Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based index of layers for the page. If a shape is assigned to more than one layer, each layer index appears separated by a semicolon. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/layermem/clone/)() | Creates deep copy of this instance. |
+
 ### See Also
 
 * namespace [Aspose.Diagram](../../aspose.diagram/)
