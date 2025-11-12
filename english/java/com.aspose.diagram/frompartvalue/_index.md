@@ -3,7 +3,7 @@ title: FromPartValue
 second_title: Aspose.Diagram for Java API Reference
 description: The part of a shape from which a connection originates.
 type: docs
-weight: 170
+weight: 172
 url: /java/com.aspose.diagram/frompartvalue/
 ---
 

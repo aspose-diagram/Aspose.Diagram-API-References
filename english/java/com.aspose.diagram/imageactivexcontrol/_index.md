@@ -3,7 +3,7 @@ title: ImageActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the image control.
 type: docs
-weight: 199
+weight: 201
 url: /java/com.aspose.diagram/imageactivexcontrol/
 ---
 

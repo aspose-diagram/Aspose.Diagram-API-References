@@ -3,7 +3,7 @@ title: HorzAlign
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the horizontal alignment of text in the shapes text block.
 type: docs
-weight: 193
+weight: 195
 url: /java/com.aspose.diagram/horzalign/
 ---
 

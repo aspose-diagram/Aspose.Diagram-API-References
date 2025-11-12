@@ -3,7 +3,7 @@ title: MasterShortcutCollection
 second_title: Aspose.Diagram for Java API Reference
 description: MasterShortcut collection.
 type: docs
-weight: 247
+weight: 249
 url: /java/com.aspose.diagram/mastershortcutcollection/
 ---
 

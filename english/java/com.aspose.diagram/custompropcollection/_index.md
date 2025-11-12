@@ -3,7 +3,7 @@ title: CustomPropCollection
 second_title: Aspose.Diagram for Java API Reference
 description: CustomProps collection.
 type: docs
-weight: 106
+weight: 108
 url: /java/com.aspose.diagram/custompropcollection/
 ---
 

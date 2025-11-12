@@ -3,7 +3,7 @@ title: ImageFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the file format of the image.
 type: docs
-weight: 201
+weight: 203
 url: /java/com.aspose.diagram/imageformat/
 ---
 

@@ -3,7 +3,7 @@ title: DrawingResizeType
 second_title: Aspose.Diagram for Java API Reference
 description: Determines whether the drawing page resizes automatically to fit the diagram.
 type: docs
-weight: 131
+weight: 133
 url: /java/com.aspose.diagram/drawingresizetype/
 ---
 

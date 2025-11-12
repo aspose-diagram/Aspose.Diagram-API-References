@@ -3,7 +3,7 @@ title: Reviewer
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that contain identifying information about a document reviewer.
 type: docs
-weight: 338
+weight: 340
 url: /java/com.aspose.diagram/reviewer/
 ---
 

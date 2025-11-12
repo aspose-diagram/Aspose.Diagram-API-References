@@ -3,7 +3,7 @@ title: CommandButtonActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a command button.
 type: docs
-weight: 56
+weight: 58
 url: /java/com.aspose.diagram/commandbuttonactivexcontrol/
 ---
 

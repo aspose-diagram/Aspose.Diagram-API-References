@@ -3,7 +3,7 @@ title: GradientFillDir
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of the fill color gradient of a shape
 type: docs
-weight: 181
+weight: 183
 url: /java/com.aspose.diagram/gradientfilldir/
 ---
 

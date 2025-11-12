@@ -3,7 +3,7 @@ title: ConnectionABCD
 second_title: Aspose.Diagram for Java API Reference
 description: The ConnectionABCD element is an obsolete version of the Connection element and exists only for backward compatibility.
 type: docs
-weight: 79
+weight: 81
 url: /java/com.aspose.diagram/connectionabcd/
 ---
 

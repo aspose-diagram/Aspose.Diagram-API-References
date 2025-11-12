@@ -3,7 +3,7 @@ title: GradientStopCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the gradient stop collection.
 type: docs
-weight: 184
+weight: 186
 url: /java/com.aspose.diagram/gradientstopcollection/
 ---
 

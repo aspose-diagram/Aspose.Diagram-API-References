@@ -3,7 +3,7 @@ title: MoveTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the x- and y-coordinates of the first vertex of a shape or contains the x- and y-coordinates of the first vertex after a break in a path.
 type: docs
-weight: 253
+weight: 255
 url: /java/com.aspose.diagram/moveto/
 ---
 

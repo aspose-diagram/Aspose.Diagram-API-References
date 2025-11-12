@@ -3,7 +3,7 @@ title: NURBSTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the x- and y-coordinates position of the second to last knot position of the last weight position of the first knot position of the first weight and the formula for a nonuniform rational B-spline NURBS.
 type: docs
-weight: 255
+weight: 257
 url: /java/com.aspose.diagram/nurbsto/
 ---
 

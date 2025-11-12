@@ -3,7 +3,7 @@ title: DrawingSizeType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the drawing size of a page.
 type: docs
-weight: 135
+weight: 137
 url: /java/com.aspose.diagram/drawingsizetype/
 ---
 

@@ -3,7 +3,7 @@ title: GradientStop
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the gradient stop.
 type: docs
-weight: 183
+weight: 185
 url: /java/com.aspose.diagram/gradientstop/
 ---
 

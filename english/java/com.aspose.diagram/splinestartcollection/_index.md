@@ -3,7 +3,7 @@ title: SplineStartCollection
 second_title: Aspose.Diagram for Java API Reference
 description: SplineStart collection.
 type: docs
-weight: 395
+weight: 397
 url: /java/com.aspose.diagram/splinestartcollection/
 ---
 

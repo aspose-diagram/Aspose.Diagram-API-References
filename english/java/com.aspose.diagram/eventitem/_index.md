@@ -3,7 +3,7 @@ title: EventItem
 second_title: Aspose.Diagram for Java API Reference
 description: Encapsulates an event code.
 type: docs
-weight: 147
+weight: 149
 url: /java/com.aspose.diagram/eventitem/
 ---
 

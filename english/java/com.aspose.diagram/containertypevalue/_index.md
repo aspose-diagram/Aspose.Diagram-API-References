@@ -3,7 +3,7 @@ title: ContainerTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: May be one of the following values Document Page or Master.
 type: docs
-weight: 85
+weight: 87
 url: /java/com.aspose.diagram/containertypevalue/
 ---
 

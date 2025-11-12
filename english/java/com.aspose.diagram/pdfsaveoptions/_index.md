@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to PDF.
 type: docs
-weight: 286
+weight: 288
 url: /java/com.aspose.diagram/pdfsaveoptions/
 ---
 

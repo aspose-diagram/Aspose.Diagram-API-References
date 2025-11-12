@@ -3,7 +3,7 @@ title: PlaceDepth
 second_title: Aspose.Diagram for Java API Reference
 description: For a drawing that is laid out automatically specifies the method by which the drawing is analyzed before creating the layout and determines the type of layout.
 type: docs
-weight: 290
+weight: 292
 url: /java/com.aspose.diagram/placedepth/
 ---
 

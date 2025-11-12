@@ -3,7 +3,7 @@ title: RouteStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the routing style and direction for all dynamic connectors on the drawing page that dont have a local routing style.
 type: docs
-weight: 342
+weight: 344
 url: /java/com.aspose.diagram/routestyle/
 ---
 

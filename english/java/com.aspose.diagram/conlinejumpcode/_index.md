@@ -3,7 +3,7 @@ title: ConLineJumpCode
 second_title: Aspose.Diagram for Java API Reference
 description: Determines whether a connector jumps when two connectors cross.
 type: docs
-weight: 63
+weight: 65
 url: /java/com.aspose.diagram/conlinejumpcode/
 ---
 

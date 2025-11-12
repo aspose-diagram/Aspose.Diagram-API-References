@@ -3,7 +3,7 @@ title: ColorValue
 second_title: Aspose.Diagram for Java API Reference
 description: Represents color value
 type: docs
-weight: 54
+weight: 56
 url: /java/com.aspose.diagram/colorvalue/
 ---
 

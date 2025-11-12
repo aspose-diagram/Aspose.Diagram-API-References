@@ -3,7 +3,7 @@ title: PageSize
 second_title: Aspose.Diagram for Java API Reference
 description: Contains information about page size for the generated images.
 type: docs
-weight: 276
+weight: 278
 url: /java/com.aspose.diagram/pagesize/
 ---
 

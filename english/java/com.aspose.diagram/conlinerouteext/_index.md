@@ -3,7 +3,7 @@ title: ConLineRouteExt
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the appearance of a connector.
 type: docs
-weight: 71
+weight: 73
 url: /java/com.aspose.diagram/conlinerouteext/
 ---
 

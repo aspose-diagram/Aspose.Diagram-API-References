@@ -3,7 +3,7 @@ title: ConnectionPointPlace
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the location on the shape where connector will be connected.
 type: docs
-weight: 82
+weight: 84
 url: /java/com.aspose.diagram/connectionpointplace/
 ---
 

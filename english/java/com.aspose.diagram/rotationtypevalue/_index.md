@@ -3,7 +3,7 @@ title: RotationTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of projection of the effect properties of a shape
 type: docs
-weight: 341
+weight: 343
 url: /java/com.aspose.diagram/rotationtypevalue/
 ---
 

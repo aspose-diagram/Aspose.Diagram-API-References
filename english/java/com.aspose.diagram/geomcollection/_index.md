@@ -3,7 +3,7 @@ title: GeomCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Geom collection.
 type: docs
-weight: 172
+weight: 174
 url: /java/com.aspose.diagram/geomcollection/
 ---
 

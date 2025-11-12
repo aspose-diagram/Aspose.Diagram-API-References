@@ -3,7 +3,7 @@ title: FontCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a collection of Font elements.
 type: docs
-weight: 161
+weight: 163
 url: /java/com.aspose.diagram/fontcollection/
 ---
 

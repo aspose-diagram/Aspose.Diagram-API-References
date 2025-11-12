@@ -3,7 +3,7 @@ title: LoadFilter
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the filter that provides options for loading data when loading diagram from template.
 type: docs
-weight: 239
+weight: 241
 url: /java/com.aspose.diagram/loadfilter/
 ---
 

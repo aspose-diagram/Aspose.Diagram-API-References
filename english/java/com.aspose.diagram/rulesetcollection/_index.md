@@ -3,7 +3,7 @@ title: RuleSetCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RuleSet collection.
 type: docs
-weight: 350
+weight: 352
 url: /java/com.aspose.diagram/rulesetcollection/
 ---
 

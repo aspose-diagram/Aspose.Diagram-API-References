@@ -3,7 +3,7 @@ title: RelEllipticalArcToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelEllipticalArcTo  collection.
 type: docs
-weight: 324
+weight: 326
 url: /java/com.aspose.diagram/relellipticalarctocollection/
 ---
 

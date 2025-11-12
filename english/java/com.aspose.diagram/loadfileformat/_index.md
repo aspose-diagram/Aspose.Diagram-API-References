@@ -3,7 +3,7 @@ title: LoadFileFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Enumeration for loading diagram format selection.
 type: docs
-weight: 238
+weight: 240
 url: /java/com.aspose.diagram/loadfileformat/
 ---
 

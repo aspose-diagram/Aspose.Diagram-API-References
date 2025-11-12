@@ -43,6 +43,8 @@ url: /java/com.aspose.diagram/
 | [BoolValue](../com.aspose.diagram/boolvalue) | Boolean value. |
 | [Bullet](../com.aspose.diagram/bullet) | Determines the bullet style. |
 | [BulletValue](../com.aspose.diagram/bulletvalue) | Determines the bullet style. |
+| [CalculateItemType](../com.aspose.diagram/calculateitemtype) | Represents calculate type for refreshing shape's data. |
+| [CalculateOptions](../com.aspose.diagram/calculateoptions) | Represents options for calculation. |
 | [Calendar](../com.aspose.diagram/calendar) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [CalendarValue](../com.aspose.diagram/calendarvalue) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [Case](../com.aspose.diagram/case) | Determines the case of a shape's text. |

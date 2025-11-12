@@ -3,7 +3,7 @@ title: ConLineJumpDirY
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the line jump direction for line jumps occurring on a vertical segment of a dynamic connector.
 type: docs
-weight: 67
+weight: 69
 url: /java/com.aspose.diagram/conlinejumpdiry/
 ---
 

@@ -3,7 +3,7 @@ title: PolylineToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: PolylineTo collection.
 type: docs
-weight: 297
+weight: 299
 url: /java/com.aspose.diagram/polylinetocollection/
 ---
 

@@ -3,7 +3,7 @@ title: Layout
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control shape placement and connector routing settings.
 type: docs
-weight: 217
+weight: 219
 url: /java/com.aspose.diagram/layout/
 ---
 

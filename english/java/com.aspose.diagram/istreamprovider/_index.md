@@ -3,7 +3,7 @@ title: IStreamProvider
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the exported stream provider.
 type: docs
-weight: 466
+weight: 468
 url: /java/com.aspose.diagram/istreamprovider/
 ---
 ```

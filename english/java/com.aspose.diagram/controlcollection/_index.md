@@ -3,7 +3,7 @@ title: ControlCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Control collection.
 type: docs
-weight: 90
+weight: 92
 url: /java/com.aspose.diagram/controlcollection/
 ---
 

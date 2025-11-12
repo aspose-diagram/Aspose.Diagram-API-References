@@ -3,7 +3,7 @@ title: ConLineJumpStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the line jump style for line jumps on a dynamic connector.
 type: docs
-weight: 69
+weight: 71
 url: /java/com.aspose.diagram/conlinejumpstyle/
 ---
 

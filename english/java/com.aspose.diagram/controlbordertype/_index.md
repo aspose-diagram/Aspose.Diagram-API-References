@@ -3,7 +3,7 @@ title: ControlBorderType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the border type of the ActiveX control.
 type: docs
-weight: 88
+weight: 90
 url: /java/com.aspose.diagram/controlbordertype/
 ---
 

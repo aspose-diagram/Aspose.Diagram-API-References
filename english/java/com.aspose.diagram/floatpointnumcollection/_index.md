@@ -3,7 +3,7 @@ title: FloatPointNumCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a collection of doubling point numbers
 type: docs
-weight: 158
+weight: 160
 url: /java/com.aspose.diagram/floatpointnumcollection/
 ---
 

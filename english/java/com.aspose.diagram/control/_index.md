@@ -3,7 +3,7 @@ title: Control
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements for the x- and y-coordinates of each control handle defined for a shape and elements that specify the way the control handle should behave.
 type: docs
-weight: 87
+weight: 89
 url: /java/com.aspose.diagram/control/
 ---
 

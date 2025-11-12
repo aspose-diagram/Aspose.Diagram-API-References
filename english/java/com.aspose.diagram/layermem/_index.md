@@ -3,7 +3,7 @@ title: LayerMem
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the LayerMember element which specifies each layer to which the shape is assigned.
 type: docs
-weight: 216
+weight: 218
 url: /java/com.aspose.diagram/layermem/
 ---
 

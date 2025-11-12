@@ -3,7 +3,7 @@ title: GlowEffect
 second_title: Aspose.Diagram for Java API Reference
 description: This class specifies a glow effect in which a color blurred outline  is added outside the edges of the object.
 type: docs
-weight: 173
+weight: 175
 url: /java/com.aspose.diagram/gloweffect/
 ---
 

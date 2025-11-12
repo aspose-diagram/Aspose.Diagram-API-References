@@ -3,7 +3,7 @@ title: DiagramSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Can be used to specify additional options when saving a diagram into Visio VDXVSX format.
 type: docs
-weight: 119
+weight: 121
 url: /java/com.aspose.diagram/diagramsaveoptions/
 ---
 

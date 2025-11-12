@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 363
+weight: 365
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -71,6 +71,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getInheritProps()](#getInheritProps--) | Contains the props for the shape inherit by the master shape. |
 | [getInheritTextBlock()](#getInheritTextBlock--) | Contains the textblock values for the shape inherit by the parent style and the master shape. |
 | [getInheritUsers()](#getInheritUsers--) | Contains the users for the shape inherit by the master shape. |
+| [getInheritXForm()](#getInheritXForm--) |  |
 | [getLayerMem()](#getLayerMem--) | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [getLayout()](#getLayout--) | Contains elements that control shape placement and connector routing settings. |
 | [getLine()](#getLine--) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. |
@@ -118,7 +119,8 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [moveTo(double newPinX, double newPinY)](#moveTo-double-double-) | Moves shape on new absolute position on the page. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [refreshData()](#refreshData--) | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
+| [refreshData()](#refreshData--) |  |
+| [refreshData(CalculateOptions options)](#refreshData-com.aspose.diagram.CalculateOptions-) | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
 | [replaceText(String text, String replaceText)](#replaceText-java.lang.String-java.lang.String-) | Replace the text string of a shape . |
 | [sendBackward()](#sendBackward--) | Moves the shape back one position in the z-order. |
 | [sendToBack()](#sendToBack--) | Moves the shape to the back of the z-order. |
@@ -237,7 +239,7 @@ public void copy(Shape source)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | [Shape](../../com.aspose.diagram/shape) |  |
+| source | [Shape](../../com.aspose.diagram/shape) | Source shape |
 
 ### dependsOnShapes() {#dependsOnShapes--}
 ```
@@ -664,6 +666,16 @@ Contains the users for the shape inherit by the master shape.
 
 **Returns:**
 [UserCollection](../../com.aspose.diagram/usercollection)
+### getInheritXForm() {#getInheritXForm--}
+```
+public XForm getInheritXForm()
+```
+
+
+
+
+**Returns:**
+[XForm](../../com.aspose.diagram/xform)
 ### getLayerMem() {#getLayerMem--}
 ```
 public LayerMem getLayerMem()
@@ -1176,7 +1188,20 @@ public void refreshData()
 ```
 
 
+
+
+### refreshData(CalculateOptions options) {#refreshData-com.aspose.diagram.CalculateOptions-}
+```
+public void refreshData(CalculateOptions options)
+```
+
+
 Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . We will gather shape's data such as shape's text then calculate shape's position. This method is only used to refresh shape's data .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [CalculateOptions](../../com.aspose.diagram/calculateoptions) |  |
 
 ### replaceText(String text, String replaceText) {#replaceText-java.lang.String-java.lang.String-}
 ```
@@ -1786,7 +1811,7 @@ Saves the shape to a svg file.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileName | java.lang.String | the svg file name with full path |
-| options | [SVGSaveOptions](../../com.aspose.diagram/svgsaveoptions) |  |
+| options | [SVGSaveOptions](../../com.aspose.diagram/svgsaveoptions) | Svg save options |
 
 ### ungroup() {#ungroup--}
 ```

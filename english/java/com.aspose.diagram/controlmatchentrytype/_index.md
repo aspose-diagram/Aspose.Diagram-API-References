@@ -3,7 +3,7 @@ title: ControlMatchEntryType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents how a ListBox or ComboBox searches its list as the user types.
 type: docs
-weight: 92
+weight: 94
 url: /java/com.aspose.diagram/controlmatchentrytype/
 ---
 

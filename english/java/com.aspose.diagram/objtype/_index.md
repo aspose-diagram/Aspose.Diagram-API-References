@@ -3,7 +3,7 @@ title: ObjType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the drawing page.
 type: docs
-weight: 257
+weight: 259
 url: /java/com.aspose.diagram/objtype/
 ---
 

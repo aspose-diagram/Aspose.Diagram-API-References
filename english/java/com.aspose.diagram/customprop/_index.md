@@ -3,7 +3,7 @@ title: CustomProp
 second_title: Aspose.Diagram for Java API Reference
 description: CustomProp structure.
 type: docs
-weight: 105
+weight: 107
 url: /java/com.aspose.diagram/customprop/
 ---
 

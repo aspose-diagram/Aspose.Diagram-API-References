@@ -3,7 +3,7 @@ title: LayoutStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Used to specify style of layout.
 type: docs
-weight: 220
+weight: 222
 url: /java/com.aspose.diagram/layoutstyle/
 ---
 

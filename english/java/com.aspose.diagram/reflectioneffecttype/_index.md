@@ -3,7 +3,7 @@ title: ReflectionEffectType
 second_title: Aspose.Diagram for Java API Reference
 description: 
 type: docs
-weight: 320
+weight: 322
 url: /java/com.aspose.diagram/reflectioneffecttype/
 ---
 

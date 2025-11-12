@@ -3,7 +3,7 @@ title: HyperlinkCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Hyperlink collection.
 type: docs
-weight: 196
+weight: 198
 url: /java/com.aspose.diagram/hyperlinkcollection/
 ---
 

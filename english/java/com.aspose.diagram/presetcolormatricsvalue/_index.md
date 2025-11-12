@@ -3,7 +3,7 @@ title: PresetColorMatricsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Used to set Shape theme styles color property
 type: docs
-weight: 302
+weight: 304
 url: /java/com.aspose.diagram/presetcolormatricsvalue/
 ---
 

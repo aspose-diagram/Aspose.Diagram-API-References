@@ -3,7 +3,7 @@ title: StrValue
 second_title: Aspose.Diagram for Java API Reference
 description: String value
 type: docs
-weight: 397
+weight: 399
 url: /java/com.aspose.diagram/strvalue/
 ---
 

@@ -3,7 +3,7 @@ title: Image
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the gamma brightness contrast blur sharpen denoise and transparency values for a bitmap.
 type: docs
-weight: 198
+weight: 200
 url: /java/com.aspose.diagram/image/
 ---
 

@@ -3,7 +3,7 @@ title: Pp
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the beginning of a paragraph properties run.
 type: docs
-weight: 300
+weight: 302
 url: /java/com.aspose.diagram/pp/
 ---
 

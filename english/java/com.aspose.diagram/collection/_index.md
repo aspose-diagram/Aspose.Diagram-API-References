@@ -3,7 +3,7 @@ title: Collection
 second_title: Aspose.Diagram for Java API Reference
 description: It is base class for collections.
 type: docs
-weight: 49
+weight: 51
 url: /java/com.aspose.diagram/collection/
 ---
 

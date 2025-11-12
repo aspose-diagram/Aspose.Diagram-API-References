@@ -3,7 +3,7 @@ title: CompressionType
 second_title: Aspose.Diagram for Java API Reference
 description: This attribute is only meaningful if the foreign data is a raster-based foreign object such as a DIB JPG PNG TIFF or GIF file.
 type: docs
-weight: 60
+weight: 62
 url: /java/com.aspose.diagram/compressiontype/
 ---
 

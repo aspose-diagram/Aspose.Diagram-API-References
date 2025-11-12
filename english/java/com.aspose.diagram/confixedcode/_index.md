@@ -3,7 +3,7 @@ title: ConFixedCode
 second_title: Aspose.Diagram for Java API Reference
 description: Determines when a connector reroutes.
 type: docs
-weight: 61
+weight: 63
 url: /java/com.aspose.diagram/confixedcode/
 ---
 

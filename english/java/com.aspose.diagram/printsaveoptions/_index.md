@@ -3,7 +3,7 @@ title: PrintSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when printing diagram.
 type: docs
-weight: 313
+weight: 315
 url: /java/com.aspose.diagram/printsaveoptions/
 ---
 

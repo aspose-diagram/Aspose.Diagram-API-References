@@ -3,7 +3,7 @@ title: Layer
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a single layer and its properties for a page.
 type: docs
-weight: 214
+weight: 216
 url: /java/com.aspose.diagram/layer/
 ---
 

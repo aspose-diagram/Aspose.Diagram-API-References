@@ -3,7 +3,7 @@ title: Case
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the case of a shapes text.
 type: docs
-weight: 43
+weight: 45
 url: /java/com.aspose.diagram/case/
 ---
 

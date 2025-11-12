@@ -3,7 +3,7 @@ title: RelMoveTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the x- and y-coordinates of the first vertex of a shape or contains the x- and y-coordinates of the first vertex after a break in a path.Coordinates are specified as relative coordinates.
 type: docs
-weight: 327
+weight: 329
 url: /java/com.aspose.diagram/relmoveto/
 ---
 

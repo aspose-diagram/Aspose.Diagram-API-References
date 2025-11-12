@@ -3,7 +3,7 @@ title: PlaceFlip
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how placeable shapes flip and/or rotate on a page when shapes are laid out using the Lay Out Shapes command in Microsoft Visio.
 type: docs
-weight: 292
+weight: 294
 url: /java/com.aspose.diagram/placeflip/
 ---
 

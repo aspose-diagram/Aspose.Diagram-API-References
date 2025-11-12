@@ -3,7 +3,7 @@ title: ValidationProperties
 second_title: Aspose.Diagram for Java API Reference
 description: Encapsulates properties related to validation for the document.
 type: docs
-weight: 437
+weight: 439
 url: /java/com.aspose.diagram/validationproperties/
 ---
 

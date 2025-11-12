@@ -3,7 +3,7 @@ title: LineJumpStyleValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the line jump style for all connectors on the drawing page that dont have a local line jump style.
 type: docs
-weight: 231
+weight: 233
 url: /java/com.aspose.diagram/linejumpstylevalue/
 ---
 

@@ -3,7 +3,7 @@ title: ThreeDFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a shapes three-dimensional formatting.
 type: docs
-weight: 414
+weight: 416
 url: /java/com.aspose.diagram/threedformat/
 ---
 

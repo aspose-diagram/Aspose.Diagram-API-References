@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when loading a diagram into a Diagram object.
 type: docs
-weight: 240
+weight: 242
 url: /java/com.aspose.diagram/loadoptions/
 ---
 

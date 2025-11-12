@@ -3,7 +3,7 @@ title: DropButtonStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the symbol displayed on the drop button.
 type: docs
-weight: 137
+weight: 139
 url: /java/com.aspose.diagram/dropbuttonstyle/
 ---
 

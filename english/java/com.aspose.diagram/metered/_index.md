@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.Diagram for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 250
+weight: 252
 url: /java/com.aspose.diagram/metered/
 ---
 

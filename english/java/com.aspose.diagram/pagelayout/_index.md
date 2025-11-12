@@ -3,7 +3,7 @@ title: PageLayout
 second_title: Aspose.Diagram for Java API Reference
 description: Contains cells that control the page layout settings for shapes and connectors such as spacing between all shapes on the page spacing between all connectors on the page and routing style for all connectors on the page.
 type: docs
-weight: 268
+weight: 270
 url: /java/com.aspose.diagram/pagelayout/
 ---
 

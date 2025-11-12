@@ -3,7 +3,7 @@ title: FormatTxtCollection
 second_title: Aspose.Diagram for Java API Reference
 description: FormatTxt collection which contains the text of a shape.
 type: docs
-weight: 169
+weight: 171
 url: /java/com.aspose.diagram/formattxtcollection/
 ---
 

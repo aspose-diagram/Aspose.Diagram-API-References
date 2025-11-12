@@ -3,7 +3,7 @@ title: DataColumn
 second_title: Aspose.Diagram for Java API Reference
 description: Defines how a data column appears in the External Data window in the Visio user interface and qualifies the data in the column by defining its data type and formatting.
 type: docs
-weight: 108
+weight: 110
 url: /java/com.aspose.diagram/datacolumn/
 ---
 

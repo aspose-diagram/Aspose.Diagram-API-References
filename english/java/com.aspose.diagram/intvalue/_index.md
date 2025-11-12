@@ -3,7 +3,7 @@ title: IntValue
 second_title: Aspose.Diagram for Java API Reference
 description: Integer value
 type: docs
-weight: 207
+weight: 209
 url: /java/com.aspose.diagram/intvalue/
 ---
 

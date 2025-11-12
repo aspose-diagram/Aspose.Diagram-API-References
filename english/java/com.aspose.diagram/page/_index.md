@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 265
+weight: 267
 url: /java/com.aspose.diagram/page/
 ---
 
@@ -32,7 +32,9 @@ Contains elements that define a page in the document.
 | [addShape(double pinX, double pinY, double width, double height, InputStream stream)](#addShape-double-double-double-double-java.io.InputStream-) |  |
 | [addShape(double pinX, double pinY, double width, double height, InputStream imageStream, InputStream objectDataStream)](#addShape-double-double-double-double-java.io.InputStream-java.io.InputStream-) |  |
 | [addShape(double pinX, double pinY, double width, double height, String masterName)](#addShape-double-double-double-double-java.lang.String-) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
+| [addShape(double pinX, double pinY, double width, double height, String masterName, boolean isCalculate)](#addShape-double-double-double-double-java.lang.String-boolean-) | Adds shape created by master on page with defined PinX and PinY. |
 | [addShape(double pinX, double pinY, String masterName)](#addShape-double-double-java.lang.String-) | Adds shape created by master on page with defined PinX and PinY. |
+| [addShape(double pinX, double pinY, String masterName, boolean isCalculate)](#addShape-double-double-java.lang.String-boolean-) | Adds shape created by master on page with defined PinX and PinY. |
 | [addText(double pinX, double pinY, double width, double height, String text)](#addText-double-double-double-double-java.lang.String-) | Adds Text with defined PinX and PinY. |
 | [addText(double pinX, double pinY, double width, double height, String text, String fontName, String fontColor, double size)](#addText-double-double-double-double-java.lang.String-java.lang.String-java.lang.String-double-) | Adds Text with defined PinX and PinY. |
 | [applyStyle(int textStyle, int lineStyle, int fillStyle)](#applyStyle-int-int-int-) | Applies style for full page. |
@@ -180,7 +182,7 @@ Adds comment to a shape with shape's id.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeID | long |  |
+| shapeID | long | The ID of shape which is adding comment. |
 | comment | java.lang.String | Comment's string. |
 
 ### addShape(Shape newShape, String masterName) {#addShape-com.aspose.diagram.Shape-java.lang.String-}
@@ -257,6 +259,26 @@ Adds shape created by master on page with defined PinX,PinY,Width and Height.
 
 **Returns:**
 long - The unique ID of the shape within shapes collection on the specified page.
+### addShape(double pinX, double pinY, double width, double height, String masterName, boolean isCalculate) {#addShape-double-double-double-double-java.lang.String-boolean-}
+```
+public long addShape(double pinX, double pinY, double width, double height, String masterName, boolean isCalculate)
+```
+
+
+Adds shape created by master on page with defined PinX and PinY.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| width | double | Specifies the width of the shape in inches. |
+| height | double | Specifies the height of the shape in inches. |
+| masterName | java.lang.String | Master's name. |
+| isCalculate | boolean | Is Calculate shape or not. |
+
+**Returns:**
+long - The unique ID of the shape within shapes collection on the specified page.
 ### addShape(double pinX, double pinY, String masterName) {#addShape-double-double-java.lang.String-}
 ```
 public long addShape(double pinX, double pinY, String masterName)
@@ -271,6 +293,24 @@ Adds shape created by master on page with defined PinX and PinY.
 | pinX | double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
 | pinY | double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
 | masterName | java.lang.String | Master's name. |
+
+**Returns:**
+long - The unique ID of the shape within shapes collection on the specified page.
+### addShape(double pinX, double pinY, String masterName, boolean isCalculate) {#addShape-double-double-java.lang.String-boolean-}
+```
+public long addShape(double pinX, double pinY, String masterName, boolean isCalculate)
+```
+
+
+Adds shape created by master on page with defined PinX and PinY.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| masterName | java.lang.String | Master's name. |
+| isCalculate | boolean | Is Calculate shape or not. |
 
 **Returns:**
 long - The unique ID of the shape within shapes collection on the specified page.

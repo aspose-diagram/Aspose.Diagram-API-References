@@ -3,7 +3,7 @@ title: Hyperlink
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements for creating multiple jumps between a shape or drawing page and another drawing page another file or a Web site.
 type: docs
-weight: 195
+weight: 197
 url: /java/com.aspose.diagram/hyperlink/
 ---
 

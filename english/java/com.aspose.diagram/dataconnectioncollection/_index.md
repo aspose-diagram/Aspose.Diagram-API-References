@@ -3,7 +3,7 @@ title: DataConnectionCollection
 second_title: Aspose.Diagram for Java API Reference
 description: DataConnection collection.
 type: docs
-weight: 111
+weight: 113
 url: /java/com.aspose.diagram/dataconnectioncollection/
 ---
 

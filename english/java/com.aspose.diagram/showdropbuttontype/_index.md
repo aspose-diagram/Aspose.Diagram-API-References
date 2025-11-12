@@ -3,7 +3,7 @@ title: ShowDropButtonType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies when to show the drop button
 type: docs
-weight: 381
+weight: 383
 url: /java/com.aspose.diagram/showdropbuttontype/
 ---
 

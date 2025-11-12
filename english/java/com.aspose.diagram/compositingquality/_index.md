@@ -3,7 +3,7 @@ title: CompositingQuality
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the quality level to use during compositing.
 type: docs
-weight: 57
+weight: 59
 url: /java/com.aspose.diagram/compositingquality/
 ---
 

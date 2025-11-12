@@ -3,7 +3,7 @@ title: MilestoneHelper
 second_title: Aspose.Diagram for Java API Reference
 description: MilestoneHelper to set property of milestone shape.
 type: docs
-weight: 251
+weight: 253
 url: /java/com.aspose.diagram/milestonehelper/
 ---
 

@@ -3,7 +3,7 @@ title: CharCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Char collection.
 type: docs
-weight: 46
+weight: 48
 url: /java/com.aspose.diagram/charcollection/
 ---
 

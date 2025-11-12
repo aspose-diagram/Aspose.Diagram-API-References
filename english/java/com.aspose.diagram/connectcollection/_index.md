@@ -3,7 +3,7 @@ title: ConnectCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Connect collection.
 type: docs
-weight: 76
+weight: 78
 url: /java/com.aspose.diagram/connectcollection/
 ---
 

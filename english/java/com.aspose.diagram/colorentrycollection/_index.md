@@ -3,7 +3,7 @@ title: ColorEntryCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the documents color table.
 type: docs
-weight: 53
+weight: 55
 url: /java/com.aspose.diagram/colorentrycollection/
 ---
 

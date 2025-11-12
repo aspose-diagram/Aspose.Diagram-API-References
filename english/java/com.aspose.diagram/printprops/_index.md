@@ -3,7 +3,7 @@ title: PrintProps
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control how the drawing page is formatted appears on the printer page.
 type: docs
-weight: 312
+weight: 314
 url: /java/com.aspose.diagram/printprops/
 ---
 

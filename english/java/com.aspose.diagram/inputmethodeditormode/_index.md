@@ -3,7 +3,7 @@ title: InputMethodEditorMode
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the default run-time mode of the Input Method Editor.
 type: docs
-weight: 206
+weight: 208
 url: /java/com.aspose.diagram/inputmethodeditormode/
 ---
 

@@ -3,7 +3,7 @@ title: LayoutOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Used to specify style and additional options of layout of shapes  to perform Re-Layout of pagepages.
 type: docs
-weight: 219
+weight: 221
 url: /java/com.aspose.diagram/layoutoptions/
 ---
 
