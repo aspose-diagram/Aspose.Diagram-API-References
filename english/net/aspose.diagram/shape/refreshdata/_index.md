@@ -1,16 +1,30 @@
 ---
 title: Shape.RefreshData
 second_title: Aspose.Diagram for .NET API Reference
-description: Shape method. Refreshes shapes position including xform connection and geom when changing shapes text or others 
+description: Shape method. 
 type: docs
 url: /net/aspose.diagram/shape/refreshdata/
 ---
-## Shape.RefreshData method
+## RefreshData() {#refreshdata}
+
+```csharp
+public void RefreshData()
+```
+
+### See Also
+
+* class [Shape](../)
+* namespace [Aspose.Diagram](../../shape/)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## RefreshData(CalculateOptions) {#refreshdata_1}
 
 Refreshes shape's position including xform ,connection and geom when changing shape's text or other's .
 
 ```csharp
-public void RefreshData()
+public void RefreshData(CalculateOptions options)
 ```
 
 ## Remarks
@@ -19,6 +33,7 @@ We will gather shape's data such as shape's text then calculate shape's position
 
 ### See Also
 
+* class [CalculateOptions](../../calculateoptions/)
 * class [Shape](../)
 * namespace [Aspose.Diagram](../../shape/)
 * assembly [Aspose.Diagram](../../../)

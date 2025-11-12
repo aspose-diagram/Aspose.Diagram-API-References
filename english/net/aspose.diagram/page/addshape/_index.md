@@ -5,7 +5,64 @@ description: Page method. Adds shape created by master on page with defined PinX
 type: docs
 url: /net/aspose.diagram/page/addshape/
 ---
-## AddShape(double, double, string) {#addshape_4}
+## AddShape(double, double, string, bool) {#addshape_6}
+
+Adds shape created by master on page with defined PinX and PinY.
+
+```csharp
+public long AddShape(double pinX, double pinY, string masterName, bool isCalculate)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | Double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| masterName | String | Master's name. |
+| isCalculate | Boolean | Is Calculate shape or not. |
+
+### Return Value
+
+The unique ID of the shape within shapes collection on the specified page.
+
+### See Also
+
+* class [Page](../)
+* namespace [Aspose.Diagram](../../page/)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## AddShape(double, double, double, double, string, bool) {#addshape_4}
+
+Adds shape created by master on page with defined PinX and PinY.
+
+```csharp
+public long AddShape(double pinX, double pinY, double width, double height, string masterName, 
+    bool isCalculate)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | Double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| width | Double | Specifies the width of the shape in inches. |
+| height | Double | Specifies the height of the shape in inches. |
+| masterName | String | Master's name. |
+| isCalculate | Boolean | Is Calculate shape or not. |
+
+### Return Value
+
+The unique ID of the shape within shapes collection on the specified page.
+
+### See Also
+
+* class [Page](../)
+* namespace [Aspose.Diagram](../../page/)
+* assembly [Aspose.Diagram](../../../)
+
+---
+
+## AddShape(double, double, string) {#addshape_5}
 
 Adds shape created by master on page with defined PinX and PinY.
 

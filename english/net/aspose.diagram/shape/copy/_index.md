@@ -11,6 +11,10 @@ url: /net/aspose.diagram/shape/copy/
 public void Copy(Shape source)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | Shape | Source shape |
+
 ### See Also
 
 * class [Shape](../)

@@ -13,9 +13,10 @@ Saves the shape to a svg file.
 public void ToSvg(string fileName, SVGSaveOptions options)
 ```
 
-| Parameter | Description |
-| --- | --- |
-| fileName | the svg file name with full path |
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | the svg file name with full path |
+| options | SVGSaveOptions | Svg save options |
 
 ### See Also
 

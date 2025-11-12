@@ -30,6 +30,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [BoolValue](./boolvalue/) | Boolean value. |
 | [BuildVersionInfo](./buildversioninfo/) | Contains build version and product information. |
 | [Bullet](./bullet/) | Determines the bullet style. |
+| [CalculateOptions](./calculateoptions/) | Represents options for calculation. |
 | [Calendar](./calendar/) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [Case](./case/) | Determines the case of a shape's text. |
 | [Char](./char/) | Contains the formatting attributes for the shape's text, such as font, color, text style, case, position relative to the baseline, and point size. |
@@ -288,6 +289,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [BevelTypeValue](./beveltypevalue/) | Represents a preset for a type of bevel which can be applied to a shape in 3D. |
 | [BOOL](./bool/) | Boolean. |
 | [BulletValue](./bulletvalue/) | Determines the bullet style. |
+| [CalculateItemType](./calculateitemtype/) | Represents calculate type for refreshing shape's data. |
 | [CalendarValue](./calendarvalue/) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [CaseValue](./casevalue/) | Determines the case of a shape's text. All capital (uppercase) letters (1) and initial capital letters (2) do not change the appearance of text that was entered in all capital letters. The text must be entered in lowercase letters for these options to show an effect. |
 | [CompoundTypeValue](./compoundtypevalue/) | Represents style of drawing lines. |

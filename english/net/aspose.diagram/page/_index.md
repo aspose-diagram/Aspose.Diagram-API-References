@@ -51,10 +51,12 @@ public class Page : IDisposable
 | [AddComment](../../aspose.diagram/page/addcomment/#addcomment)(Shape, string) | Adds comment to a shape. |
 | [AddComment](../../aspose.diagram/page/addcomment/#addcomment_1)(double, double, string) | Adds comment with defined PinX and PinY. |
 | [AddShape](../../aspose.diagram/page/addshape/#addshape)(Shape, string) | Adds shape created by master to specific page. |
-| [AddShape](../../aspose.diagram/page/addshape/#addshape_4)(double, double, string) | Adds shape created by master on page with defined PinX and PinY. |
+| [AddShape](../../aspose.diagram/page/addshape/#addshape_5)(double, double, string) | Adds shape created by master on page with defined PinX and PinY. |
+| [AddShape](../../aspose.diagram/page/addshape/#addshape_6)(double, double, string, bool) | Adds shape created by master on page with defined PinX and PinY. |
 | [AddShape](../../aspose.diagram/page/addshape/#addshape_1)(double, double, double, double, Stream) |  |
 | [AddShape](../../aspose.diagram/page/addshape/#addshape_3)(double, double, double, double, string) | Adds shape created by master on page with defined PinX,PinY,Width and Height. |
 | [AddShape](../../aspose.diagram/page/addshape/#addshape_2)(double, double, double, double, Stream, Stream) |  |
+| [AddShape](../../aspose.diagram/page/addshape/#addshape_4)(double, double, double, double, string, bool) | Adds shape created by master on page with defined PinX and PinY. |
 | [AddText](../../aspose.diagram/page/addtext/#addtext)(double, double, double, double, string) | Adds Text with defined PinX and PinY. |
 | [AddText](../../aspose.diagram/page/addtext/#addtext_1)(double, double, double, double, string, string, string, double) | Adds Text with defined PinX and PinY. |
 | [ApplyStyle](../../aspose.diagram/page/applystyle/)(int, int, int) | Applies style for full page. |

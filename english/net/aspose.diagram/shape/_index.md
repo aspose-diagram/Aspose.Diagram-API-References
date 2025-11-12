@@ -60,6 +60,7 @@ public class Shape
 | [InheritProps](../../aspose.diagram/shape/inheritprops/) { get; } | Contains the props for the shape inherit by the master shape. |
 | [InheritTextBlock](../../aspose.diagram/shape/inherittextblock/) { get; } | Contains the textblock values for the shape inherit by the parent style and the master shape. |
 | [InheritUsers](../../aspose.diagram/shape/inheritusers/) { get; } | Contains the users for the shape inherit by the master shape. |
+| [InheritXForm](../../aspose.diagram/shape/inheritxform/) { get; } |  |
 | [LayerMem](../../aspose.diagram/shape/layermem/) { get; } | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [Layout](../../aspose.diagram/shape/layout/) { get; } | Contains elements that control shape placement and connector routing settings. |
 | [Line](../../aspose.diagram/shape/line/) { get; } | Contains elements that control line attributes for a shape, such as pattern, weight, and color. These elements determine whether the line ends are formatted (for example, with an arrowhead), the size of line end formats, radius of the rounding circle applied to the line, and line cap style (round or square). |
@@ -121,7 +122,8 @@ public class Shape
 | [IsIntersect](../../aspose.diagram/shape/isintersect/)(Shape) | Indicates whether this shape is intersect another shape. |
 | [Move](../../aspose.diagram/shape/move/)(double, double) | Moves shape on the dX and dY inches from current position. |
 | [MoveTo](../../aspose.diagram/shape/moveto/)(double, double) | Moves shape on new absolute position on the page. |
-| [RefreshData](../../aspose.diagram/shape/refreshdata/)() | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
+| [RefreshData](../../aspose.diagram/shape/refreshdata/#refreshdata)() |  |
+| [RefreshData](../../aspose.diagram/shape/refreshdata/#refreshdata_1)(CalculateOptions) | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
 | [ReplaceText](../../aspose.diagram/shape/replacetext/)(string, string) | Replace the text string of a shape . |
 | [SendBackward](../../aspose.diagram/shape/sendbackward/)() | Moves the shape back one position in the z-order. |
 | [SendToBack](../../aspose.diagram/shape/sendtoback/)() | Moves the shape to the back of the z-order. |
