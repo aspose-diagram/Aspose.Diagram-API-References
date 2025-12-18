@@ -27,7 +27,7 @@ public class Shape
 | [Acts](../../aspose.diagram/shape/acts/) { get; } | Contains a collection of Act elements. |
 | [Align](../../aspose.diagram/shape/align/) { get; } | Indicates the alignment of a shape with respect to the guide or guide point to which the shape is glued. The Align element appears only for shapes that are glued to guides or guide points. |
 | [Chars](../../aspose.diagram/shape/chars/) { get; } | Contains a collection of Char elements. |
-| [ClippingPath](../../aspose.diagram/shape/clippingpath/) { get; set; } |  |
+| [ClippingPath](../../aspose.diagram/shape/clippingpath/) { get; set; } | Contains Clipping Path string value. |
 | [ConnectionABCDs](../../aspose.diagram/shape/connectionabcds/) { get; } | Contains a collection of ConnectionABCD elements. |
 | [Connections](../../aspose.diagram/shape/connections/) { get; } | Contains a collection of Connection elements. |
 | [ControlData](../../aspose.diagram/shape/controldata/) { get; } | Gets the data of control. |
