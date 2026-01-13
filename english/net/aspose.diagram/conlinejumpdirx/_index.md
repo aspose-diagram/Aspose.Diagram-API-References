@@ -23,7 +23,7 @@ public class ConLineJumpDirX
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/conlinejumpdirx/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/conlinejumpdirx/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/conlinejumpdirx/value/) { get; set; } | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. |
 
 ## Methods

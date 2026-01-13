@@ -1,11 +1,11 @@
 ---
 title: Aspose.Diagram.ActiveXControls
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The Aspose.Diagram.ActiveXControls namespace provides classes that allow to draw and access ActiveXControl
 type: docs
 url: /net/aspose.diagram.activexcontrols/
 ---
-
+The **Aspose.Diagram.ActiveXControls** namespace provides classes that allow to draw and access ActiveXControl.
 
 ## Classes
 

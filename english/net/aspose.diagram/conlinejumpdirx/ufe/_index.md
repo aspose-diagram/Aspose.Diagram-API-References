@@ -10,7 +10,7 @@ url: /net/aspose.diagram/conlinejumpdirx/ufe/
 Specifies attributes of an element.
 
 ```csharp
-public UnitFormulaErr Ufe { get; }
+public UnitFormulaErr Ufe { get; set; }
 ```
 
 ### See Also

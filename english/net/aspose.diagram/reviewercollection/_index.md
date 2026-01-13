@@ -27,6 +27,8 @@ public class ReviewerCollection : Collection
 | [Add](../../aspose.diagram/reviewercollection/add/)(Reviewer) | Add the Reviewer object in the collection. |
 | [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
 | [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
+| [GetReviewer](../../aspose.diagram/reviewercollection/getreviewer/#getreviewer)(int) | Gets the element at the specified ID. |
+| [GetReviewer](../../aspose.diagram/reviewercollection/getreviewer/#getreviewer_1)(string) | Gets the element at the specified name. |
 | [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
 | [Remove](../../aspose.diagram/reviewercollection/remove/)(Reviewer) | Remove the Reviewer object from the collection. |
 

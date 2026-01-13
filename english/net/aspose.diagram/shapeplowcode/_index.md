@@ -23,7 +23,7 @@ public class ShapePlowCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/shapeplowcode/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/shapeplowcode/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/shapeplowcode/value/) { get; set; } | Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page. |
 
 ## Methods

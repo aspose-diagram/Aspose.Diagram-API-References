@@ -23,7 +23,7 @@ public class ShapeRouteStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/shaperoutestyle/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/shaperoutestyle/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/shaperoutestyle/value/) { get; set; } | Specifies the routing style and direction for a connector on the drawing page. |
 
 ## Methods

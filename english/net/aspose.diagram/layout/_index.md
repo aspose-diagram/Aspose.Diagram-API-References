@@ -37,6 +37,12 @@ public class Layout
 | [ShapeSplit](../../aspose.diagram/layout/shapesplit/) { get; } | Determines whether this shape can split shapes that are splittable. |
 | [ShapeSplittable](../../aspose.diagram/layout/shapesplittable/) { get; } | Determines whether this 1-D shape can be split. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.diagram/layout/clone/)() | Creates deep copy of this instance. |
+
 ### See Also
 
 * namespace [Aspose.Diagram](../../aspose.diagram/)

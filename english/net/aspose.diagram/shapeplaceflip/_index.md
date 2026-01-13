@@ -23,7 +23,7 @@ public class ShapePlaceFlip
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/shapeplaceflip/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/shapeplaceflip/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/shapeplaceflip/value/) { get; set; } | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). |
 
 ## Methods

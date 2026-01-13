@@ -53,6 +53,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [ConnectionABCDCollection](./connectionabcdcollection/) | ConnectionABCD collection. |
 | [ConnectionCollection](./connectioncollection/) | Connection collection. |
 | [ConnectorRule](./connectorrule/) | Represents connector rule between two shapes with a connector,Including which connection point of which shape it starts from, the end shape and its connection point. |
+| [ContainerProperties](./containerproperties/) | ContainerProperties for shape. |
 | [Control](./control/) | Contains elements for the x- and y-coordinates of each control handle defined for a shape, and elements that specify the way the control handle should behave. |
 | [ControlCollection](./controlcollection/) | Control collection. |
 | [ConType](./contype/) | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |
@@ -302,6 +303,8 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [ConLineRouteExtValue](./conlinerouteextvalue/) | Determines the appearance of a connector. |
 | [ConnectedShapesFlags](./connectedshapesflags/) | Filters the array of returned shape IDs by the directionality of the connectors. |
 | [ConnectorsTypeValue](./connectorstypevalue/) | May be one of the following values: RightAngle, StraightLines, or CurvedLines. Only relevant when WindowType is specified as Drawing or Sheet. |
+| [ContainerStyle](./containerstyle/) | ContainerStyle for ContainerProperties. |
+| [ContainerType](./containertype/) | ContainerType for ContainerProperties. |
 | [ContainerTypeValue](./containertypevalue/) | May be one of the following values: Document, Page, or Master. Only relevant when WindowType is specified as Drawing or Sheet. |
 | [ContextTypeValue](./contexttypevalue/) | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table. |
 | [ConValue](./convalue/) | Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved. |

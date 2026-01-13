@@ -30,6 +30,7 @@ public class Shape
 | [ClippingPath](../../aspose.diagram/shape/clippingpath/) { get; set; } | Contains Clipping Path string value. |
 | [ConnectionABCDs](../../aspose.diagram/shape/connectionabcds/) { get; } | Contains a collection of ConnectionABCD elements. |
 | [Connections](../../aspose.diagram/shape/connections/) { get; } | Contains a collection of Connection elements. |
+| [ContainerProperties](../../aspose.diagram/shape/containerproperties/) { get; set; } | Contains shape's ContainerProperties. |
 | [ControlData](../../aspose.diagram/shape/controldata/) { get; } | Gets the data of control. |
 | [Controls](../../aspose.diagram/shape/controls/) { get; } | Contains a collection of Control elements. |
 | [Data1](../../aspose.diagram/shape/data1/) { get; set; } | Contains an arbitrary string value that is used to supply additional information about a shape. |

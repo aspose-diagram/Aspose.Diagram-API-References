@@ -23,7 +23,7 @@ public class ConLineJumpCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/conlinejumpcode/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/conlinejumpcode/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/conlinejumpcode/value/) { get; set; } | Determines whether a connector jumps when two connectors cross. |
 
 ## Methods

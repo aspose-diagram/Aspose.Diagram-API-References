@@ -23,7 +23,7 @@ public class ShapeFixedCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/shapefixedcode/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/shapefixedcode/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/shapefixedcode/value/) { get; set; } | Specifies placement behavior for a placeable shape. |
 
 ## Methods

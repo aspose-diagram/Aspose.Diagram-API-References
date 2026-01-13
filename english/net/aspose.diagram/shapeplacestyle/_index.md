@@ -23,7 +23,7 @@ public class ShapePlaceStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/shapeplacestyle/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/shapeplacestyle/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/shapeplacestyle/value/) { get; set; } | Determines the appearance of a connector. |
 
 ## Methods

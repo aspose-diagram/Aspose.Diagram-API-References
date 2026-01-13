@@ -80,6 +80,7 @@ public class Page : IDisposable
 | [DrawPolyline](../../aspose.diagram/page/drawpolyline/#drawpolyline_1)(double, double, double, double, PointF[]) | The process of drawing polyline. |
 | [DrawRectangle](../../aspose.diagram/page/drawrectangle/)(double, double, double, double) | The process of drawing rectangle. |
 | [DrawSpline](../../aspose.diagram/page/drawspline/)(double, double, double, double, PointF[]) | The process of drawing spline. |
+| [DropContainer](../../aspose.diagram/page/dropcontainer/)(Shape) | The process of creating Container. |
 | [GlueShapes](../../aspose.diagram/page/glueshapes/#glueshapes_1)(long, ConnectionPointPlace, long) | Glue shapes |
 | [GlueShapes](../../aspose.diagram/page/glueshapes/#glueshapes)(Shape, ConnectionPointPlace, Shape) | Glue shapes. |
 | [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer/#glueshapesincontainer)(long, int, int, long) | Glue shapes in container |

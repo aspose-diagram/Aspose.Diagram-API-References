@@ -1,11 +1,11 @@
 ---
 title: Aspose.Diagram.Vba
 second_title: Aspose.Diagram for .NET API Reference
-description: 
+description: The Aspose.Diagram.Vba namespace contains classes to access Visual Basic Analysis projects and modules in Visio files
 type: docs
 url: /net/aspose.diagram.vba/
 ---
-
+The **Aspose.Diagram.Vba** namespace contains classes to access Visual Basic Analysis projects and modules in Visio files.
 
 ## Classes
 

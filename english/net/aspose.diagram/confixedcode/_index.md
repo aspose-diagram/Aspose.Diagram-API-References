@@ -23,7 +23,7 @@ public class ConFixedCode
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/confixedcode/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/confixedcode/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/confixedcode/value/) { get; set; } | Determines when a connector reroutes. |
 
 ## Methods

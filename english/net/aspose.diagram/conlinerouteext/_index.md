@@ -23,7 +23,7 @@ public class ConLineRouteExt
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/conlinerouteext/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/conlinerouteext/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/conlinerouteext/value/) { get; set; } | Determines the appearance of a connector. |
 
 ## Methods

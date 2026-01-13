@@ -23,7 +23,7 @@ public class ConLineJumpStyle
 
 | Name | Description |
 | --- | --- |
-| [Ufe](../../aspose.diagram/conlinejumpstyle/ufe/) { get; } | Specifies attributes of an element. |
+| [Ufe](../../aspose.diagram/conlinejumpstyle/ufe/) { get; set; } | Specifies attributes of an element. |
 | [Value](../../aspose.diagram/conlinejumpstyle/value/) { get; set; } | Determines the line jump style for line jumps on a dynamic connector. |
 
 ## Methods
