@@ -19,7 +19,7 @@ public Shape DropContainer(Shape targetShape)
 
 ### Return Value
 
-The unique ID of the shape within shapes collection on the specified page.
+The shape within shapes collection on the specified page.
 
 ### See Also
 

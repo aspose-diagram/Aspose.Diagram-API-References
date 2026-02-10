@@ -26,6 +26,7 @@ public class ContainerProperties
 | [ContainerStyle](../../aspose.diagram/containerproperties/containerstyle/) { get; set; } | ContainerStyle |
 | [ContainerType](../../aspose.diagram/containerproperties/containertype/) { get; set; } | ContainerType |
 | [HeadingStyle](../../aspose.diagram/containerproperties/headingstyle/) { get; set; } | HeadingStyle |
+| [Margin](../../aspose.diagram/containerproperties/margin/) { get; set; } | ContainerMargin |
 | [Shape](../../aspose.diagram/containerproperties/shape/) { get; } | Parent shape |
 
 ## Methods

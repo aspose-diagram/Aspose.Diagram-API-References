@@ -10,12 +10,11 @@ url: /net/aspose.diagram/containerproperties/containerstyle/
 ContainerStyle
 
 ```csharp
-public ContainerStyle ContainerStyle { get; set; }
+public int ContainerStyle { get; set; }
 ```
 
 ### See Also
 
-* enum [ContainerStyle](../../containerstyle/)
 * class [ContainerProperties](../)
 * namespace [Aspose.Diagram](../../containerproperties/)
 * assembly [Aspose.Diagram](../../../)
