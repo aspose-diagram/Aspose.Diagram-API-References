@@ -3,7 +3,7 @@ title: Cp
 second_title: Aspose.Diagram for Java API Reference
 description: Marks the beginning of a character properties run that is formatted according to the corresponding Char element.
 type: docs
-weight: 106
+weight: 109
 url: /java/com.aspose.diagram/cp/
 ---
 

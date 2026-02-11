@@ -3,7 +3,7 @@ title: IssueCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Issue collection.
 type: docs
-weight: 213
+weight: 217
 url: /java/com.aspose.diagram/issuecollection/
 ---
 

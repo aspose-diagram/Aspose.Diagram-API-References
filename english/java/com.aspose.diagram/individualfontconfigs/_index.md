@@ -3,7 +3,7 @@ title: IndividualFontConfigs
 second_title: Aspose.Diagram for Java API Reference
 description: Font configs for each  object.
 type: docs
-weight: 205
+weight: 209
 url: /java/com.aspose.diagram/individualfontconfigs/
 ---
 

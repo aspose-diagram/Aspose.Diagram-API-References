@@ -3,7 +3,7 @@ title: IssueTarget
 second_title: Aspose.Diagram for Java API Reference
 description: Depending on the target of the parent validation issue specifies either the page or both the page and the shape that the parent validation issue is associated with.
 type: docs
-weight: 214
+weight: 218
 url: /java/com.aspose.diagram/issuetarget/
 ---
 

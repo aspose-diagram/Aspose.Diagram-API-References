@@ -3,7 +3,7 @@ title: ControlScrollBarType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the type of scroll bar.
 type: docs
-weight: 99
+weight: 102
 url: /java/com.aspose.diagram/controlscrollbartype/
 ---
 

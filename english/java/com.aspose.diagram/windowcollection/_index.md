@@ -3,7 +3,7 @@ title: WindowCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Window collection.
 type: docs
-weight: 456
+weight: 464
 url: /java/com.aspose.diagram/windowcollection/
 ---
 

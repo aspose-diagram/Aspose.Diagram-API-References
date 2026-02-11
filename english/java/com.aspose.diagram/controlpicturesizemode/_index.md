@@ -3,7 +3,7 @@ title: ControlPictureSizeMode
 second_title: Aspose.Diagram for Java API Reference
 description: Represents how to display the picture.
 type: docs
-weight: 98
+weight: 101
 url: /java/com.aspose.diagram/controlpicturesizemode/
 ---
 

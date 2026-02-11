@@ -3,7 +3,7 @@ title: DoubleValue
 second_title: Aspose.Diagram for Java API Reference
 description: Double value
 type: docs
-weight: 132
+weight: 136
 url: /java/com.aspose.diagram/doublevalue/
 ---
 

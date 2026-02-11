@@ -3,7 +3,7 @@ title: DataColumnCollection
 second_title: Aspose.Diagram for Java API Reference
 description: DataColumn collection.
 type: docs
-weight: 111
+weight: 114
 url: /java/com.aspose.diagram/datacolumncollection/
 ---
 

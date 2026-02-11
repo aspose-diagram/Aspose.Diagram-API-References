@@ -3,7 +3,7 @@ title: ShapePlowCodeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether a placeable shape moves away when you drag another placeable shape near the shape on the drawing page.
 type: docs
-weight: 374
+weight: 382
 url: /java/com.aspose.diagram/shapeplowcodevalue/
 ---
 

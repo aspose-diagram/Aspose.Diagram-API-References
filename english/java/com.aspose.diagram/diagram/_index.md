@@ -3,7 +3,7 @@ title: Diagram
 second_title: Aspose.Diagram for Java API Reference
 description: Root element of Visio objects hierarchy.
 type: docs
-weight: 119
+weight: 122
 url: /java/com.aspose.diagram/diagram/
 ---
 

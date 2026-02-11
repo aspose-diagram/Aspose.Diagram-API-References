@@ -3,7 +3,7 @@ title: Foreign
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements specifying the width and height of an object from another program used in a Microsoft Visio document.
 type: docs
-weight: 167
+weight: 171
 url: /java/com.aspose.diagram/foreign/
 ---
 

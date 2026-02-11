@@ -3,7 +3,7 @@ title: PdfEncryptionDetails
 second_title: Aspose.Diagram for Java API Reference
 description: Contains details for a pdf encryption.
 type: docs
-weight: 286
+weight: 294
 url: /java/com.aspose.diagram/pdfencryptiondetails/
 ---
 

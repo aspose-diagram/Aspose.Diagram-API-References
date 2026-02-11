@@ -3,7 +3,7 @@ title: ReviewerCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Reviewer collection.
 type: docs
-weight: 341
+weight: 349
 url: /java/com.aspose.diagram/reviewercollection/
 ---
 
@@ -24,6 +24,8 @@ Reviewer collection.
 | [get(int index)](#get-int-) | Gets the element at the specified index. |
 | [getClass()](#getClass--) |  |
 | [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getReviewer(int ID)](#getReviewer-int-) | Gets the element at the specified ID. |
+| [getReviewer(String name)](#getReviewer-java.lang.String-) | Gets the element at the specified name. |
 | [hashCode()](#hashCode--) |  |
 | [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
 | [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
@@ -107,6 +109,36 @@ Gets the number of elements actually contained in the collection.
 
 **Returns:**
 int
+### getReviewer(int ID) {#getReviewer-int-}
+```
+public Reviewer getReviewer(int ID)
+```
+
+
+Gets the element at the specified ID.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ID | int |  |
+
+**Returns:**
+[Reviewer](../../com.aspose.diagram/reviewer) - 
+### getReviewer(String name) {#getReviewer-java.lang.String-}
+```
+public Reviewer getReviewer(String name)
+```
+
+
+Gets the element at the specified name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
+
+**Returns:**
+[Reviewer](../../com.aspose.diagram/reviewer) - 
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

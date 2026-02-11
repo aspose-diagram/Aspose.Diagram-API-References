@@ -3,7 +3,7 @@ title: SplineStart
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates for a splines second control point its second knot its first knot the last knot and the degree of the spline.
 type: docs
-weight: 396
+weight: 404
 url: /java/com.aspose.diagram/splinestart/
 ---
 

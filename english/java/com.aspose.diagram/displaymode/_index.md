@@ -3,7 +3,7 @@ title: DisplayMode
 second_title: Aspose.Diagram for Java API Reference
 description: When it is contained in a Group element the DisplayMode element specifies how a group shape and its members are displayed.
 type: docs
-weight: 122
+weight: 126
 url: /java/com.aspose.diagram/displaymode/
 ---
 

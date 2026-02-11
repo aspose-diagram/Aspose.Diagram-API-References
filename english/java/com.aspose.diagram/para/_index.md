@@ -3,7 +3,7 @@ title: Para
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the paragraph formatting elements for the shapes text such as indents line spacing bullets and horizontal alignment of paragraphs.
 type: docs
-weight: 281
+weight: 288
 url: /java/com.aspose.diagram/para/
 ---
 

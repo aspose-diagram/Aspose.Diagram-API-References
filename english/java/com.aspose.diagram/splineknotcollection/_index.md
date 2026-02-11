@@ -3,7 +3,7 @@ title: SplineKnotCollection
 second_title: Aspose.Diagram for Java API Reference
 description: SplineKnot collection.
 type: docs
-weight: 395
+weight: 403
 url: /java/com.aspose.diagram/splineknotcollection/
 ---
 

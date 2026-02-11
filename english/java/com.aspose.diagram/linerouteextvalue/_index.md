@@ -3,7 +3,7 @@ title: LineRouteExtValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the default appearance for all connectors on a page.
 type: docs
-weight: 235
+weight: 239
 url: /java/com.aspose.diagram/linerouteextvalue/
 ---
 

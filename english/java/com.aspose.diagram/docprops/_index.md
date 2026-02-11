@@ -3,7 +3,7 @@ title: DocProps
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control the documents preview quality scope and output format.
 type: docs
-weight: 126
+weight: 130
 url: /java/com.aspose.diagram/docprops/
 ---
 

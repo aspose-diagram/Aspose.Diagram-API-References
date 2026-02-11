@@ -3,7 +3,7 @@ title: Fld
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates a text-field insertion point for the corresponding Field element.
 type: docs
-weight: 159
+weight: 163
 url: /java/com.aspose.diagram/fld/
 ---
 

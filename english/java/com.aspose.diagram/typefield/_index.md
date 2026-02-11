@@ -3,7 +3,7 @@ title: TypeField
 second_title: Aspose.Diagram for Java API Reference
 description: Type specifies a data type for the text field value.
 type: docs
-weight: 426
+weight: 434
 url: /java/com.aspose.diagram/typefield/
 ---
 

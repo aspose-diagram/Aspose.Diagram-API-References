@@ -3,7 +3,7 @@ title: Coordinate
 second_title: Aspose.Diagram for Java API Reference
 description: Abstract class for the x- and y-coordinates.
 type: docs
-weight: 103
+weight: 106
 url: /java/com.aspose.diagram/coordinate/
 ---
 

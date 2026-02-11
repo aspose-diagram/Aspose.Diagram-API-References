@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 365
+weight: 373
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -36,11 +36,12 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getAlign()](#getAlign--) | Indicates the alignment of a shape with respect to the guide or guide point to which the shape is glued. |
 | [getChars()](#getChars--) | Contains a collection of Char elements. |
 | [getClass()](#getClass--) |  |
-| [getClippingPath()](#getClippingPath--) |  |
+| [getClippingPath()](#getClippingPath--) | Contains Clipping Path string value. |
 | [getConnectionABCDs()](#getConnectionABCDs--) | Contains a collection of ConnectionABCD elements. |
 | [getConnections()](#getConnections--) | Contains a collection of Connection elements. |
 | [getConnectorRule()](#getConnectorRule--) | Returns a connectorRule that contains the shape id and connecton that are connected to the shape. |
 | [getConnectorsType()](#getConnectorsType--) | Get Connectors type |
+| [getContainerProperties()](#getContainerProperties--) | Contains shape's ContainerProperties. |
 | [getControlData()](#getControlData--) | Gets the data of control. |
 | [getControls()](#getControls--) | Contains a collection of Control elements. |
 | [getData1()](#getData1--) | Contains an arbitrary string value that is used to supply additional information about a shape. |
@@ -128,6 +129,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [setClippingPath(String value)](#setClippingPath-java.lang.String-) | For the description of this property, please see [getClippingPath()](../../com.aspose.diagram/shape\#getClippingPath--) |
 | [setConnectorJumpValue(int code, int style)](#setConnectorJumpValue-int-int-) | Set Jump code value and Jump style value for Connector |
 | [setConnectorsType(int type)](#setConnectorsType-int-) | Set Connectors type |
+| [setContainerProperties(ContainerProperties value)](#setContainerProperties-com.aspose.diagram.ContainerProperties-) | For the description of this property, please see [getContainerProperties()](../../com.aspose.diagram/shape\#getContainerProperties--) |
 | [setData1(String value)](#setData1-java.lang.String-) | For the description of this property, please see [getData1()](../../com.aspose.diagram/shape\#getData1--) |
 | [setData2(String value)](#setData2-java.lang.String-) | For the description of this property, please see [getData2()](../../com.aspose.diagram/shape\#getData2--) |
 | [setData3(String value)](#setData3-java.lang.String-) | For the description of this property, please see [getData3()](../../com.aspose.diagram/shape\#getData3--) |
@@ -322,7 +324,7 @@ public String getClippingPath()
 ```
 
 
-
+Contains Clipping Path string value.
 
 **Returns:**
 java.lang.String
@@ -366,6 +368,16 @@ Get Connectors type
 
 **Returns:**
 int
+### getContainerProperties() {#getContainerProperties--}
+```
+public ContainerProperties getContainerProperties()
+```
+
+
+Contains shape's ContainerProperties.
+
+**Returns:**
+[ContainerProperties](../../com.aspose.diagram/containerproperties)
 ### getControlData() {#getControlData--}
 ```
 public byte[] getControlData()
@@ -1285,6 +1297,19 @@ Set Connectors type
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | int | Connectors type value |
+
+### setContainerProperties(ContainerProperties value) {#setContainerProperties-com.aspose.diagram.ContainerProperties-}
+```
+public void setContainerProperties(ContainerProperties value)
+```
+
+
+For the description of this property, please see [getContainerProperties()](../../com.aspose.diagram/shape\#getContainerProperties--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ContainerProperties](../../com.aspose.diagram/containerproperties) |  |
 
 ### setData1(String value) {#setData1-java.lang.String-}
 ```

@@ -3,7 +3,7 @@ title: UnknownControl
 second_title: Aspose.Diagram for Java API Reference
 description: Unknow control.
 type: docs
-weight: 435
+weight: 443
 url: /java/com.aspose.diagram/unknowncontrol/
 ---
 

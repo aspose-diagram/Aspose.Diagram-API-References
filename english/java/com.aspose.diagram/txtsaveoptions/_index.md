@@ -3,7 +3,7 @@ title: TxtSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the save options for csv/other text format.
 type: docs
-weight: 423
+weight: 431
 url: /java/com.aspose.diagram/txtsaveoptions/
 ---
 

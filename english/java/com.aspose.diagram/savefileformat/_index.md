@@ -3,7 +3,7 @@ title: SaveFileFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Enumeration for saving diagram format selection.
 type: docs
-weight: 358
+weight: 366
 url: /java/com.aspose.diagram/savefileformat/
 ---
 

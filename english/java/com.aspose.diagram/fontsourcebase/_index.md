@@ -3,7 +3,7 @@ title: FontSourceBase
 second_title: Aspose.Diagram for Java API Reference
 description: This is an abstract base class for the classes that allow the user to specify various font sources
 type: docs
-weight: 165
+weight: 169
 url: /java/com.aspose.diagram/fontsourcebase/
 ---
 

@@ -3,7 +3,7 @@ title: PageProps
 second_title: Aspose.Diagram for Java API Reference
 description: Contains cells that control page attributes such as the page width height and scale.
 type: docs
-weight: 275
+weight: 282
 url: /java/com.aspose.diagram/pageprops/
 ---
 

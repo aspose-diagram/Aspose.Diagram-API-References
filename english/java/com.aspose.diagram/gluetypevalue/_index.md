@@ -3,7 +3,7 @@ title: GlueTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether dynamic shape-to-shape glue is allowed when connecting to a shape.
 type: docs
-weight: 179
+weight: 183
 url: /java/com.aspose.diagram/gluetypevalue/
 ---
 

@@ -3,7 +3,7 @@ title: ControlListStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the visual appearance of the list in a ListBox or ComboBox.
 type: docs
-weight: 93
+weight: 96
 url: /java/com.aspose.diagram/controlliststyle/
 ---
 

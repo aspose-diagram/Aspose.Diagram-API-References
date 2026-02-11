@@ -89,6 +89,9 @@ url: /java/com.aspose.diagram/
 | [ConnectionPointPlace](../com.aspose.diagram/connectionpointplace) | Specifies the location on the shape where connector will be connected. |
 | [ConnectorRule](../com.aspose.diagram/connectorrule) | Represents connector rule between two shapes with a connector,Including which connection point of which shape it starts from, the end shape and its connection point. |
 | [ConnectorsTypeValue](../com.aspose.diagram/connectorstypevalue) | May be one of the following values: RightAngle, StraightLines, or CurvedLines. |
+| [ContainerProperties](../com.aspose.diagram/containerproperties) | ContainerProperties for shape. |
+| [ContainerStyle](../com.aspose.diagram/containerstyle) | ContainerStyle for ContainerProperties. |
+| [ContainerType](../com.aspose.diagram/containertype) | ContainerType for ContainerProperties. |
 | [ContainerTypeValue](../com.aspose.diagram/containertypevalue) | May be one of the following values: Document, Page, or Master. |
 | [ContextTypeValue](../com.aspose.diagram/contexttypevalue) | Specifies properties of the group or shape to use for the comparison. |
 | [Control](../com.aspose.diagram/control) | Contains elements for the x- and y-coordinates of each control handle defined for a shape, and elements that specify the way the control handle should behave. |
@@ -122,6 +125,7 @@ url: /java/com.aspose.diagram/
 | [DateTime](../com.aspose.diagram/datetime) | Represents an instant in time, typically expressed as a date and time of day. |
 | [DateValue](../com.aspose.diagram/datevalue) | Date and time value. |
 | [Diagram](../com.aspose.diagram/diagram) | Root element of Visio objects hierarchy. |
+| [DiagramConverter](../com.aspose.diagram/diagramconverter) | Converter for converting template file to diagram. |
 | [DiagramException](../com.aspose.diagram/diagramexception) | Base class for all Aspose.Diagram exceptions |
 | [DiagramSaveOptions](../com.aspose.diagram/diagramsaveoptions) | Can be used to specify additional options when saving a diagram into Visio (VDX\\VSX) format. |
 | [DisplayMode](../com.aspose.diagram/displaymode) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
@@ -247,6 +251,9 @@ url: /java/com.aspose.diagram/
 | [LoadOptions](../com.aspose.diagram/loadoptions) | Allows to specify additional options when loading a diagram into a Diagram object. |
 | [LocalizeFont](../com.aspose.diagram/localizefont) | Specifies whether the shape text should be localized (translated into another language). |
 | [LocalizeFontValue](../com.aspose.diagram/localizefontvalue) | Specifies whether the shape text should be localized (translated into another language). |
+| [LowCodeLoadOptions](../com.aspose.diagram/lowcodeloadoptions) | Options for loading template file. |
+| [LowCodePdfSaveOptions](../com.aspose.diagram/lowcodepdfsaveoptions) | Options for saving pdf in low code way. |
+| [LowCodeSaveOptions](../com.aspose.diagram/lowcodesaveoptions) | Options for saving generated results in low code way. |
 | [Margin](../com.aspose.diagram/margin) | Specifies the margin. |
 | [Master](../com.aspose.diagram/master) | Contains elements that define a master for the document. |
 | [MasterCollection](../com.aspose.diagram/mastercollection) | Master collection. |
@@ -286,6 +293,7 @@ url: /java/com.aspose.diagram/
 | [Para](../com.aspose.diagram/para) | Contains the paragraph formatting elements for the shape's text, such as indents, line spacing, bullets, and horizontal alignment of paragraphs. |
 | [ParaCollection](../com.aspose.diagram/paracollection) | Para collection. |
 | [PdfCompliance](../com.aspose.diagram/pdfcompliance) | Specifies the PDF compliance level to output file. |
+| [PdfConverter](../com.aspose.diagram/pdfconverter) | Converter for converting template file to pdf. |
 | [PdfDigitalSignatureHashAlgorithm](../com.aspose.diagram/pdfdigitalsignaturehashalgorithm) | Specifies digital hash algorithm used by digital signature. |
 | [PdfEncryptionAlgorithm](../com.aspose.diagram/pdfencryptionalgorithm) | Specifies the encryption algorithm to use for encrypting a PDF document. |
 | [PdfEncryptionDetails](../com.aspose.diagram/pdfencryptiondetails) | Contains details for a pdf encryption. |

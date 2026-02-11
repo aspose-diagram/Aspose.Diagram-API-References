@@ -3,7 +3,7 @@ title: DocumentProperty
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a custom or built-in document property.
 type: docs
-weight: 128
+weight: 132
 url: /java/com.aspose.diagram/documentproperty/
 ---
 

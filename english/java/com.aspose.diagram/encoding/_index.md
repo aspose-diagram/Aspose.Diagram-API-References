@@ -3,7 +3,7 @@ title: Encoding
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a character encoding.
 type: docs
-weight: 147
+weight: 151
 url: /java/com.aspose.diagram/encoding/
 ---
 

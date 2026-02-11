@@ -3,7 +3,7 @@ title: XForm1D
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates of the begin point and end point of a 1-D shape.
 type: docs
-weight: 461
+weight: 469
 url: /java/com.aspose.diagram/xform1d/
 ---
 

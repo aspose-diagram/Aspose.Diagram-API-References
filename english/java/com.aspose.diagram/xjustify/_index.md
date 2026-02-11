@@ -3,7 +3,7 @@ title: XJustify
 second_title: Aspose.Diagram for Java API Reference
 description: The x-offset of the smart tag button relative to the point defined by the X and Y elements.
 type: docs
-weight: 462
+weight: 470
 url: /java/com.aspose.diagram/xjustify/
 ---
 

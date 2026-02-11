@@ -3,7 +3,7 @@ title: LocalizeFont
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether the shape text should be localized translated into another language.
 type: docs
-weight: 243
+weight: 247
 url: /java/com.aspose.diagram/localizefont/
 ---
 

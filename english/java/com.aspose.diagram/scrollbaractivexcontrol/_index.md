@@ -3,7 +3,7 @@ title: ScrollBarActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the ScrollBar control.
 type: docs
-weight: 362
+weight: 370
 url: /java/com.aspose.diagram/scrollbaractivexcontrol/
 ---
 

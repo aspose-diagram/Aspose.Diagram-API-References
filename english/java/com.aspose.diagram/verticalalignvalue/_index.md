@@ -3,7 +3,7 @@ title: VerticalAlignValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the vertical alignment of text within the text block.
 type: docs
-weight: 449
+weight: 457
 url: /java/com.aspose.diagram/verticalalignvalue/
 ---
 

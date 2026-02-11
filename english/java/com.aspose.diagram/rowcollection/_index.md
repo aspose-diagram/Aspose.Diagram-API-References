@@ -3,7 +3,7 @@ title: RowCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Row collection.
 type: docs
-weight: 347
+weight: 355
 url: /java/com.aspose.diagram/rowcollection/
 ---
 

@@ -3,7 +3,7 @@ title: DynFeedbackValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of visual feedback provided to users when they drag a connector.
 type: docs
-weight: 141
+weight: 145
 url: /java/com.aspose.diagram/dynfeedbackvalue/
 ---
 

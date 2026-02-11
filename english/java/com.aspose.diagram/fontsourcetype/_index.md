@@ -3,7 +3,7 @@ title: FontSourceType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of a font source.
 type: docs
-weight: 166
+weight: 170
 url: /java/com.aspose.diagram/fontsourcetype/
 ---
 

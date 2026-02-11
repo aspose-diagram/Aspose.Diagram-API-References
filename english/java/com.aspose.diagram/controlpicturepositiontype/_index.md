@@ -3,7 +3,7 @@ title: ControlPicturePositionType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the location of the controls picture relative to its caption.
 type: docs
-weight: 97
+weight: 100
 url: /java/com.aspose.diagram/controlpicturepositiontype/
 ---
 

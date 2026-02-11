@@ -3,7 +3,7 @@ title: XForm
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that control line attributes for a shape such as pattern weight and color.
 type: docs
-weight: 460
+weight: 468
 url: /java/com.aspose.diagram/xform/
 ---
 

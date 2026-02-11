@@ -3,7 +3,7 @@ title: RelCubBezTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates for a RelCubBezTos points.
 type: docs
-weight: 323
+weight: 331
 url: /java/com.aspose.diagram/relcubbezto/
 ---
 

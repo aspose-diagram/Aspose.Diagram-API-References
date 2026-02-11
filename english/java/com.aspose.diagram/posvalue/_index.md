@@ -3,7 +3,7 @@ title: PosValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the position of the shapes text relative to the baseline.
 type: docs
-weight: 301
+weight: 309
 url: /java/com.aspose.diagram/posvalue/
 ---
 

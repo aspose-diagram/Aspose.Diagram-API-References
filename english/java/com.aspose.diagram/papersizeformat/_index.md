@@ -3,7 +3,7 @@ title: PaperSizeFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Enumeration for saving paper size format selection.
 type: docs
-weight: 280
+weight: 287
 url: /java/com.aspose.diagram/papersizeformat/
 ---
 

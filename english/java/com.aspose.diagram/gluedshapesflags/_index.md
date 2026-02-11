@@ -3,7 +3,7 @@ title: GluedShapesFlags
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies constants that identify which shapes to return based on the dimensionality and directionality of the connection points that are glued to a particular shape passed to the Shape.GluedShapes method.
 type: docs
-weight: 180
+weight: 184
 url: /java/com.aspose.diagram/gluedshapesflags/
 ---
 

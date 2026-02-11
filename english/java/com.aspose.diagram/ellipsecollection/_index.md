@@ -3,7 +3,7 @@ title: EllipseCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Ellipse collection.
 type: docs
-weight: 143
+weight: 147
 url: /java/com.aspose.diagram/ellipsecollection/
 ---
 

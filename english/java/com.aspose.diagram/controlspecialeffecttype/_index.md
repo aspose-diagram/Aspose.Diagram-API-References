@@ -3,7 +3,7 @@ title: ControlSpecialEffectType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the type of special effect.
 type: docs
-weight: 101
+weight: 104
 url: /java/com.aspose.diagram/controlspecialeffecttype/
 ---
 

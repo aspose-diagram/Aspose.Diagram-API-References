@@ -3,7 +3,7 @@ title: TypeConnection
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies various types based on the element in which it is contained.
 type: docs
-weight: 424
+weight: 432
 url: /java/com.aspose.diagram/typeconnection/
 ---
 

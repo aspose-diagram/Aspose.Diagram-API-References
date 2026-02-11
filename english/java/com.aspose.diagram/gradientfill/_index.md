@@ -3,7 +3,7 @@ title: GradientFill
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the gradient fill.
 type: docs
-weight: 182
+weight: 186
 url: /java/com.aspose.diagram/gradientfill/
 ---
 

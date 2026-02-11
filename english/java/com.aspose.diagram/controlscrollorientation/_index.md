@@ -3,7 +3,7 @@ title: ControlScrollOrientation
 second_title: Aspose.Diagram for Java API Reference
 description: Represents type of scroll orientation
 type: docs
-weight: 100
+weight: 103
 url: /java/com.aspose.diagram/controlscrollorientation/
 ---
 

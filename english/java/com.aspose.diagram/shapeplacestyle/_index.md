@@ -3,7 +3,7 @@ title: ShapePlaceStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the placement style for children.
 type: docs
-weight: 371
+weight: 379
 url: /java/com.aspose.diagram/shapeplacestyle/
 ---
 
@@ -30,6 +30,7 @@ Determines the placement style for children.
 | [hashCode()](#hashCode--) | Serves as a hash function for a particular type. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setUfe(UnitFormulaErr value)](#setUfe-com.aspose.diagram.UnitFormulaErr-) | For the description of this property, please see [getUfe()](../../com.aspose.diagram/shapeplacestyle\#getUfe--) |
 | [setValue(int value)](#setValue-int-) | For the description of this property, please see [getValue()](../../com.aspose.diagram/shapeplacestyle\#getValue--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -118,6 +119,19 @@ public final native void notifyAll()
 
 
 
+
+### setUfe(UnitFormulaErr value) {#setUfe-com.aspose.diagram.UnitFormulaErr-}
+```
+public void setUfe(UnitFormulaErr value)
+```
+
+
+For the description of this property, please see [getUfe()](../../com.aspose.diagram/shapeplacestyle\#getUfe--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [UnitFormulaErr](../../com.aspose.diagram/unitformulaerr) |  |
 
 ### setValue(int value) {#setValue-int-}
 ```

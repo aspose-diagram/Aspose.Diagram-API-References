@@ -3,7 +3,7 @@ title: DocumentProperties
 second_title: Aspose.Diagram for Java API Reference
 description: Contains document property elements such as the documents title author and so on.
 type: docs
-weight: 127
+weight: 131
 url: /java/com.aspose.diagram/documentproperties/
 ---
 

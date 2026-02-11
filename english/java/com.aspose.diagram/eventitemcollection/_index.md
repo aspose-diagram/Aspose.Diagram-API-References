@@ -3,7 +3,7 @@ title: EventItemCollection
 second_title: Aspose.Diagram for Java API Reference
 description: EventItem collection.
 type: docs
-weight: 150
+weight: 154
 url: /java/com.aspose.diagram/eventitemcollection/
 ---
 

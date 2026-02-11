@@ -3,7 +3,7 @@ title: CoordinateCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Coordinate collection.
 type: docs
-weight: 104
+weight: 107
 url: /java/com.aspose.diagram/coordinatecollection/
 ---
 

@@ -3,7 +3,7 @@ title: SnapSettingsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the objects that shapes snap to when snap is active in the window
 type: docs
-weight: 390
+weight: 398
 url: /java/com.aspose.diagram/snapsettingsvalue/
 ---
 

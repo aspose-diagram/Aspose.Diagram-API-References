@@ -3,7 +3,7 @@ title: RelLineToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelLineTo collection.
 type: docs
-weight: 328
+weight: 336
 url: /java/com.aspose.diagram/rellinetocollection/
 ---
 

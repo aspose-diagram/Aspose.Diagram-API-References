@@ -3,7 +3,7 @@ title: FontConfigs
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies font settings
 type: docs
-weight: 164
+weight: 168
 url: /java/com.aspose.diagram/fontconfigs/
 ---
 

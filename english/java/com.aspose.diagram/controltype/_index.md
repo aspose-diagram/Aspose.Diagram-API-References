@@ -3,7 +3,7 @@ title: ControlType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents all type of ActiveX control.
 type: docs
-weight: 102
+weight: 105
 url: /java/com.aspose.diagram/controltype/
 ---
 

@@ -3,7 +3,7 @@ title: Misc
 second_title: Aspose.Diagram for Java API Reference
 description: Contains various elements of shapes and groups such as those that control selection highlighting and visibility.
 type: docs
-weight: 254
+weight: 261
 url: /java/com.aspose.diagram/misc/
 ---
 

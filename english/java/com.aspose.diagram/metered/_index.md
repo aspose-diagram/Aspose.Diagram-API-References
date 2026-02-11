@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.Diagram for Java API Reference
 description: Provides methods to set metered key.
 type: docs
-weight: 252
+weight: 259
 url: /java/com.aspose.diagram/metered/
 ---
 
@@ -27,7 +27,7 @@ Provides methods to set metered key.
 | [getClass()](#getClass--) |  |
 | [getConsumptionCredit()](#getConsumptionCredit--) | Gets consumption credit |
 | [getConsumptionQuantity()](#getConsumptionQuantity--) | Gets consumption file size |
-| [getProductName()](#getProductName--) |  |
+| [getProductName()](#getProductName--) | Gets product name |
 | [hashCode()](#hashCode--) |  |
 | [isMeteredLicensed()](#isMeteredLicensed--) | Check whether metered is licensed |
 | [notify()](#notify--) |  |
@@ -96,10 +96,10 @@ public String getProductName()
 ```
 
 
-
+Gets product name
 
 **Returns:**
-java.lang.String
+java.lang.String - product name
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()

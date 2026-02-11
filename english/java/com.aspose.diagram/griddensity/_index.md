@@ -3,7 +3,7 @@ title: GridDensity
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of horizontal/vertical grid to use for a page.
 type: docs
-weight: 188
+weight: 192
 url: /java/com.aspose.diagram/griddensity/
 ---
 

@@ -3,7 +3,7 @@ title: FileFormatInfo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains data returned by  file format detection methods.
 type: docs
-weight: 154
+weight: 158
 url: /java/com.aspose.diagram/fileformatinfo/
 ---
 

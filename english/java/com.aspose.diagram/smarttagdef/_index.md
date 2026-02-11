@@ -3,7 +3,7 @@ title: SmartTagDef
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that contain information for each smart tag defined for a shape or page.
 type: docs
-weight: 384
+weight: 392
 url: /java/com.aspose.diagram/smarttagdef/
 ---
 

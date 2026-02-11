@@ -3,7 +3,7 @@ title: DrawingScaleType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of drawing scale to use for a page.
 type: docs
-weight: 135
+weight: 139
 url: /java/com.aspose.diagram/drawingscaletype/
 ---
 

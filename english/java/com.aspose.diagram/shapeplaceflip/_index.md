@@ -3,7 +3,7 @@ title: ShapePlaceFlip
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes Shapes menu.
 type: docs
-weight: 369
+weight: 377
 url: /java/com.aspose.diagram/shapeplaceflip/
 ---
 
@@ -30,6 +30,7 @@ Specifies how a placeable shape flips and/or rotates on the page when a user sel
 | [hashCode()](#hashCode--) | Serves as a hash function for a particular type. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setUfe(UnitFormulaErr value)](#setUfe-com.aspose.diagram.UnitFormulaErr-) | For the description of this property, please see [getUfe()](../../com.aspose.diagram/shapeplaceflip\#getUfe--) |
 | [setValue(int value)](#setValue-int-) | For the description of this property, please see [getValue()](../../com.aspose.diagram/shapeplaceflip\#getValue--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -118,6 +119,19 @@ public final native void notifyAll()
 
 
 
+
+### setUfe(UnitFormulaErr value) {#setUfe-com.aspose.diagram.UnitFormulaErr-}
+```
+public void setUfe(UnitFormulaErr value)
+```
+
+
+For the description of this property, please see [getUfe()](../../com.aspose.diagram/shapeplaceflip\#getUfe--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [UnitFormulaErr](../../com.aspose.diagram/unitformulaerr) |  |
 
 ### setValue(int value) {#setValue-int-}
 ```

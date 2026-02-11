@@ -3,7 +3,7 @@ title: LightRigDirectionType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the light rig direction type.
 type: docs
-weight: 224
+weight: 228
 url: /java/com.aspose.diagram/lightrigdirectiontype/
 ---
 

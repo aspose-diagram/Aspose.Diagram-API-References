@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to images.
 type: docs
-weight: 204
+weight: 208
 url: /java/com.aspose.diagram/imagesaveoptions/
 ---
 

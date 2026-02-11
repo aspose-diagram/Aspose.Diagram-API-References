@@ -3,7 +3,7 @@ title: ControlCaptionAlignmentType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the position of the Caption relative to the control.
 type: docs
-weight: 91
+weight: 94
 url: /java/com.aspose.diagram/controlcaptionalignmenttype/
 ---
 

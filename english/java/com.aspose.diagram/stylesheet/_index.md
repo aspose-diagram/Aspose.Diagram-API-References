@@ -3,7 +3,7 @@ title: StyleSheet
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a style defined in a document.
 type: docs
-weight: 403
+weight: 411
 url: /java/com.aspose.diagram/stylesheet/
 ---
 

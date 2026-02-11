@@ -3,7 +3,7 @@ title: EllipticalArcToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: EllipticalArcTo  collection.
 type: docs
-weight: 145
+weight: 149
 url: /java/com.aspose.diagram/ellipticalarctocollection/
 ---
 

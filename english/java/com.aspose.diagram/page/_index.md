@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 267
+weight: 274
 url: /java/com.aspose.diagram/page/
 ---
 
@@ -54,6 +54,7 @@ Contains elements that define a page in the document.
 | [drawLine(double pinX, double pinY, double width, double height, double[] xyArray)](#drawLine-double-double-double-double-double---) | The process of drawing line. |
 | [drawPolyline(double pinX, double pinY, double width, double height, double[] xyArray)](#drawPolyline-double-double-double-double-double---) | The process of drawing Polyline. |
 | [drawRectangle(double pinX, double pinY, double width, double height)](#drawRectangle-double-double-double-double-) | The process of drawing rectangle. |
+| [dropContainer(Shape targetShape)](#dropContainer-com.aspose.diagram.Shape-) | The process of creating Container. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAssociatedPage()](#getAssociatedPage--) | The ID of the original drawing page that was marked up on separate markup overlays by reviewers of the drawing. |
 | [getBackPage()](#getBackPage--) | The page's background page. |
@@ -616,6 +617,21 @@ The process of drawing rectangle.
 
 **Returns:**
 long - The unique ID of the shape within shapes collection on the specified page.
+### dropContainer(Shape targetShape) {#dropContainer-com.aspose.diagram.Shape-}
+```
+public Shape dropContainer(Shape targetShape)
+```
+
+
+The process of creating Container.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| targetShape | [Shape](../../com.aspose.diagram/shape) | target shape |
+
+**Returns:**
+[Shape](../../com.aspose.diagram/shape) - The shape within shapes collection on the specified page.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

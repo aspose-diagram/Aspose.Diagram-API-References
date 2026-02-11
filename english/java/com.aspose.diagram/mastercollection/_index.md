@@ -3,7 +3,7 @@ title: MasterCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Master collection.
 type: docs
-weight: 247
+weight: 254
 url: /java/com.aspose.diagram/mastercollection/
 ---
 

@@ -3,7 +3,7 @@ title: ControlPictureAlignmentType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the alignment of the picture inside the Form or Image.
 type: docs
-weight: 96
+weight: 99
 url: /java/com.aspose.diagram/controlpicturealignmenttype/
 ---
 

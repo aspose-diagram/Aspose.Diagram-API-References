@@ -3,7 +3,7 @@ title: EllipticalArcTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify information about an elliptical arc.
 type: docs
-weight: 144
+weight: 148
 url: /java/com.aspose.diagram/ellipticalarcto/
 ---
 

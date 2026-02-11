@@ -3,7 +3,7 @@ title: RelQuadBezTo
 second_title: Aspose.Diagram for Java API Reference
 description: Contains x- and y-coordinates for a RelQuadBezTos points.
 type: docs
-weight: 331
+weight: 339
 url: /java/com.aspose.diagram/relquadbezto/
 ---
 

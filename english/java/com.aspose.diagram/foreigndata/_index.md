@@ -3,7 +3,7 @@ title: ForeignData
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a MIME Multipurpose Internet Mail Extensions encoded BLOB of picture data such as Windows metafile bitmap or OLE data.
 type: docs
-weight: 168
+weight: 172
 url: /java/com.aspose.diagram/foreigndata/
 ---
 

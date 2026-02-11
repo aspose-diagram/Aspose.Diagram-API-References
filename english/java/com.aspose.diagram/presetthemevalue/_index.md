@@ -3,7 +3,7 @@ title: PresetThemeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the theme value
 type: docs
-weight: 308
+weight: 316
 url: /java/com.aspose.diagram/presetthemevalue/
 ---
 

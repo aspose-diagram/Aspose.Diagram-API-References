@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.Diagram for Java API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 223
+weight: 227
 url: /java/com.aspose.diagram/license/
 ---
 

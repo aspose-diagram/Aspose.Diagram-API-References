@@ -3,7 +3,7 @@ title: DataConnection
 second_title: Aspose.Diagram for Java API Reference
 description: Abstracts communication between one or more DataRecordset elements and a non-XML data source.
 type: docs
-weight: 112
+weight: 115
 url: /java/com.aspose.diagram/dataconnection/
 ---
 

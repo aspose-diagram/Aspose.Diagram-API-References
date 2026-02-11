@@ -3,7 +3,7 @@ title: DataRecordSetCollection
 second_title: Aspose.Diagram for Java API Reference
 description: DataRecordSet collection.
 type: docs
-weight: 116
+weight: 119
 url: /java/com.aspose.diagram/datarecordsetcollection/
 ---
 

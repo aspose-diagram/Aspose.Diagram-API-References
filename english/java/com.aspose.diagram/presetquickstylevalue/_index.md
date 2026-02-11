@@ -3,7 +3,7 @@ title: PresetQuickStyleValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the theme quick style value
 type: docs
-weight: 305
+weight: 313
 url: /java/com.aspose.diagram/presetquickstylevalue/
 ---
 

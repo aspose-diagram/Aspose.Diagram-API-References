@@ -3,7 +3,7 @@ title: ScratchCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Scratch collection.
 type: docs
-weight: 361
+weight: 369
 url: /java/com.aspose.diagram/scratchcollection/
 ---
 

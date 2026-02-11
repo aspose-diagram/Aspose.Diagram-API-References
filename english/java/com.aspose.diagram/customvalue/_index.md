@@ -3,7 +3,7 @@ title: CustomValue
 second_title: Aspose.Diagram for Java API Reference
 description: Value of property.
 type: docs
-weight: 109
+weight: 112
 url: /java/com.aspose.diagram/customvalue/
 ---
 

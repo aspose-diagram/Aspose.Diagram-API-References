@@ -3,7 +3,7 @@ title: RelCubBezToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelCubBezTo collection.
 type: docs
-weight: 324
+weight: 332
 url: /java/com.aspose.diagram/relcubbeztocollection/
 ---
 

@@ -3,7 +3,7 @@ title: HeaderFooter
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements for a documents header and footer.
 type: docs
-weight: 192
+weight: 196
 url: /java/com.aspose.diagram/headerfooter/
 ---
 

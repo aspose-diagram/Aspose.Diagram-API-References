@@ -3,7 +3,7 @@ title: RadioButtonActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a RadioButton ActiveX control.
 type: docs
-weight: 320
+weight: 328
 url: /java/com.aspose.diagram/radiobuttonactivexcontrol/
 ---
 

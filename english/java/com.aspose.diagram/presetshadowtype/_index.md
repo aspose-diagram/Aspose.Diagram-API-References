@@ -3,7 +3,7 @@ title: PresetShadowType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents preset shadow type.
 type: docs
-weight: 306
+weight: 314
 url: /java/com.aspose.diagram/presetshadowtype/
 ---
 

@@ -3,7 +3,7 @@ title: RectangleAlignmentType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents how to position two rectangles relative to each other.
 type: docs
-weight: 321
+weight: 329
 url: /java/com.aspose.diagram/rectanglealignmenttype/
 ---
 

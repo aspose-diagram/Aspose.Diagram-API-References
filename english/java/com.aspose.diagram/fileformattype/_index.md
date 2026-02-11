@@ -3,7 +3,7 @@ title: FileFormatType
 second_title: Aspose.Diagram for Java API Reference
 description: Enumerates spreadsheet file format types
 type: docs
-weight: 155
+weight: 159
 url: /java/com.aspose.diagram/fileformattype/
 ---
 

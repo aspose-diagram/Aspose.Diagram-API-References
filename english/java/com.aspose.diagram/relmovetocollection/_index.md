@@ -3,7 +3,7 @@ title: RelMoveToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelMoveTo collection.
 type: docs
-weight: 330
+weight: 338
 url: /java/com.aspose.diagram/relmovetocollection/
 ---
 

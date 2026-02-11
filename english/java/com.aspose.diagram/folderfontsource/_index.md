@@ -3,7 +3,7 @@ title: FolderFontSource
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the folder that contains TrueType font files.
 type: docs
-weight: 161
+weight: 165
 url: /java/com.aspose.diagram/folderfontsource/
 ---
 

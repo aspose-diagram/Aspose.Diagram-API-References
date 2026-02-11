@@ -3,7 +3,7 @@ title: DocumentPropertyCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Base class for collections.
 type: docs
-weight: 129
+weight: 133
 url: /java/com.aspose.diagram/documentpropertycollection/
 ---
 

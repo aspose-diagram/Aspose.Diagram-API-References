@@ -3,7 +3,7 @@ title: ControlMousePointerType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the type of icon displayed as the mouse pointer for the control.
 type: docs
-weight: 95
+weight: 98
 url: /java/com.aspose.diagram/controlmousepointertype/
 ---
 

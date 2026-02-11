@@ -3,7 +3,7 @@ title: PresetStyleMatricsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Used to set Shape theme style property
 type: docs
-weight: 307
+weight: 315
 url: /java/com.aspose.diagram/presetstylematricsvalue/
 ---
 

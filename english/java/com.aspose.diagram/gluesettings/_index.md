@@ -3,7 +3,7 @@ title: GlueSettings
 second_title: Aspose.Diagram for Java API Reference
 description: The bit values indicate that a specific glue setting is on or off.
 type: docs
-weight: 176
+weight: 180
 url: /java/com.aspose.diagram/gluesettings/
 ---
 

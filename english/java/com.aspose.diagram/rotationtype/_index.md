@@ -3,7 +3,7 @@ title: RotationType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of shadow for a shape.
 type: docs
-weight: 342
+weight: 350
 url: /java/com.aspose.diagram/rotationtype/
 ---
 

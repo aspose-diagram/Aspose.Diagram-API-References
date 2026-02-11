@@ -3,7 +3,7 @@ title: RelationShape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape and relationflag.
 type: docs
-weight: 334
+weight: 342
 url: /java/com.aspose.diagram/relationshape/
 ---
 

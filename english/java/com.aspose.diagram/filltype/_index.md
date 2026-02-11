@@ -3,7 +3,7 @@ title: FillType
 second_title: Aspose.Diagram for Java API Reference
 description: Fill format type.
 type: docs
-weight: 158
+weight: 162
 url: /java/com.aspose.diagram/filltype/
 ---
 

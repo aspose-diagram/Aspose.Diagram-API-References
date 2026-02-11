@@ -3,7 +3,7 @@ title: TypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Optional enumeration.
 type: docs
-weight: 430
+weight: 438
 url: /java/com.aspose.diagram/typevalue/
 ---
 

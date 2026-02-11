@@ -3,7 +3,7 @@ title: PreviewScope
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether the document includes a preview and if so whether the preview shows only the first page or all the pages in the document.
 type: docs
-weight: 310
+weight: 318
 url: /java/com.aspose.diagram/previewscope/
 ---
 

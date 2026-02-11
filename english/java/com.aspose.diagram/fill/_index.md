@@ -3,7 +3,7 @@ title: Fill
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the current fill formatting values for the shape and the shapes drop shadow including pattern foreground color and background color.
 type: docs
-weight: 157
+weight: 161
 url: /java/com.aspose.diagram/fill/
 ---
 

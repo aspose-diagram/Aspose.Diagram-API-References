@@ -3,7 +3,7 @@ title: Geom
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify the coordinates of the vertices for the lines and arcs that make up the shape.
 type: docs
-weight: 173
+weight: 177
 url: /java/com.aspose.diagram/geom/
 ---
 

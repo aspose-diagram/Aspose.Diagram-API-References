@@ -3,7 +3,7 @@ title: DocumentSettings
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify document settings.
 type: docs
-weight: 130
+weight: 134
 url: /java/com.aspose.diagram/documentsettings/
 ---
 

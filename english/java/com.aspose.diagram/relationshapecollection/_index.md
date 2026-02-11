@@ -3,7 +3,7 @@ title: RelationShapeCollection
 second_title: Aspose.Diagram for Java API Reference
 description: RelationShape collection.
 type: docs
-weight: 335
+weight: 343
 url: /java/com.aspose.diagram/relationshapecollection/
 ---
 

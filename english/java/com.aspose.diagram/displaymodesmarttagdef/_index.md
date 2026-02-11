@@ -3,7 +3,7 @@ title: DisplayModeSmartTagDef
 second_title: Aspose.Diagram for Java API Reference
 description: DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag when the shape is selected or all the time.
 type: docs
-weight: 123
+weight: 127
 url: /java/com.aspose.diagram/displaymodesmarttagdef/
 ---
 
