@@ -18,6 +18,7 @@ public abstract class RenderingSaveOptions : SaveOptions
 | Name | Description |
 | --- | --- |
 | [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Gets or sets the area of the shapes will be saved . |
+| [Bookmark](../../aspose.diagram.saving/renderingsaveoptions/bookmark/) { get; set; } |  |
 | virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
 | [EmfRenderSetting](../../aspose.diagram.saving/renderingsaveoptions/emfrendersetting/) { get; set; } | Setting for rendering Emf metafile. |
 | [EnlargePage](../../aspose.diagram.saving/renderingsaveoptions/enlargepage/) { get; set; } | Specifies whether enlarge page . |

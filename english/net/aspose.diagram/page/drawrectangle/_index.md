@@ -10,15 +10,15 @@ url: /net/aspose.diagram/page/drawrectangle/
 The process of drawing rectangle.
 
 ```csharp
-public long DrawRectangle(double pinX, double pinY, double width, double height)
+public long DrawRectangle(double x1, double y1, double x2, double y2)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pinX | Double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
-| pinY | Double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
-| width | Double | Specifies the width of the shape |
-| height | Double | Specifies the height of the shape |
+| x1 | Double | Specifies the x-coordinate representing the lower-left corner of the rectangle |
+| y1 | Double | Specifies the y-coordinate representing the lower-left corner of the rectangle |
+| x2 | Double | Specifies the x-coordinate representing the top-right corner of the rectangle |
+| y2 | Double | Specifies the y-coordinate representing the top-right corner of the rectangle |
 
 ### Return Value
 

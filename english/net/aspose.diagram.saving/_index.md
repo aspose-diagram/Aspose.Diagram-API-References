@@ -18,6 +18,7 @@ Contains classes for save options.
 | [PageSavingArgs](./pagesavingargs/) | Info for a page saving process. |
 | [PageSize](./pagesize/) | Contains information about page size for the generated images. |
 | [PageStartSavingArgs](./pagestartsavingargs/) | Info for a page starts saving process. |
+| [PdfBookmarkEntry](./pdfbookmarkentry/) |  |
 | [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails/) | Contains details for a pdf digital signature. |
 | [PdfEncryptionDetails](./pdfencryptiondetails/) | Contains details for a pdf encryption. |
 | [PdfSaveOptions](./pdfsaveoptions/) | Allows to specify additional options when rendering diagram pages to PDF. |

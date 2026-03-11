@@ -141,6 +141,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineAdjustTo](./lineadjustto/) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. |
 | [LineJumpCode](./linejumpcode/) | Determines the dynamic connectors to which you want to add jumps. |
 | [LineJumpStyle](./linejumpstyle/) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
+| [LinePattern](./linepattern/) | Specifies the line pattern of the shape. |
 | [LineRouteExt](./linerouteext/) | Specifies the default appearance for all connectors on a page. |
 | [LineTo](./lineto/) | Contains x- and y-coordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements, respectively. |
 | [LineToCollection](./linetocollection/) | LineTo collection. |
@@ -337,6 +338,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [LineAdjustToValue](./lineadjusttovalue/) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. |
 | [LineJumpCodeValue](./linejumpcodevalue/) | Determines the dynamic connectors to which you want to add jumps. |
 | [LineJumpStyleValue](./linejumpstylevalue/) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
+| [LinePatternValue](./linepatternvalue/) | Specifies the line pattern of the shape. |
 | [LineRouteExtValue](./linerouteextvalue/) | Specifies the default appearance for all connectors on a page. |
 | [LoadDataFilterOptions](./loaddatafilteroptions/) | Represents the options to filter data when loading diagram from template. |
 | [LoadFileFormat](./loadfileformat/) | Enumeration for loading diagram format selection. |

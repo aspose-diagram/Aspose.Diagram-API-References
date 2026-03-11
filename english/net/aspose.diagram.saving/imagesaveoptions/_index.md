@@ -24,6 +24,7 @@ public class ImageSaveOptions : RenderingSaveOptions
 | Name | Description |
 | --- | --- |
 | [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Gets or sets the area of the shapes will be saved . |
+| [Bookmark](../../aspose.diagram.saving/renderingsaveoptions/bookmark/) { get; set; } |  |
 | [CompositingQuality](../../aspose.diagram.saving/imagesaveoptions/compositingquality/) { get; set; } | Specifies the quality level to use during compositing. |
 | [ContentZoom](../../aspose.diagram.saving/imagesaveoptions/contentzoom/) { get; set; } | This parameter is similar with scale, but not effect the generated image size. |
 | virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |

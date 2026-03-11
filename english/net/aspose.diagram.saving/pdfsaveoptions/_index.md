@@ -24,6 +24,7 @@ public class PdfSaveOptions : RenderingSaveOptions
 | Name | Description |
 | --- | --- |
 | [Area](../../aspose.diagram.saving/renderingsaveoptions/area/) { get; set; } | Gets or sets the area of the shapes will be saved . |
+| [Bookmark](../../aspose.diagram.saving/pdfsaveoptions/bookmark/) { get; set; } | Gets and sets the [`PdfBookmarkEntry`](../pdfbookmarkentry/) object. |
 | [Compliance](../../aspose.diagram.saving/pdfsaveoptions/compliance/) { get; set; } | Desired conformance level for generated PDF document. Default is Pdf15. |
 | virtual [DefaultFont](../../aspose.diagram.saving/saveoptions/defaultfont/) { get; set; } | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters. |
 | [DigitalSignatureDetails](../../aspose.diagram.saving/pdfsaveoptions/digitalsignaturedetails/) { get; set; } | Gets or sets a digital signature details. If not set, then no signing will be performed. |

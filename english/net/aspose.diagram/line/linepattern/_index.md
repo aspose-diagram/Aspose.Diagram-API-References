@@ -10,12 +10,12 @@ url: /net/aspose.diagram/line/linepattern/
 Specifies the line pattern of the shape
 
 ```csharp
-public IntValue LinePattern { get; set; }
+public LinePattern LinePattern { get; set; }
 ```
 
 ### See Also
 
-* class [IntValue](../../intvalue/)
+* class [LinePattern](../../linepattern/)
 * class [Line](../)
 * namespace [Aspose.Diagram](../../line/)
 * assembly [Aspose.Diagram](../../../)
