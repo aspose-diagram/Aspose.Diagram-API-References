@@ -1,0 +1,183 @@
+---
+title: ShapePlaceFlipValue
+second_title: Aspose.Diagram för Java API-referens
+description: Anger hur en placerbar form vänds och/eller roteras på sidan när en användare väljer menyn Lay Out Shapes Shapes.
+type: docs
+weight: 360
+url: /sv/java/com.aspose.diagram/shapeplaceflipvalue/
+---
+
+**Inheritance:**
+java.lang.Object
+```
+public final class ShapePlaceFlipValue
+```
+
+Specificerar hur en placerbar form vänds och/eller roteras på sidan när en användare väljer Lay Out Shapes (Shapes-menyn).
+## Fält
+
+| Fält | Beskrivning |
+| --- | --- |
+| [FLIP_90_DEGREE_INCREMENT_BETWEEN_0_AND_270](#FLIP-90-DEGREE-INCREMENT-BETWEEN-0-AND-270) | Vänd i steg om 90 grader mellan 0 och 270. |
+| [FLIP_HORIZONTAL](#FLIP-HORIZONTAL) | Vänd horisontellt. |
+| [FLIP_VERTICAL](#FLIP-VERTICAL) | Vänd vertikalt. |
+| [NO_FLIP](#NO-FLIP) | Ingen vändning. |
+| [UNDEFINED](#UNDEFINED) | Odefinierad |
+| [USE_PAGE_DEFAULT](#USE-PAGE-DEFAULT) | Använd sidans standard. |
+## Metoder
+
+| Metod | Beskrivning |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### FLIP_90_DEGREE_INCREMENT_BETWEEN_0_AND_270 {#FLIP-90-DEGREE-INCREMENT-BETWEEN-0-AND-270}
+```
+public static final int FLIP_90_DEGREE_INCREMENT_BETWEEN_0_AND_270
+```
+
+
+Vänd i steg om 90 grader mellan 0 och 270.
+
+### FLIP_HORIZONTAL {#FLIP-HORIZONTAL}
+```
+public static final int FLIP_HORIZONTAL
+```
+
+
+Vänd horisontellt.
+
+### FLIP_VERTICAL {#FLIP-VERTICAL}
+```
+public static final int FLIP_VERTICAL
+```
+
+
+Vänd vertikalt.
+
+### NO_FLIP {#NO-FLIP}
+```
+public static final int NO_FLIP
+```
+
+
+Ingen vändning.
+
+### UNDEFINED {#UNDEFINED}
+```
+public static final int UNDEFINED
+```
+
+
+Odefinierad
+
+### USE_PAGE_DEFAULT {#USE-PAGE-DEFAULT}
+```
+public static final int USE_PAGE_DEFAULT
+```
+
+
+Använd sidans standard.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
