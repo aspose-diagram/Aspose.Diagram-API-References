@@ -1,0 +1,165 @@
+---
+title: DrawingResizeTypeValue
+second_title: Aspose.Diagram voor Java API-referentie
+description: Bepaalt of de tekenpagina automatisch wordt aangepast om het diagram te passen.
+type: docs
+weight: 130
+url: /nl/java/com.aspose.diagram/drawingresizetypevalue/
+---
+
+**Inheritance:**
+java.lang.Object
+```
+public final class DrawingResizeTypeValue
+```
+
+Bepaalt of de tekenpagina automatisch wordt aangepast om het diagram te passen.
+## Velden
+
+| Veld | Beschrijving |
+| --- | --- |
+| [AUTOMATICALLY](#AUTOMATICALLY) | De tekenpagina wordt automatisch aangepast. |
+| [DEPENDS_ON_DRAWING_SIZE_TYPE](#DEPENDS-ON-DRAWING-SIZE-TYPE) | Of de pagina automatisch wordt aangepast, hangt af van de waarde van de DrawingSizeType-cel. |
+| [NOT_AUTOMATICALLY](#NOT-AUTOMATICALLY) | De tekenpagina wordt niet automatisch aangepast. |
+| [UNDEFINED](#UNDEFINED) | Ongedefinieerd. |
+## Methoden
+
+| Methode | Beschrijving |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### AUTOMATICALLY {#AUTOMATICALLY}
+```
+public static final int AUTOMATICALLY
+```
+
+
+De tekenpagina wordt automatisch aangepast.
+
+### DEPENDS_ON_DRAWING_SIZE_TYPE {#DEPENDS-ON-DRAWING-SIZE-TYPE}
+```
+public static final int DEPENDS_ON_DRAWING_SIZE_TYPE
+```
+
+
+Of de pagina automatisch wordt aangepast, hangt af van de waarde van de DrawingSizeType-cel. Als DrawingSizeType = 0 (de grootte van de tekenpagina is gelijk aan de grootte van de afgedrukte pagina), wordt de pagina automatisch aangepast. Als de waarde van DrawingSizeType iets anders is dan nul (0), wordt de pagina niet automatisch aangepast.
+
+### NOT_AUTOMATICALLY {#NOT-AUTOMATICALLY}
+```
+public static final int NOT_AUTOMATICALLY
+```
+
+
+De tekenpagina wordt niet automatisch aangepast.
+
+### UNDEFINED {#UNDEFINED}
+```
+public static final int UNDEFINED
+```
+
+
+Ongedefinieerd.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
