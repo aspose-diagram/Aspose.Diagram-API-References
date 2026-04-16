@@ -32,6 +32,7 @@ public enum LoadFileFormat
 | Vstm | `12` | MS Visio Vstm file format which enable macros. |
 | Html | `13` | Html. |
 | Mermaid | `14` | Mermaid flowchat and Mermaid sequence diagram |
+| Svg | `15` | Svg |
 
 ### See Also
 
