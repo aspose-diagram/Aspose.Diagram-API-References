@@ -46,7 +46,7 @@ public class PdfSaveOptions : RenderingSaveOptions
 | [SplitMultiPages](../../aspose.diagram.saving/pdfsaveoptions/splitmultipages/) { get; set; } | Defines whether split diagram to multi pages according to page's setting. |
 | [TextCompression](../../aspose.diagram.saving/pdfsaveoptions/textcompression/) { get; set; } | Specifies compression type to be used for all content streams except images. Default is Flate. |
 | [VerticalResolution](../../aspose.diagram.saving/pdfsaveoptions/verticalresolution/) { get; set; } | Gets or sets the vertical resolution for generated images, in dots per inch. Applies generating image method except Emf format image. |
-| [WarningCallback](../../aspose.diagram.saving/pdfsaveoptions/warningcallback/) { get; set; } | Gets or sets warning callback. |
+| [WarningCallback](../../aspose.diagram.saving/saveoptions/warningcallback/) { get; set; } | Gets or sets warning callback. |
 
 ### See Also
 
