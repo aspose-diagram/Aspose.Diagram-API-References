@@ -3,7 +3,7 @@ title: SnapExtensions
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether a specific snap extension setting is enabled or disabled for the active window.
 type: docs
-weight: 395
+weight: 398
 url: /java/com.aspose.diagram/snapextensions/
 ---
 

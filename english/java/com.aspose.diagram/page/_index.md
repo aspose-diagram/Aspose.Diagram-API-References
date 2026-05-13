@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 274
+weight: 276
 url: /java/com.aspose.diagram/page/
 ---
 
@@ -52,8 +52,11 @@ Contains elements that define a page in the document.
 | [drawEllipse(double pinX, double pinY, double width, double height)](#drawEllipse-double-double-double-double-) | The process of drawing Ellipse. |
 | [drawLine(double beginX, double beginY, double endX, double endY)](#drawLine-double-double-double-double-) | The process of drawing a single line. |
 | [drawLine(double pinX, double pinY, double width, double height, double[] xyArray)](#drawLine-double-double-double-double-double---) | The process of drawing line. |
+| [drawOwal(double x1, double y1, double x2, double y2)](#drawOwal-double-double-double-double-) | The process of drawing owal. |
 | [drawPolyline(double pinX, double pinY, double width, double height, double[] xyArray)](#drawPolyline-double-double-double-double-double---) | The process of drawing Polyline. |
-| [drawRectangle(double pinX, double pinY, double width, double height)](#drawRectangle-double-double-double-double-) | The process of drawing rectangle. |
+| [drawPolyline(double[] xyArray)](#drawPolyline-double---) | The process of drawing Polyline. |
+| [drawRectangle(double x1, double y1, double x2, double y2)](#drawRectangle-double-double-double-double-) | The process of drawing rectangle. |
+| [drawRectangle(float pinX, float pinY, double width, double height)](#drawRectangle-float-float-double-double-) | The process of drawing rectangle. |
 | [dropContainer(Shape targetShape)](#dropContainer-com.aspose.diagram.Shape-) | The process of creating Container. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAssociatedPage()](#getAssociatedPage--) | The ID of the original drawing page that was marked up on separate markup overlays by reviewers of the drawing. |
@@ -580,6 +583,24 @@ The process of drawing line.
 
 **Returns:**
 long - The unique ID of the shape within shapes collection on the specified page.
+### drawOwal(double x1, double y1, double x2, double y2) {#drawOwal-double-double-double-double-}
+```
+public long drawOwal(double x1, double y1, double x2, double y2)
+```
+
+
+The process of drawing owal.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x1 | double | Specifies the x-coordinate representing the lower-left corner of the rectangle |
+| y1 | double | Specifies the y-coordinate representing the lower-left corner of the rectangle |
+| x2 | double | Specifies the x-coordinate representing the top-right corner of the rectangle |
+| y2 | double | Specifies the y-coordinate representing the top-right corner of the rectangle |
+
+**Returns:**
+long - The unique ID of the shape within shapes collection on the specified page.
 ### drawPolyline(double pinX, double pinY, double width, double height, double[] xyArray) {#drawPolyline-double-double-double-double-double---}
 ```
 public long drawPolyline(double pinX, double pinY, double width, double height, double[] xyArray)
@@ -599,9 +620,24 @@ The process of drawing Polyline.
 
 **Returns:**
 long - The unique ID of the shape within shapes collection on the specified page.
-### drawRectangle(double pinX, double pinY, double width, double height) {#drawRectangle-double-double-double-double-}
+### drawPolyline(double[] xyArray) {#drawPolyline-double---}
 ```
-public long drawRectangle(double pinX, double pinY, double width, double height)
+public long drawPolyline(double[] xyArray)
+```
+
+
+The process of drawing Polyline.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xyArray | double[] | An array of alternating x and y values that defines points in the new shape |
+
+**Returns:**
+long - The unique ID of the shape within shapes collection on the specified page.
+### drawRectangle(double x1, double y1, double x2, double y2) {#drawRectangle-double-double-double-double-}
+```
+public long drawRectangle(double x1, double y1, double x2, double y2)
 ```
 
 
@@ -610,8 +646,26 @@ The process of drawing rectangle.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pinX | double | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
-| pinY | double | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| x1 | double | Specifies the x-coordinate representing the lower-left corner of the rectangle |
+| y1 | double | Specifies the y-coordinate representing the lower-left corner of the rectangle |
+| x2 | double | Specifies the x-coordinate representing the top-right corner of the rectangle |
+| y2 | double | Specifies the y-coordinate representing the top-right corner of the rectangle |
+
+**Returns:**
+long - The unique ID of the shape within shapes collection on the specified page.
+### drawRectangle(float pinX, float pinY, double width, double height) {#drawRectangle-float-float-double-double-}
+```
+public long drawRectangle(float pinX, float pinY, double width, double height)
+```
+
+
+The process of drawing rectangle.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pinX | float | Specifies the x-coordinate of the shape's pin (center of rotation) in relation to the page. |
+| pinY | float | Specifies the y-coordinate of the shape's pin (center of rotation) in relation to the page. |
 | width | double | Specifies the width of the shape |
 | height | double | Specifies the height of the shape |
 

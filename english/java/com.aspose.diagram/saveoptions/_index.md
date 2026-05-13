@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format.
 type: docs
-weight: 367
+weight: 370
 url: /java/com.aspose.diagram/saveoptions/
 ---
 

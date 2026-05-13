@@ -3,7 +3,7 @@ title: ObjectKindValue
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates the type of text field.
 type: docs
-weight: 269
+weight: 271
 url: /java/com.aspose.diagram/objectkindvalue/
 ---
 

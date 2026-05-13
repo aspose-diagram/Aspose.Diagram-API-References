@@ -3,7 +3,7 @@ title: PrintSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when printing diagram.
 type: docs
-weight: 323
+weight: 326
 url: /java/com.aspose.diagram/printsaveoptions/
 ---
 
@@ -25,6 +25,7 @@ Allows to specify additional options when printing diagram.
 | --- | --- |
 | [createSaveOptions(int saveFormat)](#createSaveOptions-int-) | Creates a save options object of a class suitable for the specified save format. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBookmark()](#getBookmark--) |  |
 | [getClass()](#getClass--) |  |
 | [getDefaultFont()](#getDefaultFont--) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. |
 | [getEmfRenderSetting()](#getEmfRenderSetting--) | Setting for rendering Emf metafile. |
@@ -40,6 +41,7 @@ Allows to specify additional options when printing diagram.
 | [isExportComments()](#isExportComments--) | Defines whether need exporting the comments or not. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setBookmark(PdfBookmarkEntry value)](#setBookmark-com.aspose.diagram.PdfBookmarkEntry-) | For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--) |
 | [setDefaultFont(String value)](#setDefaultFont-java.lang.String-) | For the description of this property, please see [getDefaultFont()](../../com.aspose.diagram/saveoptions\#getDefaultFont--) |
 | [setEmfRenderSetting(int value)](#setEmfRenderSetting-int-) | For the description of this property, please see [getEmfRenderSetting()](../../com.aspose.diagram/renderingsaveoptions\#getEmfRenderSetting--) |
 | [setEnlargePage(boolean value)](#setEnlargePage-boolean-) | For the description of this property, please see [getEnlargePage()](../../com.aspose.diagram/renderingsaveoptions\#getEnlargePage--) |
@@ -93,6 +95,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBookmark() {#getBookmark--}
+```
+public PdfBookmarkEntry getBookmark()
+```
+
+
+
+
+**Returns:**
+[PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -238,6 +250,19 @@ public final native void notifyAll()
 
 
 
+
+### setBookmark(PdfBookmarkEntry value) {#setBookmark-com.aspose.diagram.PdfBookmarkEntry-}
+```
+public void setBookmark(PdfBookmarkEntry value)
+```
+
+
+For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) |  |
 
 ### setDefaultFont(String value) {#setDefaultFont-java.lang.String-}
 ```

@@ -3,7 +3,7 @@ title: MoveToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: MoveTo collection.
 type: docs
-weight: 263
+weight: 265
 url: /java/com.aspose.diagram/movetocollection/
 ---
 

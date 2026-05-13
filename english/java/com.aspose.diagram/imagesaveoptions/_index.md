@@ -25,6 +25,7 @@ Allows to specify additional options when rendering diagram pages to images.
 | --- | --- |
 | [createSaveOptions(int saveFormat)](#createSaveOptions-int-) | Creates a save options object of a class suitable for the specified save format. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBookmark()](#getBookmark--) |  |
 | [getClass()](#getClass--) |  |
 | [getCompositingQuality()](#getCompositingQuality--) | Specifies the quality level to use during compositing. |
 | [getContentZoom()](#getContentZoom--) | This parameter is similar with scale, but not effect the generated image size. |
@@ -55,6 +56,7 @@ Allows to specify additional options when rendering diagram pages to images.
 | [isExportComments()](#isExportComments--) | Defines whether need exporting the comments or not. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setBookmark(PdfBookmarkEntry value)](#setBookmark-com.aspose.diagram.PdfBookmarkEntry-) | For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--) |
 | [setCompositingQuality(int value)](#setCompositingQuality-int-) | For the description of this property, please see [getCompositingQuality()](../../com.aspose.diagram/imagesaveoptions\#getCompositingQuality--) |
 | [setContentZoom(float value)](#setContentZoom-float-) | For the description of this property, please see [getContentZoom()](../../com.aspose.diagram/imagesaveoptions\#getContentZoom--) |
 | [setDefaultFont(String value)](#setDefaultFont-java.lang.String-) | For the description of this property, please see [getDefaultFont()](../../com.aspose.diagram/saveoptions\#getDefaultFont--) |
@@ -128,6 +130,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBookmark() {#getBookmark--}
+```
+public PdfBookmarkEntry getBookmark()
+```
+
+
+
+
+**Returns:**
+[PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -423,6 +435,19 @@ public final native void notifyAll()
 
 
 
+
+### setBookmark(PdfBookmarkEntry value) {#setBookmark-com.aspose.diagram.PdfBookmarkEntry-}
+```
+public void setBookmark(PdfBookmarkEntry value)
+```
+
+
+For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) |  |
 
 ### setCompositingQuality(int value) {#setCompositingQuality-int-}
 ```

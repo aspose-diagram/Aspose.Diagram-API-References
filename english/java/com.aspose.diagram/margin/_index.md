@@ -3,7 +3,7 @@ title: Margin
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the margin.
 type: docs
-weight: 252
+weight: 254
 url: /java/com.aspose.diagram/margin/
 ---
 

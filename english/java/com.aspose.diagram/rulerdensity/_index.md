@@ -3,7 +3,7 @@ title: RulerDensity
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the horizontal subdivisions on the ruler for the page.
 type: docs
-weight: 362
+weight: 365
 url: /java/com.aspose.diagram/rulerdensity/
 ---
 

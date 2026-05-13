@@ -3,7 +3,7 @@ title: PropCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Prop collection.
 type: docs
-weight: 325
+weight: 328
 url: /java/com.aspose.diagram/propcollection/
 ---
 

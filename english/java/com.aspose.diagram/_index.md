@@ -240,6 +240,8 @@ url: /java/com.aspose.diagram/
 | [LineJumpCodeValue](../com.aspose.diagram/linejumpcodevalue) | Determines the dynamic connectors to which you want to add jumps. |
 | [LineJumpStyle](../com.aspose.diagram/linejumpstyle) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
 | [LineJumpStyleValue](../com.aspose.diagram/linejumpstylevalue) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
+| [LinePattern](../com.aspose.diagram/linepattern) | Specifies the line pattern of the shape. |
+| [LinePatternValue](../com.aspose.diagram/linepatternvalue) | Specifies the line pattern of the shape. |
 | [LineRouteExt](../com.aspose.diagram/linerouteext) | Specifies the default appearance for all connectors on a page. |
 | [LineRouteExtValue](../com.aspose.diagram/linerouteextvalue) | Specifies the default appearance for all connectors on a page. |
 | [LineTo](../com.aspose.diagram/lineto) | Contains x- and y-coordinates of the ending vertex of a straight line segment. |
@@ -292,6 +294,7 @@ url: /java/com.aspose.diagram/
 | [PaperSizeFormat](../com.aspose.diagram/papersizeformat) | Enumeration for saving paper size format selection. |
 | [Para](../com.aspose.diagram/para) | Contains the paragraph formatting elements for the shape's text, such as indents, line spacing, bullets, and horizontal alignment of paragraphs. |
 | [ParaCollection](../com.aspose.diagram/paracollection) | Para collection. |
+| [PdfBookmarkEntry](../com.aspose.diagram/pdfbookmarkentry) | PdfBookmarkEntry is an entry in pdf bookmark. |
 | [PdfCompliance](../com.aspose.diagram/pdfcompliance) | Specifies the PDF compliance level to output file. |
 | [PdfConverter](../com.aspose.diagram/pdfconverter) | Converter for converting template file to pdf. |
 | [PdfDigitalSignatureHashAlgorithm](../com.aspose.diagram/pdfdigitalsignaturehashalgorithm) | Specifies digital hash algorithm used by digital signature. |

@@ -3,7 +3,7 @@ title: LoadFileFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Enumeration for loading diagram format selection.
 type: docs
-weight: 244
+weight: 246
 url: /java/com.aspose.diagram/loadfileformat/
 ---
 
@@ -20,6 +20,7 @@ Enumeration for loading diagram format selection.
 | --- | --- |
 | [HTML](#HTML) | Html. |
 | [MERMAID](#MERMAID) | Mermaid flowchat and Mermaid sequence diagram |
+| [SVG](#SVG) | Svg |
 | [VDW](#VDW) | MS Visio Vdw web drawing format. |
 | [VDX](#VDX) | MS Visio VDX xml format. |
 | [VSD](#VSD) | MS Visio Vsd binary format. |
@@ -61,6 +62,14 @@ public static final int MERMAID
 
 
 Mermaid flowchat and Mermaid sequence diagram
+
+### SVG {#SVG}
+```
+public static final int SVG
+```
+
+
+Svg
 
 ### VDW {#VDW}
 ```

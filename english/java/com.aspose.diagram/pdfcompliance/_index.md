@@ -3,7 +3,7 @@ title: PdfCompliance
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the PDF compliance level to output file.
 type: docs
-weight: 290
+weight: 293
 url: /java/com.aspose.diagram/pdfcompliance/
 ---
 

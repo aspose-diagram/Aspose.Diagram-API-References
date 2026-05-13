@@ -3,7 +3,7 @@ title: RuleSet
 second_title: Aspose.Diagram for Java API Reference
 description: Represents one set of diagram validation rules.
 type: docs
-weight: 359
+weight: 362
 url: /java/com.aspose.diagram/ruleset/
 ---
 

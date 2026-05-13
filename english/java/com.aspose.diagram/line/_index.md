@@ -46,7 +46,7 @@ Contains elements specifying general positioning information about a shape.
 | [setLineCap(BoolValue value)](#setLineCap-com.aspose.diagram.BoolValue-) | For the description of this property, please see [getLineCap()](../../com.aspose.diagram/line\#getLineCap--) |
 | [setLineColor(ColorValue value)](#setLineColor-com.aspose.diagram.ColorValue-) | For the description of this property, please see [getLineColor()](../../com.aspose.diagram/line\#getLineColor--) |
 | [setLineColorTrans(DoubleValue value)](#setLineColorTrans-com.aspose.diagram.DoubleValue-) | For the description of this property, please see [getLineColorTrans()](../../com.aspose.diagram/line\#getLineColorTrans--) |
-| [setLinePattern(IntValue value)](#setLinePattern-com.aspose.diagram.IntValue-) | For the description of this property, please see [getLinePattern()](../../com.aspose.diagram/line\#getLinePattern--) |
+| [setLinePattern(LinePattern value)](#setLinePattern-com.aspose.diagram.LinePattern-) | For the description of this property, please see [getLinePattern()](../../com.aspose.diagram/line\#getLinePattern--) |
 | [setLineWeight(DoubleValue value)](#setLineWeight-com.aspose.diagram.DoubleValue-) | For the description of this property, please see [getLineWeight()](../../com.aspose.diagram/line\#getLineWeight--) |
 | [setRounding(DoubleValue value)](#setRounding-com.aspose.diagram.DoubleValue-) | For the description of this property, please see [getRounding()](../../com.aspose.diagram/line\#getRounding--) |
 | [toString()](#toString--) |  |
@@ -190,14 +190,14 @@ Specifies the transparency level of a shape's line color, from 0 (opaque) to 1 (
 [DoubleValue](../../com.aspose.diagram/doublevalue)
 ### getLinePattern() {#getLinePattern--}
 ```
-public IntValue getLinePattern()
+public LinePattern getLinePattern()
 ```
 
 
 Specifies the line pattern of the shape
 
 **Returns:**
-[IntValue](../../com.aspose.diagram/intvalue)
+[LinePattern](../../com.aspose.diagram/linepattern)
 ### getLineWeight() {#getLineWeight--}
 ```
 public DoubleValue getLineWeight()
@@ -361,9 +361,9 @@ For the description of this property, please see [getLineColorTrans()](../../com
 | --- | --- | --- |
 | value | [DoubleValue](../../com.aspose.diagram/doublevalue) |  |
 
-### setLinePattern(IntValue value) {#setLinePattern-com.aspose.diagram.IntValue-}
+### setLinePattern(LinePattern value) {#setLinePattern-com.aspose.diagram.LinePattern-}
 ```
-public void setLinePattern(IntValue value)
+public void setLinePattern(LinePattern value)
 ```
 
 
@@ -372,7 +372,7 @@ For the description of this property, please see [getLinePattern()](../../com.as
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [IntValue](../../com.aspose.diagram/intvalue) |  |
+| value | [LinePattern](../../com.aspose.diagram/linepattern) |  |
 
 ### setLineWeight(DoubleValue value) {#setLineWeight-com.aspose.diagram.DoubleValue-}
 ```

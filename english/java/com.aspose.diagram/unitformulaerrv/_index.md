@@ -3,7 +3,7 @@ title: UnitFormulaErrV
 second_title: Aspose.Diagram for Java API Reference
 description: Specified attributes of an element.
 type: docs
-weight: 442
+weight: 445
 url: /java/com.aspose.diagram/unitformulaerrv/
 ---
 

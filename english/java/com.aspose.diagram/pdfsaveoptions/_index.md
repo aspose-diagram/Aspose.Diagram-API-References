@@ -3,7 +3,7 @@ title: PdfSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to PDF.
 type: docs
-weight: 296
+weight: 299
 url: /java/com.aspose.diagram/pdfsaveoptions/
 ---
 
@@ -25,6 +25,7 @@ Allows to specify additional options when rendering diagram pages to PDF.
 | --- | --- |
 | [createSaveOptions(int saveFormat)](#createSaveOptions-int-) | Creates a save options object of a class suitable for the specified save format. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBookmark()](#getBookmark--) | the [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) object. |
 | [getClass()](#getClass--) |  |
 | [getCompliance()](#getCompliance--) | Desired conformance level for generated PDF document. |
 | [getDefaultFont()](#getDefaultFont--) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. |
@@ -50,6 +51,7 @@ Allows to specify additional options when rendering diagram pages to PDF.
 | [isExportComments()](#isExportComments--) | Defines whether need exporting the comments or not. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setBookmark(PdfBookmarkEntry value)](#setBookmark-com.aspose.diagram.PdfBookmarkEntry-) | For the description of this property, please see [getBookmark()](../../com.aspose.diagram/pdfsaveoptions\#getBookmark--) |
 | [setCompliance(int value)](#setCompliance-int-) | For the description of this property, please see [getCompliance()](../../com.aspose.diagram/pdfsaveoptions\#getCompliance--) |
 | [setDefaultFont(String value)](#setDefaultFont-java.lang.String-) | For the description of this property, please see [getDefaultFont()](../../com.aspose.diagram/saveoptions\#getDefaultFont--) |
 | [setEmfRenderSetting(int value)](#setEmfRenderSetting-int-) | For the description of this property, please see [getEmfRenderSetting()](../../com.aspose.diagram/renderingsaveoptions\#getEmfRenderSetting--) |
@@ -113,6 +115,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBookmark() {#getBookmark--}
+```
+public PdfBookmarkEntry getBookmark()
+```
+
+
+the [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) object.
+
+**Returns:**
+[PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -358,6 +370,19 @@ public final native void notifyAll()
 
 
 
+
+### setBookmark(PdfBookmarkEntry value) {#setBookmark-com.aspose.diagram.PdfBookmarkEntry-}
+```
+public void setBookmark(PdfBookmarkEntry value)
+```
+
+
+For the description of this property, please see [getBookmark()](../../com.aspose.diagram/pdfsaveoptions\#getBookmark--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) |  |
 
 ### setCompliance(int value) {#setCompliance-int-}
 ```

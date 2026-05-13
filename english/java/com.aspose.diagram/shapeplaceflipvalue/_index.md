@@ -3,7 +3,7 @@ title: ShapePlaceFlipValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes Shapes menu.
 type: docs
-weight: 378
+weight: 381
 url: /java/com.aspose.diagram/shapeplaceflipvalue/
 ---
 

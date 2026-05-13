@@ -3,7 +3,7 @@ title: RenderingSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format.
 type: docs
-weight: 345
+weight: 348
 url: /java/com.aspose.diagram/renderingsaveoptions/
 ---
 
@@ -20,6 +20,7 @@ This is an abstract base class for classes that allow the user to specify additi
 | --- | --- |
 | [createSaveOptions(int saveFormat)](#createSaveOptions-int-) | Creates a save options object of a class suitable for the specified save format. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBookmark()](#getBookmark--) |  |
 | [getClass()](#getClass--) |  |
 | [getDefaultFont()](#getDefaultFont--) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. |
 | [getEmfRenderSetting()](#getEmfRenderSetting--) | Setting for rendering Emf metafile. |
@@ -33,6 +34,7 @@ This is an abstract base class for classes that allow the user to specify additi
 | [isExportComments()](#isExportComments--) | Defines whether need exporting the comments or not. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setBookmark(PdfBookmarkEntry value)](#setBookmark-com.aspose.diagram.PdfBookmarkEntry-) | For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--) |
 | [setDefaultFont(String value)](#setDefaultFont-java.lang.String-) | For the description of this property, please see [getDefaultFont()](../../com.aspose.diagram/saveoptions\#getDefaultFont--) |
 | [setEmfRenderSetting(int value)](#setEmfRenderSetting-int-) | For the description of this property, please see [getEmfRenderSetting()](../../com.aspose.diagram/renderingsaveoptions\#getEmfRenderSetting--) |
 | [setEnlargePage(boolean value)](#setEnlargePage-boolean-) | For the description of this property, please see [getEnlargePage()](../../com.aspose.diagram/renderingsaveoptions\#getEnlargePage--) |
@@ -76,6 +78,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBookmark() {#getBookmark--}
+```
+public PdfBookmarkEntry getBookmark()
+```
+
+
+
+
+**Returns:**
+[PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -201,6 +213,19 @@ public final native void notifyAll()
 
 
 
+
+### setBookmark(PdfBookmarkEntry value) {#setBookmark-com.aspose.diagram.PdfBookmarkEntry-}
+```
+public void setBookmark(PdfBookmarkEntry value)
+```
+
+
+For the description of this property, please see [getBookmark()](../../com.aspose.diagram/renderingsaveoptions\#getBookmark--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PdfBookmarkEntry](../../com.aspose.diagram/pdfbookmarkentry) |  |
 
 ### setDefaultFont(String value) {#setDefaultFont-java.lang.String-}
 ```

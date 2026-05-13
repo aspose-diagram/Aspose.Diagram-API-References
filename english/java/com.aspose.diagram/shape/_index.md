@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 373
+weight: 376
 url: /java/com.aspose.diagram/shape/
 ---
 

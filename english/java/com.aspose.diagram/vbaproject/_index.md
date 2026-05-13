@@ -3,7 +3,7 @@ title: VbaProject
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the VBA project.
 type: docs
-weight: 452
+weight: 455
 url: /java/com.aspose.diagram/vbaproject/
 ---
 
@@ -24,11 +24,14 @@ Represents the VBA project.
 | [getName()](#getName--) | the name of the VBA project. |
 | [getReferences()](#getReferences--) | Gets all references of VBA project. |
 | [hashCode()](#hashCode--) |  |
+| [isProtected()](#isProtected--) | Indicates whether this VBA project is protected. |
 | [isSigned()](#isSigned--) | Indicates whether VBAcode is signed or not. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [protect(boolean islockedForViewing, String password)](#protect-boolean-java.lang.String-) | Protects or unprotects this VBA project. |
 | [setName(String value)](#setName-java.lang.String-) | For the description of this property, please see [getName()](../../com.aspose.diagram/vbaproject\#getName--) |
 | [toString()](#toString--) |  |
+| [validatePassword(String password)](#validatePassword-java.lang.String-) | Validates protection password. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -97,6 +100,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isProtected() {#isProtected--}
+```
+public boolean isProtected()
+```
+
+
+Indicates whether this VBA project is protected.
+
+**Returns:**
+boolean
 ### isSigned() {#isSigned--}
 ```
 public boolean isSigned()
@@ -123,6 +136,20 @@ public final native void notifyAll()
 
 
 
+### protect(boolean islockedForViewing, String password) {#protect-boolean-java.lang.String-}
+```
+public void protect(boolean islockedForViewing, String password)
+```
+
+
+Protects or unprotects this VBA project. If islockedForViewing is true, the password could not be null.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| islockedForViewing | boolean | indicates whether locks project for viewing. |
+| password | java.lang.String | If the value is null, unprotects this VBA project, otherwise protect this VBA project. |
+
 ### setName(String value) {#setName-java.lang.String-}
 ```
 public void setName(String value)
@@ -146,6 +173,21 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### validatePassword(String password) {#validatePassword-java.lang.String-}
+```
+public boolean validatePassword(String password)
+```
+
+
+Validates protection password.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| password | java.lang.String | the password |
+
+**Returns:**
+boolean - Whether password is the protection password of this VBA project
 ### wait() {#wait--}
 ```
 public final void wait()

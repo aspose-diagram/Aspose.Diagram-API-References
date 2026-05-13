@@ -3,7 +3,7 @@ title: RuleValue
 second_title: Aspose.Diagram for Java API Reference
 description: Rule value.
 type: docs
-weight: 361
+weight: 364
 url: /java/com.aspose.diagram/rulevalue/
 ---
 
