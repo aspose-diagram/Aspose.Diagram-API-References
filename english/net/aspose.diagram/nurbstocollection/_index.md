@@ -10,27 +10,52 @@ url: /net/aspose.diagram/nurbstocollection/
 NURBSTo collection.
 
 ```csharp
-public class NURBSToCollection : Collection
+public class NURBSToCollection : Collection<NURBSTo>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/nurbstocollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(NURBSTo) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(NURBSTo, IComparer&lt;NURBSTo&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, NURBSTo, IComparer&lt;NURBSTo&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(NURBSTo) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(NURBSTo[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(NURBSTo[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, NURBSTo[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;NURBSTo&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;NURBSTo&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;NURBSTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;NURBSTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;NURBSTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;NURBSTo&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;NURBSTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;NURBSTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;NURBSTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;NURBSTo&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(NURBSTo) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(NURBSTo, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(NURBSTo, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(NURBSTo) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(NURBSTo, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(NURBSTo, int, int) |  |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [NURBSTo](../nurbsto/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

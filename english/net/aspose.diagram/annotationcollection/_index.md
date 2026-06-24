@@ -10,29 +10,54 @@ url: /net/aspose.diagram/annotationcollection/
 Annotation collection.
 
 ```csharp
-public class AnnotationCollection : Collection
+public class AnnotationCollection : Collection<Annotation>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/annotationcollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Add](../../aspose.diagram/annotationcollection/add/)(Annotation) | Add the Annotation object in the collection. |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(Annotation) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(Annotation, IComparer&lt;Annotation&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, Annotation, IComparer&lt;Annotation&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(Annotation) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(Annotation[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(Annotation[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, Annotation[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;Annotation&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;Annotation&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;Annotation&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;Annotation&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;Annotation&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;Annotation&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;Annotation&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;Annotation&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;Annotation&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;Annotation&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Annotation) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Annotation, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Annotation, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Annotation) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Annotation, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Annotation, int, int) |  |
 | [Remove](../../aspose.diagram/annotationcollection/remove/)(Annotation) | Remove the Annotation object from the collection. |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [Annotation](../annotation/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

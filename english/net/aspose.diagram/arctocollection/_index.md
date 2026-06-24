@@ -10,27 +10,52 @@ url: /net/aspose.diagram/arctocollection/
 ArcTo collection.
 
 ```csharp
-public class ArcToCollection : Collection
+public class ArcToCollection : Collection<ArcTo>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/arctocollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(ArcTo) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(ArcTo, IComparer&lt;ArcTo&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, ArcTo, IComparer&lt;ArcTo&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(ArcTo) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(ArcTo[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(ArcTo[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, ArcTo[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;ArcTo&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;ArcTo&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;ArcTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;ArcTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;ArcTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;ArcTo&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;ArcTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;ArcTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;ArcTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;ArcTo&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ArcTo) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ArcTo, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ArcTo, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ArcTo) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ArcTo, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ArcTo, int, int) |  |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [ArcTo](../arcto/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

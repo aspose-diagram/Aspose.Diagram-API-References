@@ -10,7 +10,7 @@ url: /net/aspose.diagram/coordinatecollection/
 Coordinate collection.
 
 ```csharp
-public class CoordinateCollection : Collection
+public class CoordinateCollection : Collection<Coordinate>
 ```
 
 ## Properties
@@ -18,11 +18,12 @@ public class CoordinateCollection : Collection
 | Name | Description |
 | --- | --- |
 | [ArcToCol](../../aspose.diagram/coordinatecollection/arctocol/) { get; } | Contains the x- and y-coordinates and bow of a circular arc represented respectively by the X, Y, and A elements. |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
 | [EllipseCol](../../aspose.diagram/coordinatecollection/ellipsecol/) { get; } | Contains elements specifying the x- and y-coordinates of the ellipse's center point and two points on the ellipse. |
 | [EllipticalArcToCol](../../aspose.diagram/coordinatecollection/ellipticalarctocol/) { get; } | Contains elements that specify information about an elliptical arc. |
 | [InfiniteLineCol](../../aspose.diagram/coordinatecollection/infinitelinecol/) { get; } | Contains elements specifying the x- and y-coordinates of two points on an infinite line. The X and Y elements specify the x- and y-coordinates of the first point, and the A and B elements specify the x- and y-coordinates of the second point. |
-| [Item](../../aspose.diagram/coordinatecollection/item/) { get; } | Gets the element at the specified index. |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 | [LineToCol](../../aspose.diagram/coordinatecollection/linetocol/) { get; } | Contains x- and y-coordinates of the ending vertex of a straight line segment. These coordinates are contained in the X and Y elements, respectively. |
 | [MoveToCol](../../aspose.diagram/coordinatecollection/movetocol/) { get; } | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
 | [NURBSToCol](../../aspose.diagram/coordinatecollection/nurbstocol/) { get; } | Contains the x- and y-coordinates, position of the second to last knot, position of the last weight, position of the first knot, position of the first weight, and the formula for a nonuniform rational B-spline (NURBS). This information is specified in the X, Y, A, B, C, D, and E elements, respectively. |
@@ -55,9 +56,31 @@ public class CoordinateCollection : Collection
 | [Add](../../aspose.diagram/coordinatecollection/add/#add_13)(RelQuadBezTo) | Add the RelQuadBezTo object in the collection. |
 | [Add](../../aspose.diagram/coordinatecollection/add/#add_14)(SplineKnot) | Add the SplineKnot object in the collection. |
 | [Add](../../aspose.diagram/coordinatecollection/add/#add_15)(SplineStart) | Add the SplineStart object in the collection. |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(Coordinate) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(Coordinate, IComparer&lt;Coordinate&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, Coordinate, IComparer&lt;Coordinate&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(Coordinate) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(Coordinate[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(Coordinate[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, Coordinate[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;Coordinate&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;Coordinate&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;Coordinate&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;Coordinate&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;Coordinate&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;Coordinate&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;Coordinate&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;Coordinate&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;Coordinate&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;Coordinate&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Coordinate) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Coordinate, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(Coordinate, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Coordinate) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Coordinate, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(Coordinate, int, int) |  |
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove)(ArcTo) | Remove the ArcTo object from the collection. |
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove_1)(Coordinate) | Remove the Coordinate object from the collection. |
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove_2)(Ellipse) | Remove the Ellipse object from the collection. |
@@ -74,10 +97,12 @@ public class CoordinateCollection : Collection
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove_13)(RelQuadBezTo) | Remove the RelQuadBezTo object from the collection. |
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove_14)(SplineKnot) | Remove the SplineKnot object from the collection. |
 | [Remove](../../aspose.diagram/coordinatecollection/remove/#remove_15)(SplineStart) | Remove the SplineStart object from the collection. |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [Coordinate](../coordinate/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

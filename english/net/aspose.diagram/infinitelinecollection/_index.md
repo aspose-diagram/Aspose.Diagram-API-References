@@ -10,27 +10,52 @@ url: /net/aspose.diagram/infinitelinecollection/
 InfiniteLine collection.
 
 ```csharp
-public class InfiniteLineCollection : Collection
+public class InfiniteLineCollection : Collection<InfiniteLine>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/infinitelinecollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(InfiniteLine) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(InfiniteLine, IComparer&lt;InfiniteLine&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, InfiniteLine, IComparer&lt;InfiniteLine&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(InfiniteLine) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(InfiniteLine[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(InfiniteLine[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, InfiniteLine[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;InfiniteLine&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;InfiniteLine&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;InfiniteLine&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;InfiniteLine&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;InfiniteLine&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(InfiniteLine) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(InfiniteLine, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(InfiniteLine, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(InfiniteLine) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(InfiniteLine, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(InfiniteLine, int, int) |  |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [InfiniteLine](../infiniteline/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

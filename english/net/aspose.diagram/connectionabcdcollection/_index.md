@@ -10,29 +10,54 @@ url: /net/aspose.diagram/connectionabcdcollection/
 ConnectionABCD collection.
 
 ```csharp
-public class ConnectionABCDCollection : Collection
+public class ConnectionABCDCollection : Collection<ConnectionABCD>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/connectionabcdcollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Add](../../aspose.diagram/connectionabcdcollection/add/)(ConnectionABCD) | Add the ConnectionABCD object in the collection. |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(ConnectionABCD) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(ConnectionABCD, IComparer&lt;ConnectionABCD&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, ConnectionABCD, IComparer&lt;ConnectionABCD&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(ConnectionABCD) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(ConnectionABCD[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(ConnectionABCD[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, ConnectionABCD[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;ConnectionABCD&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;ConnectionABCD&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ConnectionABCD) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ConnectionABCD, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(ConnectionABCD, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ConnectionABCD) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ConnectionABCD, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(ConnectionABCD, int, int) |  |
 | [Remove](../../aspose.diagram/connectionabcdcollection/remove/)(ConnectionABCD) | Remove the ConnectionABCD object from the collection. |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [ConnectionABCD](../connectionabcd/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

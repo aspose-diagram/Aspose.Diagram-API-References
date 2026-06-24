@@ -10,27 +10,52 @@ url: /net/aspose.diagram/movetocollection/
 MoveTo collection.
 
 ```csharp
-public class MoveToCollection : Collection
+public class MoveToCollection : Collection<MoveTo>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/movetocollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(MoveTo) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(MoveTo, IComparer&lt;MoveTo&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, MoveTo, IComparer&lt;MoveTo&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(MoveTo) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(MoveTo[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(MoveTo[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, MoveTo[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;MoveTo&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;MoveTo&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;MoveTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;MoveTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;MoveTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;MoveTo&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;MoveTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;MoveTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;MoveTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;MoveTo&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(MoveTo) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(MoveTo, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(MoveTo, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(MoveTo) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(MoveTo, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(MoveTo, int, int) |  |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [MoveTo](../moveto/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

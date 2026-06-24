@@ -53,15 +53,29 @@ public class Shape
 | [Image](../../aspose.diagram/shape/image/) { get; } | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
 | [InheritActs](../../aspose.diagram/shape/inheritacts/) { get; } | Contains the actions for the shape inherit by the master shape. |
 | [InheritChars](../../aspose.diagram/shape/inheritchars/) { get; } | Contains the char values for the shape inherit by the master shape. |
+| [InheritConnections](../../aspose.diagram/shape/inheritconnections/) { get; } | Contains the connections for the shape inherit by the master shape. |
+| [InheritControls](../../aspose.diagram/shape/inheritcontrols/) { get; } | Contains the controls for the shape inherit by the master shape. |
+| [InheritEvent](../../aspose.diagram/shape/inheritevent/) { get; } | Contains the Event for the shape inherit by the master shape. |
+| [InheritFields](../../aspose.diagram/shape/inheritfields/) { get; } | Contains the fields for the shape inherit by the master shape. |
 | [InheritFill](../../aspose.diagram/shape/inheritfill/) { get; } | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [InheritGeoms](../../aspose.diagram/shape/inheritgeoms/) { get; } | Contains the Geoms values for the shape inherit by the master shape. |
 | [InheritGroup](../../aspose.diagram/shape/inheritgroup/) { get; } |  |
+| [InheritHelp](../../aspose.diagram/shape/inherithelp/) { get; } | Contains the Help for the shape inherit by the master shape. |
+| [InheritHyperlinks](../../aspose.diagram/shape/inherithyperlinks/) { get; } | Contains the Hyperlinks for the shape inherit by the master shape. |
+| [InheritLayerMem](../../aspose.diagram/shape/inheritlayermem/) { get; } | Contains the LayerMem for the shape inherit by the master shape. |
+| [InheritLayout](../../aspose.diagram/shape/inheritlayout/) { get; } | Contains the Layout for the shape inherit by the master shape. |
 | [InheritLine](../../aspose.diagram/shape/inheritline/) { get; } | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
+| [InheritMisc](../../aspose.diagram/shape/inheritmisc/) { get; } | Contains the Misc for the shape inherit by the master shape. |
 | [InheritParas](../../aspose.diagram/shape/inheritparas/) { get; } | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [InheritProps](../../aspose.diagram/shape/inheritprops/) { get; } | Contains the props for the shape inherit by the master shape. |
+| [InheritProtection](../../aspose.diagram/shape/inheritprotection/) { get; } | Contains the Protection for the shape inherit by the master shape. |
+| [InheritScratchs](../../aspose.diagram/shape/inheritscratchs/) { get; } | Contains the scratchs for the shape inherit by the master shape. |
+| [InheritTabs](../../aspose.diagram/shape/inherittabs/) { get; } | Contains the tabs for the shape inherit by the parent style and the master shape. |
 | [InheritTextBlock](../../aspose.diagram/shape/inherittextblock/) { get; } | Contains the textblock values for the shape inherit by the parent style and the master shape. |
+| [InheritTextXForm](../../aspose.diagram/shape/inherittextxform/) { get; } | Contains the textxform values for the shape inherit by the parent style and the master shape. |
 | [InheritUsers](../../aspose.diagram/shape/inheritusers/) { get; } | Contains the users for the shape inherit by the master shape. |
 | [InheritXForm](../../aspose.diagram/shape/inheritxform/) { get; } |  |
+| [InheritXForm1D](../../aspose.diagram/shape/inheritxform1d/) { get; } |  |
 | [LayerMem](../../aspose.diagram/shape/layermem/) { get; } | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [Layout](../../aspose.diagram/shape/layout/) { get; } | Contains elements that control shape placement and connector routing settings. |
 | [Line](../../aspose.diagram/shape/line/) { get; } | Contains elements that control line attributes for a shape, such as pattern, weight, and color. These elements determine whether the line ends are formatted (for example, with an arrowhead), the size of line end formats, radius of the rounding circle applied to the line, and line cap style (round or square). |

@@ -35,7 +35,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [Case](./case/) | Determines the case of a shape's text. |
 | [Char](./char/) | Contains the formatting attributes for the shape's text, such as font, color, text style, case, position relative to the baseline, and point size. |
 | [CharCollection](./charcollection/) | Char collection. |
-| [Collection](./collection/) | It is base class for collections. |
+| [Collection&lt;T&gt;](./collection-1/) | Provides the abstract base class for a strongly typed collection. |
 | [ColorEntry](./colorentry/) | Contains a color table entry. Each color table entry specifies a standard color that is available for application to objects such as shapes, text, and layers in the document. |
 | [ColorEntryCollection](./colorentrycollection/) | Contains the document's color table. Each document contains a single color table, which lists the 24 standard colors that are available for application to objects such as shapes, text, and layers in the document. |
 | [ColorValue](./colorvalue/) | Represents color value |

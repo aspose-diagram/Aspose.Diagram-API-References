@@ -10,27 +10,52 @@ url: /net/aspose.diagram/polylinetocollection/
 PolylineTo collection.
 
 ```csharp
-public class PolylineToCollection : Collection
+public class PolylineToCollection : Collection<PolylineTo>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/polylinetocollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(PolylineTo) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(PolylineTo, IComparer&lt;PolylineTo&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, PolylineTo, IComparer&lt;PolylineTo&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(PolylineTo) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(PolylineTo[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(PolylineTo[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, PolylineTo[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;PolylineTo&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;PolylineTo&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;PolylineTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;PolylineTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;PolylineTo&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;PolylineTo&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;PolylineTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;PolylineTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;PolylineTo&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;PolylineTo&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(PolylineTo) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(PolylineTo, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(PolylineTo, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(PolylineTo) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(PolylineTo, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(PolylineTo, int, int) |  |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [PolylineTo](../polylineto/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

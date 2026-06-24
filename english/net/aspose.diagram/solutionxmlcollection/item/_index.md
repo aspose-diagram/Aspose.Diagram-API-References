@@ -1,32 +1,11 @@
 ---
 title: SolutionXMLCollection.Item
 second_title: Aspose.Diagram for .NET API Reference
-description: SolutionXMLCollection property. Gets the element at the specified index
+description: SolutionXMLCollection property. Gets the element at the specified attribute Name. Returns null if an element is not exist
 type: docs
 url: /net/aspose.diagram/solutionxmlcollection/item/
 ---
-## SolutionXMLCollection indexer (1 of 2)
-
-Gets the element at the specified index.
-
-```csharp
-public SolutionXML this[int index] { get; }
-```
-
-| Parameter | Description |
-| --- | --- |
-| index |  |
-
-### See Also
-
-* class [SolutionXML](../../solutionxml/)
-* class [SolutionXMLCollection](../)
-* namespace [Aspose.Diagram](../../solutionxmlcollection/)
-* assembly [Aspose.Diagram](../../../)
-
----
-
-## SolutionXMLCollection indexer (2 of 2)
+## SolutionXMLCollection indexer
 
 Gets the element at the specified attribute Name. Returns null if an element is not exist.
 

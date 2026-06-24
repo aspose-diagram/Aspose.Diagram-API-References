@@ -10,7 +10,7 @@ url: /net/aspose.diagram/floatpointnumcollection/
 Contains a collection of doubling point numbers
 
 ```csharp
-public class FloatPointNumCollection : Collection
+public class FloatPointNumCollection : Collection<double>
 ```
 
 ## Constructors
@@ -23,22 +23,46 @@ public class FloatPointNumCollection : Collection
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count/) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/floatpointnumcollection/item/) { get; } | Gets the element at the specified index. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Add](../../aspose.diagram/floatpointnumcollection/add/)(double) | Add the doubling point number in the collection. |
-| [Clear](../../aspose.diagram/collection/clear/)() | Removes all elements from collection. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator/)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist/)(int) | Is exist item in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(double) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(double, IComparer&lt;double&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, double, IComparer&lt;double&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(double) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(double[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(double[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, double[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;double&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;double&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;double&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;double&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;double&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;double&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;double&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;double&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;double&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;double&gt;) |  |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(double) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(double, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(double, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(double) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(double, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(double, int, int) |  |
 | [Remove](../../aspose.diagram/floatpointnumcollection/remove/)(double) | Remove the doubling point number from the collection. |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection/)
+* class [Collection&lt;T&gt;](../collection-1/)
 * namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 

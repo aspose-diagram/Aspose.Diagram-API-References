@@ -36,7 +36,7 @@ public Shape GetShapeIncludingChild(int id)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | Int32 |  |
+| id | Int32 |  |
 
 ### See Also
 
