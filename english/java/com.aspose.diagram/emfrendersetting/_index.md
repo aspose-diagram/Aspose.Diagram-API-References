@@ -3,7 +3,7 @@ title: EmfRenderSetting
 second_title: Aspose.Diagram for Java API Reference
 description: Setting for rendering Emf metafile.
 type: docs
-weight: 150
+weight: 152
 url: /java/com.aspose.diagram/emfrendersetting/
 ---
 

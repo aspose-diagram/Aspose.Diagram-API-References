@@ -3,7 +3,7 @@ title: HTMLSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to HTML.
 type: docs
-weight: 195
+weight: 197
 url: /java/com.aspose.diagram/htmlsaveoptions/
 ---
 

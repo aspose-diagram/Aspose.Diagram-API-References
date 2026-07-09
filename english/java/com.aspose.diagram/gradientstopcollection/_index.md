@@ -3,14 +3,14 @@ title: GradientStopCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the gradient stop collection.
 type: docs
-weight: 190
+weight: 192
 url: /java/com.aspose.diagram/gradientstopcollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class GradientStopCollection extends Collection
+public class GradientStopCollection extends Collection<GradientStop>
 ```
 
 Represents the gradient stop collection.
@@ -18,22 +18,42 @@ Represents the gradient stop collection.
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(DoubleValue position, ColorValue color)](#add-com.aspose.diagram.DoubleValue-com.aspose.diagram.ColorValue-) | Add a gradient stop. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [get(int index)](#get-int-) | Gets the gradient stop by the index. |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
+| [getInnerList()](#getInnerList--) |  |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [set(int index, GradientStop value)](#set-int-com.aspose.diagram.GradientStop-) |  |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(DoubleValue position, ColorValue color) {#add-com.aspose.diagram.DoubleValue-com.aspose.diagram.ColorValue-}
 ```
 public void add(DoubleValue position, ColorValue color)
@@ -54,8 +74,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -102,10 +137,20 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -116,31 +161,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -156,6 +216,19 @@ public final native void notifyAll()
 
 
 
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### set(int index, GradientStop value) {#set-int-com.aspose.diagram.GradientStop-}
 ```

@@ -8,9 +8,9 @@ url: /java/com.aspose.diagram/coordinatecollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class CoordinateCollection extends Collection
+public class CoordinateCollection extends Collection<Coordinate>
 ```
 
 Coordinate collection.
@@ -18,6 +18,7 @@ Coordinate collection.
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(ArcTo item)](#add-com.aspose.diagram.ArcTo-) | Add the ArcTo object in the collection. |
 | [add(Coordinate item)](#add-com.aspose.diagram.Coordinate-) | Add the Coordinate object in the collection. |
 | [add(Ellipse item)](#add-com.aspose.diagram.Ellipse-) | Add the Ellipse object in the collection. |
@@ -34,15 +35,17 @@ Coordinate collection.
 | [add(RelQuadBezTo item)](#add-com.aspose.diagram.RelQuadBezTo-) | Add the RelQuadBezTo object in the collection. |
 | [add(SplineKnot item)](#add-com.aspose.diagram.SplineKnot-) | Add the SplineKnot object in the collection. |
 | [add(SplineStart item)](#add-com.aspose.diagram.SplineStart-) | Add the SplineStart object in the collection. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getArcToCol()](#getArcToCol--) | Contains the x- and y-coordinates and bow of a circular arc represented respectively by the X, Y, and A elements. |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
 | [getEllipseCol()](#getEllipseCol--) | Contains elements specifying the x- and y-coordinates of the ellipse's center point and two points on the ellipse. |
 | [getEllipticalArcToCol()](#getEllipticalArcToCol--) | Contains elements that specify information about an elliptical arc. |
 | [getInfiniteLineCol()](#getInfiniteLineCol--) | Contains elements specifying the x- and y-coordinates of two points on an infinite line. |
+| [getInnerList()](#getInnerList--) |  |
 | [getLineToCol()](#getLineToCol--) | Contains x- and y-coordinates of the ending vertex of a straight line segment. |
 | [getMoveToCol()](#getMoveToCol--) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
 | [getNURBSToCol()](#getNURBSToCol--) | Contains the x- and y-coordinates, position of the second to last knot, position of the last weight, position of the first knot, position of the first weight, and the formula for a nonuniform rational B-spline (NURBS). |
@@ -55,8 +58,9 @@ Coordinate collection.
 | [getSplineKnotCol()](#getSplineKnotCol--) | Contains x- and y-coordinates for a spline's control point and a spline's knot, represented by the X, Y, and A elements, respectively. |
 | [getSplineStartCol()](#getSplineStartCol--) | Contains x- and y-coordinates for a spline's second control point, its second knot, its first knot, the last knot, and the degree of the spline. |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(ArcTo item)](#remove-com.aspose.diagram.ArcTo-) | Remove the ArcTo object from the collection. |
@@ -75,10 +79,26 @@ Coordinate collection.
 | [remove(RelQuadBezTo item)](#remove-com.aspose.diagram.RelQuadBezTo-) | Remove the RelQuadBezTo object from the collection. |
 | [remove(SplineKnot item)](#remove-com.aspose.diagram.SplineKnot-) | Remove the SplineKnot object from the collection. |
 | [remove(SplineStart item)](#remove-com.aspose.diagram.SplineStart-) | Remove the SplineStart object from the collection. |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(ArcTo item) {#add-com.aspose.diagram.ArcTo-}
 ```
 public int add(ArcTo item)
@@ -325,8 +345,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -344,11 +379,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public Coordinate get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -356,7 +391,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[Coordinate](../../com.aspose.diagram/coordinate) - 
+T
 ### getArcToCol() {#getArcToCol--}
 ```
 public ArcToCollection getArcToCol()
@@ -383,7 +418,7 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
@@ -417,6 +452,16 @@ Contains elements specifying the x- and y-coordinates of two points on an infini
 
 **Returns:**
 [InfiniteLineCollection](../../com.aspose.diagram/infinitelinecollection)
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### getLineToCol() {#getLineToCol--}
 ```
 public LineToCollection getLineToCol()
@@ -537,31 +582,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -785,6 +845,19 @@ Remove the SplineStart object from the collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | [SplineStart](../../com.aspose.diagram/splinestart) |  |
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### toString() {#toString--}
 ```

@@ -3,7 +3,7 @@ title: GlueSettingsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the objects that shapes glue to when glue is enabled in the document.
 type: docs
-weight: 181
+weight: 183
 url: /java/com.aspose.diagram/gluesettingsvalue/
 ---
 

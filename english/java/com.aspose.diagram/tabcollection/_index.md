@@ -3,14 +3,14 @@ title: TabCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains a collection of Tab elements
 type: docs
-weight: 418
+weight: 420
 url: /java/com.aspose.diagram/tabcollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class TabCollection extends Collection
+public class TabCollection extends Collection<Tab>
 ```
 
 Contains a collection of Tab elements
@@ -18,26 +18,46 @@ Contains a collection of Tab elements
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(Tab item)](#add-com.aspose.diagram.Tab-) | Add the Tab object in the collection. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
 | [getDel()](#getDel--) | A flag indicating whether the element has been deleted locally. |
 | [getIX()](#getIX--) | The zero-based index of the element within its parent element. |
+| [getInnerList()](#getInnerList--) |  |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(Tab item)](#remove-com.aspose.diagram.Tab-) | Remove the Tab object from the collection. |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [setDel(int value)](#setDel-int-) | For the description of this property, please see [getDel()](../../com.aspose.diagram/tabcollection\#getDel--) |
 | [setIX(int value)](#setIX-int-) | For the description of this property, please see [getIX()](../../com.aspose.diagram/tabcollection\#getIX--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(Tab item) {#add-com.aspose.diagram.Tab-}
 ```
 public int add(Tab item)
@@ -59,8 +79,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -78,11 +113,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public Tab get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -90,7 +125,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[Tab](../../com.aspose.diagram/tab) - 
+T
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -107,7 +142,7 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
@@ -131,6 +166,16 @@ The zero-based index of the element within its parent element.
 
 **Returns:**
 int
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -141,31 +186,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -194,6 +254,19 @@ Remove the Tab object from the collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | [Tab](../../com.aspose.diagram/tab) |  |
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### setDel(int value) {#setDel-int-}
 ```

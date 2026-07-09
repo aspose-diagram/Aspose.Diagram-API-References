@@ -3,7 +3,7 @@ title: Issue
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a single validation issue in the document.
 type: docs
-weight: 216
+weight: 218
 url: /java/com.aspose.diagram/issue/
 ---
 

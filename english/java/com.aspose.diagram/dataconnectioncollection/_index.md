@@ -8,9 +8,9 @@ url: /java/com.aspose.diagram/dataconnectioncollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class DataConnectionCollection extends Collection
+public class DataConnectionCollection extends Collection<DataConnection>
 ```
 
 DataConnection collection.
@@ -18,25 +18,45 @@ DataConnection collection.
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(DataConnection dataConnection)](#add-com.aspose.diagram.DataConnection-) | Add the dataConnection in the collection. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
 | [getDataConnection(long ID)](#getDataConnection-long-) | Gets the element at the specified ID. |
+| [getInnerList()](#getInnerList--) |  |
 | [getNextID()](#getNextID--) | The next available ID for new connections. |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(DataConnection dataConnection)](#remove-com.aspose.diagram.DataConnection-) | Remove the dataConnection from the collection. |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [setNextID(long value)](#setNextID-long-) | For the description of this property, please see \{@link DataConnectionCollection\#(getNextID() & 0xFFFFFFFFL)\} |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(DataConnection dataConnection) {#add-com.aspose.diagram.DataConnection-}
 ```
 public int add(DataConnection dataConnection)
@@ -58,8 +78,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -77,11 +112,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public DataConnection get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -89,7 +124,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[DataConnection](../../com.aspose.diagram/dataconnection) - 
+T
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -106,7 +141,7 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
@@ -125,6 +160,16 @@ Gets the element at the specified ID.
 
 **Returns:**
 [DataConnection](../../com.aspose.diagram/dataconnection) - DataConnection [DataConnection](../../com.aspose.diagram/dataconnection).
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### getNextID() {#getNextID--}
 ```
 public long getNextID()
@@ -145,31 +190,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -198,6 +258,19 @@ Remove the dataConnection from the collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | dataConnection | [DataConnection](../../com.aspose.diagram/dataconnection) |  |
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### setNextID(long value) {#setNextID-long-}
 ```

@@ -3,7 +3,7 @@ title: DocumentSheet
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies a documents ShapeSheet structure.
 type: docs
-weight: 135
+weight: 137
 url: /java/com.aspose.diagram/documentsheet/
 ---
 

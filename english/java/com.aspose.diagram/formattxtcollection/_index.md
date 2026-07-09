@@ -3,14 +3,14 @@ title: FormatTxtCollection
 second_title: Aspose.Diagram for Java API Reference
 description: FormatTxt collection which contains the text of a shape.
 type: docs
-weight: 175
+weight: 177
 url: /java/com.aspose.diagram/formattxtcollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class FormatTxtCollection extends Collection
+public class FormatTxtCollection extends Collection<FormatTxt>
 ```
 
 FormatTxt collection which contains the text of a shape.
@@ -18,24 +18,44 @@ FormatTxt collection which contains the text of a shape.
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(FormatTxt item)](#add-com.aspose.diagram.FormatTxt-) | Add the FormatTxt object in the collection. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
+| [getInnerList()](#getInnerList--) |  |
 | [getText()](#getText--) | Contains the text of a shape with formating. |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(FormatTxt item)](#remove-com.aspose.diagram.FormatTxt-) | Remove the FormatTxt object from the collection. |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [setWholeText(String text)](#setWholeText-java.lang.String-) | Set the text of a shape without formating. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(FormatTxt item) {#add-com.aspose.diagram.FormatTxt-}
 ```
 public int add(FormatTxt item)
@@ -57,8 +77,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -76,11 +111,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public FormatTxt get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -88,7 +123,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[FormatTxt](../../com.aspose.diagram/formattxt) - 
+T
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -105,10 +140,20 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### getText() {#getText--}
 ```
 public String getText()
@@ -129,31 +174,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -182,6 +242,19 @@ Remove the FormatTxt object from the collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | [FormatTxt](../../com.aspose.diagram/formattxt) |  |
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### setWholeText(String text) {#setWholeText-java.lang.String-}
 ```

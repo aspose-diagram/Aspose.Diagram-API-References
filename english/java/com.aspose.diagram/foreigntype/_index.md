@@ -3,7 +3,7 @@ title: ForeignType
 second_title: Aspose.Diagram for Java API Reference
 description: Data type.
 type: docs
-weight: 173
+weight: 175
 url: /java/com.aspose.diagram/foreigntype/
 ---
 

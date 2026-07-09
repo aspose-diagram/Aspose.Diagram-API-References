@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 376
+weight: 378
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -64,15 +64,29 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getImage()](#getImage--) | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
 | [getInheritActs()](#getInheritActs--) | Contains the actions for the shape inherit by the master shape. |
 | [getInheritChars()](#getInheritChars--) | Contains the char values for the shape inherit by the master shape. |
+| [getInheritConnections()](#getInheritConnections--) | Contains the connections for the shape inherit by the master shape. |
+| [getInheritControls()](#getInheritControls--) | Contains the controls for the shape inherit by the master shape. |
+| [getInheritEvent()](#getInheritEvent--) | Contains the Event for the shape inherit by the master shape. |
+| [getInheritFields()](#getInheritFields--) | Contains the fields for the shape inherit by the master shape. |
 | [getInheritFill()](#getInheritFill--) | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [getInheritGeoms()](#getInheritGeoms--) | Contains the Geoms values for the shape inherit by the master shape. |
 | [getInheritGroup()](#getInheritGroup--) |  |
+| [getInheritHelp()](#getInheritHelp--) | Contains the Help for the shape inherit by the master shape. |
+| [getInheritHyperlinks()](#getInheritHyperlinks--) | Contains the Hyperlinks for the shape inherit by the master shape. |
+| [getInheritLayerMem()](#getInheritLayerMem--) | Contains the LayerMem for the shape inherit by the master shape. |
+| [getInheritLayout()](#getInheritLayout--) | Contains the Layout for the shape inherit by the master shape. |
 | [getInheritLine()](#getInheritLine--) | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
+| [getInheritMisc()](#getInheritMisc--) | Contains the Misc for the shape inherit by the master shape. |
 | [getInheritParas()](#getInheritParas--) | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [getInheritProps()](#getInheritProps--) | Contains the props for the shape inherit by the master shape. |
+| [getInheritProtection()](#getInheritProtection--) | Contains the Protection for the shape inherit by the master shape. |
+| [getInheritScratchs()](#getInheritScratchs--) | Contains the scratchs for the shape inherit by the master shape. |
+| [getInheritTabs()](#getInheritTabs--) | Contains the tabs for the shape inherit by the parent style and the master shape. |
 | [getInheritTextBlock()](#getInheritTextBlock--) | Contains the textblock values for the shape inherit by the parent style and the master shape. |
+| [getInheritTextXForm()](#getInheritTextXForm--) | Contains the textxform values for the shape inherit by the parent style and the master shape. |
 | [getInheritUsers()](#getInheritUsers--) | Contains the users for the shape inherit by the master shape. |
 | [getInheritXForm()](#getInheritXForm--) |  |
+| [getInheritXForm1D()](#getInheritXForm1D--) |  |
 | [getLayerMem()](#getLayerMem--) | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [getLayout()](#getLayout--) | Contains elements that control shape placement and connector routing settings. |
 | [getLine()](#getLine--) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. |
@@ -598,6 +612,46 @@ Contains the char values for the shape inherit by the master shape.
 
 **Returns:**
 [CharCollection](../../com.aspose.diagram/charcollection)
+### getInheritConnections() {#getInheritConnections--}
+```
+public ConnectionCollection getInheritConnections()
+```
+
+
+Contains the connections for the shape inherit by the master shape.
+
+**Returns:**
+[ConnectionCollection](../../com.aspose.diagram/connectioncollection)
+### getInheritControls() {#getInheritControls--}
+```
+public ControlCollection getInheritControls()
+```
+
+
+Contains the controls for the shape inherit by the master shape.
+
+**Returns:**
+[ControlCollection](../../com.aspose.diagram/controlcollection)
+### getInheritEvent() {#getInheritEvent--}
+```
+public Event getInheritEvent()
+```
+
+
+Contains the Event for the shape inherit by the master shape.
+
+**Returns:**
+[Event](../../com.aspose.diagram/event)
+### getInheritFields() {#getInheritFields--}
+```
+public FieldCollection getInheritFields()
+```
+
+
+Contains the fields for the shape inherit by the master shape.
+
+**Returns:**
+[FieldCollection](../../com.aspose.diagram/fieldcollection)
 ### getInheritFill() {#getInheritFill--}
 ```
 public Fill getInheritFill()
@@ -628,6 +682,46 @@ public Group getInheritGroup()
 
 **Returns:**
 [Group](../../com.aspose.diagram/group)
+### getInheritHelp() {#getInheritHelp--}
+```
+public Help getInheritHelp()
+```
+
+
+Contains the Help for the shape inherit by the master shape.
+
+**Returns:**
+[Help](../../com.aspose.diagram/help)
+### getInheritHyperlinks() {#getInheritHyperlinks--}
+```
+public HyperlinkCollection getInheritHyperlinks()
+```
+
+
+Contains the Hyperlinks for the shape inherit by the master shape.
+
+**Returns:**
+[HyperlinkCollection](../../com.aspose.diagram/hyperlinkcollection)
+### getInheritLayerMem() {#getInheritLayerMem--}
+```
+public LayerMem getInheritLayerMem()
+```
+
+
+Contains the LayerMem for the shape inherit by the master shape.
+
+**Returns:**
+[LayerMem](../../com.aspose.diagram/layermem)
+### getInheritLayout() {#getInheritLayout--}
+```
+public Layout getInheritLayout()
+```
+
+
+Contains the Layout for the shape inherit by the master shape.
+
+**Returns:**
+[Layout](../../com.aspose.diagram/layout)
 ### getInheritLine() {#getInheritLine--}
 ```
 public Line getInheritLine()
@@ -638,6 +732,16 @@ Contains the line formatting values for the shape inherit by the parent style an
 
 **Returns:**
 [Line](../../com.aspose.diagram/line)
+### getInheritMisc() {#getInheritMisc--}
+```
+public Misc getInheritMisc()
+```
+
+
+Contains the Misc for the shape inherit by the master shape.
+
+**Returns:**
+[Misc](../../com.aspose.diagram/misc)
 ### getInheritParas() {#getInheritParas--}
 ```
 public ParaCollection getInheritParas()
@@ -658,6 +762,36 @@ Contains the props for the shape inherit by the master shape.
 
 **Returns:**
 [PropCollection](../../com.aspose.diagram/propcollection)
+### getInheritProtection() {#getInheritProtection--}
+```
+public Protection getInheritProtection()
+```
+
+
+Contains the Protection for the shape inherit by the master shape.
+
+**Returns:**
+[Protection](../../com.aspose.diagram/protection)
+### getInheritScratchs() {#getInheritScratchs--}
+```
+public ScratchCollection getInheritScratchs()
+```
+
+
+Contains the scratchs for the shape inherit by the master shape.
+
+**Returns:**
+[ScratchCollection](../../com.aspose.diagram/scratchcollection)
+### getInheritTabs() {#getInheritTabs--}
+```
+public TabsCollection getInheritTabs()
+```
+
+
+Contains the tabs for the shape inherit by the parent style and the master shape.
+
+**Returns:**
+[TabsCollection](../../com.aspose.diagram/tabscollection)
 ### getInheritTextBlock() {#getInheritTextBlock--}
 ```
 public TextBlock getInheritTextBlock()
@@ -668,6 +802,16 @@ Contains the textblock values for the shape inherit by the parent style and the 
 
 **Returns:**
 [TextBlock](../../com.aspose.diagram/textblock)
+### getInheritTextXForm() {#getInheritTextXForm--}
+```
+public TextXForm getInheritTextXForm()
+```
+
+
+Contains the textxform values for the shape inherit by the parent style and the master shape.
+
+**Returns:**
+[TextXForm](../../com.aspose.diagram/textxform)
 ### getInheritUsers() {#getInheritUsers--}
 ```
 public UserCollection getInheritUsers()
@@ -688,6 +832,16 @@ public XForm getInheritXForm()
 
 **Returns:**
 [XForm](../../com.aspose.diagram/xform)
+### getInheritXForm1D() {#getInheritXForm1D--}
+```
+public XForm1D getInheritXForm1D()
+```
+
+
+
+
+**Returns:**
+[XForm1D](../../com.aspose.diagram/xform1d)
 ### getLayerMem() {#getLayerMem--}
 ```
 public LayerMem getLayerMem()

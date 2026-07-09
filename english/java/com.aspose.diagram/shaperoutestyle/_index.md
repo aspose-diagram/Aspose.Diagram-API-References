@@ -3,7 +3,7 @@ title: ShapeRouteStyle
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the routing style and direction for a connector on the drawing page.
 type: docs
-weight: 386
+weight: 388
 url: /java/com.aspose.diagram/shaperoutestyle/
 ---
 

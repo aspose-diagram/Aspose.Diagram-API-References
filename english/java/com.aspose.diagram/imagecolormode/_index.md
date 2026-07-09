@@ -3,7 +3,7 @@ title: ImageColorMode
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the color mode for the generated images of document pages.
 type: docs
-weight: 206
+weight: 208
 url: /java/com.aspose.diagram/imagecolormode/
 ---
 

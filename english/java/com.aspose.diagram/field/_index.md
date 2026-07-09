@@ -3,7 +3,7 @@ title: Field
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that specify functions and formulas inserted in the shapes text.
 type: docs
-weight: 155
+weight: 157
 url: /java/com.aspose.diagram/field/
 ---
 

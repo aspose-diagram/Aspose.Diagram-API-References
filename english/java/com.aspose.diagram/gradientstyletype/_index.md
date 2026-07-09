@@ -3,7 +3,7 @@ title: GradientStyleType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents gradient shading style.
 type: docs
-weight: 191
+weight: 193
 url: /java/com.aspose.diagram/gradientstyletype/
 ---
 

@@ -3,7 +3,7 @@ title: PinPosValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the pin position for the shape.
 type: docs
-weight: 301
+weight: 303
 url: /java/com.aspose.diagram/pinposvalue/
 ---
 

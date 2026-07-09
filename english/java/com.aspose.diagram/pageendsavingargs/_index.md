@@ -3,7 +3,7 @@ title: PageEndSavingArgs
 second_title: Aspose.Diagram for Java API Reference
 description: Info for a page ends saving process.
 type: docs
-weight: 278
+weight: 280
 url: /java/com.aspose.diagram/pageendsavingargs/
 ---
 

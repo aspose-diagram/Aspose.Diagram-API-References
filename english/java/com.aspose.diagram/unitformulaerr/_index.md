@@ -3,7 +3,7 @@ title: UnitFormulaErr
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies attributes of an element.
 type: docs
-weight: 444
+weight: 446
 url: /java/com.aspose.diagram/unitformulaerr/
 ---
 

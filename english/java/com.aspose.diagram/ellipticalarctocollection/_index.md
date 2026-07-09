@@ -3,14 +3,14 @@ title: EllipticalArcToCollection
 second_title: Aspose.Diagram for Java API Reference
 description: EllipticalArcTo  collection.
 type: docs
-weight: 149
+weight: 151
 url: /java/com.aspose.diagram/ellipticalarctocollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class EllipticalArcToCollection extends Collection
+public class EllipticalArcToCollection extends Collection<EllipticalArcTo>
 ```
 
 EllipticalArcTo collection.
@@ -18,28 +18,63 @@ EllipticalArcTo collection.
 
 | Method | Description |
 | --- | --- |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [add(T o)](#add-T-) |  |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getClass()](#getClass--) |  |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
+| [getInnerList()](#getInnerList--) |  |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### clear() {#clear--}
 ```
 public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -57,11 +92,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public EllipticalArcTo get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -69,7 +104,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[EllipticalArcTo](../../com.aspose.diagram/ellipticalarcto) - 
+T
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -86,10 +121,20 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -100,31 +145,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -140,6 +200,19 @@ public final native void notifyAll()
 
 
 
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### toString() {#toString--}
 ```

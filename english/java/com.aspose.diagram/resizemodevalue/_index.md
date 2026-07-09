@@ -3,7 +3,7 @@ title: ResizeModeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the current resize behavior setting for the shape when contained in a group.
 type: docs
-weight: 350
+weight: 352
 url: /java/com.aspose.diagram/resizemodevalue/
 ---
 

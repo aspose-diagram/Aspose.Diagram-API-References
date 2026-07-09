@@ -3,7 +3,7 @@ title: VbaProject
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the VBA project.
 type: docs
-weight: 455
+weight: 457
 url: /java/com.aspose.diagram/vbaproject/
 ---
 
@@ -30,6 +30,7 @@ Represents the VBA project.
 | [notifyAll()](#notifyAll--) |  |
 | [protect(boolean islockedForViewing, String password)](#protect-boolean-java.lang.String-) | Protects or unprotects this VBA project. |
 | [setName(String value)](#setName-java.lang.String-) | For the description of this property, please see [getName()](../../com.aspose.diagram/vbaproject\#getName--) |
+| [sign(DigitalSignature digitalSignature)](#sign-com.aspose.diagram.DigitalSignature-) | Sign this VBA project by a DigitalSignature |
 | [toString()](#toString--) |  |
 | [validatePassword(String password)](#validatePassword-java.lang.String-) | Validates protection password. |
 | [wait()](#wait--) |  |
@@ -162,6 +163,19 @@ For the description of this property, please see [getName()](../../com.aspose.di
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String |  |
+
+### sign(DigitalSignature digitalSignature) {#sign-com.aspose.diagram.DigitalSignature-}
+```
+public void sign(DigitalSignature digitalSignature)
+```
+
+
+Sign this VBA project by a DigitalSignature
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| digitalSignature | [DigitalSignature](../../com.aspose.diagram/digitalsignature) | DigitalSignature |
 
 ### toString() {#toString--}
 ```

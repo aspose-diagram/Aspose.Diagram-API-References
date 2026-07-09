@@ -3,7 +3,7 @@ title: SolutionXML
 second_title: Aspose.Diagram for Java API Reference
 description: Contains solution-specific well-formed XML data that is prefixed in an explicit namespace and is stored with a document.
 type: docs
-weight: 402
+weight: 404
 url: /java/com.aspose.diagram/solutionxml/
 ---
 

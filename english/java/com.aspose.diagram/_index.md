@@ -53,7 +53,7 @@ url: /java/com.aspose.diagram/
 | [CharCollection](../com.aspose.diagram/charcollection) | Char collection. |
 | [CheckBoxActiveXControl](../com.aspose.diagram/checkboxactivexcontrol) | Represents a CheckBox ActiveX control. |
 | [CheckValueType](../com.aspose.diagram/checkvaluetype) | Represents the check value type of the check box. |
-| [Collection](../com.aspose.diagram/collection) | It is base class for collections. |
+| [Collection<T>](../com.aspose.diagram/collection) |  |
 | [CollectionBase](../com.aspose.diagram/collectionbase) | Provides the abstract base class for a strongly typed collection. |
 | [Color](../com.aspose.diagram/color) | Represents an ARGB (alpha, red, green, blue) color. |
 | [ColorEntry](../com.aspose.diagram/colorentry) | Contains a color table entry. |
@@ -128,6 +128,8 @@ url: /java/com.aspose.diagram/
 | [DiagramConverter](../com.aspose.diagram/diagramconverter) | Converter for converting template file to diagram. |
 | [DiagramException](../com.aspose.diagram/diagramexception) | Base class for all Aspose.Diagram exceptions |
 | [DiagramSaveOptions](../com.aspose.diagram/diagramsaveoptions) | Can be used to specify additional options when saving a diagram into Visio (VDX\\VSX) format. |
+| [DigitalSignature](../com.aspose.diagram/digitalsignature) | Signature in file. |
+| [DigitalSignatureCollection](../com.aspose.diagram/digitalsignaturecollection) | Provides a collection of digital signatures attached to a document. |
 | [DisplayMode](../com.aspose.diagram/displaymode) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
 | [DisplayModeSmartTagDef](../com.aspose.diagram/displaymodesmarttagdef) | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 | [DisplayModeSmartTagDefValue](../com.aspose.diagram/displaymodesmarttagdefvalue) | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
@@ -473,6 +475,7 @@ url: /java/com.aspose.diagram/
 | [WindowStateValue](../com.aspose.diagram/windowstatevalue) | An integer specifying bit flags. |
 | [WindowTypeValue](../com.aspose.diagram/windowtypevalue) | An enumerated value that may be one of the following: Drawing, Sheet, Stencil, or Icon. |
 | [XAMLSaveOptions](../com.aspose.diagram/xamlsaveoptions) | Allows to specify additional options when rendering diagram pages to XAML. |
+| [XAdESType](../com.aspose.diagram/xadestype) | Type of XML Advanced Electronic Signature (XAdES). |
 | [XForm](../com.aspose.diagram/xform) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. |
 | [XForm1D](../com.aspose.diagram/xform1d) | Contains x- and y-coordinates of the begin point and end point of a 1-D shape. |
 | [XJustify](../com.aspose.diagram/xjustify) | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |

@@ -3,7 +3,7 @@ title: Prop
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements for defining custom properties and elements for associating data with a shape.
 type: docs
-weight: 327
+weight: 329
 url: /java/com.aspose.diagram/prop/
 ---
 

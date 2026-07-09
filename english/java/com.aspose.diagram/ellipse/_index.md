@@ -3,7 +3,7 @@ title: Ellipse
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements specifying the x- and y-coordinates of the ellipses center point and two points on the ellipse.
 type: docs
-weight: 146
+weight: 148
 url: /java/com.aspose.diagram/ellipse/
 ---
 

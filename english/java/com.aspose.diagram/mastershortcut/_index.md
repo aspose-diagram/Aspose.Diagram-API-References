@@ -3,7 +3,7 @@ title: MasterShortcut
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies a master shortcut defined in the document.
 type: docs
-weight: 257
+weight: 259
 url: /java/com.aspose.diagram/mastershortcut/
 ---
 

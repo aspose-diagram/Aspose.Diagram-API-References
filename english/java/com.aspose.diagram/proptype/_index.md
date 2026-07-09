@@ -3,7 +3,7 @@ title: PropType
 second_title: Aspose.Diagram for Java API Reference
 description: Type of Property.
 type: docs
-weight: 329
+weight: 331
 url: /java/com.aspose.diagram/proptype/
 ---
 

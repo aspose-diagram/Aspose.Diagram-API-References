@@ -3,14 +3,14 @@ title: WindowCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Window collection.
 type: docs
-weight: 467
+weight: 469
 url: /java/com.aspose.diagram/windowcollection/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.diagram.Collection](../../com.aspose.diagram/collection)
+java.lang.Object, com.aspose.diagram.Collection
 ```
-public class WindowCollection extends Collection
+public class WindowCollection extends Collection<Window>
 ```
 
 Window collection.
@@ -18,26 +18,46 @@ Window collection.
 
 | Method | Description |
 | --- | --- |
+| [add(T o)](#add-T-) |  |
 | [add(Window window)](#add-com.aspose.diagram.Window-) | Add the window in the collection. |
-| [clear()](#clear--) | Removes all elements from collection. |
+| [clear()](#clear--) |  |
+| [contains(Object o)](#contains-java.lang.Object-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int index)](#get-int-) | Gets the element at the specified index. |
+| [get(int index)](#get-int-) |  |
 | [getClass()](#getClass--) |  |
 | [getClientHeight()](#getClientHeight--) | Optional int. |
 | [getClientWidth()](#getClientWidth--) | Optional int. |
-| [getCount()](#getCount--) | Gets the number of elements actually contained in the collection. |
+| [getCount()](#getCount--) |  |
+| [getInnerList()](#getInnerList--) |  |
 | [hashCode()](#hashCode--) |  |
-| [isExist(int index)](#isExist-int-) | Is exist item in the collection. |
-| [iterator()](#iterator--) | Supports a simple iteration over a nongeneric collection. |
+| [indexOf(Object o)](#indexOf-java.lang.Object-) |  |
+| [isExist(int index)](#isExist-int-) |  |
+| [iterator()](#iterator--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(Window window)](#remove-com.aspose.diagram.Window-) | Remove the window from the collection. |
+| [removeAt(int index)](#removeAt-int-) |  |
 | [setClientHeight(int value)](#setClientHeight-int-) | For the description of this property, please see [getClientHeight()](../../com.aspose.diagram/windowcollection\#getClientHeight--) |
 | [setClientWidth(int value)](#setClientWidth-int-) | For the description of this property, please see [getClientWidth()](../../com.aspose.diagram/windowcollection\#getClientWidth--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### add(T o) {#add-T-}
+```
+public int add(T o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | T |  |
+
+**Returns:**
+int
 ### add(Window window) {#add-com.aspose.diagram.Window-}
 ```
 public int add(Window window)
@@ -59,8 +79,23 @@ public void clear()
 ```
 
 
-Removes all elements from collection.
 
+
+### contains(Object o) {#contains-java.lang.Object-}
+```
+public boolean contains(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -78,11 +113,11 @@ public boolean equals(Object arg0)
 boolean
 ### get(int index) {#get-int-}
 ```
-public Window get(int index)
+public T get(int index)
 ```
 
 
-Gets the element at the specified index.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -90,7 +125,7 @@ Gets the element at the specified index.
 | index | int |  |
 
 **Returns:**
-[Window](../../com.aspose.diagram/window) - 
+T
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -127,10 +162,20 @@ public int getCount()
 ```
 
 
-Gets the number of elements actually contained in the collection.
+
 
 **Returns:**
 int
+### getInnerList() {#getInnerList--}
+```
+public ArrayList<T> getInnerList()
+```
+
+
+
+
+**Returns:**
+java.util.ArrayList<T>
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -141,31 +186,46 @@ public native int hashCode()
 
 **Returns:**
 int
+### indexOf(Object o) {#indexOf-java.lang.Object-}
+```
+public int indexOf(Object o)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+int
 ### isExist(int index) {#isExist-int-}
 ```
 public boolean isExist(int index)
 ```
 
 
-Is exist item in the collection.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | index of element. |
+| index | int |  |
 
 **Returns:**
-boolean - 
+boolean
 ### iterator() {#iterator--}
 ```
-public Iterator iterator()
+public Iterator<T> iterator()
 ```
 
 
-Supports a simple iteration over a nongeneric collection.
+
 
 **Returns:**
-java.util.Iterator - 
+java.util.Iterator<T>
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -194,6 +254,19 @@ Remove the window from the collection.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | window | [Window](../../com.aspose.diagram/window) |  |
+
+### removeAt(int index) {#removeAt-int-}
+```
+public void removeAt(int index)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int |  |
 
 ### setClientHeight(int value) {#setClientHeight-int-}
 ```

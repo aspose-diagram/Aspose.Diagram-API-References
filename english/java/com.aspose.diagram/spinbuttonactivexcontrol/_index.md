@@ -3,7 +3,7 @@ title: SpinButtonActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the SpinButton control.
 type: docs
-weight: 404
+weight: 406
 url: /java/com.aspose.diagram/spinbuttonactivexcontrol/
 ---
 

@@ -3,7 +3,7 @@ title: Row
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates a row in the data recordset.
 type: docs
-weight: 357
+weight: 359
 url: /java/com.aspose.diagram/row/
 ---
 

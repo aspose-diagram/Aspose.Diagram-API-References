@@ -3,7 +3,7 @@ title: PdfBookmarkEntry
 second_title: Aspose.Diagram for Java API Reference
 description: PdfBookmarkEntry is an entry in pdf bookmark.
 type: docs
-weight: 292
+weight: 294
 url: /java/com.aspose.diagram/pdfbookmarkentry/
 ---
 
