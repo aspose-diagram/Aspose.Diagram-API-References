@@ -18,8 +18,8 @@ public enum StyleValue
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Bold | `1` | Bold. |
-| Italic | `2` | Italic. |
+| Bold | `11` | Bold. |
+| Italic | `22` | Italic. |
 | Underline | `4` | Underline. |
 | SmallCaps | `8` | Small caps. |
 | Undefined | `FFFFFFFF80000000` | Undefined. |

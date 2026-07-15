@@ -42,6 +42,7 @@ public enum SaveFileFormat
 | Vsd | `22` | MS Visio Vsd binary format. |
 | Vss | `23` | MS Visio Vss binary format. |
 | Vst | `24` | MS Visio Vst binary format. |
+| Drawio | `25` | Drawio format. |
 
 ### See Also
 

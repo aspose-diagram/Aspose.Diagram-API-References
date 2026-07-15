@@ -12,6 +12,7 @@ Contains classes for save options.
 | Class | Description |
 | --- | --- |
 | [DiagramSaveOptions](./diagramsaveoptions/) | Can be used to specify additional options when saving a diagram into Visio (VDX\VSX) format. |
+| [DrawioSaveOptions](./drawiosaveoptions/) | Represents the save options for drawio format. |
 | [HTMLSaveOptions](./htmlsaveoptions/) | Allows to specify additional options when rendering diagram pages to HTML. |
 | [ImageSaveOptions](./imagesaveoptions/) | Allows to specify additional options when rendering diagram pages to images. |
 | [PageEndSavingArgs](./pageendsavingargs/) | Info for a page ends saving process. |

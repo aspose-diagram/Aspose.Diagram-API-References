@@ -28,6 +28,7 @@ public class VbaProject
 | Name | Description |
 | --- | --- |
 | [Protect](../../aspose.diagram.vba/vbaproject/protect/)(bool, string) | Protects or unprotects this VBA project. |
+| [Sign](../../aspose.diagram.vba/vbaproject/sign/)(DigitalSignature) | Sign this VBA project by a DigitalSignature |
 | [ValidatePassword](../../aspose.diagram.vba/vbaproject/validatepassword/)(string) | Validates protection password. |
 
 ### See Also

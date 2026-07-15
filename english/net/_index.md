@@ -14,6 +14,7 @@ is_root: true
 | [Aspose.Diagram](./aspose.diagram/) | Contains classes for work with Microsoft Visio documents without utilizing Microsoft Visio. |
 | [Aspose.Diagram.ActiveXControls](./aspose.diagram.activexcontrols/) | The **Aspose.Diagram.ActiveXControls** namespace provides classes that allow to draw and access ActiveXControl. |
 | [Aspose.Diagram.AutoLayout](./aspose.diagram.autolayout/) | Contains classes to auto lay out diagrams. |
+| [Aspose.Diagram.DigitalSignatures](./aspose.diagram.digitalsignatures/) |  |
 | [Aspose.Diagram.LowCode](./aspose.diagram.lowcode/) | The **Aspose.Diagram.LowCode** namespace provides a set of simple and easy-to-use apis for the most frequently used operations in a low code way. |
 | [Aspose.Diagram.Manipulation](./aspose.diagram.manipulation/) | Contains classes for manipulate diagrams |
 | [Aspose.Diagram.Printing](./aspose.diagram.printing/) | Contains classes for print |
