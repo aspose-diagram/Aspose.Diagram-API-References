@@ -1,0 +1,14 @@
+---
+title: "BoolValue.setUfe"
+linktitle: "setUfe"
+articleTitle: "setUfe"
+second_title: "Aspose.Diagram for Node.js via Java"
+description: "Attributes of an element."
+type: docs
+weight: 90
+url: /nodejs/aspose.diagram/boolvalue/setufe/
+---
+
+## setUfe()
+
+Attributes of an element.
