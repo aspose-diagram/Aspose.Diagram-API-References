@@ -3,13 +3,13 @@ title: "aspose.diagram"
 linktitle: "aspose.diagram"
 articleTitle: "aspose.diagram"
 second_title: "Aspose.Diagram for Node.js via Java"
-description: "The aspose.diagram namespace supplies classes and enums for creating, editing, and rendering Microsoft Visio diagrams in Node.js via Java."
+description: "The aspose.diagram namespace offers classes and enums for creating, modifying, and rendering Visio diagrams in Node.js via Java."
 type: docs
 weight: 10
 url: /nodejs/aspose.diagram/
 ---
 
-The aspose.diagram namespace groups the core API for working with Visio files, covering shape manipulation, page layout, controls, and annotations. Use these types to programmatically build, modify, and export diagrams in supported formats.
+This reference details all types available in the aspose.diagram namespace, including core diagram elements such as Act, ActiveXControl, and alignment utilities. Use these classes to programmatically build, edit, and export Visio files within a Node.js environment powered by the Java runtime.
 
 ## Classes
 

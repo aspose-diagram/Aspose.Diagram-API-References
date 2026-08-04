@@ -1,0 +1,31 @@
+---
+title: "ControlType"
+linktitle: "ControlType"
+articleTitle: "ControlType"
+second_title: "Aspose.Diagram for Node.js via Java"
+description: "Utility class containing constants."
+type: docs
+weight: 430
+url: /nodejs/global/controltype/
+---
+
+## ControlType
+
+Utility class containing constants. Represents all type of ActiveX control.
+
+## Values
+
+| Name | Description |
+| --- | --- |
+| COMMAND_BUTTON | Button |
+| COMBO_BOX | ComboBox |
+| CHECK_BOX | CheckBox |
+| LIST_BOX | ListBox |
+| TEXT_BOX | TextBox |
+| SPIN_BUTTON | Spinner |
+| RADIO_BUTTON | RadioButton |
+| LABEL | Label |
+| IMAGE | Image |
+| TOGGLE_BUTTON | ToggleButton |
+| SCROLL_BAR | ScrollBar |
+| UNKNOWN | Unknown |
