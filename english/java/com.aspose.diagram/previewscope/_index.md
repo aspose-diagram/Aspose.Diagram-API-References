@@ -3,7 +3,7 @@ title: PreviewScope
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies whether the document includes a preview and if so whether the preview shows only the first page or all the pages in the document.
 type: docs
-weight: 303
+weight: 323
 url: /java/com.aspose.diagram/previewscope/
 ---
 
@@ -23,6 +23,7 @@ Specifies whether the document includes a preview, and, if so, whether the previ
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -48,6 +49,16 @@ Constructor.
 | --- | --- | --- |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)

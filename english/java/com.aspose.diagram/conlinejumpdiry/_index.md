@@ -3,7 +3,7 @@ title: ConLineJumpDirY
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the line jump direction for line jumps occurring on a vertical segment of a dynamic connector.
 type: docs
-weight: 67
+weight: 69
 url: /java/com.aspose.diagram/conlinejumpdiry/
 ---
 
@@ -30,6 +30,7 @@ Determines the line jump direction for line jumps occurring on a vertical segmen
 | [hashCode()](#hashCode--) | Serves as a hash function for a particular type. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setUfe(UnitFormulaErr value)](#setUfe-com.aspose.diagram.UnitFormulaErr-) | For the description of this property, please see [getUfe()](../../com.aspose.diagram/conlinejumpdiry\#getUfe--) |
 | [setValue(int value)](#setValue-int-) | For the description of this property, please see [getValue()](../../com.aspose.diagram/conlinejumpdiry\#getValue--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -118,6 +119,19 @@ public final native void notifyAll()
 
 
 
+
+### setUfe(UnitFormulaErr value) {#setUfe-com.aspose.diagram.UnitFormulaErr-}
+```
+public void setUfe(UnitFormulaErr value)
+```
+
+
+For the description of this property, please see [getUfe()](../../com.aspose.diagram/conlinejumpdiry\#getUfe--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [UnitFormulaErr](../../com.aspose.diagram/unitformulaerr) |  |
 
 ### setValue(int value) {#setValue-int-}
 ```

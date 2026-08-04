@@ -1,7 +1,7 @@
 ---
-title: Add
+title: CoordinateCollection.Add
 second_title: Aspose.Diagram for .NET API Reference
-description: Add the Coordinate object in the collection.
+description: CoordinateCollection method. Add the Coordinate object in the collection
 type: docs
 url: /net/aspose.diagram/coordinatecollection/add/
 ---
@@ -15,9 +15,9 @@ public int Add(Coordinate item)
 
 ### See Also
 
-* class [Coordinate](../../coordinate)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [Coordinate](../../coordinate/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -32,9 +32,9 @@ public int Add(MoveTo item)
 
 ### See Also
 
-* class [MoveTo](../../moveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [MoveTo](../../moveto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -49,9 +49,9 @@ public int Add(LineTo item)
 
 ### See Also
 
-* class [LineTo](../../lineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [LineTo](../../lineto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -66,9 +66,9 @@ public int Add(ArcTo item)
 
 ### See Also
 
-* class [ArcTo](../../arcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [ArcTo](../../arcto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -83,9 +83,9 @@ public int Add(InfiniteLine item)
 
 ### See Also
 
-* class [InfiniteLine](../../infiniteline)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [InfiniteLine](../../infiniteline/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -100,9 +100,9 @@ public int Add(Ellipse item)
 
 ### See Also
 
-* class [Ellipse](../../ellipse)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [Ellipse](../../ellipse/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -117,9 +117,9 @@ public int Add(EllipticalArcTo item)
 
 ### See Also
 
-* class [EllipticalArcTo](../../ellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [EllipticalArcTo](../../ellipticalarcto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -134,9 +134,9 @@ public int Add(SplineStart item)
 
 ### See Also
 
-* class [SplineStart](../../splinestart)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [SplineStart](../../splinestart/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -151,9 +151,9 @@ public int Add(SplineKnot item)
 
 ### See Also
 
-* class [SplineKnot](../../splineknot)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [SplineKnot](../../splineknot/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -168,9 +168,9 @@ public int Add(PolylineTo item)
 
 ### See Also
 
-* class [PolylineTo](../../polylineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [PolylineTo](../../polylineto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -185,9 +185,9 @@ public int Add(NURBSTo item)
 
 ### See Also
 
-* class [NURBSTo](../../nurbsto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [NURBSTo](../../nurbsto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -202,9 +202,9 @@ public int Add(RelCubBezTo item)
 
 ### See Also
 
-* class [RelCubBezTo](../../relcubbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [RelCubBezTo](../../relcubbezto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -219,9 +219,9 @@ public int Add(RelQuadBezTo item)
 
 ### See Also
 
-* class [RelQuadBezTo](../../relquadbezto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [RelQuadBezTo](../../relquadbezto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -236,9 +236,9 @@ public int Add(RelMoveTo item)
 
 ### See Also
 
-* class [RelMoveTo](../../relmoveto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [RelMoveTo](../../relmoveto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -253,9 +253,9 @@ public int Add(RelLineTo item)
 
 ### See Also
 
-* class [RelLineTo](../../rellineto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [RelLineTo](../../rellineto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -270,9 +270,9 @@ public int Add(RelEllipticalArcTo item)
 
 ### See Also
 
-* class [RelEllipticalArcTo](../../relellipticalarcto)
-* class [CoordinateCollection](../../coordinatecollection)
-* namespace [Aspose.Diagram](../../coordinatecollection)
+* class [RelEllipticalArcTo](../../relellipticalarcto/)
+* class [CoordinateCollection](../)
+* namespace [Aspose.Diagram](../../coordinatecollection/)
 * assembly [Aspose.Diagram](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

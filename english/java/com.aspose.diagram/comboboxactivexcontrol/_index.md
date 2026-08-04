@@ -3,7 +3,7 @@ title: ComboBoxActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a ComboBox ActiveX control.
 type: docs
-weight: 55
+weight: 57
 url: /java/com.aspose.diagram/comboboxactivexcontrol/
 ---
 

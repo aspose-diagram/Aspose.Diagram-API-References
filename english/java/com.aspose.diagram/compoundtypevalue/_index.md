@@ -3,7 +3,7 @@ title: CompoundTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Represents style of drawing lines.
 type: docs
-weight: 59
+weight: 61
 url: /java/com.aspose.diagram/compoundtypevalue/
 ---
 

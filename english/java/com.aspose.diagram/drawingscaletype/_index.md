@@ -3,7 +3,7 @@ title: DrawingScaleType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of drawing scale to use for a page.
 type: docs
-weight: 131
+weight: 141
 url: /java/com.aspose.diagram/drawingscaletype/
 ---
 
@@ -23,6 +23,7 @@ Specifies the type of drawing scale to use for a page.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -48,6 +49,16 @@ Constructor.
 | --- | --- | --- |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)

@@ -3,7 +3,7 @@ title: CheckValueType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the check value type of the check box.
 type: docs
-weight: 48
+weight: 50
 url: /java/com.aspose.diagram/checkvaluetype/
 ---
 

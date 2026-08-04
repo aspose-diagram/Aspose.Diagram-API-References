@@ -3,7 +3,7 @@ title: ConnectorsTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: May be one of the following values RightAngle StraightLines or CurvedLines.
 type: docs
-weight: 84
+weight: 86
 url: /java/com.aspose.diagram/connectorstypevalue/
 ---
 

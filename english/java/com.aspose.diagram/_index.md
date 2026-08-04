@@ -1,14 +1,11 @@
 ---
 title: com.aspose.diagram
 second_title: Aspose.Diagram for Java API Reference
-description: The com.aspose.diagram package provides classes for generating converting modifying rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
+description: 
 type: docs
 weight: 10
 url: /java/com.aspose.diagram/
 ---
-
-
-The com.aspose.diagram package provides classes for generating, converting, modifying, rendering and printing Microsoft Visio documents without utilizing Microsoft Visio.
 
 
 ## Classes
@@ -46,6 +43,8 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [BoolValue](../com.aspose.diagram/boolvalue) | Boolean value. |
 | [Bullet](../com.aspose.diagram/bullet) | Determines the bullet style. |
 | [BulletValue](../com.aspose.diagram/bulletvalue) | Determines the bullet style. |
+| [CalculateItemType](../com.aspose.diagram/calculateitemtype) | Represents calculate type for refreshing shape's data. |
+| [CalculateOptions](../com.aspose.diagram/calculateoptions) | Represents options for calculation. |
 | [Calendar](../com.aspose.diagram/calendar) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [CalendarValue](../com.aspose.diagram/calendarvalue) | Determines the calendar that is used for custom properties, text fields, and element formulas. |
 | [Case](../com.aspose.diagram/case) | Determines the case of a shape's text. |
@@ -54,7 +53,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [CharCollection](../com.aspose.diagram/charcollection) | Char collection. |
 | [CheckBoxActiveXControl](../com.aspose.diagram/checkboxactivexcontrol) | Represents a CheckBox ActiveX control. |
 | [CheckValueType](../com.aspose.diagram/checkvaluetype) | Represents the check value type of the check box. |
-| [Collection](../com.aspose.diagram/collection) | It is base class for collections. |
+| [Collection<T>](../com.aspose.diagram/collection) |  |
 | [CollectionBase](../com.aspose.diagram/collectionbase) | Provides the abstract base class for a strongly typed collection. |
 | [Color](../com.aspose.diagram/color) | Represents an ARGB (alpha, red, green, blue) color. |
 | [ColorEntry](../com.aspose.diagram/colorentry) | Contains a color table entry. |
@@ -90,6 +89,9 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [ConnectionPointPlace](../com.aspose.diagram/connectionpointplace) | Specifies the location on the shape where connector will be connected. |
 | [ConnectorRule](../com.aspose.diagram/connectorrule) | Represents connector rule between two shapes with a connector,Including which connection point of which shape it starts from, the end shape and its connection point. |
 | [ConnectorsTypeValue](../com.aspose.diagram/connectorstypevalue) | May be one of the following values: RightAngle, StraightLines, or CurvedLines. |
+| [ContainerProperties](../com.aspose.diagram/containerproperties) | ContainerProperties for shape. |
+| [ContainerStyle](../com.aspose.diagram/containerstyle) | ContainerStyle for ContainerProperties. |
+| [ContainerType](../com.aspose.diagram/containertype) | ContainerType for ContainerProperties. |
 | [ContainerTypeValue](../com.aspose.diagram/containertypevalue) | May be one of the following values: Document, Page, or Master. |
 | [ContextTypeValue](../com.aspose.diagram/contexttypevalue) | Specifies properties of the group or shape to use for the comparison. |
 | [Control](../com.aspose.diagram/control) | Contains elements for the x- and y-coordinates of each control handle defined for a shape, and elements that specify the way the control handle should behave. |
@@ -123,14 +125,19 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [DateTime](../com.aspose.diagram/datetime) | Represents an instant in time, typically expressed as a date and time of day. |
 | [DateValue](../com.aspose.diagram/datevalue) | Date and time value. |
 | [Diagram](../com.aspose.diagram/diagram) | Root element of Visio objects hierarchy. |
+| [DiagramConverter](../com.aspose.diagram/diagramconverter) | Converter for converting template file to diagram. |
 | [DiagramException](../com.aspose.diagram/diagramexception) | Base class for all Aspose.Diagram exceptions |
 | [DiagramSaveOptions](../com.aspose.diagram/diagramsaveoptions) | Can be used to specify additional options when saving a diagram into Visio (VDX\\VSX) format. |
+| [DigitalSignature](../com.aspose.diagram/digitalsignature) | Signature in file. |
+| [DigitalSignatureCollection](../com.aspose.diagram/digitalsignaturecollection) | Provides a collection of digital signatures attached to a document. |
 | [DisplayMode](../com.aspose.diagram/displaymode) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
 | [DisplayModeSmartTagDef](../com.aspose.diagram/displaymodesmarttagdef) | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 | [DisplayModeSmartTagDefValue](../com.aspose.diagram/displaymodesmarttagdefvalue) | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape is selected, or all the time. |
 | [DisplayModeValue](../com.aspose.diagram/displaymodevalue) | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are displayed. |
 | [DocProps](../com.aspose.diagram/docprops) | Contains elements that control the document's preview quality, scope, and output format. |
 | [DocumentProperties](../com.aspose.diagram/documentproperties) | Contains document property elements such as the document's title, author, and so on. |
+| [DocumentProperty](../com.aspose.diagram/documentproperty) | Represents a custom or built-in document property. |
+| [DocumentPropertyCollection](../com.aspose.diagram/documentpropertycollection) | Base class for collections. |
 | [DocumentSettings](../com.aspose.diagram/documentsettings) | Contains elements that specify document settings. |
 | [DocumentSheet](../com.aspose.diagram/documentsheet) | Specifies a document's ShapeSheet structure. |
 | [DoubleValue](../com.aspose.diagram/doublevalue) | Double value |
@@ -235,15 +242,22 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [LineJumpCodeValue](../com.aspose.diagram/linejumpcodevalue) | Determines the dynamic connectors to which you want to add jumps. |
 | [LineJumpStyle](../com.aspose.diagram/linejumpstyle) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
 | [LineJumpStyleValue](../com.aspose.diagram/linejumpstylevalue) | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. |
+| [LinePattern](../com.aspose.diagram/linepattern) | Specifies the line pattern of the shape. |
+| [LinePatternValue](../com.aspose.diagram/linepatternvalue) | Specifies the line pattern of the shape. |
 | [LineRouteExt](../com.aspose.diagram/linerouteext) | Specifies the default appearance for all connectors on a page. |
 | [LineRouteExtValue](../com.aspose.diagram/linerouteextvalue) | Specifies the default appearance for all connectors on a page. |
 | [LineTo](../com.aspose.diagram/lineto) | Contains x- and y-coordinates of the ending vertex of a straight line segment. |
 | [LineToCollection](../com.aspose.diagram/linetocollection) | LineTo collection. |
 | [ListBoxActiveXControl](../com.aspose.diagram/listboxactivexcontrol) | Represents a ListBox ActiveX control. |
+| [LoadDataFilterOptions](../com.aspose.diagram/loaddatafilteroptions) | Represents the options to filter data when loading diagram from template. |
 | [LoadFileFormat](../com.aspose.diagram/loadfileformat) | Enumeration for loading diagram format selection. |
+| [LoadFilter](../com.aspose.diagram/loadfilter) | Represents the filter that provides options for loading data when loading diagram from template. |
 | [LoadOptions](../com.aspose.diagram/loadoptions) | Allows to specify additional options when loading a diagram into a Diagram object. |
 | [LocalizeFont](../com.aspose.diagram/localizefont) | Specifies whether the shape text should be localized (translated into another language). |
 | [LocalizeFontValue](../com.aspose.diagram/localizefontvalue) | Specifies whether the shape text should be localized (translated into another language). |
+| [LowCodeLoadOptions](../com.aspose.diagram/lowcodeloadoptions) | Options for loading template file. |
+| [LowCodePdfSaveOptions](../com.aspose.diagram/lowcodepdfsaveoptions) | Options for saving pdf in low code way. |
+| [LowCodeSaveOptions](../com.aspose.diagram/lowcodesaveoptions) | Options for saving generated results in low code way. |
 | [Margin](../com.aspose.diagram/margin) | Specifies the margin. |
 | [Master](../com.aspose.diagram/master) | Contains elements that define a master for the document. |
 | [MasterCollection](../com.aspose.diagram/mastercollection) | Master collection. |
@@ -251,6 +265,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [MasterShortcutCollection](../com.aspose.diagram/mastershortcutcollection) | MasterShortcut collection. |
 | [MeasureConst](../com.aspose.diagram/measureconst) | Units of\\ measure. |
 | [MemoryFontSource](../com.aspose.diagram/memoryfontsource) | Represents the single TrueType font file stored in memory. |
+| [Metered](../com.aspose.diagram/metered) | Provides methods to set metered key. |
 | [MilestoneHelper](../com.aspose.diagram/milestonehelper) | MilestoneHelper to set property of milestone shape. |
 | [Misc](../com.aspose.diagram/misc) | Contains various elements of shapes and groups, such as those that control selection highlighting and visibility. |
 | [MoveTo](../com.aspose.diagram/moveto) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
@@ -281,7 +296,9 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [PaperSizeFormat](../com.aspose.diagram/papersizeformat) | Enumeration for saving paper size format selection. |
 | [Para](../com.aspose.diagram/para) | Contains the paragraph formatting elements for the shape's text, such as indents, line spacing, bullets, and horizontal alignment of paragraphs. |
 | [ParaCollection](../com.aspose.diagram/paracollection) | Para collection. |
+| [PdfBookmarkEntry](../com.aspose.diagram/pdfbookmarkentry) | PdfBookmarkEntry is an entry in pdf bookmark. |
 | [PdfCompliance](../com.aspose.diagram/pdfcompliance) | Specifies the PDF compliance level to output file. |
+| [PdfConverter](../com.aspose.diagram/pdfconverter) | Converter for converting template file to pdf. |
 | [PdfDigitalSignatureHashAlgorithm](../com.aspose.diagram/pdfdigitalsignaturehashalgorithm) | Specifies digital hash algorithm used by digital signature. |
 | [PdfEncryptionAlgorithm](../com.aspose.diagram/pdfencryptionalgorithm) | Specifies the encryption algorithm to use for encrypting a PDF document. |
 | [PdfEncryptionDetails](../com.aspose.diagram/pdfencryptiondetails) | Contains details for a pdf encryption. |
@@ -331,6 +348,9 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [RelMoveToCollection](../com.aspose.diagram/relmovetocollection) | RelMoveTo collection. |
 | [RelQuadBezTo](../com.aspose.diagram/relquadbezto) | Contains x- and y-coordinates for a RelQuadBezTo's points. |
 | [RelQuadBezToCollection](../com.aspose.diagram/relquadbeztocollection) | RelQuadBezTo collection. |
+| [RelationFlag](../com.aspose.diagram/relationflag) | Stores the relationships between shapes. |
+| [RelationShape](../com.aspose.diagram/relationshape) | Contains elements that define a shape and relationflag. |
+| [RelationShapeCollection](../com.aspose.diagram/relationshapecollection) | RelationShape collection. |
 | [RemoveHiddenInfoItem](../com.aspose.diagram/removehiddeninfoitem) | Specifies the remove hidden info for the diagram. |
 | [RenderingSaveOptions](../com.aspose.diagram/renderingsaveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a diagram into a particular format. |
 | [ResizeMode](../com.aspose.diagram/resizemode) | Specifies the current resize behavior setting for the shape when contained in a group. |
@@ -418,6 +438,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [ToggleButtonActiveXControl](../com.aspose.diagram/togglebuttonactivexcontrol) | Represents a ToggleButton ActiveX control. |
 | [Tp](../com.aspose.diagram/tp) | Specifies the beginning of a tabs properties run. |
 | [Txt](../com.aspose.diagram/txt) | Text of the shape |
+| [TxtSaveOptions](../com.aspose.diagram/txtsaveoptions) | Represents the save options for csv/other text format. |
 | [TypeConnection](../com.aspose.diagram/typeconnection) | Specifies various types, based on the element in which it is contained. |
 | [TypeConnectionValue](../com.aspose.diagram/typeconnectionvalue) | Specifies various types, based on the element in which it is contained. |
 | [TypeField](../com.aspose.diagram/typefield) | Type specifies a data type for the text field value. |
@@ -454,6 +475,7 @@ The com.aspose.diagram package provides classes for generating, converting, modi
 | [WindowStateValue](../com.aspose.diagram/windowstatevalue) | An integer specifying bit flags. |
 | [WindowTypeValue](../com.aspose.diagram/windowtypevalue) | An enumerated value that may be one of the following: Drawing, Sheet, Stencil, or Icon. |
 | [XAMLSaveOptions](../com.aspose.diagram/xamlsaveoptions) | Allows to specify additional options when rendering diagram pages to XAML. |
+| [XAdESType](../com.aspose.diagram/xadestype) | Type of XML Advanced Electronic Signature (XAdES). |
 | [XForm](../com.aspose.diagram/xform) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. |
 | [XForm1D](../com.aspose.diagram/xform1d) | Contains x- and y-coordinates of the begin point and end point of a 1-D shape. |
 | [XJustify](../com.aspose.diagram/xjustify) | The x-offset of the smart tag button relative to the point defined by the X and Y elements. |

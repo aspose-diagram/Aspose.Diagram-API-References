@@ -3,7 +3,7 @@ title: LayerMem
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the LayerMember element which specifies each layer to which the shape is assigned.
 type: docs
-weight: 214
+weight: 224
 url: /java/com.aspose.diagram/layermem/
 ---
 
@@ -18,6 +18,7 @@ Contains the LayerMember element, which specifies each layer to which the shape 
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getDel()](#getDel--) | A flag indicating whether the element has been deleted locally. |
@@ -30,6 +31,16 @@ Contains the LayerMember element, which specifies each layer to which the shape 
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

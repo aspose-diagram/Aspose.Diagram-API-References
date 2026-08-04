@@ -3,7 +3,7 @@ title: DrawingSizeType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the drawing size of a page.
 type: docs
-weight: 133
+weight: 143
 url: /java/com.aspose.diagram/drawingsizetype/
 ---
 
@@ -23,6 +23,7 @@ Specifies the drawing size of a page.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -48,6 +49,16 @@ Constructor.
 | --- | --- | --- |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)

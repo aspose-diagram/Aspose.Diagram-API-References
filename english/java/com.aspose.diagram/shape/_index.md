@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a shape in a Master Page or group shape element.
 type: docs
-weight: 355
+weight: 378
 url: /java/com.aspose.diagram/shape/
 ---
 
@@ -27,6 +27,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [bringToFront()](#bringToFront--) | Brings the shape to the front of the z-order. |
 | [centerDrawing()](#centerDrawing--) | Center the shape with respect to the extent of the page |
 | [connectedShapes(int flag, String categoryFilter)](#connectedShapes-int-java.lang.String-) | Returns an array that contains the identifiers (IDs) of the shapes that are connected to the shape. |
+| [convertToGroup()](#convertToGroup--) | Converts a selection or an object from another application (a linked or embedded object) to a group. |
 | [copy(Shape source)](#copy-com.aspose.diagram.Shape-) |  |
 | [dependsOnShapes()](#dependsOnShapes--) | Returns an array that contains the identifiers of the shapes that are depends on a shape. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -35,11 +36,12 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getAlign()](#getAlign--) | Indicates the alignment of a shape with respect to the guide or guide point to which the shape is glued. |
 | [getChars()](#getChars--) | Contains a collection of Char elements. |
 | [getClass()](#getClass--) |  |
-| [getClippingPath()](#getClippingPath--) |  |
+| [getClippingPath()](#getClippingPath--) | Contains Clipping Path string value. |
 | [getConnectionABCDs()](#getConnectionABCDs--) | Contains a collection of ConnectionABCD elements. |
 | [getConnections()](#getConnections--) | Contains a collection of Connection elements. |
 | [getConnectorRule()](#getConnectorRule--) | Returns a connectorRule that contains the shape id and connecton that are connected to the shape. |
 | [getConnectorsType()](#getConnectorsType--) | Get Connectors type |
+| [getContainerProperties()](#getContainerProperties--) | Contains shape's ContainerProperties. |
 | [getControlData()](#getControlData--) | Gets the data of control. |
 | [getControls()](#getControls--) | Contains a collection of Control elements. |
 | [getData1()](#getData1--) | Contains an arbitrary string value that is used to supply additional information about a shape. |
@@ -60,14 +62,31 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getHyperlinks()](#getHyperlinks--) | Contains a collection of Hyperlink elements. |
 | [getID()](#getID--) | The unique ID of the element within its parent element. |
 | [getImage()](#getImage--) | Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparency values for a bitmap. |
+| [getInheritActs()](#getInheritActs--) | Contains the actions for the shape inherit by the master shape. |
 | [getInheritChars()](#getInheritChars--) | Contains the char values for the shape inherit by the master shape. |
+| [getInheritConnections()](#getInheritConnections--) | Contains the connections for the shape inherit by the master shape. |
+| [getInheritControls()](#getInheritControls--) | Contains the controls for the shape inherit by the master shape. |
+| [getInheritEvent()](#getInheritEvent--) | Contains the Event for the shape inherit by the master shape. |
+| [getInheritFields()](#getInheritFields--) | Contains the fields for the shape inherit by the master shape. |
 | [getInheritFill()](#getInheritFill--) | Contains the fill formatting values for the shape inherit by the parent style and the master shape. |
 | [getInheritGeoms()](#getInheritGeoms--) | Contains the Geoms values for the shape inherit by the master shape. |
+| [getInheritGroup()](#getInheritGroup--) |  |
+| [getInheritHelp()](#getInheritHelp--) | Contains the Help for the shape inherit by the master shape. |
+| [getInheritHyperlinks()](#getInheritHyperlinks--) | Contains the Hyperlinks for the shape inherit by the master shape. |
+| [getInheritLayerMem()](#getInheritLayerMem--) | Contains the LayerMem for the shape inherit by the master shape. |
+| [getInheritLayout()](#getInheritLayout--) | Contains the Layout for the shape inherit by the master shape. |
 | [getInheritLine()](#getInheritLine--) | Contains the line formatting values for the shape inherit by the parent style and the master shape. |
+| [getInheritMisc()](#getInheritMisc--) | Contains the Misc for the shape inherit by the master shape. |
 | [getInheritParas()](#getInheritParas--) | Contains the paras for the shape inherit by the parent style and the master shape. |
 | [getInheritProps()](#getInheritProps--) | Contains the props for the shape inherit by the master shape. |
+| [getInheritProtection()](#getInheritProtection--) | Contains the Protection for the shape inherit by the master shape. |
+| [getInheritScratchs()](#getInheritScratchs--) | Contains the scratchs for the shape inherit by the master shape. |
+| [getInheritTabs()](#getInheritTabs--) | Contains the tabs for the shape inherit by the parent style and the master shape. |
 | [getInheritTextBlock()](#getInheritTextBlock--) | Contains the textblock values for the shape inherit by the parent style and the master shape. |
+| [getInheritTextXForm()](#getInheritTextXForm--) | Contains the textxform values for the shape inherit by the parent style and the master shape. |
 | [getInheritUsers()](#getInheritUsers--) | Contains the users for the shape inherit by the master shape. |
+| [getInheritXForm()](#getInheritXForm--) |  |
+| [getInheritXForm1D()](#getInheritXForm1D--) |  |
 | [getLayerMem()](#getLayerMem--) | Contains the LayerMember element, which specifies each layer to which the shape is assigned. |
 | [getLayout()](#getLayout--) | Contains elements that control shape placement and connector routing settings. |
 | [getLine()](#getLine--) | Contains elements that control line attributes for a shape, such as pattern, weight, and color. |
@@ -84,6 +103,8 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getProps()](#getProps--) | Contains a collection of Prop elements. |
 | [getProtection()](#getProtection--) | Locking helps prevent inadvertent changes to the shape but does not prevent Microsoft Visio from resetting values in other circumstances. |
 | [getPureText()](#getPureText--) | Get the text string |
+| [getRelationFlag(Shape shape)](#getRelationFlag-com.aspose.diagram.Shape-) | Returns RelationFlag that represents the relationship of one shape to another shape. |
+| [getRelationShapeCollection()](#getRelationShapeCollection--) | Returns RelationShapeCollection that represents the relationshapes of one shape. |
 | [getRootShape()](#getRootShape--) | Returns the top-level shape of an instance if this shape is part of a master instance. |
 | [getScratchs()](#getScratchs--) | Contains a collection of Scratch elements. |
 | [getShapes()](#getShapes--) | Contains a collection of Shape elements. |
@@ -102,24 +123,27 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [getXForm1D()](#getXForm1D--) | Contains x- and y-coordinates of the begin point and end point of a 1-D shape. |
 | [getZOrderIndex()](#getZOrderIndex--) | Returns the index of a shape in the z-order except the guide shape. |
 | [gluedShapes(int flag, String categoryFilter, Shape otherShape)](#gluedShapes-int-java.lang.String-com.aspose.diagram.Shape-) | Returns an array that contains the identifiers of the shapes that are glued to a shape. |
+| [hasThemeColor()](#hasThemeColor--) | Gets whether the shape has theme color. |
 | [hashCode()](#hashCode--) |  |
 | [isConnected(Shape shape)](#isConnected-com.aspose.diagram.Shape-) | Indicates whether this two shapes are connected. |
 | [isContain(Shape shape)](#isContain-com.aspose.diagram.Shape-) | Indicates whether this shape is contain another shape. |
 | [isGlued(Shape shape)](#isGlued-com.aspose.diagram.Shape-) | Indicates whether this two shapes are glued. |
 | [isInGroup()](#isInGroup--) | Indicates whether this shape is in a group shape. |
 | [isIntersect(Shape shape)](#isIntersect-com.aspose.diagram.Shape-) | Indicates whether this shape is intersect another shape. |
-| [isTextEmpty()](#isTextEmpty--) | Indicate the shape has text and the text is empty or not. |
 | [move(double dX, double dY)](#move-double-double-) | Moves shape on the dX and dY inches from current position. |
 | [moveTo(double newPinX, double newPinY)](#moveTo-double-double-) | Moves shape on new absolute position on the page. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [refreshData()](#refreshData--) | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
+| [refreshData()](#refreshData--) |  |
+| [refreshData(CalculateOptions options)](#refreshData-com.aspose.diagram.CalculateOptions-) | Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . |
 | [replaceText(String text, String replaceText)](#replaceText-java.lang.String-java.lang.String-) | Replace the text string of a shape . |
 | [sendBackward()](#sendBackward--) | Moves the shape back one position in the z-order. |
 | [sendToBack()](#sendToBack--) | Moves the shape to the back of the z-order. |
 | [setAngle(double angle)](#setAngle-double-) | Sets new angle of shape. |
 | [setClippingPath(String value)](#setClippingPath-java.lang.String-) | For the description of this property, please see [getClippingPath()](../../com.aspose.diagram/shape\#getClippingPath--) |
+| [setConnectorJumpValue(int code, int style)](#setConnectorJumpValue-int-int-) | Set Jump code value and Jump style value for Connector |
 | [setConnectorsType(int type)](#setConnectorsType-int-) | Set Connectors type |
+| [setContainerProperties(ContainerProperties value)](#setContainerProperties-com.aspose.diagram.ContainerProperties-) | For the description of this property, please see [getContainerProperties()](../../com.aspose.diagram/shape\#getContainerProperties--) |
 | [setData1(String value)](#setData1-java.lang.String-) | For the description of this property, please see [getData1()](../../com.aspose.diagram/shape\#getData1--) |
 | [setData2(String value)](#setData2-java.lang.String-) | For the description of this property, please see [getData2()](../../com.aspose.diagram/shape\#getData2--) |
 | [setData3(String value)](#setData3-java.lang.String-) | For the description of this property, please see [getData3()](../../com.aspose.diagram/shape\#getData3--) |
@@ -159,7 +183,7 @@ Contains elements that define a shape in a Master, Page, or group shape element.
 | [toPdf(OutputStream stream)](#toPdf-java.io.OutputStream-) | Creates the shape pdf and saves it to a stream. |
 | [toPdf(String fileName)](#toPdf-java.lang.String-) | Saves the shape to a pdf file. |
 | [toString()](#toString--) |  |
-| [toSvg(String imageFile, SVGSaveOptions options)](#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-) | Saves the shape to a svg file. |
+| [toSvg(String fileName, SVGSaveOptions options)](#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-) | Saves the shape to a svg file. |
 | [ungroup()](#ungroup--) | Ungroup Shape |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -212,6 +236,14 @@ Returns an array that contains the identifiers (IDs) of the shapes that are conn
 
 **Returns:**
 long[] - IDs arraylong.
+### convertToGroup() {#convertToGroup--}
+```
+public void convertToGroup()
+```
+
+
+Converts a selection or an object from another application (a linked or embedded object) to a group.
+
 ### copy(Shape source) {#copy-com.aspose.diagram.Shape-}
 ```
 public void copy(Shape source)
@@ -223,7 +255,7 @@ public void copy(Shape source)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | [Shape](../../com.aspose.diagram/shape) |  |
+| source | [Shape](../../com.aspose.diagram/shape) | Source shape |
 
 ### dependsOnShapes() {#dependsOnShapes--}
 ```
@@ -306,7 +338,7 @@ public String getClippingPath()
 ```
 
 
-
+Contains Clipping Path string value.
 
 **Returns:**
 java.lang.String
@@ -350,6 +382,16 @@ Get Connectors type
 
 **Returns:**
 int
+### getContainerProperties() {#getContainerProperties--}
+```
+public ContainerProperties getContainerProperties()
+```
+
+
+Contains shape's ContainerProperties.
+
+**Returns:**
+[ContainerProperties](../../com.aspose.diagram/containerproperties)
 ### getControlData() {#getControlData--}
 ```
 public byte[] getControlData()
@@ -550,6 +592,16 @@ Contains the gamma, brightness, contrast, blur, sharpen, denoise, and transparen
 
 **Returns:**
 [Image](../../com.aspose.diagram/image)
+### getInheritActs() {#getInheritActs--}
+```
+public ActCollection getInheritActs()
+```
+
+
+Contains the actions for the shape inherit by the master shape.
+
+**Returns:**
+[ActCollection](../../com.aspose.diagram/actcollection)
 ### getInheritChars() {#getInheritChars--}
 ```
 public CharCollection getInheritChars()
@@ -560,6 +612,46 @@ Contains the char values for the shape inherit by the master shape.
 
 **Returns:**
 [CharCollection](../../com.aspose.diagram/charcollection)
+### getInheritConnections() {#getInheritConnections--}
+```
+public ConnectionCollection getInheritConnections()
+```
+
+
+Contains the connections for the shape inherit by the master shape.
+
+**Returns:**
+[ConnectionCollection](../../com.aspose.diagram/connectioncollection)
+### getInheritControls() {#getInheritControls--}
+```
+public ControlCollection getInheritControls()
+```
+
+
+Contains the controls for the shape inherit by the master shape.
+
+**Returns:**
+[ControlCollection](../../com.aspose.diagram/controlcollection)
+### getInheritEvent() {#getInheritEvent--}
+```
+public Event getInheritEvent()
+```
+
+
+Contains the Event for the shape inherit by the master shape.
+
+**Returns:**
+[Event](../../com.aspose.diagram/event)
+### getInheritFields() {#getInheritFields--}
+```
+public FieldCollection getInheritFields()
+```
+
+
+Contains the fields for the shape inherit by the master shape.
+
+**Returns:**
+[FieldCollection](../../com.aspose.diagram/fieldcollection)
 ### getInheritFill() {#getInheritFill--}
 ```
 public Fill getInheritFill()
@@ -580,6 +672,56 @@ Contains the Geoms values for the shape inherit by the master shape.
 
 **Returns:**
 [GeomCollection](../../com.aspose.diagram/geomcollection)
+### getInheritGroup() {#getInheritGroup--}
+```
+public Group getInheritGroup()
+```
+
+
+
+
+**Returns:**
+[Group](../../com.aspose.diagram/group)
+### getInheritHelp() {#getInheritHelp--}
+```
+public Help getInheritHelp()
+```
+
+
+Contains the Help for the shape inherit by the master shape.
+
+**Returns:**
+[Help](../../com.aspose.diagram/help)
+### getInheritHyperlinks() {#getInheritHyperlinks--}
+```
+public HyperlinkCollection getInheritHyperlinks()
+```
+
+
+Contains the Hyperlinks for the shape inherit by the master shape.
+
+**Returns:**
+[HyperlinkCollection](../../com.aspose.diagram/hyperlinkcollection)
+### getInheritLayerMem() {#getInheritLayerMem--}
+```
+public LayerMem getInheritLayerMem()
+```
+
+
+Contains the LayerMem for the shape inherit by the master shape.
+
+**Returns:**
+[LayerMem](../../com.aspose.diagram/layermem)
+### getInheritLayout() {#getInheritLayout--}
+```
+public Layout getInheritLayout()
+```
+
+
+Contains the Layout for the shape inherit by the master shape.
+
+**Returns:**
+[Layout](../../com.aspose.diagram/layout)
 ### getInheritLine() {#getInheritLine--}
 ```
 public Line getInheritLine()
@@ -590,6 +732,16 @@ Contains the line formatting values for the shape inherit by the parent style an
 
 **Returns:**
 [Line](../../com.aspose.diagram/line)
+### getInheritMisc() {#getInheritMisc--}
+```
+public Misc getInheritMisc()
+```
+
+
+Contains the Misc for the shape inherit by the master shape.
+
+**Returns:**
+[Misc](../../com.aspose.diagram/misc)
 ### getInheritParas() {#getInheritParas--}
 ```
 public ParaCollection getInheritParas()
@@ -610,6 +762,36 @@ Contains the props for the shape inherit by the master shape.
 
 **Returns:**
 [PropCollection](../../com.aspose.diagram/propcollection)
+### getInheritProtection() {#getInheritProtection--}
+```
+public Protection getInheritProtection()
+```
+
+
+Contains the Protection for the shape inherit by the master shape.
+
+**Returns:**
+[Protection](../../com.aspose.diagram/protection)
+### getInheritScratchs() {#getInheritScratchs--}
+```
+public ScratchCollection getInheritScratchs()
+```
+
+
+Contains the scratchs for the shape inherit by the master shape.
+
+**Returns:**
+[ScratchCollection](../../com.aspose.diagram/scratchcollection)
+### getInheritTabs() {#getInheritTabs--}
+```
+public TabsCollection getInheritTabs()
+```
+
+
+Contains the tabs for the shape inherit by the parent style and the master shape.
+
+**Returns:**
+[TabsCollection](../../com.aspose.diagram/tabscollection)
 ### getInheritTextBlock() {#getInheritTextBlock--}
 ```
 public TextBlock getInheritTextBlock()
@@ -620,6 +802,16 @@ Contains the textblock values for the shape inherit by the parent style and the 
 
 **Returns:**
 [TextBlock](../../com.aspose.diagram/textblock)
+### getInheritTextXForm() {#getInheritTextXForm--}
+```
+public TextXForm getInheritTextXForm()
+```
+
+
+Contains the textxform values for the shape inherit by the parent style and the master shape.
+
+**Returns:**
+[TextXForm](../../com.aspose.diagram/textxform)
 ### getInheritUsers() {#getInheritUsers--}
 ```
 public UserCollection getInheritUsers()
@@ -630,6 +822,26 @@ Contains the users for the shape inherit by the master shape.
 
 **Returns:**
 [UserCollection](../../com.aspose.diagram/usercollection)
+### getInheritXForm() {#getInheritXForm--}
+```
+public XForm getInheritXForm()
+```
+
+
+
+
+**Returns:**
+[XForm](../../com.aspose.diagram/xform)
+### getInheritXForm1D() {#getInheritXForm1D--}
+```
+public XForm1D getInheritXForm1D()
+```
+
+
+
+
+**Returns:**
+[XForm1D](../../com.aspose.diagram/xform1d)
 ### getLayerMem() {#getLayerMem--}
 ```
 public LayerMem getLayerMem()
@@ -790,6 +1002,31 @@ Get the text string
 
 **Returns:**
 java.lang.String
+### getRelationFlag(Shape shape) {#getRelationFlag-com.aspose.diagram.Shape-}
+```
+public int getRelationFlag(Shape shape)
+```
+
+
+Returns RelationFlag that represents the relationship of one shape to another shape.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| shape | [Shape](../../com.aspose.diagram/shape) | Shape |
+
+**Returns:**
+int
+### getRelationShapeCollection() {#getRelationShapeCollection--}
+```
+public RelationShapeCollection getRelationShapeCollection()
+```
+
+
+Returns RelationShapeCollection that represents the relationshapes of one shape.
+
+**Returns:**
+[RelationShapeCollection](../../com.aspose.diagram/relationshapecollection)
 ### getRootShape() {#getRootShape--}
 ```
 public Shape getRootShape()
@@ -977,6 +1214,16 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 **Returns:**
 long[] - IDs arraylong.
+### hasThemeColor() {#hasThemeColor--}
+```
+public boolean hasThemeColor()
+```
+
+
+Gets whether the shape has theme color.
+
+**Returns:**
+boolean
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -1057,16 +1304,6 @@ Indicates whether this shape is intersect another shape.
 
 **Returns:**
 boolean
-### isTextEmpty() {#isTextEmpty--}
-```
-public boolean isTextEmpty()
-```
-
-
-Indicate the shape has text and the text is empty or not.
-
-**Returns:**
-boolean
 ### move(double dX, double dY) {#move-double-double-}
 ```
 public void move(double dX, double dY)
@@ -1117,7 +1354,20 @@ public void refreshData()
 ```
 
 
+
+
+### refreshData(CalculateOptions options) {#refreshData-com.aspose.diagram.CalculateOptions-}
+```
+public void refreshData(CalculateOptions options)
+```
+
+
 Refreshes shape's position including xform ,connection and geom when changing shape's text or other's . We will gather shape's data such as shape's text then calculate shape's position. This method is only used to refresh shape's data .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| options | [CalculateOptions](../../com.aspose.diagram/calculateoptions) |  |
 
 ### replaceText(String text, String replaceText) {#replaceText-java.lang.String-java.lang.String-}
 ```
@@ -1175,6 +1425,20 @@ For the description of this property, please see [getClippingPath()](../../com.a
 | --- | --- | --- |
 | value | java.lang.String |  |
 
+### setConnectorJumpValue(int code, int style) {#setConnectorJumpValue-int-int-}
+```
+public void setConnectorJumpValue(int code, int style)
+```
+
+
+Set Jump code value and Jump style value for Connector
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| code | int | Jump Code Value |
+| style | int | Jump Code Style |
+
 ### setConnectorsType(int type) {#setConnectorsType-int-}
 ```
 public void setConnectorsType(int type)
@@ -1186,7 +1450,20 @@ Set Connectors type
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | int |  |
+| type | int | Connectors type value |
+
+### setContainerProperties(ContainerProperties value) {#setContainerProperties-com.aspose.diagram.ContainerProperties-}
+```
+public void setContainerProperties(ContainerProperties value)
+```
+
+
+For the description of this property, please see [getContainerProperties()](../../com.aspose.diagram/shape\#getContainerProperties--)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ContainerProperties](../../com.aspose.diagram/containerproperties) |  |
 
 ### setData1(String value) {#setData1-java.lang.String-}
 ```
@@ -1605,7 +1882,7 @@ Creates the html and saves it to a file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | java.lang.String |  |
+| fileName | java.lang.String | The file name with full path. |
 | options | [HTMLSaveOptions](../../com.aspose.diagram/htmlsaveoptions) | html save options |
 
 ### toImage(InputStream stream, ImageSaveOptions options) {#toImage-java.io.InputStream-com.aspose.diagram.ImageSaveOptions-}
@@ -1701,9 +1978,9 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### toSvg(String imageFile, SVGSaveOptions options) {#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-}
+### toSvg(String fileName, SVGSaveOptions options) {#toSvg-java.lang.String-com.aspose.diagram.SVGSaveOptions-}
 ```
-public void toSvg(String imageFile, SVGSaveOptions options)
+public void toSvg(String fileName, SVGSaveOptions options)
 ```
 
 
@@ -1712,8 +1989,8 @@ Saves the shape to a svg file.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | java.lang.String |  |
-| options | [SVGSaveOptions](../../com.aspose.diagram/svgsaveoptions) |  |
+| fileName | java.lang.String | the svg file name with full path |
+| options | [SVGSaveOptions](../../com.aspose.diagram/svgsaveoptions) | Svg save options |
 
 ### ungroup() {#ungroup--}
 ```

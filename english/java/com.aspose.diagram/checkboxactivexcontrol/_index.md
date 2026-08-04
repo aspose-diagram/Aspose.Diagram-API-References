@@ -3,7 +3,7 @@ title: CheckBoxActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a CheckBox ActiveX control.
 type: docs
-weight: 47
+weight: 49
 url: /java/com.aspose.diagram/checkboxactivexcontrol/
 ---
 

@@ -3,7 +3,7 @@ title: Connection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements for one connection point defined for the shape.
 type: docs
-weight: 78
+weight: 80
 url: /java/com.aspose.diagram/connection/
 ---
 

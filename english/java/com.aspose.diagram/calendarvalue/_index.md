@@ -3,7 +3,7 @@ title: CalendarValue
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the calendar that is used for custom properties text fields and element formulas.
 type: docs
-weight: 42
+weight: 44
 url: /java/com.aspose.diagram/calendarvalue/
 ---
 

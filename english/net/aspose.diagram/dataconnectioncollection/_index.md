@@ -1,7 +1,7 @@
 ---
-title: DataConnectionCollection
+title: Class DataConnectionCollection
 second_title: Aspose.Diagram for .NET API Reference
-description: DataConnection collection.
+description: Aspose.Diagram.DataConnectionCollection class. DataConnection collection
 type: docs
 url: /net/aspose.diagram/dataconnectioncollection/
 ---
@@ -10,32 +10,57 @@ url: /net/aspose.diagram/dataconnectioncollection/
 DataConnection collection.
 
 ```csharp
-public class DataConnectionCollection : Collection
+public class DataConnectionCollection : Collection<DataConnection>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.diagram/collection/count) { get; } | Gets the number of elements actually contained in the collection. |
-| [Item](../../aspose.diagram/dataconnectioncollection/item) { get; } | Gets the element at the specified index. |
-| [NextID](../../aspose.diagram/dataconnectioncollection/nextid) { get; set; } | The next available ID for new connections. |
+| [Capacity](../../aspose.diagram/collection-1/capacity/) { get; set; } |  |
+| [Count](../../aspose.diagram/collection-1/count/) { get; } |  |
+| [Item](../../aspose.diagram/collection-1/item/) { get; set; } |  |
+| [NextID](../../aspose.diagram/dataconnectioncollection/nextid/) { get; set; } | The next available ID for new connections. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.diagram/dataconnectioncollection/add)(DataConnection) | Add the dataConnection in the collection. |
-| [Clear](../../aspose.diagram/collection/clear)() | Removes all elements from collection. |
-| [GetDataConnection](../../aspose.diagram/dataconnectioncollection/getdataconnection)(uint) | Gets the element at the specified ID. |
-| [GetEnumerator](../../aspose.diagram/collection/getenumerator)() | Supports a simple iteration over a nongeneric collection. |
-| [IsExist](../../aspose.diagram/collection/isexist)(int) | Is exist item in the collection. |
-| [Remove](../../aspose.diagram/dataconnectioncollection/remove)(DataConnection) | Remove the dataConnection from the collection. |
+| [Add](../../aspose.diagram/dataconnectioncollection/add/)(DataConnection) | Add the dataConnection in the collection. |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(DataConnection) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(DataConnection, IComparer&lt;DataConnection&gt;) |  |
+| [BinarySearch](../../aspose.diagram/collection-1/binarysearch/)(int, int, DataConnection, IComparer&lt;DataConnection&gt;) |  |
+| [Clear](../../aspose.diagram/collection-1/clear/)() |  |
+| [Contains](../../aspose.diagram/collection-1/contains/)(DataConnection) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(DataConnection[]) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(DataConnection[], int) |  |
+| [CopyTo](../../aspose.diagram/collection-1/copyto/)(int, DataConnection[], int, int) |  |
+| [Exists](../../aspose.diagram/collection-1/exists/)(Predicate&lt;DataConnection&gt;) |  |
+| [Find](../../aspose.diagram/collection-1/find/)(Predicate&lt;DataConnection&gt;) |  |
+| [FindAll](../../aspose.diagram/collection-1/findall/)(Predicate&lt;DataConnection&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(Predicate&lt;DataConnection&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, Predicate&lt;DataConnection&gt;) |  |
+| [FindIndex](../../aspose.diagram/collection-1/findindex/)(int, int, Predicate&lt;DataConnection&gt;) |  |
+| [FindLast](../../aspose.diagram/collection-1/findlast/)(Predicate&lt;DataConnection&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(Predicate&lt;DataConnection&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, Predicate&lt;DataConnection&gt;) |  |
+| [FindLastIndex](../../aspose.diagram/collection-1/findlastindex/)(int, int, Predicate&lt;DataConnection&gt;) |  |
+| [GetDataConnection](../../aspose.diagram/dataconnectioncollection/getdataconnection/)(uint) | Gets the element at the specified ID. |
+| [GetEnumerator](../../aspose.diagram/collection-1/getenumerator/)() |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(DataConnection) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(DataConnection, int) |  |
+| [IndexOf](../../aspose.diagram/collection-1/indexof/)(DataConnection, int, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(DataConnection) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(DataConnection, int) |  |
+| [LastIndexOf](../../aspose.diagram/collection-1/lastindexof/)(DataConnection, int, int) |  |
+| [Remove](../../aspose.diagram/dataconnectioncollection/remove/)(DataConnection) | Remove the dataConnection from the collection. |
+| [RemoveAt](../../aspose.diagram/collection-1/removeat/)(int) |  |
 
 ### See Also
 
-* class [Collection](../collection)
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* class [Collection&lt;T&gt;](../collection-1/)
+* class [DataConnection](../dataconnection/)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

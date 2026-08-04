@@ -3,7 +3,7 @@ title: ContextTypeValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies properties of the group or shape to use for the comparison.
 type: docs
-weight: 86
+weight: 91
 url: /java/com.aspose.diagram/contexttypevalue/
 ---
 

@@ -3,7 +3,7 @@ title: Char
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the formatting attributes for the shapes text such as font color text style case position relative to the baseline and point size.
 type: docs
-weight: 45
+weight: 47
 url: /java/com.aspose.diagram/char/
 ---
 

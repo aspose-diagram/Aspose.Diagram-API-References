@@ -3,7 +3,7 @@ title: CollectionBase
 second_title: Aspose.Diagram for Java API Reference
 description: Provides the abstract base class for a strongly typed collection.
 type: docs
-weight: 50
+weight: 52
 url: /java/com.aspose.diagram/collectionbase/
 ---
 

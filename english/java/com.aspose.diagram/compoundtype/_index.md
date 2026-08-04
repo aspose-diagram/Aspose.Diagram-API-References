@@ -3,7 +3,7 @@ title: CompoundType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the size of the arrowhead of the line.
 type: docs
-weight: 58
+weight: 60
 url: /java/com.aspose.diagram/compoundtype/
 ---
 

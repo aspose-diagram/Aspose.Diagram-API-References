@@ -1,7 +1,7 @@
 ---
-title: ThreeDFormat
+title: Class ThreeDFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: Represents a shapes threedimensional formatting.
+description: Aspose.Diagram.ThreeDFormat class. Represents a shapes threedimensional formatting
 type: docs
 url: /net/aspose.diagram/threedformat/
 ---
@@ -17,36 +17,36 @@ public class ThreeDFormat
 
 | Name | Description |
 | --- | --- |
-| [BevelBottomHeight](../../aspose.diagram/threedformat/bevelbottomheight) { get; set; } | Specifies the height of the bottom bevel on a 3D shape. |
-| [BevelBottomType](../../aspose.diagram/threedformat/bevelbottomtype) { get; set; } | Specifies the preset bevel type for the bottom bevel on a 3D shape |
-| [BevelBottomWidth](../../aspose.diagram/threedformat/bevelbottomwidth) { get; set; } | Specifies the width of the bottom bevel on a 3D shape. |
-| [BevelContourColor](../../aspose.diagram/threedformat/bevelcontourcolor) { get; set; } | Specifies the color of the outline on a 3D shape |
-| [BevelContourSize](../../aspose.diagram/threedformat/bevelcontoursize) { get; set; } | Specifies the thickness of the outline on a 3D shape |
-| [BevelDepthColor](../../aspose.diagram/threedformat/beveldepthcolor) { get; set; } | Specifies the extrusion color on a 3D shape |
-| [BevelDepthSize](../../aspose.diagram/threedformat/beveldepthsize) { get; set; } | Specifies the extrusion depth on a 3D shape |
-| [BevelLightingAngle](../../aspose.diagram/threedformat/bevellightingangle) { get; set; } | Specifies the direction for lighting on a 3D shape. |
-| [BevelLightingType](../../aspose.diagram/threedformat/bevellightingtype) { get; set; } | Specifies the preset type of lighting on a 3D shape |
-| [BevelMaterialType](../../aspose.diagram/threedformat/bevelmaterialtype) { get; set; } | Specifies the preset surface appearance on a 3D shape |
-| [BevelTopHeight](../../aspose.diagram/threedformat/beveltopheight) { get; set; } | Specifies the height of the top bevel on a 3D shape |
-| [BevelTopType](../../aspose.diagram/threedformat/beveltoptype) { get; set; } | Specifies the preset bevel type for the top bevel on a 3D shape |
-| [BevelTopWidth](../../aspose.diagram/threedformat/beveltopwidth) { get; set; } | Specifies the width of the top bevel on a 3D shape. |
-| [DistanceFromGround](../../aspose.diagram/threedformat/distancefromground) { get; set; } | Specifies the distance that a shape with 3D rotation properties |
-| [KeepTextFlat](../../aspose.diagram/threedformat/keeptextflat) { get; set; } | Specifies whether 3D rotation properties apply to the text of a shape |
-| [Perspective](../../aspose.diagram/threedformat/perspective) { get; set; } | Specifies the angle of view for a shape with 3D rotation properties |
-| [RotationType](../../aspose.diagram/threedformat/rotationtype) { get; set; } | Specifies the type of projection of the effect properties of a shape. |
-| [RotationXAngle](../../aspose.diagram/threedformat/rotationxangle) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the y-axis. |
-| [RotationYAngle](../../aspose.diagram/threedformat/rotationyangle) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the x-axis |
-| [RotationZAngle](../../aspose.diagram/threedformat/rotationzangle) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the z-axis. |
+| [BevelBottomHeight](../../aspose.diagram/threedformat/bevelbottomheight/) { get; set; } | Specifies the height of the bottom bevel on a 3D shape. |
+| [BevelBottomType](../../aspose.diagram/threedformat/bevelbottomtype/) { get; set; } | Specifies the preset bevel type for the bottom bevel on a 3D shape |
+| [BevelBottomWidth](../../aspose.diagram/threedformat/bevelbottomwidth/) { get; set; } | Specifies the width of the bottom bevel on a 3D shape. |
+| [BevelContourColor](../../aspose.diagram/threedformat/bevelcontourcolor/) { get; set; } | Specifies the color of the outline on a 3D shape |
+| [BevelContourSize](../../aspose.diagram/threedformat/bevelcontoursize/) { get; set; } | Specifies the thickness of the outline on a 3D shape |
+| [BevelDepthColor](../../aspose.diagram/threedformat/beveldepthcolor/) { get; set; } | Specifies the extrusion color on a 3D shape |
+| [BevelDepthSize](../../aspose.diagram/threedformat/beveldepthsize/) { get; set; } | Specifies the extrusion depth on a 3D shape |
+| [BevelLightingAngle](../../aspose.diagram/threedformat/bevellightingangle/) { get; set; } | Specifies the direction for lighting on a 3D shape. |
+| [BevelLightingType](../../aspose.diagram/threedformat/bevellightingtype/) { get; set; } | Specifies the preset type of lighting on a 3D shape |
+| [BevelMaterialType](../../aspose.diagram/threedformat/bevelmaterialtype/) { get; set; } | Specifies the preset surface appearance on a 3D shape |
+| [BevelTopHeight](../../aspose.diagram/threedformat/beveltopheight/) { get; set; } | Specifies the height of the top bevel on a 3D shape |
+| [BevelTopType](../../aspose.diagram/threedformat/beveltoptype/) { get; set; } | Specifies the preset bevel type for the top bevel on a 3D shape |
+| [BevelTopWidth](../../aspose.diagram/threedformat/beveltopwidth/) { get; set; } | Specifies the width of the top bevel on a 3D shape. |
+| [DistanceFromGround](../../aspose.diagram/threedformat/distancefromground/) { get; set; } | Specifies the distance that a shape with 3D rotation properties |
+| [KeepTextFlat](../../aspose.diagram/threedformat/keeptextflat/) { get; set; } | Specifies whether 3D rotation properties apply to the text of a shape |
+| [Perspective](../../aspose.diagram/threedformat/perspective/) { get; set; } | Specifies the angle of view for a shape with 3D rotation properties |
+| [RotationType](../../aspose.diagram/threedformat/rotationtype/) { get; set; } | Specifies the type of projection of the effect properties of a shape. |
+| [RotationXAngle](../../aspose.diagram/threedformat/rotationxangle/) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the y-axis. |
+| [RotationYAngle](../../aspose.diagram/threedformat/rotationyangle/) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the x-axis |
+| [RotationZAngle](../../aspose.diagram/threedformat/rotationzangle/) { get; set; } | Specifies the counterclockwise rotation angle of a shape around the z-axis. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.diagram/threedformat/equals)(object) |  |
+| override [Equals](../../aspose.diagram/threedformat/equals/)(object) |  |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

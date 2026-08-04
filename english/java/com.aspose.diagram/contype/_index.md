@@ -3,7 +3,7 @@ title: ConType
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the type of behavior the x or y-coordinate of the control handle exhibits after the handle is moved.
 type: docs
-weight: 73
+weight: 75
 url: /java/com.aspose.diagram/contype/
 ---
 

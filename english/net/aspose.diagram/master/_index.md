@@ -1,7 +1,7 @@
 ---
-title: Master
+title: Class Master
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains elements that define a master for the document. A master is a shape on a stencil that you use repeatedly to create drawings. When you drag a shape from a stencil onto the drawing page the shape becomes an instance of that master and a local copy of the master is included in the document.
+description: Aspose.Diagram.Master class. Contains elements that define a master for the document. A master is a shape on a stencil that you use repeatedly to create drawings. When you drag a shape from a stencil onto the drawing page the shape becomes an instance of that master and a local copy of the master is included in the document
 type: docs
 url: /net/aspose.diagram/master/
 ---
@@ -17,39 +17,39 @@ public class Master : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Master](master)() | Constructor. |
+| [Master](master/)() | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AlignName](../../aspose.diagram/master/alignname) { get; set; } | Specifies whether the master's text in the stencil window is aligned left, right, or center. |
-| [BaseID](../../aspose.diagram/master/baseid) { get; set; } | A GUID (globally unique identifier) that identifies the master across documents. |
-| [Connects](../../aspose.diagram/master/connects) { get; } | Contains a Connect element for each connection between two shapes in a drawing. |
-| [Hidden](../../aspose.diagram/master/hidden) { get; set; } | Specifies whether the master is hidden in the user interface. |
-| [Icon](../../aspose.diagram/master/icon) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
-| [IconSize](../../aspose.diagram/master/iconsize) { get; set; } | The size of the element's icon. |
-| [IconUpdate](../../aspose.diagram/master/iconupdate) { get; set; } | Specifies whether the icon is automatically generated from the master itself. |
-| [ID](../../aspose.diagram/master/id) { get; set; } | The unique ID of the element within its parent element. |
-| [MatchByName](../../aspose.diagram/master/matchbyname) { get; set; } | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. |
-| [Name](../../aspose.diagram/master/name) { get; set; } | The name of the element. |
-| [NameU](../../aspose.diagram/master/nameu) { get; set; } | The universal name of the element. |
-| [PageSheet](../../aspose.diagram/master/pagesheet) { get; } | Contains elements that define the page sheet for a Page or Master element. |
-| [PatternFlags](../../aspose.diagram/master/patternflags) { get; set; } | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
-| [Prompt](../../aspose.diagram/master/prompt) { get; set; } | The status bar and tool tip prompt for the element. |
-| [Shapes](../../aspose.diagram/master/shapes) { get; } | Collection of Shape objects. |
-| [UniqueID](../../aspose.diagram/master/uniqueid) { get; set; } | A GUID that identifies the master within the document. |
+| [AlignName](../../aspose.diagram/master/alignname/) { get; set; } | Specifies whether the master's text in the stencil window is aligned left, right, or center. |
+| [BaseID](../../aspose.diagram/master/baseid/) { get; set; } | A GUID (globally unique identifier) that identifies the master across documents. |
+| [Connects](../../aspose.diagram/master/connects/) { get; } | Contains a Connect element for each connection between two shapes in a drawing. |
+| [Hidden](../../aspose.diagram/master/hidden/) { get; set; } | Specifies whether the master is hidden in the user interface. |
+| [Icon](../../aspose.diagram/master/icon/) { get; set; } | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document. |
+| [IconSize](../../aspose.diagram/master/iconsize/) { get; set; } | The size of the element's icon. |
+| [IconUpdate](../../aspose.diagram/master/iconupdate/) { get; set; } | Specifies whether the icon is automatically generated from the master itself. |
+| [ID](../../aspose.diagram/master/id/) { get; set; } | The unique ID of the element within its parent element. |
+| [MatchByName](../../aspose.diagram/master/matchbyname/) { get; set; } | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. |
+| [Name](../../aspose.diagram/master/name/) { get; set; } | The name of the element. |
+| [NameU](../../aspose.diagram/master/nameu/) { get; set; } | The universal name of the element. |
+| [PageSheet](../../aspose.diagram/master/pagesheet/) { get; } | Contains elements that define the page sheet for a Page or Master element. |
+| [PatternFlags](../../aspose.diagram/master/patternflags/) { get; set; } | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
+| [Prompt](../../aspose.diagram/master/prompt/) { get; set; } | The status bar and tool tip prompt for the element. |
+| [Shapes](../../aspose.diagram/master/shapes/) { get; } | Collection of Shape objects. |
+| [UniqueID](../../aspose.diagram/master/uniqueid/) { get; set; } | A GUID that identifies the master within the document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](../../aspose.diagram/master/clone)() | Creates deep copy of this instance. |
-| [Dispose](../../aspose.diagram/master/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [Clone](../../aspose.diagram/master/clone/)() | Creates deep copy of this instance. |
+| [Dispose](../../aspose.diagram/master/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

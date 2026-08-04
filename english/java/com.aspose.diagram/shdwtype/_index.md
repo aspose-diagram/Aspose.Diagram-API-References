@@ -3,7 +3,7 @@ title: ShdwType
 second_title: Aspose.Diagram for Java API Reference
 description: Indicates the default shadow type for a page.
 type: docs
-weight: 371
+weight: 394
 url: /java/com.aspose.diagram/shdwtype/
 ---
 
@@ -23,6 +23,7 @@ Indicates the default shadow type for a page.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | Creates deep copy of this instance. |
 | [equals(Object value)](#equals-java.lang.Object-) | Are objects equal. |
 | [getClass()](#getClass--) |  |
 | [getUfe()](#getUfe--) | Specifies attributes of an element. |
@@ -48,6 +49,16 @@ Constructor.
 | --- | --- | --- |
 | value | int |  |
 
+### deepClone() {#deepClone--}
+```
+public Object deepClone()
+```
+
+
+Creates deep copy of this instance.
+
+**Returns:**
+java.lang.Object - 
 ### equals(Object value) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object value)

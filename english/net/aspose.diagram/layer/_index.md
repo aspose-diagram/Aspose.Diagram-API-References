@@ -1,7 +1,7 @@
 ---
-title: Layer
+title: Class Layer
 second_title: Aspose.Diagram for .NET API Reference
-description: Contains elements that define a single layer and its properties for a page.
+description: Aspose.Diagram.Layer class. Contains elements that define a single layer and its properties for a page
 type: docs
 url: /net/aspose.diagram/layer/
 ---
@@ -17,30 +17,30 @@ public class Layer
 
 | Name | Description |
 | --- | --- |
-| [Layer](layer)() | Constructor. |
+| [Layer](layer/)() | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Active](../../aspose.diagram/layer/active) { get; } | Specifies whether a layer is active. Shapes that are not preassigned to layers are assigned to the active layer(s) when dropped on the drawing page. |
-| [Color](../../aspose.diagram/layer/color) { get; } | The index of the color in the color table used toThe index of the color in the color table used to display the layer or An RGB value specifying a custom color not in the color table (for example, #ff9900 ). display the layer |
-| [ColorTrans](../../aspose.diagram/layer/colortrans) { get; } | Determines the degree of transparency for a layer or shape's text color, from 0 (completely opaque) to 1 (completely transparent). |
-| [Del](../../aspose.diagram/layer/del) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
-| [Glue](../../aspose.diagram/layer/glue) { get; } | Specifies whether shapes belonging to the layer can be glued to. |
-| [IsColorChecked](../../aspose.diagram/layer/iscolorchecked) { get; set; } | A flag indicating whether the element has been checked locally. A value of 1 indicates that the element was checked locally. |
-| [IX](../../aspose.diagram/layer/ix) { get; set; } | The zero-based index of the element within its parent element. |
-| [Lock](../../aspose.diagram/layer/lock) { get; } | Specifies whether shapes belonging to the layer are locked against being selected or edited. |
-| [Name](../../aspose.diagram/layer/name) { get; } | Name element specifies the name of a layer. |
-| [NameUniv](../../aspose.diagram/layer/nameuniv) { get; } | Specifies the universal name of a layer. |
-| [Print](../../aspose.diagram/layer/print) { get; } | Specifies whether shapes belonging to the layer are printed when the drawing is printed. |
-| [Snap](../../aspose.diagram/layer/snap) { get; } | Specifies whether other shapes can snap to shapes assigned to the layer. Shapes assigned to the layer can snap to other shapes, but other shapes cannot snap to them. |
-| [Status](../../aspose.diagram/layer/status) { get; } | Specifies whether the layer is a valid layer for a document. |
-| [Visible](../../aspose.diagram/layer/visible) { get; } | Specifies whether shapes belonging to the layer are visible on the drawing page. |
+| [Active](../../aspose.diagram/layer/active/) { get; } | Specifies whether a layer is active. Shapes that are not preassigned to layers are assigned to the active layer(s) when dropped on the drawing page. |
+| [Color](../../aspose.diagram/layer/color/) { get; } | The index of the color in the color table used toThe index of the color in the color table used to display the layer or An RGB value specifying a custom color not in the color table (for example, #ff9900 ). display the layer |
+| [ColorTrans](../../aspose.diagram/layer/colortrans/) { get; } | Determines the degree of transparency for a layer or shape's text color, from 0 (completely opaque) to 1 (completely transparent). |
+| [Del](../../aspose.diagram/layer/del/) { get; set; } | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. |
+| [Glue](../../aspose.diagram/layer/glue/) { get; } | Specifies whether shapes belonging to the layer can be glued to. |
+| [IsColorChecked](../../aspose.diagram/layer/iscolorchecked/) { get; set; } | A flag indicating whether the element has been checked locally. A value of 1 indicates that the element was checked locally. |
+| [IX](../../aspose.diagram/layer/ix/) { get; set; } | The zero-based index of the element within its parent element. |
+| [Lock](../../aspose.diagram/layer/lock/) { get; } | Specifies whether shapes belonging to the layer are locked against being selected or edited. |
+| [Name](../../aspose.diagram/layer/name/) { get; } | Name element specifies the name of a layer. |
+| [NameUniv](../../aspose.diagram/layer/nameuniv/) { get; } | Specifies the universal name of a layer. |
+| [Print](../../aspose.diagram/layer/print/) { get; } | Specifies whether shapes belonging to the layer are printed when the drawing is printed. |
+| [Snap](../../aspose.diagram/layer/snap/) { get; } | Specifies whether other shapes can snap to shapes assigned to the layer. Shapes assigned to the layer can snap to other shapes, but other shapes cannot snap to them. |
+| [Status](../../aspose.diagram/layer/status/) { get; } | Specifies whether the layer is a valid layer for a document. |
+| [Visible](../../aspose.diagram/layer/visible/) { get; } | Specifies whether shapes belonging to the layer are visible on the drawing page. |
 
 ### See Also
 
-* namespace [Aspose.Diagram](../../aspose.diagram)
+* namespace [Aspose.Diagram](../../aspose.diagram/)
 * assembly [Aspose.Diagram](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

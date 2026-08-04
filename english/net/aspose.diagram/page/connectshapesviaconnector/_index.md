@@ -1,7 +1,7 @@
 ---
-title: ConnectShapesViaConnector
+title: Page.ConnectShapesViaConnector
 second_title: Aspose.Diagram for .NET API Reference
-description: Connect shapes via connector.
+description: Page method. Connect shapes via connector
 type: docs
 url: /net/aspose.diagram/page/connectshapesviaconnector/
 ---
@@ -16,18 +16,18 @@ public void ConnectShapesViaConnector(Shape shapeFrom, ConnectionPointPlace plac
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeFrom | Shape | The shape where the connector begins [`Shape`](../../shape). |
-| placeFrom | ConnectionPointPlace | The location on the first shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| shapeTo | Shape | The shape where the connector ends [`Shape`](../../shape). |
-| placeTo | ConnectionPointPlace | The location on the second shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| connector | Shape | The shape with type Dynamic connector [`Shape`](../../shape). |
+| shapeFrom | Shape | The shape where the connector begins [`Shape`](../../shape/). |
+| placeFrom | ConnectionPointPlace | The location on the first shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| shapeTo | Shape | The shape where the connector ends [`Shape`](../../shape/). |
+| placeTo | ConnectionPointPlace | The location on the second shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| connector | Shape | The shape with type Dynamic connector [`Shape`](../../shape/). |
 
 ### See Also
 
-* class [Shape](../../shape)
-* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace)
-* class [Page](../../page)
-* namespace [Aspose.Diagram](../../page)
+* class [Shape](../../shape/)
+* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace/)
+* class [Page](../)
+* namespace [Aspose.Diagram](../../page/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -43,17 +43,17 @@ public void ConnectShapesViaConnector(long shapeFromId, ConnectionPointPlace pla
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeFromId | Int64 | The ID of shape where the connector begins [`Shape`](../../shape). |
-| placeFrom | ConnectionPointPlace | The location on the first shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| shapeToId | Int64 | The ID of shape where the connector ends [`Shape`](../../shape). |
-| placeTo | ConnectionPointPlace | The location on the second shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace). |
-| connectorId | Int64 | The ID of shape with type Dynamic connector [`Shape`](../../shape). |
+| shapeFromId | Int64 | The ID of shape where the connector begins [`Shape`](../../shape/). |
+| placeFrom | ConnectionPointPlace | The location on the first shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| shapeToId | Int64 | The ID of shape where the connector ends [`Shape`](../../shape/). |
+| placeTo | ConnectionPointPlace | The location on the second shape where connector will be connected [`ConnectionPointPlace`](../../../aspose.diagram.manipulation/connectionpointplace/). |
+| connectorId | Int64 | The ID of shape with type Dynamic connector [`Shape`](../../shape/). |
 
 ### See Also
 
-* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace)
-* class [Page](../../page)
-* namespace [Aspose.Diagram](../../page)
+* enum [ConnectionPointPlace](../../../aspose.diagram.manipulation/connectionpointplace/)
+* class [Page](../)
+* namespace [Aspose.Diagram](../../page/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -69,16 +69,16 @@ public void ConnectShapesViaConnector(long shapeFromId, string fromConnectionNam
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapeFromId | Int64 | The ID of shape where the connector begins [`Shape`](../../shape). |
+| shapeFromId | Int64 | The ID of shape where the connector begins [`Shape`](../../shape/). |
 | fromConnectionName | String | The connection name on the first shape where connector will be connected . |
-| shapeToId | Int64 | The ID of shape where the connector ends [`Shape`](../../shape). |
+| shapeToId | Int64 | The ID of shape where the connector ends [`Shape`](../../shape/). |
 | toConnectionName | String | The connection name on the second shape where connector will be connected . |
-| connectorId | Int64 | The ID of shape with type Dynamic connector [`Shape`](../../shape). |
+| connectorId | Int64 | The ID of shape with type Dynamic connector [`Shape`](../../shape/). |
 
 ### See Also
 
-* class [Page](../../page)
-* namespace [Aspose.Diagram](../../page)
+* class [Page](../)
+* namespace [Aspose.Diagram](../../page/)
 * assembly [Aspose.Diagram](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+

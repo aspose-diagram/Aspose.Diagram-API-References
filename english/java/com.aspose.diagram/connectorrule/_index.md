@@ -3,7 +3,7 @@ title: ConnectorRule
 second_title: Aspose.Diagram for Java API Reference
 description: Represents connector rule between two shapes with a connectorIncluding which connection point of which shape it starts from the end shape and its connection point.
 type: docs
-weight: 83
+weight: 85
 url: /java/com.aspose.diagram/connectorrule/
 ---
 

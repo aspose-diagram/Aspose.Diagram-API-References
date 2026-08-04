@@ -3,7 +3,7 @@ title: ConLineRouteExtValue
 second_title: Aspose.Diagram for Java API Reference
 description: Determines the appearance of a connector.
 type: docs
-weight: 72
+weight: 74
 url: /java/com.aspose.diagram/conlinerouteextvalue/
 ---
 

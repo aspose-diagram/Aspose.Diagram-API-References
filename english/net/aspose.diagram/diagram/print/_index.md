@@ -1,7 +1,7 @@
 ---
-title: Print
+title: Diagram.Print
 second_title: Aspose.Diagram for .NET API Reference
-description: Prints the whole document to the default printer.
+description: Diagram method. Prints the whole document to the default printer
 type: docs
 url: /net/aspose.diagram/diagram/print/
 ---
@@ -19,9 +19,9 @@ public void Print(PrintSaveOptions options)
 
 ### See Also
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -36,8 +36,8 @@ public void Print()
 
 ### See Also
 
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -54,14 +54,14 @@ public void Print(string printerName)
 | --- | --- | --- |
 | printerName | String | The name of the printer.Can be Null |
 
-### Remarks
+## Remarks
 
 If printerName is Null or empty will be used default printer.
 
 ### See Also
 
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -79,65 +79,48 @@ public void Print(string printerName, PrintSaveOptions options)
 | printerName | String | The name of the printer.Can be Null |
 | options | PrintSaveOptions | The print options. |
 
-### Remarks
+## Remarks
 
 If printerName is Null or empty will be used default printer.
 
 ### See Also
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
 
 ## Print(PrinterSettings, PrintSaveOptions) {#print_3}
 
-Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
-
 ```csharp
 public void Print(PrinterSettings printerSettings, PrintSaveOptions options)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The printer settings to use. |
-| options | PrintSaveOptions | The print options. |
-
-### Remarks
-
-The System.Drawing.Printing.PrinterSettingsobject allows you to specify the printer to print on, the range of pages of to print and other options.
+| Parameter | Description |
+| --- | --- |
+| options | The print options. |
 
 ### See Also
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
 
 ## Print(PrinterSettings) {#print_2}
 
-Prints the document according to the specified printer settings,using the standard (no User Interface) print controller.
-
 ```csharp
 public void Print(PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The printer settings to use. |
-
-### Remarks
-
-The System.Drawing.Printing.PrinterSettingsobject allows you to specify the printer to print on, the range of pages of to print and other options.
-
 ### See Also
 
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -158,9 +141,9 @@ public void Print(PrinterSettings printerSettings, string documentName, PrintSav
 
 ### See Also
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -180,8 +163,8 @@ public void Print(PrinterSettings printerSettings, string documentName)
 
 ### See Also
 
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -202,9 +185,9 @@ public void Print(string printerName, string documentName, PrintSaveOptions opti
 
 ### See Also
 
-* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions)
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [PrintSaveOptions](../../../aspose.diagram.saving/printsaveoptions/)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
 ---
@@ -224,8 +207,8 @@ public void Print(string printerName, string documentName)
 
 ### See Also
 
-* class [Diagram](../../diagram)
-* namespace [Aspose.Diagram](../../diagram)
+* class [Diagram](../)
+* namespace [Aspose.Diagram](../../diagram/)
 * assembly [Aspose.Diagram](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.Diagram.dll -->
+
