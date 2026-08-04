@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/datevalue/value/) | DateTime | Date and time value. |
-| [Ufe](/python-java/asposediagram.api/datevalue/ufe/) | UnitFormulaErr | Attributes of an element. |
+| [Value](./value/) | DateTime | Date and time value. |
+| [Ufe](./ufe/) | UnitFormulaErr | Attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/datevalue/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/datevalue/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

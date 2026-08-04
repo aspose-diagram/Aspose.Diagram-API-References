@@ -17,11 +17,11 @@ Contains the LayerMember element, which specifies each layer to which the shape 
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Del](/python-java/asposediagram.api/layermem/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [LayerMember](/python-java/asposediagram.api/layermem/layermember/) | Str2Value | Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based inde |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [LayerMember](./layermember/) | Str2Value | Specifies the layer or layers to which the shape is assigned. Layer assignment is specified based on the zero-based inde |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/layermem/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

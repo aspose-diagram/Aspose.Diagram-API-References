@@ -23,15 +23,15 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/floatpointnumcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/floatpointnumcollection/itemint/) | float |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | float |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/floatpointnumcollection/add/) | Add the doubling point number in the collection. |
-| [remove](/python-java/asposediagram.api/floatpointnumcollection/remove/) | Remove the doubling point number from the collection. |
-| [clear](/python-java/asposediagram.api/floatpointnumcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/floatpointnumcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/floatpointnumcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the doubling point number in the collection. |
+| [remove](./remove/) | Remove the doubling point number from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

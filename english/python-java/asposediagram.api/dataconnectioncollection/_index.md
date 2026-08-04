@@ -17,17 +17,17 @@ DataConnection collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [NextID](/python-java/asposediagram.api/dataconnectioncollection/nextid/) | long | The next available ID for new connections. |
-| [Count](/python-java/asposediagram.api/dataconnectioncollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/dataconnectioncollection/itemint/) | DataConnection |  |
+| [NextID](./nextid/) | long | The next available ID for new connections. |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | DataConnection |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/dataconnectioncollection/add/) | Add the dataConnection in the collection. |
-| [remove](/python-java/asposediagram.api/dataconnectioncollection/remove/) | Remove the dataConnection from the collection. |
-| [getDataConnection](/python-java/asposediagram.api/dataconnectioncollection/getdataconnection/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/dataconnectioncollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/dataconnectioncollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/dataconnectioncollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the dataConnection in the collection. |
+| [remove](./remove/) | Remove the dataConnection from the collection. |
+| [getDataConnection](./getdataconnection/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

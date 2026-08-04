@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/dynfeedback/value/) | int | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
-| [Ufe](/python-java/asposediagram.api/dynfeedback/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/dynfeedback/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/dynfeedback/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

@@ -17,15 +17,15 @@ Contains a collection of TabCollection elements
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/tabscollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/tabscollection/itemint/) | TabCollection |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | TabCollection |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/tabscollection/add/) | Add the Tab object in the collection. |
-| [remove](/python-java/asposediagram.api/tabscollection/remove/) | Remove the Tab object from the collection. |
-| [clear](/python-java/asposediagram.api/tabscollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/tabscollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/tabscollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Tab object in the collection. |
+| [remove](./remove/) | Remove the Tab object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

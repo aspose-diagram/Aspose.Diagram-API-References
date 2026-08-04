@@ -23,5 +23,5 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/colorentry/ix/) | int | Required int. The zero-based index of the element within its parent element. |
-| [Color](/python-java/asposediagram.api/colorentry/color/) | Color | Represents an ARGB color. |
+| [IX](./ix/) | int | Required int. The zero-based index of the element within its parent element. |
+| [Color](./color/) | Color | Represents an ARGB color. |

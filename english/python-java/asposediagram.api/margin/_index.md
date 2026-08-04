@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Unit](/python-java/asposediagram.api/margin/unit/) | int | Represents a unit of measure. The default is DP. The value of the property is MeasureConst integer constant. |
-| [Value](/python-java/asposediagram.api/margin/value/) | float | Specifies the margin. |
+| [Unit](./unit/) | int | Represents a unit of measure. The default is DP. The value of the property is MeasureConst integer constant. |
+| [Value](./value/) | float | Specifies the margin. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/margin/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/margin/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

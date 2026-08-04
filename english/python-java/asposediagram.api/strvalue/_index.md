@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/strvalue/value/) | String | String value. |
-| [Ufe](/python-java/asposediagram.api/strvalue/ufe/) | UnitFormulaErr | Attributes of an element. |
+| [Value](./value/) | String | String value. |
+| [Ufe](./ufe/) | UnitFormulaErr | Attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/strvalue/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/strvalue/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/strvalue/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

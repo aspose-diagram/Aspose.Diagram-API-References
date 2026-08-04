@@ -23,15 +23,15 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [FromSheet](/python-java/asposediagram.api/connect/fromsheet/) | long | The ID of the shape from which a connection or connections originate. |
-| [ToSheet](/python-java/asposediagram.api/connect/tosheet/) | long | The ID of the shape to which one or more connections are made |
-| [FromCell](/python-java/asposediagram.api/connect/fromcell/) | String | The cell from which a connection is made. |
-| [ToCell](/python-java/asposediagram.api/connect/tocell/) | String | The cell to which a connection is made. |
-| [FromPart](/python-java/asposediagram.api/connect/frompart/) | int | The cell from which a connection originates. The value of the property is FromPartValue integer constant. |
-| [ToPart](/python-java/asposediagram.api/connect/topart/) | int | The part of a shape to which a connection is made. The value of the property is ToPartValue integer constant. |
+| [FromSheet](./fromsheet/) | long | The ID of the shape from which a connection or connections originate. |
+| [ToSheet](./tosheet/) | long | The ID of the shape to which one or more connections are made |
+| [FromCell](./fromcell/) | String | The cell from which a connection is made. |
+| [ToCell](./tocell/) | String | The cell to which a connection is made. |
+| [FromPart](./frompart/) | int | The cell from which a connection originates. The value of the property is FromPartValue integer constant. |
+| [ToPart](./topart/) | int | The part of a shape to which a connection is made. The value of the property is ToPartValue integer constant. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/connect/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

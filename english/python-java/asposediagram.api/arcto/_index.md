@@ -23,14 +23,14 @@ Creates an instance of the ArcTo class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/arcto/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/arcto/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/arcto/x/) | DoubleValue | The x-coordinate of the ending vertex of an arc. |
-| [Y](/python-java/asposediagram.api/arcto/y/) | DoubleValue | The y-coordinate of the ending vertex of an arc. |
-| [A](/python-java/asposediagram.api/arcto/a/) | DoubleValue | The distance from the arc's midpoint to the midpoint of its chord. |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of the ending vertex of an arc. |
+| [Y](./y/) | DoubleValue | The y-coordinate of the ending vertex of an arc. |
+| [A](./a/) | DoubleValue | The distance from the arc's midpoint to the midpoint of its chord. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/arcto/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

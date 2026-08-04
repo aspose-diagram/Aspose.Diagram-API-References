@@ -17,13 +17,13 @@ RelMoveTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/relmovetocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/relmovetocollection/itemint/) | RelMoveTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | RelMoveTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/relmovetocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/relmovetocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/relmovetocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

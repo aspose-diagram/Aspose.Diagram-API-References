@@ -17,9 +17,9 @@ Represents the refernece of VBA project.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Type](/python-java/asposediagram.api/vbaprojectreference/type/) | int | Gets the type of this reference. The value of the property is VbaProjectReferenceType integer constant. |
-| [Name](/python-java/asposediagram.api/vbaprojectreference/name/) | String | Gets and sets the name of the reference. |
-| [Libid](/python-java/asposediagram.api/vbaprojectreference/libid/) | String | Gets and sets the Libid of the reference. |
-| [Twiddledlibid](/python-java/asposediagram.api/vbaprojectreference/twiddledlibid/) | String | Gets and sets the twiddled Libid of the reference. Only for control reference. |
-| [ExtendedLibid](/python-java/asposediagram.api/vbaprojectreference/extendedlibid/) | String | Gets and sets the extended Libid of the reference. Only for control reference. |
-| [RelativeLibid](/python-java/asposediagram.api/vbaprojectreference/relativelibid/) | String | Gets and sets the referenced VBA project’s identifier with an relative path. Only for project reference. |
+| [Type](./type/) | int | Gets the type of this reference. The value of the property is VbaProjectReferenceType integer constant. |
+| [Name](./name/) | String | Gets and sets the name of the reference. |
+| [Libid](./libid/) | String | Gets and sets the Libid of the reference. |
+| [Twiddledlibid](./twiddledlibid/) | String | Gets and sets the twiddled Libid of the reference. Only for control reference. |
+| [ExtendedLibid](./extendedlibid/) | String | Gets and sets the extended Libid of the reference. Only for control reference. |
+| [RelativeLibid](./relativelibid/) | String | Gets and sets the referenced VBA project’s identifier with an relative path. Only for project reference. |

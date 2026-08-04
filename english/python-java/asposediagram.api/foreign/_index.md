@@ -17,14 +17,14 @@ Contains elements specifying the width and height of an object from another prog
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Del](/python-java/asposediagram.api/foreign/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [ImgOffsetX](/python-java/asposediagram.api/foreign/imgoffsetx/) | DoubleValue | Determines the distance the object is offset horizontally from the origin of the object's border. The default value is 0 |
-| [ImgOffsetY](/python-java/asposediagram.api/foreign/imgoffsety/) | DoubleValue | Determines the distance the object is offset vertically from the origin of the object's border. The default value is 0;  |
-| [ImgWidth](/python-java/asposediagram.api/foreign/imgwidth/) | DoubleValue | Determines the width of the object's image within its border. The default formula is: F="Width*1". |
-| [ImgHeight](/python-java/asposediagram.api/foreign/imgheight/) | DoubleValue | Determines the height of the object's image within its border. The default formula is: F="Height*1". |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [ImgOffsetX](./imgoffsetx/) | DoubleValue | Determines the distance the object is offset horizontally from the origin of the object's border. The default value is 0 |
+| [ImgOffsetY](./imgoffsety/) | DoubleValue | Determines the distance the object is offset vertically from the origin of the object's border. The default value is 0;  |
+| [ImgWidth](./imgwidth/) | DoubleValue | Determines the width of the object's image within its border. The default formula is: F="Width*1". |
+| [ImgHeight](./imgheight/) | DoubleValue | Determines the height of the object's image within its border. The default formula is: F="Height*1". |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/foreign/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

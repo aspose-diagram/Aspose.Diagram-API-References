@@ -17,7 +17,7 @@ Represents connector rule between two shapes with a connector,Including which co
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [StartShapeId](/python-java/asposediagram.api/connectorrule/startshapeid/) | long | The shape from which a connection is made. |
-| [StartShapeConnection](/python-java/asposediagram.api/connectorrule/startshapeconnection/) | Connection | The shape's connection from which a connection is made. |
-| [EndShapeConnection](/python-java/asposediagram.api/connectorrule/endshapeconnection/) | Connection | The shape's connection to which a connection is made. |
-| [EndShapeId](/python-java/asposediagram.api/connectorrule/endshapeid/) | long | The shape to which a connection is made. |
+| [StartShapeId](./startshapeid/) | long | The shape from which a connection is made. |
+| [StartShapeConnection](./startshapeconnection/) | Connection | The shape's connection from which a connection is made. |
+| [EndShapeConnection](./endshapeconnection/) | Connection | The shape's connection to which a connection is made. |
+| [EndShapeId](./endshapeid/) | long | The shape to which a connection is made. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IsThemed](/python-java/asposediagram.api/linepattern/isthemed/) | boolean |  |
-| [Value](/python-java/asposediagram.api/linepattern/value/) | int | Specifies the line pattern of the shape. The value of the property is LinePatternValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/linepattern/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [IsThemed](./isthemed/) | boolean |  |
+| [Value](./value/) | int | Specifies the line pattern of the shape. The value of the property is LinePatternValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/linepattern/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/linepattern/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

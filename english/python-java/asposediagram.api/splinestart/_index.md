@@ -23,17 +23,17 @@ Creates an instance of SplineStart class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/splinestart/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/splinestart/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/splinestart/x/) | DoubleValue | The x-coordinate of a spline's second control point. |
-| [Y](/python-java/asposediagram.api/splinestart/y/) | DoubleValue | The y-coordinate of a spline's second control point. |
-| [A](/python-java/asposediagram.api/splinestart/a/) | DoubleValue | The second knot of the spline. |
-| [B](/python-java/asposediagram.api/splinestart/b/) | DoubleValue | The first knot of a spline. |
-| [C](/python-java/asposediagram.api/splinestart/c/) | DoubleValue | The last knot of the spline. |
-| [D](/python-java/asposediagram.api/splinestart/d/) | IntValue | The degree of the spline (an integer from 1 to 25). |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of a spline's second control point. |
+| [Y](./y/) | DoubleValue | The y-coordinate of a spline's second control point. |
+| [A](./a/) | DoubleValue | The second knot of the spline. |
+| [B](./b/) | DoubleValue | The first knot of a spline. |
+| [C](./c/) | DoubleValue | The last knot of the spline. |
+| [D](./d/) | IntValue | The degree of the spline (an integer from 1 to 25). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/splinestart/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

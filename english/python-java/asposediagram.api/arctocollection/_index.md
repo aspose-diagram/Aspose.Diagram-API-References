@@ -17,13 +17,13 @@ ArcTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/arctocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/arctocollection/itemint/) | ArcTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | ArcTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/arctocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/arctocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/arctocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

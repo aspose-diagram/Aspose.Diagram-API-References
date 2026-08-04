@@ -23,11 +23,11 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Name](/python-java/asposediagram.api/solutionxml/name/) | String | A unique name to identify the XML data set. |
-| [XmlValue](/python-java/asposediagram.api/solutionxml/xmlvalue/) | String | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
+| [Name](./name/) | String | A unique name to identify the XML data set. |
+| [XmlValue](./xmlvalue/) | String | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/solutionxml/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

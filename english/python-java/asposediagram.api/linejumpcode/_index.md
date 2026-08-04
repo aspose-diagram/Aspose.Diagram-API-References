@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/linejumpcode/value/) | int | Determines the dynamic connectors to which you want to add jumps. The value of the property is LineJumpCodeValue integer |
-| [Ufe](/python-java/asposediagram.api/linejumpcode/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines the dynamic connectors to which you want to add jumps. The value of the property is LineJumpCodeValue integer |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/linejumpcode/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/linejumpcode/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/drawingresizetype/value/) | int | Determines whether the drawing page resizes automatically to fit the diagram. The value of the property is DrawingResize |
-| [Ufe](/python-java/asposediagram.api/drawingresizetype/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines whether the drawing page resizes automatically to fit the diagram. The value of the property is DrawingResize |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/drawingresizetype/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/drawingresizetype/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/drawingresizetype/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

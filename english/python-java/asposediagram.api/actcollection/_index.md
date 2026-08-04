@@ -17,16 +17,16 @@ Act collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/actcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/actcollection/itemint/) | Act |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Act |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/actcollection/add/) | Add the Act object in the collection. |
-| [remove](/python-java/asposediagram.api/actcollection/remove/) | Remove the Act object from the collection. |
-| [getAct](/python-java/asposediagram.api/actcollection/getact/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/actcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/actcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/actcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Act object in the collection. |
+| [remove](./remove/) | Remove the Act object from the collection. |
+| [getAct](./getact/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

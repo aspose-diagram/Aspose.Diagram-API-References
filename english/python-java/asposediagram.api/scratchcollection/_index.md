@@ -17,15 +17,15 @@ Scratch collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/scratchcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/scratchcollection/itemint/) | Scratch |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Scratch |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/scratchcollection/add/) | Add the Scratch object in the collection. |
-| [remove](/python-java/asposediagram.api/scratchcollection/remove/) | Remove the Scratch object from the collection. |
-| [clear](/python-java/asposediagram.api/scratchcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/scratchcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/scratchcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Scratch object in the collection. |
+| [remove](./remove/) | Remove the Scratch object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

@@ -23,6 +23,6 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [RowID](/python-java/asposediagram.api/row/rowid/) | long | The original row ID. |
-| [ShapeID](/python-java/asposediagram.api/row/shapeid/) | long | Shape ID of the shape. |
-| [PageID](/python-java/asposediagram.api/row/pageid/) | long | Page ID of the shape. |
+| [RowID](./rowid/) | long | The original row ID. |
+| [ShapeID](./shapeid/) | long | Shape ID of the shape. |
+| [PageID](./pageid/) | long | Page ID of the shape. |

@@ -17,21 +17,21 @@ Master collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [MasterShortcuts](/python-java/asposediagram.api/mastercollection/mastershortcuts/) | MasterShortcutCollection | MasterShortcut collection. |
-| [Count](/python-java/asposediagram.api/mastercollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/mastercollection/itemint/) | Master |  |
+| [MasterShortcuts](./mastershortcuts/) | MasterShortcutCollection | MasterShortcut collection. |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Master |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/mastercollection/add/) | Add the Master object in the collection. |
-| [remove](/python-java/asposediagram.api/mastercollection/remove/) | Remove the Master object from the collection. |
-| [getMaster](/python-java/asposediagram.api/mastercollection/getmaster/) | Gets the element at the specified ID. |
-| [getMasterByName](/python-java/asposediagram.api/mastercollection/getmasterbyname/) | Get master by name. |
-| [getMaxRelID](/python-java/asposediagram.api/mastercollection/getmaxrelid/) | get the max rel id in the collection. |
-| [isExistRelId](/python-java/asposediagram.api/mastercollection/isexistrelid/) | Is exist master rel id in the collection. |
-| [isExist](/python-java/asposediagram.api/mastercollection/isexist/) | Is exist master in the collection. |
-| [clear](/python-java/asposediagram.api/mastercollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/mastercollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/mastercollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Master object in the collection. |
+| [remove](./remove/) | Remove the Master object from the collection. |
+| [getMaster](./getmaster/) | Gets the element at the specified ID. |
+| [getMasterByName](./getmasterbyname/) | Get master by name. |
+| [getMaxRelID](./getmaxrelid/) | get the max rel id in the collection. |
+| [isExistRelId](./isexistrelid/) | Is exist master rel id in the collection. |
+| [isExist](./isexist/) | Is exist master in the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

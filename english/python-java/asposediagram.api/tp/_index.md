@@ -23,4 +23,4 @@ Constructor
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/tp/value/) | String | Value |
+| [Value](./value/) | String | Value |

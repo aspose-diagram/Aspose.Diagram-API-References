@@ -17,13 +17,13 @@ RelLineTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/rellinetocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/rellinetocollection/itemint/) | RelLineTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | RelLineTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/rellinetocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/rellinetocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/rellinetocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

@@ -23,7 +23,7 @@ Constructor
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ID](/python-java/asposediagram.api/issue/id/) | long | Specifies the unique identifier of the validation issue. |
-| [Ignored](/python-java/asposediagram.api/issue/ignored/) | int | Specifies whether the validation issue is currently ignored. The default is False. The value of the property is BOOL int |
-| [IssueTarget](/python-java/asposediagram.api/issue/issuetarget/) | IssueTarget | Depending on the target of the parent validation issue, specifies either the page, or both the page and the shape, that  |
-| [RuleInfo](/python-java/asposediagram.api/issue/ruleinfo/) | RuleInfo | Specifies information about the validation rule that the parent validation issue pertains to. |
+| [ID](./id/) | long | Specifies the unique identifier of the validation issue. |
+| [Ignored](./ignored/) | int | Specifies whether the validation issue is currently ignored. The default is False. The value of the property is BOOL int |
+| [IssueTarget](./issuetarget/) | IssueTarget | Depending on the target of the parent validation issue, specifies either the page, or both the page and the shape, that  |
+| [RuleInfo](./ruleinfo/) | RuleInfo | Specifies information about the validation rule that the parent validation issue pertains to. |

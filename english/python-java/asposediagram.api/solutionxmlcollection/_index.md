@@ -17,16 +17,16 @@ SolutionXML collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/solutionxmlcollection/count/) | int |  |
-| [Item (java.lang.String)](/python-java/asposediagram.api/solutionxmlcollection/itemjavalangstring/) | SolutionXML | Gets the element at the specified attribute Name. Returns null if an element is not exist. |
-| [Item (int)](/python-java/asposediagram.api/solutionxmlcollection/itemint/) | SolutionXML |  |
+| [Count](./count/) | int |  |
+| [Item (java.lang.String)](./itemjavalangstring/) | SolutionXML | Gets the element at the specified attribute Name. Returns null if an element is not exist. |
+| [Item (int)](./itemint/) | SolutionXML |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/solutionxmlcollection/add/) | Add the SolutionXML in the collection. |
-| [remove](/python-java/asposediagram.api/solutionxmlcollection/remove/) | Remove the SolutionXML from the collection. |
-| [clear](/python-java/asposediagram.api/solutionxmlcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/solutionxmlcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/solutionxmlcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the SolutionXML in the collection. |
+| [remove](./remove/) | Remove the SolutionXML from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/colorvalue/value/) | String | Color Value. To set the color, enter a number from 0 to 23 or the RGB value in hexadecimal notation. |
-| [Ufe](/python-java/asposediagram.api/colorvalue/ufe/) | UnitFormulaErr | Attributes of an element. |
+| [Value](./value/) | String | Color Value. To set the color, enter a number from 0 to 23 or the RGB value in hexadecimal notation. |
+| [Ufe](./ufe/) | UnitFormulaErr | Attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/colorvalue/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/colorvalue/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/colorvalue/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

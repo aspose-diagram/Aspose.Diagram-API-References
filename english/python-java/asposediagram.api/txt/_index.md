@@ -23,5 +23,5 @@ Constructor
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/txt/value/) | String | Value |
-| [Text](/python-java/asposediagram.api/txt/text/) | String | Contains the text of a shape. |
+| [Value](./value/) | String | Value |
+| [Text](./text/) | String | Contains the text of a shape. |

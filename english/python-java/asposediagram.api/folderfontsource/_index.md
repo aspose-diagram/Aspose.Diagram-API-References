@@ -23,6 +23,6 @@ Ctor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [FolderPath](/python-java/asposediagram.api/folderfontsource/folderpath/) | String | Path to fonts folder. |
-| [ScanSubFolders](/python-java/asposediagram.api/folderfontsource/scansubfolders/) | boolean | Determines whether or not to scan the subfolders. |
-| [Type](/python-java/asposediagram.api/folderfontsource/type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [FolderPath](./folderpath/) | String | Path to fonts folder. |
+| [ScanSubFolders](./scansubfolders/) | boolean | Determines whether or not to scan the subfolders. |
+| [Type](./type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |

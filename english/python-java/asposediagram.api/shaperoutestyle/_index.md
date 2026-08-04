@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/shaperoutestyle/value/) | int | Specifies the routing style and direction for a connector on the drawing page. The value of the property is ShapeRouteSt |
-| [Ufe](/python-java/asposediagram.api/shaperoutestyle/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the routing style and direction for a connector on the drawing page. The value of the property is ShapeRouteSt |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/shaperoutestyle/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/shaperoutestyle/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

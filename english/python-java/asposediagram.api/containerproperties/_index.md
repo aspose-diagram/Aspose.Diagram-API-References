@@ -23,17 +23,17 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ContainerStyle](/python-java/asposediagram.api/containerproperties/containerstyle/) | int | ContainerStyle |
-| [ContainerType](/python-java/asposediagram.api/containerproperties/containertype/) | int | ContainerType The value of the property is ContainerType integer constant. |
-| [HeadingStyle](/python-java/asposediagram.api/containerproperties/headingstyle/) | int | HeadingStyle |
-| [Margin](/python-java/asposediagram.api/containerproperties/margin/) | float | ContainerMargin |
-| [Shape](/python-java/asposediagram.api/containerproperties/shape/) | Shape | Parent shape |
+| [ContainerStyle](./containerstyle/) | int | ContainerStyle |
+| [ContainerType](./containertype/) | int | ContainerType The value of the property is ContainerType integer constant. |
+| [HeadingStyle](./headingstyle/) | int | HeadingStyle |
+| [Margin](./margin/) | float | ContainerMargin |
+| [Shape](./shape/) | Shape | Parent shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [addMember](/python-java/asposediagram.api/containerproperties/addmember/) | Add Member to container |
-| [removeMember](/python-java/asposediagram.api/containerproperties/removemember/) | RemoveMember |
-| [getMemberShapes](/python-java/asposediagram.api/containerproperties/getmembershapes/) | get member shapes |
-| [clearMembers](/python-java/asposediagram.api/containerproperties/clearmembers/) | clear members |
+| [addMember](./addmember/) | Add Member to container |
+| [removeMember](./removemember/) | RemoveMember |
+| [getMemberShapes](./getmembershapes/) | get member shapes |
+| [clearMembers](./clearmembers/) | clear members |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/pos/value/) | int | Specifies the position of the shape's text relative to the baseline. The value of the property is PosValue integer const |
-| [Ufe](/python-java/asposediagram.api/pos/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the position of the shape's text relative to the baseline. The value of the property is PosValue integer const |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/pos/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/pos/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/pos/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

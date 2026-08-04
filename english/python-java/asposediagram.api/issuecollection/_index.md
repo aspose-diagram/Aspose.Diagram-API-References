@@ -17,15 +17,15 @@ Issue collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/issuecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/issuecollection/itemint/) | Issue |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Issue |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/issuecollection/add/) | Add the issue in the collection. |
-| [remove](/python-java/asposediagram.api/issuecollection/remove/) | Remove the issue from the collection. |
-| [clear](/python-java/asposediagram.api/issuecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/issuecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/issuecollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the issue in the collection. |
+| [remove](./remove/) | Remove the issue from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/calendar/value/) | int | Determines the calendar that is used for custom properties, text fields, and element formulas. The value of the property |
-| [Ufe](/python-java/asposediagram.api/calendar/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines the calendar that is used for custom properties, text fields, and element formulas. The value of the property |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/calendar/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/calendar/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/calendar/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

@@ -17,14 +17,14 @@ Value.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Ufev](/python-java/asposediagram.api/value/ufev/) | UnitFormulaErrV | Specified attributes of an element. |
-| [Val](/python-java/asposediagram.api/value/val/) | String | Text value |
-| [SolutionXML](/python-java/asposediagram.api/value/solutionxml/) | SolutionXML | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
+| [Ufev](./ufev/) | UnitFormulaErrV | Specified attributes of an element. |
+| [Val](./val/) | String | Text value |
+| [SolutionXML](./solutionxml/) | SolutionXML | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/value/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/value/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/value/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

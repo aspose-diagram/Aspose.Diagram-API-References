@@ -23,15 +23,15 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [V](/python-java/asposediagram.api/unitformulaerrv/v/) | String | Represents the null string condition for a string cell value. In some cases it is helpful to distinguish between an empt |
-| [Unit](/python-java/asposediagram.api/unitformulaerrv/unit/) | int | Units of measure. The value of the property is MeasureConst integer constant. |
-| [F](/python-java/asposediagram.api/unitformulaerrv/f/) | String | Represents the element's formula. |
-| [Err](/python-java/asposediagram.api/unitformulaerrv/err/) | String | Indicates that the formula evaluates to an error. |
+| [V](./v/) | String | Represents the null string condition for a string cell value. In some cases it is helpful to distinguish between an empt |
+| [Unit](./unit/) | int | Units of measure. The value of the property is MeasureConst integer constant. |
+| [F](./f/) | String | Represents the element's formula. |
+| [Err](./err/) | String | Indicates that the formula evaluates to an error. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/unitformulaerrv/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/unitformulaerrv/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/unitformulaerrv/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

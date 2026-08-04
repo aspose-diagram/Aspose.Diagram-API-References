@@ -23,17 +23,17 @@ Creates an instance of the Ellipse class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/ellipse/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/ellipse/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/ellipse/x/) | DoubleValue | The x-coordinate of the center of the ellipse. |
-| [Y](/python-java/asposediagram.api/ellipse/y/) | DoubleValue | The y-coordinate of the center of the ellipse. |
-| [A](/python-java/asposediagram.api/ellipse/a/) | DoubleValue | An x-coordinate of a point on the ellipse paired with the y-coordinate represented by the B element. |
-| [B](/python-java/asposediagram.api/ellipse/b/) | DoubleValue | A y-coordinate of a point on an ellipse paired with an x-coordinate represented by the A element. |
-| [C](/python-java/asposediagram.api/ellipse/c/) | DoubleValue | An x-coordinate of a point on the ellipse paired with y-coordinate represented by the D element. |
-| [D](/python-java/asposediagram.api/ellipse/d/) | DoubleValue | A y-coordinate of a point on the ellipse paired with x-coordinate represented by the C element. |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of the center of the ellipse. |
+| [Y](./y/) | DoubleValue | The y-coordinate of the center of the ellipse. |
+| [A](./a/) | DoubleValue | An x-coordinate of a point on the ellipse paired with the y-coordinate represented by the B element. |
+| [B](./b/) | DoubleValue | A y-coordinate of a point on an ellipse paired with an x-coordinate represented by the A element. |
+| [C](./c/) | DoubleValue | An x-coordinate of a point on the ellipse paired with y-coordinate represented by the D element. |
+| [D](./d/) | DoubleValue | A y-coordinate of a point on the ellipse paired with x-coordinate represented by the C element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/ellipse/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

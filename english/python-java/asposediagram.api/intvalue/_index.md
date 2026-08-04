@@ -23,14 +23,14 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/intvalue/value/) | int | Integer value. |
-| [IsThemed](/python-java/asposediagram.api/intvalue/isthemed/) | boolean |  |
-| [Ufe](/python-java/asposediagram.api/intvalue/ufe/) | UnitFormulaErr | Attributes of an element. |
+| [Value](./value/) | int | Integer value. |
+| [IsThemed](./isthemed/) | boolean |  |
+| [Ufe](./ufe/) | UnitFormulaErr | Attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/intvalue/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/intvalue/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/intvalue/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

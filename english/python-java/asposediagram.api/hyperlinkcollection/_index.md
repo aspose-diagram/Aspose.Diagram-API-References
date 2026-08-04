@@ -17,15 +17,15 @@ Hyperlink collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/hyperlinkcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/hyperlinkcollection/itemint/) | Hyperlink |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Hyperlink |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/hyperlinkcollection/add/) | Add the Hyperlink object in the collection. |
-| [remove](/python-java/asposediagram.api/hyperlinkcollection/remove/) | Remove the Hyperlink object from the collection. |
-| [clear](/python-java/asposediagram.api/hyperlinkcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/hyperlinkcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/hyperlinkcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Hyperlink object in the collection. |
+| [remove](./remove/) | Remove the Hyperlink object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

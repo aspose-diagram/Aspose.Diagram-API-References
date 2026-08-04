@@ -23,4 +23,4 @@ Constructs one LoadFilter with default filter options LoadDataFilterOptions.All.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [LoadDataFilterOptions](/python-java/asposediagram.api/loadfilter/loaddatafilteroptions/) | int | The filter options to denote what data should be loaded. The value of the property is LoadDataFilterOptions integer cons |
+| [LoadDataFilterOptions](./loaddatafilteroptions/) | int | The filter options to denote what data should be loaded. The value of the property is LoadDataFilterOptions integer cons |

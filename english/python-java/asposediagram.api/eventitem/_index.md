@@ -23,9 +23,9 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ID](/python-java/asposediagram.api/eventitem/id/) | int | The ID of the event. |
-| [Action](/python-java/asposediagram.api/eventitem/action/) | int | Specifies the action code of the parent EventItem element.For an EventItem element to be saved in a DatadiagramML file,  |
-| [EventCode](/python-java/asposediagram.api/eventitem/eventcode/) | int | A code indicating the event that triggers the add-on. For more information on event codes, see Event Codes in the Micros |
-| [Target](/python-java/asposediagram.api/eventitem/target/) | String | Specifies the target of an event. |
-| [TargetArgs](/python-java/asposediagram.api/eventitem/targetargs/) | String | Specifies a string containing arguments to be sent to the target of an event. |
-| [Enabled](/python-java/asposediagram.api/eventitem/enabled/) | int | Represents a flag indicating if the event is enabled or disabled. The value of the property is BOOL integer constant. |
+| [ID](./id/) | int | The ID of the event. |
+| [Action](./action/) | int | Specifies the action code of the parent EventItem element.For an EventItem element to be saved in a DatadiagramML file,  |
+| [EventCode](./eventcode/) | int | A code indicating the event that triggers the add-on. For more information on event codes, see Event Codes in the Micros |
+| [Target](./target/) | String | Specifies the target of an event. |
+| [TargetArgs](./targetargs/) | String | Specifies a string containing arguments to be sent to the target of an event. |
+| [Enabled](./enabled/) | int | Represents a flag indicating if the event is enabled or disabled. The value of the property is BOOL integer constant. |

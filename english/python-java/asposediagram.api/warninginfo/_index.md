@@ -23,5 +23,5 @@ Create warning info.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [WarningType](/python-java/asposediagram.api/warninginfo/warningtype/) | int | Get warning type. The value of the property is WarningType integer constant. |
-| [Description](/python-java/asposediagram.api/warninginfo/description/) | String | Get description of warning info. |
+| [WarningType](./warningtype/) | int | Get warning type. The value of the property is WarningType integer constant. |
+| [Description](./description/) | String | Get description of warning info. |

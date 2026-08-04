@@ -23,13 +23,13 @@ Creates an instance of the MoveTo class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/moveto/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/moveto/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/moveto/x/) | DoubleValue | X element represents the x-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, |
-| [Y](/python-java/asposediagram.api/moveto/y/) | DoubleValue | Y element represents the y-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | X element represents the x-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, |
+| [Y](./y/) | DoubleValue | Y element represents the y-coordinate of the first vertex of a path. If the MoveTo element appears between two elements, |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/moveto/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

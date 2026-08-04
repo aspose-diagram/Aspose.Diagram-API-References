@@ -23,14 +23,14 @@ Creates an instance of the SplineKnot class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/splineknot/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/splineknot/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/splineknot/x/) | DoubleValue | The x-coordinate of a control point. |
-| [Y](/python-java/asposediagram.api/splineknot/y/) | DoubleValue | The y-coordinate of a control point. |
-| [A](/python-java/asposediagram.api/splineknot/a/) | DoubleValue | One of the spline's knots (other than the last one or the first two). |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of a control point. |
+| [Y](./y/) | DoubleValue | The y-coordinate of a control point. |
+| [A](./a/) | DoubleValue | One of the spline's knots (other than the last one or the first two). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/splineknot/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

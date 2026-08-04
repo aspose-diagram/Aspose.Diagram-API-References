@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/displaymode/value/) | int | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are display |
-| [Ufe](/python-java/asposediagram.api/displaymode/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | When it is contained in a Group element, the DisplayMode element specifies how a group shape and its members are display |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/displaymode/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/displaymode/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

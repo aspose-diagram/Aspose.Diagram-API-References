@@ -17,6 +17,6 @@ Stores information about diagram validation for the document.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [RuleSets](/python-java/asposediagram.api/validation/rulesets/) | RuleSetCollection | Includes a RuleSet element for each validation rule set in the document. |
-| [Issues](/python-java/asposediagram.api/validation/issues/) | IssueCollection | Contains all the Issue elements for the document. |
-| [ValidationProperties](/python-java/asposediagram.api/validation/validationproperties/) | ValidationProperties | Encapsulates properties related to validation for the document. |
+| [RuleSets](./rulesets/) | RuleSetCollection | Includes a RuleSet element for each validation rule set in the document. |
+| [Issues](./issues/) | IssueCollection | Contains all the Issue elements for the document. |
+| [ValidationProperties](./validationproperties/) | ValidationProperties | Encapsulates properties related to validation for the document. |

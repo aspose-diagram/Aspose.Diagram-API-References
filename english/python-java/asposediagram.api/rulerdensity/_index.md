@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/rulerdensity/value/) | int | Specifies the horizontal subdivisions on the ruler for the page. The value of the property is RulerDensityValue integer  |
-| [Ufe](/python-java/asposediagram.api/rulerdensity/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the horizontal subdivisions on the ruler for the page. The value of the property is RulerDensityValue integer  |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/rulerdensity/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/rulerdensity/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/rulerdensity/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

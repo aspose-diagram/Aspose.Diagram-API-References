@@ -17,14 +17,14 @@ Represents the gradient stop collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/gradientstopcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/gradientstopcollection/itemint/) | GradientStop | Gets the gradient stop by the index. |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | GradientStop | Gets the gradient stop by the index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/gradientstopcollection/add/) | Add a gradient stop. |
-| [clear](/python-java/asposediagram.api/gradientstopcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/gradientstopcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/gradientstopcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add a gradient stop. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

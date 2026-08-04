@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/lineadjustto/value/) | int | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
-| [Ufe](/python-java/asposediagram.api/lineadjustto/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/lineadjustto/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/lineadjustto/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

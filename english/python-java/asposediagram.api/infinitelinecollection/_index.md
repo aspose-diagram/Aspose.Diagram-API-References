@@ -17,13 +17,13 @@ InfiniteLine collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/infinitelinecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/infinitelinecollection/itemint/) | InfiniteLine |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | InfiniteLine |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/infinitelinecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/infinitelinecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/infinitelinecollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

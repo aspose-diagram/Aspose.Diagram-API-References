@@ -17,16 +17,16 @@ Char collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/charcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/charcollection/itemint/) | Char |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Char |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/charcollection/add/) | Add the Char object in the collection. |
-| [remove](/python-java/asposediagram.api/charcollection/remove/) | Remove the Char object from the collection. |
-| [getChar](/python-java/asposediagram.api/charcollection/getchar/) | Gets the element at the specified IX. |
-| [clear](/python-java/asposediagram.api/charcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/charcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/charcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Char object in the collection. |
+| [remove](./remove/) | Remove the Char object from the collection. |
+| [getChar](./getchar/) | Gets the element at the specified IX. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

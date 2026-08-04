@@ -17,19 +17,19 @@ Represents the list of VbaModule
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/vbamodulecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/vbamodulecollection/itemint/) | VbaModule | Gets VbaModule in the list by the index. |
-| [Item (java.lang.String)](/python-java/asposediagram.api/vbamodulecollection/itemjavalangstring/) | VbaModule | Gets VbaModule in the list by the name. |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | VbaModule | Gets VbaModule in the list by the index. |
+| [Item (java.lang.String)](./itemjavalangstring/) | VbaModule | Gets VbaModule in the list by the name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/vbamodulecollection/add/) | Adds module for a page. |
-| [remove](/python-java/asposediagram.api/vbamodulecollection/remove/) | Removes module for a page. |
-| [clear](/python-java/asposediagram.api/vbamodulecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/vbamodulecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/vbamodulecollection/iterator/) |  |
-| [get](/python-java/asposediagram.api/vbamodulecollection/get/) | Reserved for internal use. |
-| [contains](/python-java/asposediagram.api/vbamodulecollection/contains/) | Reserved for internal use. |
-| [indexOf](/python-java/asposediagram.api/vbamodulecollection/indexof/) | Reserved for internal use. |
+| [add](./add/) | Adds module for a page. |
+| [remove](./remove/) | Removes module for a page. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) |  |
+| [get](./get/) | Reserved for internal use. |
+| [contains](./contains/) | Reserved for internal use. |
+| [indexOf](./indexof/) | Reserved for internal use. |

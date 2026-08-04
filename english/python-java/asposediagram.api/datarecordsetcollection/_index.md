@@ -17,17 +17,17 @@ DataRecordSet collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [NextId](/python-java/asposediagram.api/datarecordsetcollection/nextid/) | String | NextID |
-| [ActiveRecordsetId](/python-java/asposediagram.api/datarecordsetcollection/activerecordsetid/) | String | ActiveRecordsetID |
-| [Count](/python-java/asposediagram.api/datarecordsetcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/datarecordsetcollection/itemint/) | DataRecordSet |  |
+| [NextId](./nextid/) | String | NextID |
+| [ActiveRecordsetId](./activerecordsetid/) | String | ActiveRecordsetID |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | DataRecordSet |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/datarecordsetcollection/add/) | Add the dataRecordSet in the collection. |
-| [remove](/python-java/asposediagram.api/datarecordsetcollection/remove/) | Remove the dataRecordSet from the collection. |
-| [clear](/python-java/asposediagram.api/datarecordsetcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/datarecordsetcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/datarecordsetcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the dataRecordSet in the collection. |
+| [remove](./remove/) | Remove the dataRecordSet from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

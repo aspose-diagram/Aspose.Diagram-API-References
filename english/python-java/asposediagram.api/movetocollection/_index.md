@@ -17,13 +17,13 @@ MoveTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/movetocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/movetocollection/itemint/) | MoveTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | MoveTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/movetocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/movetocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/movetocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

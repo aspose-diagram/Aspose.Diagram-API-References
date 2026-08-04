@@ -21,5 +21,5 @@ RelationShape()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Shape](/python-java/asposediagram.api/relationshape/shape/) | Shape | Gets or sets the shape |
-| [Flag](/python-java/asposediagram.api/relationshape/flag/) | int | Gets or sets flag The value of the property is RelationFlag integer constant. |
+| [Shape](./shape/) | Shape | Gets or sets the shape |
+| [Flag](./flag/) | int | Gets or sets flag The value of the property is RelationFlag integer constant. |

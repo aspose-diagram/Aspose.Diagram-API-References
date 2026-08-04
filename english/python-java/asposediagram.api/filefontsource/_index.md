@@ -23,5 +23,5 @@ Ctor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [FilePath](/python-java/asposediagram.api/filefontsource/filepath/) | String | Path to font file. |
-| [Type](/python-java/asposediagram.api/filefontsource/type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [FilePath](./filepath/) | String | Path to font file. |
+| [Type](./type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |

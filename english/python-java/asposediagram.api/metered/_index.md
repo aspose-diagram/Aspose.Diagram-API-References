@@ -23,7 +23,7 @@ Initializes a new instance of this class.
 
 | Name | Description |
 | --- | --- |
-| [setMeteredKey](/python-java/asposediagram.api/metered/setmeteredkey/) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, |
-| [getConsumptionQuantity](/python-java/asposediagram.api/metered/getconsumptionquantity/) | Gets consumption file size |
-| [getConsumptionCredit](/python-java/asposediagram.api/metered/getconsumptioncredit/) | Gets consumption credit |
-| [isMeteredLicensed](/python-java/asposediagram.api/metered/ismeteredlicensed/) | Check whether metered is licensed |
+| [setMeteredKey](./setmeteredkey/) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, |
+| [getConsumptionQuantity](./getconsumptionquantity/) | Gets consumption file size |
+| [getConsumptionCredit](./getconsumptioncredit/) | Gets consumption credit |
+| [isMeteredLicensed](./ismeteredlicensed/) | Check whether metered is licensed |

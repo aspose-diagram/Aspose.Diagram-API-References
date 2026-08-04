@@ -17,16 +17,16 @@ Collection of StyleSheets.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/stylesheetcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/stylesheetcollection/itemint/) | StyleSheet |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | StyleSheet |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/stylesheetcollection/add/) | Add StyleSheet in the collection. |
-| [remove](/python-java/asposediagram.api/stylesheetcollection/remove/) | Remove StyleSheet from the collection. |
-| [getStyleSheet](/python-java/asposediagram.api/stylesheetcollection/getstylesheet/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/stylesheetcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/stylesheetcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/stylesheetcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add StyleSheet in the collection. |
+| [remove](./remove/) | Remove StyleSheet from the collection. |
+| [getStyleSheet](./getstylesheet/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

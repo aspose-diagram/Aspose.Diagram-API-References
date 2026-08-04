@@ -17,4 +17,4 @@ This is an abstract base class for the classes that allow the user to specify va
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Type](/python-java/asposediagram.api/fontsourcebase/type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [Type](./type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |

@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/conlinejumpdirx/value/) | int | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. The value of |
-| [Ufe](/python-java/asposediagram.api/conlinejumpdirx/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines the line jump direction for line jumps occurring on a horizontal segment of a dynamic connector. The value of |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/conlinejumpdirx/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/conlinejumpdirx/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

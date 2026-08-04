@@ -17,15 +17,15 @@ Rule collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/rulecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/rulecollection/itemint/) | Rule |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Rule |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/rulecollection/add/) | Add the rule in the collection. |
-| [remove](/python-java/asposediagram.api/rulecollection/remove/) | Remove the rule from the collection. |
-| [clear](/python-java/asposediagram.api/rulecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/rulecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/rulecollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the rule in the collection. |
+| [remove](./remove/) | Remove the rule from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

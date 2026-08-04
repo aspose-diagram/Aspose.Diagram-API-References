@@ -21,4 +21,4 @@ FileFormatUtil()
 
 | Name | Description |
 | --- | --- |
-| [detectFileFormat](/python-java/asposediagram.api/fileformatutil/detectfileformat/) | Detects and returns the information about a format of a visio stored in a stream. |
+| [detectFileFormat](./detectfileformat/) | Detects and returns the information about a format of a visio stored in a stream. |

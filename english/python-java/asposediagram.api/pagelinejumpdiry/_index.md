@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/pagelinejumpdiry/value/) | int | Specifies the direction of line jumps on vertical dynamic connectors on the drawing page for which you haven't applied a |
-| [Ufe](/python-java/asposediagram.api/pagelinejumpdiry/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the direction of line jumps on vertical dynamic connectors on the drawing page for which you haven't applied a |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/pagelinejumpdiry/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/pagelinejumpdiry/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/objtype/value/) | int | Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the dr |
-| [Ufe](/python-java/asposediagram.api/objtype/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies whether objects are placeable or routable in diagrams when you use Microsoft Visio to lay out shapes on the dr |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/objtype/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/objtype/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

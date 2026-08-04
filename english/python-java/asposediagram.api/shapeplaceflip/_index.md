@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/shapeplaceflip/value/) | int | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). The v |
-| [Ufe](/python-java/asposediagram.api/shapeplaceflip/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies how a placeable shape flips and/or rotates on the page when a user selects Lay Out Shapes (Shapes menu). The v |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/shapeplaceflip/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/shapeplaceflip/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

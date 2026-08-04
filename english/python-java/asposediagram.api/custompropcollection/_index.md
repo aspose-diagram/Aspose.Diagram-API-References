@@ -23,15 +23,15 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/custompropcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/custompropcollection/itemint/) | CustomProp |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | CustomProp |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/custompropcollection/add/) | Add the CustomProp object in the collection. |
-| [remove](/python-java/asposediagram.api/custompropcollection/remove/) | Remove the CustomProp object from the collection. |
-| [clear](/python-java/asposediagram.api/custompropcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/custompropcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/custompropcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the CustomProp object in the collection. |
+| [remove](./remove/) | Remove the CustomProp object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

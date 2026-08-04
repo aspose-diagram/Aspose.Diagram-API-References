@@ -23,14 +23,14 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/boolvalue/value/) | int | Boolean value The value of the property is BOOL integer constant. |
-| [IsThemed](/python-java/asposediagram.api/boolvalue/isthemed/) | boolean |  |
-| [Ufe](/python-java/asposediagram.api/boolvalue/ufe/) | UnitFormulaErr | Attributes of an element. |
+| [Value](./value/) | int | Boolean value The value of the property is BOOL integer constant. |
+| [IsThemed](./isthemed/) | boolean |  |
+| [Ufe](./ufe/) | UnitFormulaErr | Attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/boolvalue/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/boolvalue/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/boolvalue/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

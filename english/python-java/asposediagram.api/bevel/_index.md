@@ -17,5 +17,5 @@ Represents a bevel of a shape
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Width](/python-java/asposediagram.api/bevel/width/) | DoubleValue | Gets and sets the width of the bevel, or how far into the shape it is applied. |
-| [Height](/python-java/asposediagram.api/bevel/height/) | DoubleValue | Gets and sets the height of the bevel, or how far above the shape it is applied. In unit of Points. |
+| [Width](./width/) | DoubleValue | Gets and sets the width of the bevel, or how far into the shape it is applied. |
+| [Height](./height/) | DoubleValue | Gets and sets the height of the bevel, or how far above the shape it is applied. In unit of Points. |

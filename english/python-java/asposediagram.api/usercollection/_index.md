@@ -17,16 +17,16 @@ User collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/usercollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/usercollection/itemint/) | User |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | User |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/usercollection/add/) | Add the User object in the collection. |
-| [remove](/python-java/asposediagram.api/usercollection/remove/) | Remove the User object from the collection. |
-| [getUser](/python-java/asposediagram.api/usercollection/getuser/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/usercollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/usercollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/usercollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the User object in the collection. |
+| [remove](./remove/) | Remove the User object from the collection. |
+| [getUser](./getuser/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

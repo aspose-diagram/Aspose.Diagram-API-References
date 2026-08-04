@@ -23,10 +23,10 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/text/value/) | FormatTxtCollection | FormatTxt collection which contains the text of a shape. |
+| [Value](./value/) | FormatTxtCollection | FormatTxt collection which contains the text of a shape. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/text/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

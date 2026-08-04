@@ -17,15 +17,15 @@ Row collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/rowcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/rowcollection/itemint/) | Row |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Row |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/rowcollection/add/) | Add the row in the collection. |
-| [remove](/python-java/asposediagram.api/rowcollection/remove/) | Remove the row from the collection. |
-| [clear](/python-java/asposediagram.api/rowcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/rowcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/rowcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the row in the collection. |
+| [remove](./remove/) | Remove the row from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/typefield/value/) | int | Type specifies a data type for the text field value. The value of the property is TypeFieldValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/typefield/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Type specifies a data type for the text field value. The value of the property is TypeFieldValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/typefield/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/typefield/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/typefield/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

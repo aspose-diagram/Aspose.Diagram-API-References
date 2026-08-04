@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/typeconnection/value/) | int | Specifies various types, based on the element in which it is contained. The value of the property is TypeConnectionValue |
-| [Ufe](/python-java/asposediagram.api/typeconnection/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies various types, based on the element in which it is contained. The value of the property is TypeConnectionValue |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/typeconnection/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/typeconnection/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/typeconnection/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

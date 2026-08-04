@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/routestyle/value/) | int | Specifies the routing style and direction for all dynamic connectors on the drawing page that don't have a local routing |
-| [Ufe](/python-java/asposediagram.api/routestyle/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the routing style and direction for all dynamic connectors on the drawing page that don't have a local routing |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/routestyle/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/routestyle/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

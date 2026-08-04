@@ -23,15 +23,15 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/eventitemcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/eventitemcollection/itemint/) | EventItem |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | EventItem |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/eventitemcollection/add/) | Add the eventItem in the collection. |
-| [remove](/python-java/asposediagram.api/eventitemcollection/remove/) | Remove the eventItem from the collection. |
-| [clear](/python-java/asposediagram.api/eventitemcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/eventitemcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/eventitemcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the eventItem in the collection. |
+| [remove](./remove/) | Remove the eventItem from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

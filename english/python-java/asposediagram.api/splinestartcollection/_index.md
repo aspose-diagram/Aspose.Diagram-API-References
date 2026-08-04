@@ -17,13 +17,13 @@ SplineStart collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/splinestartcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/splinestartcollection/itemint/) | SplineStart |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | SplineStart |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/splinestartcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/splinestartcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/splinestartcollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

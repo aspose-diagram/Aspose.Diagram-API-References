@@ -21,10 +21,10 @@ InterruptMonitor()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IsInterruptionRequested](/python-java/asposediagram.api/interruptmonitor/isinterruptionrequested/) | boolean | Mark the monitor as requesting interruption |
+| [IsInterruptionRequested](./isinterruptionrequested/) | boolean | Mark the monitor as requesting interruption |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [interrupt](/python-java/asposediagram.api/interruptmonitor/interrupt/) | Interrupt the current operator. |
+| [interrupt](./interrupt/) | Interrupt the current operator. |

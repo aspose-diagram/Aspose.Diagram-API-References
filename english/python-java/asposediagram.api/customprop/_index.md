@@ -21,6 +21,6 @@ CustomProp()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Name](/python-java/asposediagram.api/customprop/name/) | String | The name of the custom property. |
-| [PropType](/python-java/asposediagram.api/customprop/proptype/) | int | The data type of the custom property. The value of the property is PropType integer constant. |
-| [CustomValue](/python-java/asposediagram.api/customprop/customvalue/) | CustomValue | Value of property. |
+| [Name](./name/) | String | The name of the custom property. |
+| [PropType](./proptype/) | int | The data type of the custom property. The value of the property is PropType integer constant. |
+| [CustomValue](./customvalue/) | CustomValue | Value of property. |

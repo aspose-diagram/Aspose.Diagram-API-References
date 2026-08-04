@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/conlinejumpcode/value/) | int | Determines whether a connector jumps when two connectors cross. The value of the property is ConLineJumpCodeValue intege |
-| [Ufe](/python-java/asposediagram.api/conlinejumpcode/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines whether a connector jumps when two connectors cross. The value of the property is ConLineJumpCodeValue intege |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/conlinejumpcode/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/conlinejumpcode/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

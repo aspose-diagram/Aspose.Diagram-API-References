@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/linejumpstyle/value/) | int | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. The value  |
-| [Ufe](/python-java/asposediagram.api/linejumpstyle/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the line jump style for all connectors on the drawing page that don't have a local line jump style. The value  |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/linejumpstyle/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/linejumpstyle/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

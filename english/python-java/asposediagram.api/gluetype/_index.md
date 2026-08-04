@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/gluetype/value/) | int | Specifies whether dynamic (shape-to-shape) glue is allowed when connecting to a shape. The value of the property is Glue |
-| [Ufe](/python-java/asposediagram.api/gluetype/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies whether dynamic (shape-to-shape) glue is allowed when connecting to a shape. The value of the property is Glue |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/gluetype/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/gluetype/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

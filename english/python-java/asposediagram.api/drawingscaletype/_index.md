@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/drawingscaletype/value/) | int | Specifies the type of drawing scale to use for a page. The value of the property is DrawingScaleTypeValue integer consta |
-| [Ufe](/python-java/asposediagram.api/drawingscaletype/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the type of drawing scale to use for a page. The value of the property is DrawingScaleTypeValue integer consta |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/drawingscaletype/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/drawingscaletype/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/drawingscaletype/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

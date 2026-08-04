@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/displaymodesmarttagdef/value/) | int | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape |
-| [Ufe](/python-java/asposediagram.api/displaymodesmarttagdef/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | DisplayMode element determines whether the smart tag appears when the user pauses the mouse over the tag, when the shape |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/displaymodesmarttagdef/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/displaymodesmarttagdef/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

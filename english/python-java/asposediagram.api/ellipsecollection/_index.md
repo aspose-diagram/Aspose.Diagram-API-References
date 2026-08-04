@@ -17,13 +17,13 @@ Ellipse collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/ellipsecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/ellipsecollection/itemint/) | Ellipse |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Ellipse |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/ellipsecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/ellipsecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/ellipsecollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

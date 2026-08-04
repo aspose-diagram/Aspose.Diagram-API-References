@@ -17,6 +17,6 @@ Defines a rule that compares a column in the parent DataRecordset element with a
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ColumnName](/python-java/asposediagram.api/autolinkcomparison/columnname/) | String | Corresponds to a column name in the ADO recordset. |
-| [ContextType](/python-java/asposediagram.api/autolinkcomparison/contexttype/) | int | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table.  |
-| [ContextTypeLabel](/python-java/asposediagram.api/autolinkcomparison/contexttypelabel/) | String | If the ContextType value is 2 or 3, this attribute is required to define a comparison. For ContextType = 2, ContextTypeL |
+| [ColumnName](./columnname/) | String | Corresponds to a column name in the ADO recordset. |
+| [ContextType](./contexttype/) | int | Specifies properties of the group or shape to use for the comparison. Possible values are shown in the following table.  |
+| [ContextTypeLabel](./contexttypelabel/) | String | If the ContextType value is 2 or 3, this attribute is required to define a comparison. For ContextType = 2, ContextTypeL |

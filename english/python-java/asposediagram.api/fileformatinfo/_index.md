@@ -21,5 +21,5 @@ FileFormatInfo()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [FileFormatType](/python-java/asposediagram.api/fileformatinfo/fileformattype/) | int | Gets the detected file format. The value of the property is FileFormatType integer constant. |
-| [LoadFormat](/python-java/asposediagram.api/fileformatinfo/loadformat/) | int | Gets the detected load format. The value of the property is LoadFileFormat integer constant. |
+| [FileFormatType](./fileformattype/) | int | Gets the detected file format. The value of the property is FileFormatType integer constant. |
+| [LoadFormat](./loadformat/) | int | Gets the detected load format. The value of the property is LoadFileFormat integer constant. |

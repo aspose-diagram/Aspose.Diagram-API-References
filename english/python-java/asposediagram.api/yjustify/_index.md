@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/yjustify/value/) | int | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. The value of the p |
-| [Ufe](/python-java/asposediagram.api/yjustify/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the y-offset of the smart tag button relative to the point defined by the X and Y elements. The value of the p |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/yjustify/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/yjustify/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

@@ -21,4 +21,4 @@ CalculateOptions()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Type](/python-java/asposediagram.api/calculateoptions/type/) | int | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |
+| [Type](./type/) | int | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |

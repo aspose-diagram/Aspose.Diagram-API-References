@@ -17,4 +17,4 @@ Monitor for interruption requests in all time-consuming operations.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IsInterruptionRequested](/python-java/asposediagram.api/abstractinterruptmonitor/isinterruptionrequested/) | boolean | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |
+| [IsInterruptionRequested](./isinterruptionrequested/) | boolean | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |

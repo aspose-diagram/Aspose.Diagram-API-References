@@ -17,15 +17,15 @@ Geom collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/geomcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/geomcollection/itemint/) | Geom |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Geom |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/geomcollection/add/) | Add the Geom object in the collection. |
-| [remove](/python-java/asposediagram.api/geomcollection/remove/) | Remove the Geom object from the collection. |
-| [clear](/python-java/asposediagram.api/geomcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/geomcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/geomcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Geom object in the collection. |
+| [remove](./remove/) | Remove the Geom object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

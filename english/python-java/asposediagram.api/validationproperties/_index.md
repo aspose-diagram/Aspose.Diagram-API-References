@@ -23,5 +23,5 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [LastValidated](/python-java/asposediagram.api/validationproperties/lastvalidated/) | DateTime | The date and time the document was last validated |
-| [ShowIgnored](/python-java/asposediagram.api/validationproperties/showignored/) | int | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |
+| [LastValidated](./lastvalidated/) | DateTime | The date and time the document was last validated |
+| [ShowIgnored](./showignored/) | int | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |

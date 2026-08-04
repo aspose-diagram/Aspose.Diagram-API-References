@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/selectmode/value/) | int | Specifies how the user selects a group shape and its members. The value of the property is SelectModeValue integer const |
-| [Ufe](/python-java/asposediagram.api/selectmode/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies how the user selects a group shape and its members. The value of the property is SelectModeValue integer const |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/selectmode/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/selectmode/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

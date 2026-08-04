@@ -23,5 +23,5 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [RuleSetId](/python-java/asposediagram.api/ruleinfo/rulesetid/) | long | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
-| [RuleId](/python-java/asposediagram.api/ruleinfo/ruleid/) | long | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
+| [RuleSetId](./rulesetid/) | long | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
+| [RuleId](./ruleid/) | long | Specifies the unique identifier of the validation rule that the parent issue pertains to. |

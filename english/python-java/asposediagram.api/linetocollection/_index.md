@@ -17,13 +17,13 @@ LineTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/linetocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/linetocollection/itemint/) | LineTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | LineTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/linetocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/linetocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/linetocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

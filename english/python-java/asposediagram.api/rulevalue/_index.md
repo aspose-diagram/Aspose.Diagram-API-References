@@ -23,5 +23,5 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Formula](/python-java/asposediagram.api/rulevalue/formula/) | String | Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula  |
-| [Value](/python-java/asposediagram.api/rulevalue/value/) | String | Rule value. |
+| [Formula](./formula/) | String | Represents the element's formula. This attribute can contain one of the following strings: "someFormula" if the formula  |
+| [Value](./value/) | String | Rule value. |

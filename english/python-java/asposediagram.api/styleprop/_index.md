@@ -17,8 +17,8 @@ Contains elements that control style behavior, such as whether a style includes 
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Del](/python-java/asposediagram.api/styleprop/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [EnableLineProps](/python-java/asposediagram.api/styleprop/enablelineprops/) | BoolValue | Specifies whether a style includes line properties |
-| [EnableFillProps](/python-java/asposediagram.api/styleprop/enablefillprops/) | BoolValue | Specifies whether a style includes fill properties. |
-| [EnableTextProps](/python-java/asposediagram.api/styleprop/enabletextprops/) | BoolValue | Specifies whether a style includes text properties. |
-| [HideForApply](/python-java/asposediagram.api/styleprop/hideforapply/) | BoolValue | Specifies where a style is shown in the Microsoft Visio user interface. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [EnableLineProps](./enablelineprops/) | BoolValue | Specifies whether a style includes line properties |
+| [EnableFillProps](./enablefillprops/) | BoolValue | Specifies whether a style includes fill properties. |
+| [EnableTextProps](./enabletextprops/) | BoolValue | Specifies whether a style includes text properties. |
+| [HideForApply](./hideforapply/) | BoolValue | Specifies where a style is shown in the Microsoft Visio user interface. |

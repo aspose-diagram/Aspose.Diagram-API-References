@@ -17,13 +17,13 @@ RelCubBezTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/relcubbeztocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/relcubbeztocollection/itemint/) | RelCubBezTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | RelCubBezTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/relcubbeztocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/relcubbeztocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/relcubbeztocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

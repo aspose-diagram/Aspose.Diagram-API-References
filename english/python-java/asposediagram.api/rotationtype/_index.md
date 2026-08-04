@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/rotationtype/value/) | int | Specifies the type of bevel. The value of the property is RotationTypeValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/rotationtype/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the type of bevel. The value of the property is RotationTypeValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/rotationtype/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/rotationtype/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

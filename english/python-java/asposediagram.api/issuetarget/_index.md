@@ -23,5 +23,5 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [PageId](/python-java/asposediagram.api/issuetarget/pageid/) | long | Specifies the unique identifier of the page that is associated with the parent validation issue. If the target is the do |
-| [ShapeId](/python-java/asposediagram.api/issuetarget/shapeid/) | long | Specifies the unique identifier of the shape that is associated with the parent validation issue. If the target is the d |
+| [PageId](./pageid/) | long | Specifies the unique identifier of the page that is associated with the parent validation issue. If the target is the do |
+| [ShapeId](./shapeid/) | long | Specifies the unique identifier of the shape that is associated with the parent validation issue. If the target is the d |

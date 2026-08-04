@@ -17,6 +17,6 @@ Represents module that is contained in VBA project.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Name](/python-java/asposediagram.api/vbamodule/name/) | String | Gets and sets the name of Module. |
-| [Type](/python-java/asposediagram.api/vbamodule/type/) | int | Gets the type of module. The value of the property is VbaModuleType integer constant. |
-| [Codes](/python-java/asposediagram.api/vbamodule/codes/) | String | Gets and sets the codes of module. |
+| [Name](./name/) | String | Gets and sets the name of Module. |
+| [Type](./type/) | int | Gets the type of module. The value of the property is VbaModuleType integer constant. |
+| [Codes](./codes/) | String | Gets and sets the codes of module. |

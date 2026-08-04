@@ -17,13 +17,13 @@ NURBSTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/nurbstocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/nurbstocollection/itemint/) | NURBSTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | NURBSTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/nurbstocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/nurbstocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/nurbstocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

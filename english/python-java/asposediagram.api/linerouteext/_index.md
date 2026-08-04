@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/linerouteext/value/) | int | Specifies the default appearance for all connectors on a page. The value of the property is LineRouteExtValue integer co |
-| [Ufe](/python-java/asposediagram.api/linerouteext/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the default appearance for all connectors on a page. The value of the property is LineRouteExtValue integer co |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/linerouteext/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/linerouteext/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

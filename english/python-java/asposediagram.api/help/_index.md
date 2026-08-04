@@ -17,6 +17,6 @@ Contains elements specifying the Shape element's Help file topic and copyright i
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Del](/python-java/asposediagram.api/help/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [HelpTopic](/python-java/asposediagram.api/help/helptopic/) | Str2Value | Specifies the Shape element's Help topic ID. |
-| [Copyright](/python-java/asposediagram.api/help/copyright/) | Str2Value | Contains a string representing a human-readable copyright statement. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [HelpTopic](./helptopic/) | Str2Value | Specifies the Shape element's Help topic ID. |
+| [Copyright](./copyright/) | Str2Value | Contains a string representing a human-readable copyright statement. |

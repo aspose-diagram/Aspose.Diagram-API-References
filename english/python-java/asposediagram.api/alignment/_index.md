@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/alignment/value/) | int | Specifies the tab alignment. The value of the property is AlignmentValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/alignment/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the tab alignment. The value of the property is AlignmentValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/alignment/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/alignment/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

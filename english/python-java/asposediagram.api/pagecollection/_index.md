@@ -17,17 +17,17 @@ Page collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/pagecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/pagecollection/itemint/) | Page |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Page |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/pagecollection/add/) | Add the page in the collection. |
-| [dispose](/python-java/asposediagram.api/pagecollection/dispose/) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [remove](/python-java/asposediagram.api/pagecollection/remove/) | Remove the page from the collection. |
-| [getPage](/python-java/asposediagram.api/pagecollection/getpage/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/pagecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/pagecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/pagecollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the page in the collection. |
+| [dispose](./dispose/) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [remove](./remove/) | Remove the page from the collection. |
+| [getPage](./getpage/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

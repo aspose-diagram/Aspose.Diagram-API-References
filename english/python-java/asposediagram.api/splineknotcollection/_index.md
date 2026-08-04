@@ -17,13 +17,13 @@ SplineKnot collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/splineknotcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/splineknotcollection/itemint/) | SplineKnot |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | SplineKnot |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/splineknotcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/splineknotcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/splineknotcollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

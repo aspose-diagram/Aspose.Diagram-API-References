@@ -23,11 +23,11 @@ Initializes a new instance of the CollectionBase class with the default initial 
 
 | Name | Description |
 | --- | --- |
-| [iterator](/python-java/asposediagram.api/collectionbase/iterator/) | Returns an enumerator that iterates through the CollectionBase instance. |
-| [getCount](/python-java/asposediagram.api/collectionbase/getcount/) | Gets the number of elements contained in the CollectionBase instance. |
-| [clear](/python-java/asposediagram.api/collectionbase/clear/) | Removes all objects from the CollectionBase instance. |
-| [add](/python-java/asposediagram.api/collectionbase/add/) | Adds an item to the CollectionBase instance. |
-| [get](/python-java/asposediagram.api/collectionbase/get/) | Get an item at specified position. |
-| [contains](/python-java/asposediagram.api/collectionbase/contains/) | Return whether instance contains this object |
-| [removeAt](/python-java/asposediagram.api/collectionbase/removeat/) | Removes the item at the specified index. |
-| [indexOf](/python-java/asposediagram.api/collectionbase/indexof/) | Determines the index of a specific item in the CollectionBase instance. |
+| [iterator](./iterator/) | Returns an enumerator that iterates through the CollectionBase instance. |
+| [getCount](./getcount/) | Gets the number of elements contained in the CollectionBase instance. |
+| [clear](./clear/) | Removes all objects from the CollectionBase instance. |
+| [add](./add/) | Adds an item to the CollectionBase instance. |
+| [get](./get/) | Get an item at specified position. |
+| [contains](./contains/) | Return whether instance contains this object |
+| [removeAt](./removeat/) | Removes the item at the specified index. |
+| [indexOf](./indexof/) | Determines the index of a specific item in the CollectionBase instance. |

@@ -17,16 +17,16 @@ Prop collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/propcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/propcollection/itemint/) | Prop |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Prop |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/propcollection/add/) | Add the Prop object in the collection. |
-| [remove](/python-java/asposediagram.api/propcollection/remove/) | Remove the Prop object from the collection. |
-| [getProp](/python-java/asposediagram.api/propcollection/getprop/) | Gets the element at the specified ID. |
-| [clear](/python-java/asposediagram.api/propcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/propcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/propcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the Prop object in the collection. |
+| [remove](./remove/) | Remove the Prop object from the collection. |
+| [getProp](./getprop/) | Gets the element at the specified ID. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

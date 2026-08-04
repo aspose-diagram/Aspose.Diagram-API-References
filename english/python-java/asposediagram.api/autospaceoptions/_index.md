@@ -21,5 +21,5 @@ AutoSpaceOptions()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [DistanceInVertical](/python-java/asposediagram.api/autospaceoptions/distanceinvertical/) | float | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
-| [DistanceInHorizontal](/python-java/asposediagram.api/autospaceoptions/distanceinhorizontal/) | float | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |
+| [DistanceInVertical](./distanceinvertical/) | float | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
+| [DistanceInHorizontal](./distanceinhorizontal/) | float | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |

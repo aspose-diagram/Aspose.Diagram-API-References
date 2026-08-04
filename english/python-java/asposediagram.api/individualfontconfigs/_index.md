@@ -23,7 +23,7 @@ Ctor.
 
 | Name | Description |
 | --- | --- |
-| [setFontFolder](/python-java/asposediagram.api/individualfontconfigs/setfontfolder/) | Sets the fonts folder |
-| [setFontFolders](/python-java/asposediagram.api/individualfontconfigs/setfontfolders/) | Sets the fonts folders |
-| [setFontSources](/python-java/asposediagram.api/individualfontconfigs/setfontsources/) | Sets the fonts sources. |
-| [getFontSources](/python-java/asposediagram.api/individualfontconfigs/getfontsources/) | Gets a copy of the array that contains the list of sources |
+| [setFontFolder](./setfontfolder/) | Sets the fonts folder |
+| [setFontFolders](./setfontfolders/) | Sets the fonts folders |
+| [setFontSources](./setfontsources/) | Sets the fonts sources. |
+| [getFontSources](./getfontsources/) | Gets a copy of the array that contains the list of sources |

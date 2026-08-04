@@ -23,15 +23,15 @@ Creates an instance of RelCubBezTo class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/relquadbezto/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/relquadbezto/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/relquadbezto/x/) | DoubleValue | The x-coordinate of the endpoint in relative coordinates. |
-| [Y](/python-java/asposediagram.api/relquadbezto/y/) | DoubleValue | The y-coordinate of the endpoint in relative coordinates. |
-| [A](/python-java/asposediagram.api/relquadbezto/a/) | DoubleValue | The x-coordinate of the control point in relative coordinates. |
-| [B](/python-java/asposediagram.api/relquadbezto/b/) | DoubleValue | The y-coordinate of the control point in relative coordinates. |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of the endpoint in relative coordinates. |
+| [Y](./y/) | DoubleValue | The y-coordinate of the endpoint in relative coordinates. |
+| [A](./a/) | DoubleValue | The x-coordinate of the control point in relative coordinates. |
+| [B](./b/) | DoubleValue | The y-coordinate of the control point in relative coordinates. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/relquadbezto/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/placestyle/value/) | int | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). Th |
-| [Ufe](/python-java/asposediagram.api/placestyle/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies how shapes are placed on the page when shapes are laid out when a user selects Lay Out Shapes (Shape menu). Th |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/placestyle/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/placestyle/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

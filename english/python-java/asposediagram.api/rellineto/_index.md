@@ -23,13 +23,13 @@ Creates an instance of the LineTo class.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](/python-java/asposediagram.api/rellineto/ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](/python-java/asposediagram.api/rellineto/del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](/python-java/asposediagram.api/rellineto/x/) | DoubleValue | The x-coordinate of the ending vertex of a straight line segment. |
-| [Y](/python-java/asposediagram.api/rellineto/y/) | DoubleValue | The y-coordinate of the ending vertex of a straight line segment. |
+| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
+| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](./x/) | DoubleValue | The x-coordinate of the ending vertex of a straight line segment. |
+| [Y](./y/) | DoubleValue | The y-coordinate of the ending vertex of a straight line segment. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](/python-java/asposediagram.api/rellineto/deepclone/) | Creates deep copy of this instance. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

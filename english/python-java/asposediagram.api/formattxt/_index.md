@@ -17,4 +17,4 @@ Abstract class for formatting of text
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/formattxt/value/) | String | Value |
+| [Value](./value/) | String | Value |

@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/placedepth/value/) | int | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the  |
-| [Ufe](/python-java/asposediagram.api/placedepth/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | For a drawing that is laid out automatically, specifies the method by which the drawing is analyzed before creating the  |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/placedepth/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/placedepth/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/objectkind/value/) | int | Indicates the type of text field. The value of the property is ObjectKindValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/objectkind/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Indicates the type of text field. The value of the property is ObjectKindValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/objectkind/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/objectkind/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/objectkind/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

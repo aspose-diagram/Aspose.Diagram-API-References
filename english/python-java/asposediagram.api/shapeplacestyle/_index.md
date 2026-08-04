@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/shapeplacestyle/value/) | int | Determines the appearance of a connector. The value of the property is ShapePlaceStyleValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/shapeplacestyle/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Determines the appearance of a connector. The value of the property is ShapePlaceStyleValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/shapeplacestyle/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/shapeplacestyle/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

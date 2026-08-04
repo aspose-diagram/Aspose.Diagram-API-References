@@ -17,13 +17,13 @@ RelEllipticalArcTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/relellipticalarctocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/relellipticalarctocollection/itemint/) | RelEllipticalArcTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | RelEllipticalArcTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/relellipticalarctocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/relellipticalarctocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/relellipticalarctocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

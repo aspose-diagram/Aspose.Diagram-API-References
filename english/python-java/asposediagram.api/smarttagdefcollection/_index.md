@@ -17,15 +17,15 @@ SmartTagDef collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/smarttagdefcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/smarttagdefcollection/itemint/) | SmartTagDef |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | SmartTagDef |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/smarttagdefcollection/add/) | Add the SmartTagDef object in the collection. |
-| [remove](/python-java/asposediagram.api/smarttagdefcollection/remove/) | Remove the SmartTagDef object from the collection. |
-| [clear](/python-java/asposediagram.api/smarttagdefcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/smarttagdefcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/smarttagdefcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the SmartTagDef object in the collection. |
+| [remove](./remove/) | Remove the SmartTagDef object from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

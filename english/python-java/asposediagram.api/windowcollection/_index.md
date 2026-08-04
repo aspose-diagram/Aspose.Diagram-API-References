@@ -17,17 +17,17 @@ Window collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ClientWidth](/python-java/asposediagram.api/windowcollection/clientwidth/) | int | Optional int. |
-| [ClientHeight](/python-java/asposediagram.api/windowcollection/clientheight/) | int | Optional int. |
-| [Count](/python-java/asposediagram.api/windowcollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/windowcollection/itemint/) | Window |  |
+| [ClientWidth](./clientwidth/) | int | Optional int. |
+| [ClientHeight](./clientheight/) | int | Optional int. |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | Window |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](/python-java/asposediagram.api/windowcollection/add/) | Add the window in the collection. |
-| [remove](/python-java/asposediagram.api/windowcollection/remove/) | Remove the window from the collection. |
-| [clear](/python-java/asposediagram.api/windowcollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/windowcollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/windowcollection/iterator/) | Reserved for internal use. |
+| [add](./add/) | Add the window in the collection. |
+| [remove](./remove/) | Remove the window from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

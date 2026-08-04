@@ -23,5 +23,5 @@ Ctor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [FontData](/python-java/asposediagram.api/memoryfontsource/fontdata/) | byte[] | Binary font data. |
-| [Type](/python-java/asposediagram.api/memoryfontsource/type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [FontData](./fontdata/) | byte[] | Binary font data. |
+| [Type](./type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |

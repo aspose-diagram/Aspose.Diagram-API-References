@@ -23,13 +23,13 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/verticalalign/value/) | int | Specifies the vertical alignment of text within the text block. The value of the property is VerticalAlignValue integer  |
-| [Ufe](/python-java/asposediagram.api/verticalalign/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Specifies the vertical alignment of text within the text block. The value of the property is VerticalAlignValue integer  |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/verticalalign/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/verticalalign/hashcode/) | Serves as a hash function for a particular type. |
-| [deepClone](/python-java/asposediagram.api/verticalalign/deepclone/) | Creates deep copy of this instance. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |
+| [deepClone](./deepclone/) | Creates deep copy of this instance. |

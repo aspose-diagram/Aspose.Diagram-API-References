@@ -17,13 +17,13 @@ EllipticalArcTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/ellipticalarctocollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/ellipticalarctocollection/itemint/) | EllipticalArcTo |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | EllipticalArcTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](/python-java/asposediagram.api/ellipticalarctocollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/ellipticalarctocollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/ellipticalarctocollection/iterator/) | Reserved for internal use. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

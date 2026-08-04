@@ -17,16 +17,16 @@ Specifies the file format of the image.
 
 | Name | Description |
 | --- | --- |
-| [getBmp](/python-java/asposediagram.api/imageformat/getbmp/) | Gets the bitmap (BMP) image format. |
-| [getEmf](/python-java/asposediagram.api/imageformat/getemf/) | Gets the enhanced metafile (EMF) image format. |
-| [getExif](/python-java/asposediagram.api/imageformat/getexif/) | Gets the Exchangeable Image File (Exif) format. |
-| [getGif](/python-java/asposediagram.api/imageformat/getgif/) | Gets the Graphics Interchange Format (GIF) image format. |
-| [getIcon](/python-java/asposediagram.api/imageformat/geticon/) | Gets the Windows icon image format. |
-| [getJpeg](/python-java/asposediagram.api/imageformat/getjpeg/) | Gets the Joint Photographic Experts Group (JPEG) image format. |
-| [getMemoryBmp](/python-java/asposediagram.api/imageformat/getmemorybmp/) | Gets a memory bitmap image format. |
-| [getPng](/python-java/asposediagram.api/imageformat/getpng/) | Gets the W3C Portable Network Graphics (PNG) image format. |
-| [getTiff](/python-java/asposediagram.api/imageformat/gettiff/) | Gets the Tagged Image File Format (TIFF) image format. |
-| [getWmf](/python-java/asposediagram.api/imageformat/getwmf/) | Gets the Windows metafile (WMF) image format. |
-| [equals](/python-java/asposediagram.api/imageformat/equals/) | Returns a value that indicates whether the specified object is an ImageFormat object that is equivalent to this ImageFor |
-| [getName](/python-java/asposediagram.api/imageformat/getname/) | Get the string name of this ImageFormat instance |
-| [getImageFormatFromSuffixName](/python-java/asposediagram.api/imageformat/getimageformatfromsuffixname/) | Get the image format according to suffix name |
+| [getBmp](./getbmp/) | Gets the bitmap (BMP) image format. |
+| [getEmf](./getemf/) | Gets the enhanced metafile (EMF) image format. |
+| [getExif](./getexif/) | Gets the Exchangeable Image File (Exif) format. |
+| [getGif](./getgif/) | Gets the Graphics Interchange Format (GIF) image format. |
+| [getIcon](./geticon/) | Gets the Windows icon image format. |
+| [getJpeg](./getjpeg/) | Gets the Joint Photographic Experts Group (JPEG) image format. |
+| [getMemoryBmp](./getmemorybmp/) | Gets a memory bitmap image format. |
+| [getPng](./getpng/) | Gets the W3C Portable Network Graphics (PNG) image format. |
+| [getTiff](./gettiff/) | Gets the Tagged Image File Format (TIFF) image format. |
+| [getWmf](./getwmf/) | Gets the Windows metafile (WMF) image format. |
+| [equals](./equals/) | Returns a value that indicates whether the specified object is an ImageFormat object that is equivalent to this ImageFor |
+| [getName](./getname/) | Get the string name of this ImageFormat instance |
+| [getImageFormatFromSuffixName](./getimageformatfromsuffixname/) | Get the image format according to suffix name |

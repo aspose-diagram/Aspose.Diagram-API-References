@@ -23,12 +23,12 @@ Constructor.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](/python-java/asposediagram.api/typeprop/value/) | int | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
-| [Ufe](/python-java/asposediagram.api/typeprop/ufe/) | UnitFormulaErr | Specifies attributes of an element. |
+| [Value](./value/) | int | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
+| [Ufe](./ufe/) | UnitFormulaErr | Specifies attributes of an element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [equals](/python-java/asposediagram.api/typeprop/equals/) | Are objects equal. |
-| [hashCode](/python-java/asposediagram.api/typeprop/hashcode/) | Serves as a hash function for a particular type. |
+| [equals](./equals/) | Are objects equal. |
+| [hashCode](./hashcode/) | Serves as a hash function for a particular type. |

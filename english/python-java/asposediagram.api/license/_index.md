@@ -23,6 +23,6 @@ Initializes a new instance of this class.
 
 | Name | Description |
 | --- | --- |
-| [setLicense](/python-java/asposediagram.api/license/setlicense/) | Licenses the component.
+| [setLicense](./setlicense/) | Licenses the component.
 
 Tries to find the license in the following locations: 1. Explicit path. 2. The folder of the co |

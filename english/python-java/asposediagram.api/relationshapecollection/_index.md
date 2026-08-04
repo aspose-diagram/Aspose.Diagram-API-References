@@ -21,14 +21,14 @@ RelationShapeCollection()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](/python-java/asposediagram.api/relationshapecollection/count/) | int |  |
-| [Item (int)](/python-java/asposediagram.api/relationshapecollection/itemint/) | RelationShape |  |
+| [Count](./count/) | int |  |
+| [Item (int)](./itemint/) | RelationShape |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [remove](/python-java/asposediagram.api/relationshapecollection/remove/) | Remove the relationShape from the collection. |
-| [clear](/python-java/asposediagram.api/relationshapecollection/clear/) |  |
-| [removeAt](/python-java/asposediagram.api/relationshapecollection/removeat/) |  |
-| [iterator](/python-java/asposediagram.api/relationshapecollection/iterator/) | Reserved for internal use. |
+| [remove](./remove/) | Remove the relationShape from the collection. |
+| [clear](./clear/) |  |
+| [removeAt](./removeat/) |  |
+| [iterator](./iterator/) | Reserved for internal use. |

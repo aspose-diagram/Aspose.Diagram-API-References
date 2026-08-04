@@ -21,7 +21,7 @@ CustomValue()
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [ValueString](/python-java/asposediagram.api/customvalue/valuestring/) | String | String value. |
-| [ValueBool](/python-java/asposediagram.api/customvalue/valuebool/) | boolean | Boolean value. |
-| [ValueDate](/python-java/asposediagram.api/customvalue/valuedate/) | DateTime | Date and time value. |
-| [ValueNumber](/python-java/asposediagram.api/customvalue/valuenumber/) | float | Number value. |
+| [ValueString](./valuestring/) | String | String value. |
+| [ValueBool](./valuebool/) | boolean | Boolean value. |
+| [ValueDate](./valuedate/) | DateTime | Date and time value. |
+| [ValueNumber](./valuenumber/) | float | Number value. |

@@ -17,4 +17,4 @@ This class specifies a glow effect, in which a color blurred outline is added ou
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Size](/python-java/asposediagram.api/gloweffect/size/) | float | Gets and sets the radius of the glow, in unit of points. |
+| [Size](./size/) | float | Gets and sets the radius of the glow, in unit of points. |
