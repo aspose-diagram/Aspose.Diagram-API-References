@@ -1,6 +1,6 @@
 ---
 title: "Aspose.Diagram for Node.js via Java API Reference"
-linktitle: "Aspose.Diagram for Node.js via Java API Reference"
+linktitle: "Aspose.Diagram for Node.js via Java"
 articleTitle: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Aspose.Diagram for Node.js via Java enables seamless creation, manipulation, and conversion of Visio diagrams in Node.js applications."
 type: docs
