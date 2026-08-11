@@ -1,8 +1,7 @@
 ---
-title: "LayerCollection Class"
+title: "LayerCollection"
 linktitle: "LayerCollection"
-articleTitle: "LayerCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Layer collection."
 type: docs
 weight: 1760
@@ -17,15 +16,39 @@ Layer collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | Layer |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | Layer |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](./add/) | Add the Layer object in the collection. |
-| [remove](./remove/) | Remove the Layer object from the collection. |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [add](#add) | Add the Layer object in the collection. |
+| [remove](#remove) | Remove the Layer object from the collection. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### LayerCollection.Count property {#count}
+
+**Type:** int
+
+### LayerCollection.Item (int) property {#itemint}
+
+**Type:** Layer
+
+### add(item) {#add}
+
+Add the Layer object in the collection.
+
+### remove(item) {#remove}
+
+Remove the Layer object from the collection.
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

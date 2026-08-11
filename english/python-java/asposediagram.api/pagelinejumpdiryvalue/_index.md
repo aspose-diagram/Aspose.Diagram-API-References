@@ -1,8 +1,7 @@
 ---
-title: "PageLineJumpDirYValue Enum"
+title: "PageLineJumpDirYValue"
 linktitle: "PageLineJumpDirYValue"
-articleTitle: "PageLineJumpDirYValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 2300

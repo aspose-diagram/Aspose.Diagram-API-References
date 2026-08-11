@@ -1,8 +1,7 @@
 ---
-title: "ContainerType Enum"
+title: "ContainerType"
 linktitle: "ContainerType"
-articleTitle: "ContainerType"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 690

@@ -1,8 +1,7 @@
 ---
-title: "EllipseCollection Class"
+title: "EllipseCollection"
 linktitle: "EllipseCollection"
-articleTitle: "EllipseCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Ellipse collection."
 type: docs
 weight: 1090
@@ -17,13 +16,29 @@ Ellipse collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | Ellipse |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | Ellipse |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### EllipseCollection.Count property {#count}
+
+**Type:** int
+
+### EllipseCollection.Item (int) property {#itemint}
+
+**Type:** Ellipse
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

@@ -1,15 +1,13 @@
 ---
 title: "asposediagram.api"
 linktitle: "asposediagram.api"
-articleTitle: "asposediagram.api"
-second_title: "Aspose.Diagram for Python via Java"
-description: "The asposediagram.api namespace provides classes and enums for creating, editing, and rendering Visio diagrams in Python via Java."
+second_title: "Aspose.Diagram for Python via Java API Reference"
+description: "The asposediagram.api namespace provides core classes and enums for creating, modifying, and rendering Visio diagrams in Python via Java."
 type: docs
 weight: 10
 url: /python-java/asposediagram.api/
 ---
-
-The asposediagram.api namespace groups the core components of the Aspose.Diagram library for Python via Java. It includes classes such as Act, Align, Annotation, and related collections and enumerations that enable detailed manipulation of Visio diagram elements.
+The asposediagram.api namespace groups the fundamental building blocks used to programmatically work with Microsoft Visio files. It includes classes for diagram elements, collections, alignment utilities, and monitoring, enabling developers to construct and manipulate diagrams with fine‑grained control.
 
 ## Classes
 

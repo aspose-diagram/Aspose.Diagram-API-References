@@ -1,8 +1,7 @@
 ---
-title: "SplineKnotCollection Class"
+title: "SplineKnotCollection"
 linktitle: "SplineKnotCollection"
-articleTitle: "SplineKnotCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "SplineKnot collection."
 type: docs
 weight: 3300
@@ -17,13 +16,29 @@ SplineKnot collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | SplineKnot |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | SplineKnot |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### SplineKnotCollection.Count property {#count}
+
+**Type:** int
+
+### SplineKnotCollection.Item (int) property {#itemint}
+
+**Type:** SplineKnot
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

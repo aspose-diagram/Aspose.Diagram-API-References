@@ -1,8 +1,7 @@
 ---
-title: "LineJumpStyleValue Enum"
+title: "LineJumpStyleValue"
 linktitle: "LineJumpStyleValue"
-articleTitle: "LineJumpStyleValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 1890

@@ -1,8 +1,7 @@
 ---
-title: "SplineStartCollection Class"
+title: "SplineStartCollection"
 linktitle: "SplineStartCollection"
-articleTitle: "SplineStartCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "SplineStart collection."
 type: docs
 weight: 3320
@@ -17,13 +16,29 @@ SplineStart collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | SplineStart |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | SplineStart |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### SplineStartCollection.Count property {#count}
+
+**Type:** int
+
+### SplineStartCollection.Item (int) property {#itemint}
+
+**Type:** SplineStart
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

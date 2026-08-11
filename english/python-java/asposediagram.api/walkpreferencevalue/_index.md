@@ -1,8 +1,7 @@
 ---
-title: "WalkPreferenceValue Enum"
+title: "WalkPreferenceValue"
 linktitle: "WalkPreferenceValue"
-articleTitle: "WalkPreferenceValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 3810

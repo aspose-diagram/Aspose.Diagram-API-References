@@ -1,8 +1,7 @@
 ---
-title: "ConLineJumpDirXValue Enum"
+title: "ConLineJumpDirXValue"
 linktitle: "ConLineJumpDirXValue"
-articleTitle: "ConLineJumpDirXValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 490

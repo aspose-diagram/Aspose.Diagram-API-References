@@ -1,8 +1,7 @@
 ---
-title: "ShapeRouteStyleValue Enum"
+title: "ShapeRouteStyleValue"
 linktitle: "ShapeRouteStyleValue"
-articleTitle: "ShapeRouteStyleValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 3140

@@ -1,8 +1,7 @@
 ---
-title: "NURBSToCollection Class"
+title: "NURBSToCollection"
 linktitle: "NURBSToCollection"
-articleTitle: "NURBSToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "NURBSTo collection."
 type: docs
 weight: 2150
@@ -17,13 +16,29 @@ NURBSTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | NURBSTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | NURBSTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### NURBSToCollection.Count property {#count}
+
+**Type:** int
+
+### NURBSToCollection.Item (int) property {#itemint}
+
+**Type:** NURBSTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

@@ -1,8 +1,7 @@
 ---
-title: "Tp Class"
+title: "Tp"
 linktitle: "Tp"
-articleTitle: "Tp"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Specifies the beginning of a tabs properties run."
 type: docs
 weight: 3520
@@ -13,14 +12,28 @@ url: /python-java/asposediagram.api/tp/
 
 Specifies the beginning of a tabs properties run. The run is defined to the end of the text or until the next
 
-```python
-Tp(IX)
-```
+## Constructors
 
-Constructor
+| Name | Description |
+| --- | --- |
+| [Tp](#constructor) | Constructor |
 
 ## Properties
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](./value/) | String | Value |
+| [Value](#value) | String | Value |
+
+### Tp(IX) {#constructor}
+
+Constructor
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| IX | int | The zero-based index of the element within its parent element. |
+
+### Tp.Value property {#value}
+
+Value
+
+**Type:** String

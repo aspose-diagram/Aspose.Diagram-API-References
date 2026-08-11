@@ -1,8 +1,7 @@
 ---
-title: "PresetThemeValue Enum"
+title: "PresetThemeValue"
 linktitle: "PresetThemeValue"
-articleTitle: "PresetThemeValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 2520

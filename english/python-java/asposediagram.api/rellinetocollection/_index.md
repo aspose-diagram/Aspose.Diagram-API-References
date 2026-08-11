@@ -1,8 +1,7 @@
 ---
-title: "RelLineToCollection Class"
+title: "RelLineToCollection"
 linktitle: "RelLineToCollection"
-articleTitle: "RelLineToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "RelLineTo collection."
 type: docs
 weight: 2700
@@ -17,13 +16,29 @@ RelLineTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | RelLineTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | RelLineTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### RelLineToCollection.Count property {#count}
+
+**Type:** int
+
+### RelLineToCollection.Item (int) property {#itemint}
+
+**Type:** RelLineTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

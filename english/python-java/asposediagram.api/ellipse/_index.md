@@ -1,8 +1,7 @@
 ---
-title: "Ellipse Class"
+title: "Ellipse"
 linktitle: "Ellipse"
-articleTitle: "Ellipse"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Contains elements specifying the x- and y-coordinates of the ellipse's center point and two points on the ellipse."
 type: docs
 weight: 1080
@@ -13,27 +12,83 @@ url: /python-java/asposediagram.api/ellipse/
 
 Contains elements specifying the x- and y-coordinates of the ellipse's center point and two points on the ellipse.
 
-```python
-Ellipse()
-```
+## Constructors
 
-Creates an instance of the Ellipse class.
+| Name | Description |
+| --- | --- |
+| [Ellipse](#constructor) | Creates an instance of the Ellipse class. |
 
 ## Properties
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [IX](./ix/) | int | The zero-based index of the element within its parent element. |
-| [Del](./del/) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [X](./x/) | DoubleValue | The x-coordinate of the center of the ellipse. |
-| [Y](./y/) | DoubleValue | The y-coordinate of the center of the ellipse. |
-| [A](./a/) | DoubleValue | An x-coordinate of a point on the ellipse paired with the y-coordinate represented by the B element. |
-| [B](./b/) | DoubleValue | A y-coordinate of a point on an ellipse paired with an x-coordinate represented by the A element. |
-| [C](./c/) | DoubleValue | An x-coordinate of a point on the ellipse paired with y-coordinate represented by the D element. |
-| [D](./d/) | DoubleValue | A y-coordinate of a point on the ellipse paired with x-coordinate represented by the C element. |
+| [IX](#ix) | int | The zero-based index of the element within its parent element. |
+| [Del](#del) | int | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [X](#x) | DoubleValue | The x-coordinate of the center of the ellipse. |
+| [Y](#y) | DoubleValue | The y-coordinate of the center of the ellipse. |
+| [A](#a) | DoubleValue | An x-coordinate of a point on the ellipse paired with the y-coordinate represented by the B element. |
+| [B](#b) | DoubleValue | A y-coordinate of a point on an ellipse paired with an x-coordinate represented by the A element. |
+| [C](#c) | DoubleValue | An x-coordinate of a point on the ellipse paired with y-coordinate represented by the D element. |
+| [D](#d) | DoubleValue | A y-coordinate of a point on the ellipse paired with x-coordinate represented by the C element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [deepClone](./deepclone/) | Creates deep copy of this instance. |
+| [deepClone](#deepclone) | Creates deep copy of this instance. |
+
+### Ellipse() {#constructor}
+
+Creates an instance of the Ellipse class.
+
+### Ellipse.IX property {#ix}
+
+The zero-based index of the element within its parent element.
+
+**Type:** int
+
+### Ellipse.Del property {#del}
+
+A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. The value of the property is BOOL integer constant.
+
+**Type:** int
+
+### Ellipse.X property {#x}
+
+The x-coordinate of the center of the ellipse.
+
+**Type:** DoubleValue
+
+### Ellipse.Y property {#y}
+
+The y-coordinate of the center of the ellipse.
+
+**Type:** DoubleValue
+
+### Ellipse.A property {#a}
+
+An x-coordinate of a point on the ellipse paired with the y-coordinate represented by the B element.
+
+**Type:** DoubleValue
+
+### Ellipse.B property {#b}
+
+A y-coordinate of a point on an ellipse paired with an x-coordinate represented by the A element.
+
+**Type:** DoubleValue
+
+### Ellipse.C property {#c}
+
+An x-coordinate of a point on the ellipse paired with y-coordinate represented by the D element.
+
+**Type:** DoubleValue
+
+### Ellipse.D property {#d}
+
+A y-coordinate of a point on the ellipse paired with x-coordinate represented by the C element.
+
+**Type:** DoubleValue
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.

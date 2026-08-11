@@ -1,8 +1,7 @@
 ---
-title: "GlowEffect Class"
+title: "GlowEffect"
 linktitle: "GlowEffect"
-articleTitle: "GlowEffect"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "This class specifies a glow effect, in which a color blurred outline is added outside the edges of the object."
 type: docs
 weight: 1410
@@ -17,4 +16,10 @@ This class specifies a glow effect, in which a color blurred outline is added ou
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Size](./size/) | float | Gets and sets the radius of the glow, in unit of points. |
+| [Size](#size) | float | Gets and sets the radius of the glow, in unit of points. |
+
+### GlowEffect.Size property {#size}
+
+Gets and sets the radius of the glow, in unit of points.
+
+**Type:** float

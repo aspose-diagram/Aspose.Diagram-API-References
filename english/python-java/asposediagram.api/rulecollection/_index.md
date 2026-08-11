@@ -1,8 +1,7 @@
 ---
-title: "RuleCollection Class"
+title: "RuleCollection"
 linktitle: "RuleCollection"
-articleTitle: "RuleCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Rule collection."
 type: docs
 weight: 2900
@@ -17,15 +16,47 @@ Rule collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | Rule |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | Rule |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](./add/) | Add the rule in the collection. |
-| [remove](./remove/) | Remove the rule from the collection. |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [add](#add) | Add the rule in the collection. |
+| [remove](#remove) | Remove the rule from the collection. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### RuleCollection.Count property {#count}
+
+**Type:** int
+
+### RuleCollection.Item (int) property {#itemint}
+
+**Type:** Rule
+
+### add(rule) {#add}
+
+Add the rule in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rule | Rule |  |
+
+### remove(rule) {#remove}
+
+Remove the rule from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rule | Rule |  |
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
