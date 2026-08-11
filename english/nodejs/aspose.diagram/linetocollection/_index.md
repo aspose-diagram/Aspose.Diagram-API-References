@@ -1,8 +1,7 @@
 ---
-title: "LineToCollection Class"
+title: "LineToCollection"
 linktitle: "LineToCollection"
-articleTitle: "LineToCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "LineTo collection."
 type: docs
 weight: 1440
@@ -17,8 +16,20 @@ LineTo collection.
 
 | Name | Description |
 | --- | --- |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [removeAt()](./removeat/) |  |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [removeAt()](#removeat) |  |
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### removeAt() {#removeat}

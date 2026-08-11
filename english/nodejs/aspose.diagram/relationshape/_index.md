@@ -1,8 +1,7 @@
 ---
-title: "RelationShape Class"
+title: "RelationShape"
 linktitle: "RelationShape"
-articleTitle: "RelationShape"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains elements that define a shape and relationflag."
 type: docs
 weight: 2060
@@ -21,7 +20,23 @@ new RelationShape()
 
 | Name | Description |
 | --- | --- |
-| [getFlag()](./getflag/) | Gets or sets flag The value of the property is RelationFlag integer constant. |
-| [getShape()](./getshape/) | Gets or sets the shape |
-| [setFlag()](./setflag/) | Gets or sets flag The value of the property is RelationFlag integer constant. |
-| [setShape()](./setshape/) | Gets or sets the shape |
+| [getFlag()](#getflag) | Gets or sets flag The value of the property is RelationFlag integer constant. |
+| [getShape()](#getshape) | Gets or sets the shape |
+| [setFlag()](#setflag) | Gets or sets flag The value of the property is RelationFlag integer constant. |
+| [setShape()](#setshape) | Gets or sets the shape |
+
+### getFlag() {#getflag}
+
+Gets or sets flag The value of the property is RelationFlag integer constant.
+
+### getShape() {#getshape}
+
+Gets or sets the shape
+
+### setFlag() {#setflag}
+
+Gets or sets flag The value of the property is RelationFlag integer constant.
+
+### setShape() {#setshape}
+
+Gets or sets the shape

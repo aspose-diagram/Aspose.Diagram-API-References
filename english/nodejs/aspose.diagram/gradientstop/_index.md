@@ -1,8 +1,7 @@
 ---
-title: "GradientStop Class"
+title: "GradientStop"
 linktitle: "GradientStop"
-articleTitle: "GradientStop"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents the gradient stop."
 type: docs
 weight: 1070
@@ -21,10 +20,40 @@ new GradientStop()
 
 | Name | Description |
 | --- | --- |
-| [deepClone()](./deepclone/) | Creates deep copy of this instance. |
-| [getColor()](./getcolor/) | Gets the color of this gradient stop. |
-| [getPosition()](./getposition/) | The position of the stop. |
-| [getTransparency()](./gettransparency/) | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
-| [setColor()](./setcolor/) | Gets the color of this gradient stop. |
-| [setPosition()](./setposition/) | The position of the stop. |
-| [setTransparency()](./settransparency/) | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
+| [deepClone()](#deepclone) | Creates deep copy of this instance. |
+| [getColor()](#getcolor) | Gets the color of this gradient stop. |
+| [getPosition()](#getposition) | The position of the stop. |
+| [getTransparency()](#gettransparency) | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
+| [setColor()](#setcolor) | Gets the color of this gradient stop. |
+| [setPosition()](#setposition) | The position of the stop. |
+| [setTransparency()](#settransparency) | Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear). |
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.
+
+**Returns:** Object — `Object`
+
+### getColor() {#getcolor}
+
+Gets the color of this gradient stop.
+
+### getPosition() {#getposition}
+
+The position of the stop.
+
+### getTransparency() {#gettransparency}
+
+Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear).
+
+### setColor() {#setcolor}
+
+Gets the color of this gradient stop.
+
+### setPosition() {#setposition}
+
+The position of the stop.
+
+### setTransparency() {#settransparency}
+
+Returns or sets the degree of transparency of the area as a value from 0.0 (opaque) through 1.0 (clear).

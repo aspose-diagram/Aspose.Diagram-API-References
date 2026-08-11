@@ -1,8 +1,7 @@
 ---
-title: "SplineStartCollection Class"
+title: "SplineStartCollection"
 linktitle: "SplineStartCollection"
-articleTitle: "SplineStartCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "SplineStart collection."
 type: docs
 weight: 2480
@@ -17,8 +16,20 @@ SplineStart collection.
 
 | Name | Description |
 | --- | --- |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [removeAt()](./removeat/) |  |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [removeAt()](#removeat) |  |
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### removeAt() {#removeat}

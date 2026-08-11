@@ -1,8 +1,7 @@
 ---
-title: "Master Class"
+title: "Master"
 linktitle: "Master"
-articleTitle: "Master"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains elements that define a master for the document."
 type: docs
 weight: 1500
@@ -23,32 +22,180 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [deepClone()](./deepclone/) | Creates deep copy of this instance. |
-| [dispose()](./dispose/) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [getAlignName()](./getalignname/) | Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property i |
-| [getBaseID()](./getbaseid/) | A GUID (globally unique identifier) that identifies the master across documents. |
-| [getConnects()](./getconnects/) | Contains a Connect element for each connection between two shapes in a drawing. |
-| [getHidden()](./gethidden/) | Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant. |
-| [getIcon()](./geticon/) | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShor |
-| [getIconSize()](./geticonsize/) | The size of the element's icon. The value of the property is IconSizeValue integer constant. |
-| [getIconUpdate()](./geticonupdate/) | Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer  |
-| [getID()](./getid/) | The unique ID of the element within its parent element. |
-| [getMatchByName()](./getmatchbyname/) | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instanc |
-| [getName()](./getname/) | The name of the element. |
-| [getNameU()](./getnameu/) | The universal name of the element. |
-| [getPageSheet()](./getpagesheet/) | Contains elements that define the page sheet for a Page or Master element. |
-| [getPatternFlags()](./getpatternflags/) | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
-| [getPrompt()](./getprompt/) | The status bar and tool tip prompt for the element. |
-| [getShapes()](./getshapes/) | Collection of Shape objects. |
-| [getUniqueID()](./getuniqueid/) | A GUID that identifies the master within the document. |
-| [setAlignName()](./setalignname/) | Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property i |
-| [setHidden()](./sethidden/) | Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant. |
-| [setIcon()](./seticon/) | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShor |
-| [setIconSize()](./seticonsize/) | The size of the element's icon. The value of the property is IconSizeValue integer constant. |
-| [setIconUpdate()](./seticonupdate/) | Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer  |
-| [setID()](./setid/) | The unique ID of the element within its parent element. |
-| [setMatchByName()](./setmatchbyname/) | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instanc |
-| [setName()](./setname/) | The name of the element. |
-| [setNameU()](./setnameu/) | The universal name of the element. |
-| [setPatternFlags()](./setpatternflags/) | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
-| [setPrompt()](./setprompt/) | The status bar and tool tip prompt for the element. |
+| [deepClone()](#deepclone) | Creates deep copy of this instance. |
+| [dispose()](#dispose) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [getAlignName()](#getalignname) | Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property i |
+| [getBaseID()](#getbaseid) | A GUID (globally unique identifier) that identifies the master across documents. |
+| [getConnects()](#getconnects) | Contains a Connect element for each connection between two shapes in a drawing. |
+| [getHidden()](#gethidden) | Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant. |
+| [getIcon()](#geticon) | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShor |
+| [getIconSize()](#geticonsize) | The size of the element's icon. The value of the property is IconSizeValue integer constant. |
+| [getIconUpdate()](#geticonupdate) | Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer  |
+| [getID()](#getid) | The unique ID of the element within its parent element. |
+| [getMatchByName()](#getmatchbyname) | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instanc |
+| [getName()](#getname) | The name of the element. |
+| [getNameU()](#getnameu) | The universal name of the element. |
+| [getPageSheet()](#getpagesheet) | Contains elements that define the page sheet for a Page or Master element. |
+| [getPatternFlags()](#getpatternflags) | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
+| [getPrompt()](#getprompt) | The status bar and tool tip prompt for the element. |
+| [getShapes()](#getshapes) | Collection of Shape objects. |
+| [getUniqueID()](#getuniqueid) | A GUID that identifies the master within the document. |
+| [setAlignName()](#setalignname) | Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property i |
+| [setHidden()](#sethidden) | Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant. |
+| [setIcon()](#seticon) | Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShor |
+| [setIconSize()](#seticonsize) | The size of the element's icon. The value of the property is IconSizeValue integer constant. |
+| [setIconUpdate()](#seticonupdate) | Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer  |
+| [setID()](#setid) | The unique ID of the element within its parent element. |
+| [setMatchByName()](#setmatchbyname) | The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instanc |
+| [setName()](#setname) | The name of the element. |
+| [setNameU()](#setnameu) | The universal name of the element. |
+| [setPatternFlags()](#setpatternflags) | The PatternFlags attribute determines whether a master behaves as a custom pattern. |
+| [setPrompt()](#setprompt) | The status bar and tool tip prompt for the element. |
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.
+
+**Returns:** Object — `Object`
+
+### dispose() {#dispose}
+
+Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+
+### getAlignName() {#getalignname}
+
+Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property is AlignNameValue integer constant.
+
+### getBaseID() {#getbaseid}
+
+A GUID (globally unique identifier) that identifies the master across documents.
+
+### getConnects() {#getconnects}
+
+Contains a Connect element for each connection between two shapes in a drawing.
+
+### getHidden() {#gethidden}
+
+Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant.
+
+### getIcon() {#geticon}
+
+Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document.
+
+**Example:**
+
+```js
+var aspose = aspose || {};
+aspose.diagram = require("aspose.diagram");
+fs = require("fs");
+stencil = new aspose.diagram.Diagram("Timeline.vss");
+// get master
+master = stencil.getMasters().getMasterByName("Diamond milestone");
+// get byte array
+bytes = master.getIcon();
+// create an image file and write byte array to the image
+fs.writeFileSync("out-MasterIcon.png", bytes);
+```
+
+### getIconSize() {#geticonsize}
+
+The size of the element's icon. The value of the property is IconSizeValue integer constant.
+
+### getIconUpdate() {#geticonupdate}
+
+Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer constant.
+
+### getID() {#getid}
+
+The unique ID of the element within its parent element.
+
+### getMatchByName() {#getmatchbyname}
+
+The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. The value of the property is BOOL integer constant.
+
+### getName() {#getname}
+
+The name of the element.
+
+### getNameU() {#getnameu}
+
+The universal name of the element.
+
+### getPageSheet() {#getpagesheet}
+
+Contains elements that define the page sheet for a Page or Master element.
+
+### getPatternFlags() {#getpatternflags}
+
+The PatternFlags attribute determines whether a master behaves as a custom pattern.
+
+### getPrompt() {#getprompt}
+
+The status bar and tool tip prompt for the element.
+
+### getShapes() {#getshapes}
+
+Collection of Shape objects.
+
+### getUniqueID() {#getuniqueid}
+
+A GUID that identifies the master within the document.
+
+### setAlignName() {#setalignname}
+
+Specifies whether the master's text in the stencil window is aligned left, right, or center. The value of the property is AlignNameValue integer constant.
+
+### setHidden() {#sethidden}
+
+Specifies whether the master is hidden in the user interface. The value of the property is BOOL integer constant.
+
+### setIcon() {#seticon}
+
+Specifies a MIME (Multipurpose Internet Mail Extensions) encoded binary icon (in .ico format) for a Master or MasterShortcut element in a document.
+
+**Example:**
+
+```js
+var aspose = aspose || {};
+aspose.diagram = require("aspose.diagram");
+fs = require("fs");
+stencil = new aspose.diagram.Diagram("Timeline.vss");
+// get master
+master = stencil.getMasters().getMasterByName("Diamond milestone");
+// get byte array
+bytes = master.getIcon();
+// create an image file and write byte array to the image
+fs.writeFileSync("out-MasterIcon.png", bytes);
+```
+
+### setIconSize() {#seticonsize}
+
+The size of the element's icon. The value of the property is IconSizeValue integer constant.
+
+### setIconUpdate() {#seticonupdate}
+
+Specifies whether the icon is automatically generated from the master itself. The value of the property is BOOL integer constant.
+
+### setID() {#setid}
+
+The unique ID of the element within its parent element.
+
+### setMatchByName() {#setmatchbyname}
+
+The MatchByName attribute determines how Microsoft Visio decides if a document master is already present when an instance of a master is dropped on the drawing page. It allows changes made to a document master to apply to new instances of the master, even if the instances are dragged from a stand-alone stencil file. The value of the property is BOOL integer constant.
+
+### setName() {#setname}
+
+The name of the element.
+
+### setNameU() {#setnameu}
+
+The universal name of the element.
+
+### setPatternFlags() {#setpatternflags}
+
+The PatternFlags attribute determines whether a master behaves as a custom pattern.
+
+### setPrompt() {#setprompt}
+
+The status bar and tool tip prompt for the element.

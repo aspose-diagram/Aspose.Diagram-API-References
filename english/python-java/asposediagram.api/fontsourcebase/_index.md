@@ -1,8 +1,7 @@
 ---
-title: "FontSourceBase Class"
+title: "FontSourceBase"
 linktitle: "FontSourceBase"
-articleTitle: "FontSourceBase"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "This is an abstract base class for the classes that allow the user to specify various font sources"
 type: docs
 weight: 1310
@@ -17,4 +16,10 @@ This is an abstract base class for the classes that allow the user to specify va
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Type](./type/) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [Type](#type) | int | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+
+### FontSourceBase.Type property {#type}
+
+Returns the type of the font source. The value of the property is FontSourceType integer constant.
+
+**Type:** int

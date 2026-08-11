@@ -1,8 +1,7 @@
 ---
-title: "RelQuadBezToCollection Class"
+title: "RelQuadBezToCollection"
 linktitle: "RelQuadBezToCollection"
-articleTitle: "RelQuadBezToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "RelQuadBezTo collection."
 type: docs
 weight: 2740
@@ -17,13 +16,29 @@ RelQuadBezTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | RelQuadBezTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | RelQuadBezTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### RelQuadBezToCollection.Count property {#count}
+
+**Type:** int
+
+### RelQuadBezToCollection.Item (int) property {#itemint}
+
+**Type:** RelQuadBezTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

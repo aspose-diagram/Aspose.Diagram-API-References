@@ -1,8 +1,7 @@
 ---
-title: "DiagramException Class"
+title: "DiagramException"
 linktitle: "DiagramException"
-articleTitle: "DiagramException"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Base class for all Aspose.Diagram exceptions"
 type: docs
 weight: 900
@@ -13,8 +12,16 @@ url: /python-java/asposediagram.api/diagramexception/
 
 Base class for all Aspose.Diagram exceptions
 
-```python
-DiagramException(msg)
-```
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [DiagramException](#constructor) | Constructor. |
+
+### DiagramException(msg) {#constructor}
 
 Constructor.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| msg | String |  |

@@ -1,8 +1,7 @@
 ---
-title: "SolutionXML Class"
+title: "SolutionXML"
 linktitle: "SolutionXML"
-articleTitle: "SolutionXML"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document."
 type: docs
 weight: 2420
@@ -23,9 +22,35 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [constructor_overload$1()](./constructor-overload1/) | Constructor. |
-| [deepClone()](./deepclone/) | Creates deep copy of this instance. |
-| [getName()](./getname/) | A unique name to identify the XML data set. |
-| [getXmlValue()](./getxmlvalue/) | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
-| [setName()](./setname/) | A unique name to identify the XML data set. |
-| [setXmlValue()](./setxmlvalue/) | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
+| [constructor_overload$1()](#constructor-overload1) | Constructor. |
+| [deepClone()](#deepclone) | Creates deep copy of this instance. |
+| [getName()](#getname) | A unique name to identify the XML data set. |
+| [getXmlValue()](#getxmlvalue) | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
+| [setName()](#setname) | A unique name to identify the XML data set. |
+| [setXmlValue()](#setxmlvalue) | Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document |
+
+### constructor_overload$1() {#constructor-overload1}
+
+Constructor.
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.
+
+**Returns:** Object — `Object`
+
+### getName() {#getname}
+
+A unique name to identify the XML data set.
+
+### getXmlValue() {#getxmlvalue}
+
+Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document.
+
+### setName() {#setname}
+
+A unique name to identify the XML data set.
+
+### setXmlValue() {#setxmlvalue}
+
+Contains solution-specific, well-formed XML data that is prefixed in an explicit namespace and is stored with a document.

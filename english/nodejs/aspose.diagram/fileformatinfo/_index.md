@@ -1,8 +1,7 @@
 ---
-title: "FileFormatInfo Class"
+title: "FileFormatInfo"
 linktitle: "FileFormatInfo"
-articleTitle: "FileFormatInfo"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains data returned by FileFormatUtil file format detection methods."
 type: docs
 weight: 880
@@ -21,5 +20,13 @@ new FileFormatInfo()
 
 | Name | Description |
 | --- | --- |
-| [getFileFormatType()](./getfileformattype/) | Gets the detected file format. The value of the property is FileFormatType integer constant. |
-| [getLoadFormat()](./getloadformat/) | Gets the detected load format. The value of the property is LoadFileFormat integer constant. |
+| [getFileFormatType()](#getfileformattype) | Gets the detected file format. The value of the property is FileFormatType integer constant. |
+| [getLoadFormat()](#getloadformat) | Gets the detected load format. The value of the property is LoadFileFormat integer constant. |
+
+### getFileFormatType() {#getfileformattype}
+
+Gets the detected file format. The value of the property is FileFormatType integer constant.
+
+### getLoadFormat() {#getloadformat}
+
+Gets the detected load format. The value of the property is LoadFileFormat integer constant.

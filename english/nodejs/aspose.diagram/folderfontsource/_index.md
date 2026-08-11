@@ -1,8 +1,7 @@
 ---
-title: "FolderFontSource Class"
+title: "FolderFontSource"
 linktitle: "FolderFontSource"
-articleTitle: "FolderFontSource"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents the folder that contains TrueType font files."
 type: docs
 weight: 930
@@ -23,6 +22,18 @@ Ctor.
 
 | Name | Description |
 | --- | --- |
-| [getFolderPath()](./getfolderpath/) | Path to fonts folder. |
-| [getScanSubFolders()](./getscansubfolders/) | Determines whether or not to scan the subfolders. |
-| [getType()](./gettype/) | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [getFolderPath()](#getfolderpath) | Path to fonts folder. |
+| [getScanSubFolders()](#getscansubfolders) | Determines whether or not to scan the subfolders. |
+| [getType()](#gettype) | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+
+### getFolderPath() {#getfolderpath}
+
+Path to fonts folder.
+
+### getScanSubFolders() {#getscansubfolders}
+
+Determines whether or not to scan the subfolders.
+
+### getType() {#gettype}
+
+Returns the type of the font source. The value of the property is FontSourceType integer constant.

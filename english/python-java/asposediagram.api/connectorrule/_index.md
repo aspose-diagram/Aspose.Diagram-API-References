@@ -1,8 +1,7 @@
 ---
-title: "ConnectorRule Class"
+title: "ConnectorRule"
 linktitle: "ConnectorRule"
-articleTitle: "ConnectorRule"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Represents connector rule between two shapes with a connector,Including which connection point of which shape it starts from, the end shape and its connection p"
 type: docs
 weight: 650
@@ -17,7 +16,31 @@ Represents connector rule between two shapes with a connector,Including which co
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [StartShapeId](./startshapeid/) | long | The shape from which a connection is made. |
-| [StartShapeConnection](./startshapeconnection/) | Connection | The shape's connection from which a connection is made. |
-| [EndShapeConnection](./endshapeconnection/) | Connection | The shape's connection to which a connection is made. |
-| [EndShapeId](./endshapeid/) | long | The shape to which a connection is made. |
+| [StartShapeId](#startshapeid) | long | The shape from which a connection is made. |
+| [StartShapeConnection](#startshapeconnection) | Connection | The shape's connection from which a connection is made. |
+| [EndShapeConnection](#endshapeconnection) | Connection | The shape's connection to which a connection is made. |
+| [EndShapeId](#endshapeid) | long | The shape to which a connection is made. |
+
+### ConnectorRule.StartShapeId property {#startshapeid}
+
+The shape from which a connection is made.
+
+**Type:** long
+
+### ConnectorRule.StartShapeConnection property {#startshapeconnection}
+
+The shape's connection from which a connection is made.
+
+**Type:** Connection
+
+### ConnectorRule.EndShapeConnection property {#endshapeconnection}
+
+The shape's connection to which a connection is made.
+
+**Type:** Connection
+
+### ConnectorRule.EndShapeId property {#endshapeid}
+
+The shape to which a connection is made.
+
+**Type:** long

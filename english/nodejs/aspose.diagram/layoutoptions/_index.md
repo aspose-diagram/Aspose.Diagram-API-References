@@ -1,8 +1,7 @@
 ---
-title: "LayoutOptions Class"
+title: "LayoutOptions"
 linktitle: "LayoutOptions"
-articleTitle: "LayoutOptions"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Used to specify style and additional options of layout of shapes to perform Re-Layout of page(pages)."
 type: docs
 weight: 1340
@@ -23,11 +22,43 @@ Initializes a new instance of LayoutOptions.
 
 | Name | Description |
 | --- | --- |
-| [getDirection()](./getdirection/) | Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is  |
-| [getEnlargePage()](./getenlargepage/) | Defines whether need enlarge page to fit drawing or not. Default value is false. |
-| [getLayoutStyle()](./getlayoutstyle/) | Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart. |
-| [getSpaceShapes()](./getspaceshapes/) | Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm. |
-| [setDirection()](./setdirection/) | Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is  |
-| [setEnlargePage()](./setenlargepage/) | Defines whether need enlarge page to fit drawing or not. Default value is false. |
-| [setLayoutStyle()](./setlayoutstyle/) | Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart. |
-| [setSpaceShapes()](./setspaceshapes/) | Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm. |
+| [getDirection()](#getdirection) | Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is  |
+| [getEnlargePage()](#getenlargepage) | Defines whether need enlarge page to fit drawing or not. Default value is false. |
+| [getLayoutStyle()](#getlayoutstyle) | Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart. |
+| [getSpaceShapes()](#getspaceshapes) | Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm. |
+| [setDirection()](#setdirection) | Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is  |
+| [setEnlargePage()](#setenlargepage) | Defines whether need enlarge page to fit drawing or not. Default value is false. |
+| [setLayoutStyle()](#setlayoutstyle) | Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart. |
+| [setSpaceShapes()](#setspaceshapes) | Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm. |
+
+### getDirection() {#getdirection}
+
+Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is TopToBottom.
+
+### getEnlargePage() {#getenlargepage}
+
+Defines whether need enlarge page to fit drawing or not. Default value is false.
+
+### getLayoutStyle() {#getlayoutstyle}
+
+Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart.
+
+### getSpaceShapes() {#getspaceshapes}
+
+Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm.
+
+### setDirection() {#setdirection}
+
+Used to set direction of shapes layout. The value of the property is LayoutDirection integer constant. Default value is TopToBottom.
+
+### setEnlargePage() {#setenlargepage}
+
+Defines whether need enlarge page to fit drawing or not. Default value is false.
+
+### setLayoutStyle() {#setlayoutstyle}
+
+Used to specify style of layout. The value of the property is LayoutStyle integer constant. Default value is FlowChart.
+
+### setSpaceShapes() {#setspaceshapes}
+
+Defines the spacing between the shapes in inches. Default value 0.3 inch ~ 7.5 mm.

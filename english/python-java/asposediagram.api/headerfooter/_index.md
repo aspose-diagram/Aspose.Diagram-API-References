@@ -1,8 +1,7 @@
 ---
-title: "HeaderFooter Class"
+title: "HeaderFooter"
 linktitle: "HeaderFooter"
-articleTitle: "HeaderFooter"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Contains elements for a document's header and footer."
 type: docs
 weight: 1570
@@ -17,13 +16,73 @@ Contains elements for a document's header and footer.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [HeaderMargin](./headermargin/) | Margin | Specifies the margin of a document's footer. |
-| [FooterMargin](./footermargin/) | Margin | Specifies the margin of a document's footer. |
-| [HeaderFooterColor](./headerfootercolor/) | Color | The RGB value of the text color for the header and footer. |
-| [HeaderLeft](./headerleft/) | String | Contains the text string that appears in the left portion of a document's header. |
-| [HeaderCenter](./headercenter/) | String | Contains the text string that appears in the center portion of a document's header. |
-| [HeaderRight](./headerright/) | String | Contains the text string that appears in the right portion of a document's header. |
-| [FooterLeft](./footerleft/) | String | Contains the text string that appears in the left portion of a document's footer. |
-| [FooterCenter](./footercenter/) | String | Contains the text string that appears in the center portion of a document's footer. |
-| [FooterRight](./footerright/) | String | Contains the text string that appears in the right portion of a document's footer. |
-| [HeaderFooterFont](./headerfooterfont/) | HeaderFooterFont | Specifies the font used for the header and footer text. |
+| [HeaderMargin](#headermargin) | Margin | Specifies the margin of a document's footer. |
+| [FooterMargin](#footermargin) | Margin | Specifies the margin of a document's footer. |
+| [HeaderFooterColor](#headerfootercolor) | Color | The RGB value of the text color for the header and footer. |
+| [HeaderLeft](#headerleft) | String | Contains the text string that appears in the left portion of a document's header. |
+| [HeaderCenter](#headercenter) | String | Contains the text string that appears in the center portion of a document's header. |
+| [HeaderRight](#headerright) | String | Contains the text string that appears in the right portion of a document's header. |
+| [FooterLeft](#footerleft) | String | Contains the text string that appears in the left portion of a document's footer. |
+| [FooterCenter](#footercenter) | String | Contains the text string that appears in the center portion of a document's footer. |
+| [FooterRight](#footerright) | String | Contains the text string that appears in the right portion of a document's footer. |
+| [HeaderFooterFont](#headerfooterfont) | HeaderFooterFont | Specifies the font used for the header and footer text. |
+
+### HeaderFooter.HeaderMargin property {#headermargin}
+
+Specifies the margin of a document's footer.
+
+**Type:** Margin
+
+### HeaderFooter.FooterMargin property {#footermargin}
+
+Specifies the margin of a document's footer.
+
+**Type:** Margin
+
+### HeaderFooter.HeaderFooterColor property {#headerfootercolor}
+
+The RGB value of the text color for the header and footer.
+
+**Type:** Color
+
+### HeaderFooter.HeaderLeft property {#headerleft}
+
+Contains the text string that appears in the left portion of a document's header.
+
+**Type:** String
+
+### HeaderFooter.HeaderCenter property {#headercenter}
+
+Contains the text string that appears in the center portion of a document's header.
+
+**Type:** String
+
+### HeaderFooter.HeaderRight property {#headerright}
+
+Contains the text string that appears in the right portion of a document's header.
+
+**Type:** String
+
+### HeaderFooter.FooterLeft property {#footerleft}
+
+Contains the text string that appears in the left portion of a document's footer.
+
+**Type:** String
+
+### HeaderFooter.FooterCenter property {#footercenter}
+
+Contains the text string that appears in the center portion of a document's footer.
+
+**Type:** String
+
+### HeaderFooter.FooterRight property {#footerright}
+
+Contains the text string that appears in the right portion of a document's footer.
+
+**Type:** String
+
+### HeaderFooter.HeaderFooterFont property {#headerfooterfont}
+
+Specifies the font used for the header and footer text.
+
+**Type:** HeaderFooterFont

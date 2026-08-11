@@ -1,8 +1,7 @@
 ---
-title: "InterruptMonitor Class"
+title: "InterruptMonitor"
 linktitle: "InterruptMonitor"
-articleTitle: "InterruptMonitor"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents all operator about the interrupt."
 type: docs
 weight: 1250
@@ -21,5 +20,13 @@ new InterruptMonitor()
 
 | Name | Description |
 | --- | --- |
-| [interrupt()](./interrupt/) | Interrupt the current operator. |
-| [isInterruptionRequested()](./isinterruptionrequested/) | Mark the monitor as requesting interruption |
+| [interrupt()](#interrupt) | Interrupt the current operator. |
+| [isInterruptionRequested()](#isinterruptionrequested) | Mark the monitor as requesting interruption |
+
+### interrupt() {#interrupt}
+
+Interrupt the current operator.
+
+### isInterruptionRequested() {#isinterruptionrequested}
+
+Mark the monitor as requesting interruption

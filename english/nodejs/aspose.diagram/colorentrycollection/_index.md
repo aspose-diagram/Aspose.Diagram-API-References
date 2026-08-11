@@ -1,8 +1,7 @@
 ---
-title: "ColorEntryCollection Class"
+title: "ColorEntryCollection"
 linktitle: "ColorEntryCollection"
-articleTitle: "ColorEntryCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains the document's color table."
 type: docs
 weight: 280
@@ -17,10 +16,40 @@ Contains the document's color table. Each document contains a single color table
 
 | Name | Description |
 | --- | --- |
-| [add(color)](./add/) | Add the Color object in the collection. |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [remove(color)](./remove/) | Remove the Color object from the collection. |
-| [removeAt()](./removeat/) |  |
+| [add(color)](#add) | Add the Color object in the collection. |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [remove(color)](#remove) | Remove the Color object from the collection. |
+| [removeAt()](#removeat) |  |
+
+### add(color) {#add}
+
+Add the Color object in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | ColorEntry |  |
+
+**Returns:** Number — `Number`
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### remove(color) {#remove}
+
+Remove the Color object from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | ColorEntry |  |
+
+### removeAt() {#removeat}

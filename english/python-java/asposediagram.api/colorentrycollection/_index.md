@@ -1,8 +1,7 @@
 ---
-title: "ColorEntryCollection Class"
+title: "ColorEntryCollection"
 linktitle: "ColorEntryCollection"
-articleTitle: "ColorEntryCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Contains the document's color table."
 type: docs
 weight: 390
@@ -17,15 +16,47 @@ Contains the document's color table. Each document contains a single color table
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | ColorEntry |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | ColorEntry |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](./add/) | Add the Color object in the collection. |
-| [remove](./remove/) | Remove the Color object from the collection. |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [add](#add) | Add the Color object in the collection. |
+| [remove](#remove) | Remove the Color object from the collection. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### ColorEntryCollection.Count property {#count}
+
+**Type:** int
+
+### ColorEntryCollection.Item (int) property {#itemint}
+
+**Type:** ColorEntry
+
+### add(color) {#add}
+
+Add the Color object in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | ColorEntry |  |
+
+### remove(color) {#remove}
+
+Remove the Color object from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | ColorEntry |  |
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

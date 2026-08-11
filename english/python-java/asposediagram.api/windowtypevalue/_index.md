@@ -1,8 +1,7 @@
 ---
-title: "WindowTypeValue Enum"
+title: "WindowTypeValue"
 linktitle: "WindowTypeValue"
-articleTitle: "WindowTypeValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 3870

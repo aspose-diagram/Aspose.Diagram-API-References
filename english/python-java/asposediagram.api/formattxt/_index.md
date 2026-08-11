@@ -1,8 +1,7 @@
 ---
-title: "FormatTxt Class"
+title: "FormatTxt"
 linktitle: "FormatTxt"
-articleTitle: "FormatTxt"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Abstract class for formatting of text"
 type: docs
 weight: 1360
@@ -17,4 +16,10 @@ Abstract class for formatting of text
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Value](./value/) | String | Value |
+| [Value](#value) | String | Value |
+
+### FormatTxt.Value property {#value}
+
+Value
+
+**Type:** String

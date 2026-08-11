@@ -1,8 +1,7 @@
 ---
-title: "WarningInfo Class"
+title: "WarningInfo"
 linktitle: "WarningInfo"
-articleTitle: "WarningInfo"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Warning info"
 type: docs
 weight: 2890
@@ -23,5 +22,13 @@ Create warning info.
 
 | Name | Description |
 | --- | --- |
-| [getDescription()](./getdescription/) | Get description of warning info. |
-| [getWarningType()](./getwarningtype/) | Get warning type. The value of the property is WarningType integer constant. |
+| [getDescription()](#getdescription) | Get description of warning info. |
+| [getWarningType()](#getwarningtype) | Get warning type. The value of the property is WarningType integer constant. |
+
+### getDescription() {#getdescription}
+
+Get description of warning info.
+
+### getWarningType() {#getwarningtype}
+
+Get warning type. The value of the property is WarningType integer constant.

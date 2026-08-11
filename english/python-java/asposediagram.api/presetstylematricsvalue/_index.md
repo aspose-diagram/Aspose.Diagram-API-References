@@ -1,8 +1,7 @@
 ---
-title: "PresetStyleMatricsValue Enum"
+title: "PresetStyleMatricsValue"
 linktitle: "PresetStyleMatricsValue"
-articleTitle: "PresetStyleMatricsValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 2510

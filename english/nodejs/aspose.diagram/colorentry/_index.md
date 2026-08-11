@@ -1,8 +1,7 @@
 ---
-title: "ColorEntry Class"
+title: "ColorEntry"
 linktitle: "ColorEntry"
-articleTitle: "ColorEntry"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains a color table entry."
 type: docs
 weight: 270
@@ -23,6 +22,18 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [getColor()](./getcolor/) | Represents an ARGB color. |
-| [getIX()](./getix/) | Required int. The zero-based index of the element within its parent element. |
-| [setIX()](./setix/) | Required int. The zero-based index of the element within its parent element. |
+| [getColor()](#getcolor) | Represents an ARGB color. |
+| [getIX()](#getix) | Required int. The zero-based index of the element within its parent element. |
+| [setIX()](#setix) | Required int. The zero-based index of the element within its parent element. |
+
+### getColor() {#getcolor}
+
+Represents an ARGB color.
+
+### getIX() {#getix}
+
+Required int. The zero-based index of the element within its parent element.
+
+### setIX() {#setix}
+
+Required int. The zero-based index of the element within its parent element.

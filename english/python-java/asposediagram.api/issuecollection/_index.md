@@ -1,8 +1,7 @@
 ---
-title: "IssueCollection Class"
+title: "IssueCollection"
 linktitle: "IssueCollection"
-articleTitle: "IssueCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Issue collection."
 type: docs
 weight: 1730
@@ -17,15 +16,47 @@ Issue collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | Issue |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | Issue |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [add](./add/) | Add the issue in the collection. |
-| [remove](./remove/) | Remove the issue from the collection. |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [add](#add) | Add the issue in the collection. |
+| [remove](#remove) | Remove the issue from the collection. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### IssueCollection.Count property {#count}
+
+**Type:** int
+
+### IssueCollection.Item (int) property {#itemint}
+
+**Type:** Issue
+
+### add(issue) {#add}
+
+Add the issue in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| issue | Issue |  |
+
+### remove(issue) {#remove}
+
+Remove the issue from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| issue | Issue |  |
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

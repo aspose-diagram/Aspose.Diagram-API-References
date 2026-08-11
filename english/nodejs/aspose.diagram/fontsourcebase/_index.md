@@ -1,8 +1,7 @@
 ---
-title: "FontSourceBase Class"
+title: "FontSourceBase"
 linktitle: "FontSourceBase"
-articleTitle: "FontSourceBase"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "This is an abstract base class for the classes that allow the user to specify various font sources"
 type: docs
 weight: 970
@@ -17,4 +16,8 @@ This is an abstract base class for the classes that allow the user to specify va
 
 | Name | Description |
 | --- | --- |
-| [getType()](./gettype/) | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+| [getType()](#gettype) | Returns the type of the font source. The value of the property is FontSourceType integer constant. |
+
+### getType() {#gettype}
+
+Returns the type of the font source. The value of the property is FontSourceType integer constant.

@@ -1,8 +1,7 @@
 ---
-title: "ValidationProperties Class"
+title: "ValidationProperties"
 linktitle: "ValidationProperties"
-articleTitle: "ValidationProperties"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Encapsulates properties related to validation for the document."
 type: docs
 weight: 2800
@@ -17,6 +16,18 @@ Encapsulates properties related to validation for the document.
 
 | Name | Description |
 | --- | --- |
-| [getLastValidated()](./getlastvalidated/) | The date and time the document was last validated |
-| [getShowIgnored()](./getshowignored/) | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |
-| [setShowIgnored()](./setshowignored/) | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |
+| [getLastValidated()](#getlastvalidated) | The date and time the document was last validated |
+| [getShowIgnored()](#getshowignored) | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |
+| [setShowIgnored()](#setshowignored) | Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant. |
+
+### getLastValidated() {#getlastvalidated}
+
+The date and time the document was last validated
+
+### getShowIgnored() {#getshowignored}
+
+Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant.
+
+### setShowIgnored() {#setshowignored}
+
+Whether to show ignored validation issues in the Issues window. The value of the property is BOOL integer constant.

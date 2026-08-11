@@ -1,8 +1,7 @@
 ---
-title: "RelEllipticalArcToCollection Class"
+title: "RelEllipticalArcToCollection"
 linktitle: "RelEllipticalArcToCollection"
-articleTitle: "RelEllipticalArcToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "RelEllipticalArcTo collection."
 type: docs
 weight: 2680
@@ -17,13 +16,29 @@ RelEllipticalArcTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | RelEllipticalArcTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | RelEllipticalArcTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### RelEllipticalArcToCollection.Count property {#count}
+
+**Type:** int
+
+### RelEllipticalArcToCollection.Item (int) property {#itemint}
+
+**Type:** RelEllipticalArcTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

@@ -1,8 +1,7 @@
 ---
-title: "PrintPageOrientationValue Enum"
+title: "PrintPageOrientationValue"
 linktitle: "PrintPageOrientationValue"
-articleTitle: "PrintPageOrientationValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 2570

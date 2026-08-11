@@ -1,8 +1,7 @@
 ---
-title: "AbstractInterruptMonitor Class"
+title: "AbstractInterruptMonitor"
 linktitle: "AbstractInterruptMonitor"
-articleTitle: "AbstractInterruptMonitor"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Monitor for interruption requests in all time-consuming operations."
 type: docs
 weight: 10
@@ -17,4 +16,8 @@ Monitor for interruption requests in all time-consuming operations.
 
 | Name | Description |
 | --- | --- |
-| [isInterruptionRequested()](./isinterruptionrequested/) | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |
+| [isInterruptionRequested()](#isinterruptionrequested) | Indicates whether interruption is requested for current operation. If true then current operation will be interrupted. |
+
+### isInterruptionRequested() {#isinterruptionrequested}
+
+Indicates whether interruption is requested for current operation. If true then current operation will be interrupted.

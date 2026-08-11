@@ -1,8 +1,7 @@
 ---
-title: "VbaModule Class"
+title: "VbaModule"
 linktitle: "VbaModule"
-articleTitle: "VbaModule"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents module that is contained in VBA project."
 type: docs
 weight: 2820
@@ -17,8 +16,28 @@ Represents module that is contained in VBA project.
 
 | Name | Description |
 | --- | --- |
-| [getCodes()](./getcodes/) | Gets and sets the codes of module. |
-| [getName()](./getname/) | Gets and sets the name of Module. |
-| [getType()](./gettype/) | Gets the type of module. The value of the property is VbaModuleType integer constant. |
-| [setCodes()](./setcodes/) | Gets and sets the codes of module. |
-| [setName()](./setname/) | Gets and sets the name of Module. |
+| [getCodes()](#getcodes) | Gets and sets the codes of module. |
+| [getName()](#getname) | Gets and sets the name of Module. |
+| [getType()](#gettype) | Gets the type of module. The value of the property is VbaModuleType integer constant. |
+| [setCodes()](#setcodes) | Gets and sets the codes of module. |
+| [setName()](#setname) | Gets and sets the name of Module. |
+
+### getCodes() {#getcodes}
+
+Gets and sets the codes of module.
+
+### getName() {#getname}
+
+Gets and sets the name of Module.
+
+### getType() {#gettype}
+
+Gets the type of module. The value of the property is VbaModuleType integer constant.
+
+### setCodes() {#setcodes}
+
+Gets and sets the codes of module.
+
+### setName() {#setname}
+
+Gets and sets the name of Module.

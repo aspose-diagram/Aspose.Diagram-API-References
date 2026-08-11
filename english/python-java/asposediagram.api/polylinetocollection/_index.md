@@ -1,8 +1,7 @@
 ---
-title: "PolylineToCollection Class"
+title: "PolylineToCollection"
 linktitle: "PolylineToCollection"
-articleTitle: "PolylineToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "PolylineTo collection."
 type: docs
 weight: 2430
@@ -17,13 +16,29 @@ PolylineTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | PolylineTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | PolylineTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### PolylineToCollection.Count property {#count}
+
+**Type:** int
+
+### PolylineToCollection.Item (int) property {#itemint}
+
+**Type:** PolylineTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.

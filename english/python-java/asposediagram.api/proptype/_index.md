@@ -1,8 +1,7 @@
 ---
-title: "PropType Enum"
+title: "PropType"
 linktitle: "PropType"
-articleTitle: "PropType"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 2610

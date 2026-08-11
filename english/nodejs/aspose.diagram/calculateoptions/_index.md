@@ -1,8 +1,7 @@
 ---
-title: "CalculateOptions Class"
+title: "CalculateOptions"
 linktitle: "CalculateOptions"
-articleTitle: "CalculateOptions"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents options for calculation."
 type: docs
 weight: 210
@@ -21,5 +20,13 @@ new CalculateOptions()
 
 | Name | Description |
 | --- | --- |
-| [getType()](./gettype/) | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |
-| [setType()](./settype/) | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |
+| [getType()](#gettype) | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |
+| [setType()](#settype) | Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default v |
+
+### getType() {#gettype}
+
+Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default value is All .
+
+### setType() {#settype}
+
+Defines the type of calculating shape's data. The value of the property is CalculateItemType integer constant. Default value is All .

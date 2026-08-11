@@ -1,8 +1,7 @@
 ---
-title: "TypeFieldValue Enum"
+title: "TypeFieldValue"
 linktitle: "TypeFieldValue"
-articleTitle: "TypeFieldValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 3570

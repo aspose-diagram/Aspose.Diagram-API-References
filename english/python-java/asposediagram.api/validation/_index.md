@@ -1,8 +1,7 @@
 ---
-title: "Validation Class"
+title: "Validation"
 linktitle: "Validation"
-articleTitle: "Validation"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Stores information about diagram validation for the document."
 type: docs
 weight: 3670
@@ -17,6 +16,24 @@ Stores information about diagram validation for the document.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [RuleSets](./rulesets/) | RuleSetCollection | Includes a RuleSet element for each validation rule set in the document. |
-| [Issues](./issues/) | IssueCollection | Contains all the Issue elements for the document. |
-| [ValidationProperties](./validationproperties/) | ValidationProperties | Encapsulates properties related to validation for the document. |
+| [RuleSets](#rulesets) | RuleSetCollection | Includes a RuleSet element for each validation rule set in the document. |
+| [Issues](#issues) | IssueCollection | Contains all the Issue elements for the document. |
+| [ValidationProperties](#validationproperties) | ValidationProperties | Encapsulates properties related to validation for the document. |
+
+### Validation.RuleSets property {#rulesets}
+
+Includes a RuleSet element for each validation rule set in the document.
+
+**Type:** RuleSetCollection
+
+### Validation.Issues property {#issues}
+
+Contains all the Issue elements for the document.
+
+**Type:** IssueCollection
+
+### Validation.ValidationProperties property {#validationproperties}
+
+Encapsulates properties related to validation for the document.
+
+**Type:** ValidationProperties

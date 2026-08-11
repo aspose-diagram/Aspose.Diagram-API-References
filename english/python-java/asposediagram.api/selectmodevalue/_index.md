@@ -1,8 +1,7 @@
 ---
-title: "SelectModeValue Enum"
+title: "SelectModeValue"
 linktitle: "SelectModeValue"
-articleTitle: "SelectModeValue"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 3020

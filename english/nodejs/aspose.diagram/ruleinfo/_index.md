@@ -1,8 +1,7 @@
 ---
-title: "RuleInfo Class"
+title: "RuleInfo"
 linktitle: "RuleInfo"
-articleTitle: "RuleInfo"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies information about the validation rule that the parent validation issue pertains to."
 type: docs
 weight: 2180
@@ -23,7 +22,23 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [getRuleId()](./getruleid/) | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
-| [getRuleSetId()](./getrulesetid/) | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
-| [setRuleId()](./setruleid/) | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
-| [setRuleSetId()](./setrulesetid/) | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
+| [getRuleId()](#getruleid) | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
+| [getRuleSetId()](#getrulesetid) | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
+| [setRuleId()](#setruleid) | Specifies the unique identifier of the validation rule that the parent issue pertains to. |
+| [setRuleSetId()](#setrulesetid) | Specifies the unique identifier of the validation rule set that the parent issue pertains to. |
+
+### getRuleId() {#getruleid}
+
+Specifies the unique identifier of the validation rule that the parent issue pertains to.
+
+### getRuleSetId() {#getrulesetid}
+
+Specifies the unique identifier of the validation rule set that the parent issue pertains to.
+
+### setRuleId() {#setruleid}
+
+Specifies the unique identifier of the validation rule that the parent issue pertains to.
+
+### setRuleSetId() {#setrulesetid}
+
+Specifies the unique identifier of the validation rule set that the parent issue pertains to.

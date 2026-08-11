@@ -1,8 +1,7 @@
 ---
-title: "UIVisibility Class"
+title: "UIVisibility"
 linktitle: "UIVisibility"
-articleTitle: "UIVisibility"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies the tab alignment."
 type: docs
 weight: 2730
@@ -23,9 +22,43 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [deepClone()](./deepclone/) | Creates deep copy of this instance. |
-| [equals(value)](./equals/) | Are objects equal. |
-| [getUfe()](./getufe/) | Specifies attributes of an element. |
-| [getValue()](./getvalue/) | Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant. |
-| [hashCode()](./hashcode/) | Serves as a hash function for a particular type. |
-| [setValue()](./setvalue/) | Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant. |
+| [deepClone()](#deepclone) | Creates deep copy of this instance. |
+| [equals(value)](#equals) | Are objects equal. |
+| [getUfe()](#getufe) | Specifies attributes of an element. |
+| [getValue()](#getvalue) | Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant. |
+| [hashCode()](#hashcode) | Serves as a hash function for a particular type. |
+| [setValue()](#setvalue) | Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant. |
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.
+
+**Returns:** Object — `Object`
+
+### equals(value) {#equals}
+
+Are objects equal.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object |  |
+
+**Returns:** boolean — `boolean`
+
+### getUfe() {#getufe}
+
+Specifies attributes of an element.
+
+### getValue() {#getvalue}
+
+Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant.
+
+### hashCode() {#hashcode}
+
+Serves as a hash function for a particular type.
+
+**Returns:** Number — `Number`
+
+### setValue() {#setvalue}
+
+Specifies the uivisibility. The value of the property is UIVisibilityValue integer constant.

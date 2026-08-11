@@ -1,8 +1,7 @@
 ---
-title: "ArcToCollection Class"
+title: "ArcToCollection"
 linktitle: "ArcToCollection"
-articleTitle: "ArcToCollection"
-second_title: "Aspose.Diagram for Python via Java"
+second_title: "Aspose.Diagram for Python via Java API Reference"
 description: "ArcTo collection."
 type: docs
 weight: 110
@@ -17,13 +16,29 @@ ArcTo collection.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| [Count](./count/) | int |  |
-| [Item (int)](./itemint/) | ArcTo |  |
+| [Count](#count) | int |  |
+| [Item (int)](#itemint) | ArcTo |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [clear](./clear/) |  |
-| [removeAt](./removeat/) |  |
-| [iterator](./iterator/) | Reserved for internal use. |
+| [clear](#clear) |  |
+| [removeAt](#removeat) |  |
+| [iterator](#iterator) | Reserved for internal use. |
+
+### ArcToCollection.Count property {#count}
+
+**Type:** int
+
+### ArcToCollection.Item (int) property {#itemint}
+
+**Type:** ArcTo
+
+### clear() {#clear}
+
+### removeAt(index) {#removeat}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
