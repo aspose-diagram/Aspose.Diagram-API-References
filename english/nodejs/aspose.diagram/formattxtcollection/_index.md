@@ -1,8 +1,7 @@
 ---
-title: "FormatTxtCollection Class"
+title: "FormatTxtCollection"
 linktitle: "FormatTxtCollection"
-articleTitle: "FormatTxtCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "FormatTxt collection which contains the text of a shape."
 type: docs
 weight: 1010
@@ -17,12 +16,46 @@ FormatTxt collection which contains the text of a shape.
 
 | Name | Description |
 | --- | --- |
-| [add()](./add/) | Add the FormatTxt object in the collection. |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [getText()](./gettext/) | Contains the text of a shape with formating. |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [remove()](./remove/) | Remove the FormatTxt object from the collection. |
-| [removeAt()](./removeat/) |  |
-| [setWholeText(text)](./setwholetext/) | Set the text of a shape without formating. |
+| [add()](#add) | Add the FormatTxt object in the collection. |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [getText()](#gettext) | Contains the text of a shape with formating. |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [remove()](#remove) | Remove the FormatTxt object from the collection. |
+| [removeAt()](#removeat) |  |
+| [setWholeText(text)](#setwholetext) | Set the text of a shape without formating. |
+
+### add() {#add}
+
+Add the FormatTxt object in the collection.
+
+**Returns:** Number — `Number`
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### getText() {#gettext}
+
+Contains the text of a shape with formating.
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### remove() {#remove}
+
+Remove the FormatTxt object from the collection.
+
+### removeAt() {#removeat}
+
+### setWholeText(text) {#setwholetext}
+
+Set the text of a shape without formating.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String |  |

@@ -1,8 +1,7 @@
 ---
-title: "Cp Class"
+title: "Cp"
 linktitle: "Cp"
-articleTitle: "Cp"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Marks the beginning of a character properties run that is formatted according to the corresponding Char element."
 type: docs
 weight: 520
@@ -23,4 +22,8 @@ Constructor
 
 | Name | Description |
 | --- | --- |
-| [getValue()](./getvalue/) | Value |
+| [getValue()](#getvalue) | Value |
+
+### getValue() {#getvalue}
+
+Value

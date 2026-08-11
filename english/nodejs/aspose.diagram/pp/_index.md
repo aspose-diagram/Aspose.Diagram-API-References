@@ -1,8 +1,7 @@
 ---
-title: "Pp Class"
+title: "Pp"
 linktitle: "Pp"
-articleTitle: "Pp"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies the beginning of a paragraph properties run."
 type: docs
 weight: 1870
@@ -23,4 +22,8 @@ Constructor
 
 | Name | Description |
 | --- | --- |
-| [getValue()](./getvalue/) | Value |
+| [getValue()](#getvalue) | Value |
+
+### getValue() {#getvalue}
+
+Value

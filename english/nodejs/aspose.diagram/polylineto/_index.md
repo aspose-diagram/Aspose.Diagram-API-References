@@ -1,8 +1,7 @@
 ---
-title: "PolylineTo Class"
+title: "PolylineTo"
 linktitle: "PolylineTo"
-articleTitle: "PolylineTo"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains x- and y-coordinates of the last point of a polyline and a polyline formula."
 type: docs
 weight: 1840
@@ -23,14 +22,60 @@ Creates an instance of the PolylineTo class.
 
 | Name | Description |
 | --- | --- |
-| [deepClone()](./deepclone/) | Creates deep copy of this instance. |
-| [getA()](./geta/) | The polyline formula. |
-| [getDel()](./getdel/) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [getIX()](./getix/) | The zero-based index of the element within its parent element. |
-| [getX()](./getx/) | The x-coordinate of the ending vertex of a polyline. |
-| [getY()](./gety/) | The y-coordinate of the ending vertex of a polyline. |
-| [setA()](./seta/) | The polyline formula. |
-| [setDel()](./setdel/) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [setIX()](./setix/) | The zero-based index of the element within its parent element. |
-| [setX()](./setx/) | The x-coordinate of the ending vertex of a polyline. |
-| [setY()](./sety/) | The y-coordinate of the ending vertex of a polyline. |
+| [deepClone()](#deepclone) | Creates deep copy of this instance. |
+| [getA()](#geta) | The polyline formula. |
+| [getDel()](#getdel) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [getIX()](#getix) | The zero-based index of the element within its parent element. |
+| [getX()](#getx) | The x-coordinate of the ending vertex of a polyline. |
+| [getY()](#gety) | The y-coordinate of the ending vertex of a polyline. |
+| [setA()](#seta) | The polyline formula. |
+| [setDel()](#setdel) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [setIX()](#setix) | The zero-based index of the element within its parent element. |
+| [setX()](#setx) | The x-coordinate of the ending vertex of a polyline. |
+| [setY()](#sety) | The y-coordinate of the ending vertex of a polyline. |
+
+### deepClone() {#deepclone}
+
+Creates deep copy of this instance.
+
+**Returns:** Object — `Object`
+
+### getA() {#geta}
+
+The polyline formula.
+
+### getDel() {#getdel}
+
+A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. The value of the property is BOOL integer constant.
+
+### getIX() {#getix}
+
+The zero-based index of the element within its parent element.
+
+### getX() {#getx}
+
+The x-coordinate of the ending vertex of a polyline.
+
+### getY() {#gety}
+
+The y-coordinate of the ending vertex of a polyline.
+
+### setA() {#seta}
+
+The polyline formula.
+
+### setDel() {#setdel}
+
+A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. The value of the property is BOOL integer constant.
+
+### setIX() {#setix}
+
+The zero-based index of the element within its parent element.
+
+### setX() {#setx}
+
+The x-coordinate of the ending vertex of a polyline.
+
+### setY() {#sety}
+
+The y-coordinate of the ending vertex of a polyline.

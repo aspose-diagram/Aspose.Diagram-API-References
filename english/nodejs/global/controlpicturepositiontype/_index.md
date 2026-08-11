@@ -1,8 +1,7 @@
 ---
 title: "ControlPicturePositionType"
 linktitle: "ControlPicturePositionType"
-articleTitle: "ControlPicturePositionType"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 380

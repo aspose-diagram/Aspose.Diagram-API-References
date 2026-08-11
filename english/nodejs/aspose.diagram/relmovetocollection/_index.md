@@ -1,8 +1,7 @@
 ---
-title: "RelMoveToCollection Class"
+title: "RelMoveToCollection"
 linktitle: "RelMoveToCollection"
-articleTitle: "RelMoveToCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "RelMoveTo collection."
 type: docs
 weight: 2030
@@ -17,8 +16,20 @@ RelMoveTo collection.
 
 | Name | Description |
 | --- | --- |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [removeAt()](./removeat/) |  |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [removeAt()](#removeat) |  |
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### removeAt() {#removeat}

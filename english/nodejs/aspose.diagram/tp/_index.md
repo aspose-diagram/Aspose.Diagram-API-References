@@ -1,8 +1,7 @@
 ---
-title: "Tp Class"
+title: "Tp"
 linktitle: "Tp"
-articleTitle: "Tp"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies the beginning of a tabs properties run."
 type: docs
 weight: 2670
@@ -23,4 +22,8 @@ Constructor
 
 | Name | Description |
 | --- | --- |
-| [getValue()](./getvalue/) | Value |
+| [getValue()](#getvalue) | Value |
+
+### getValue() {#getvalue}
+
+Value

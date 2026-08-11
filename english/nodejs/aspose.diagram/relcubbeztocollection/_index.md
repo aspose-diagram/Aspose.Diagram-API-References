@@ -1,8 +1,7 @@
 ---
-title: "RelCubBezToCollection Class"
+title: "RelCubBezToCollection"
 linktitle: "RelCubBezToCollection"
-articleTitle: "RelCubBezToCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "RelCubBezTo collection."
 type: docs
 weight: 1970
@@ -17,8 +16,20 @@ RelCubBezTo collection.
 
 | Name | Description |
 | --- | --- |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [removeAt()](./removeat/) |  |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [removeAt()](#removeat) |  |
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### removeAt() {#removeat}

@@ -1,8 +1,7 @@
 ---
-title: "DateValue Class"
+title: "DateValue"
 linktitle: "DateValue"
-articleTitle: "DateValue"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Date and time value."
 type: docs
 weight: 620
@@ -17,7 +16,31 @@ Date and time value.
 
 | Name | Description |
 | --- | --- |
-| [equals(value)](./equals/) | Are objects equal. |
-| [getUfe()](./getufe/) | Attributes of an element. |
-| [getValue()](./getvalue/) | Date and time value. |
-| [hashCode()](./hashcode/) | Serves as a hash function for a particular type. |
+| [equals(value)](#equals) | Are objects equal. |
+| [getUfe()](#getufe) | Attributes of an element. |
+| [getValue()](#getvalue) | Date and time value. |
+| [hashCode()](#hashcode) | Serves as a hash function for a particular type. |
+
+### equals(value) {#equals}
+
+Are objects equal.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object |  |
+
+**Returns:** boolean — `boolean`
+
+### getUfe() {#getufe}
+
+Attributes of an element.
+
+### getValue() {#getvalue}
+
+Date and time value.
+
+### hashCode() {#hashcode}
+
+Serves as a hash function for a particular type.
+
+**Returns:** Number — `Number`

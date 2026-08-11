@@ -1,8 +1,7 @@
 ---
-title: "ScratchCollection Class"
+title: "ScratchCollection"
 linktitle: "ScratchCollection"
-articleTitle: "ScratchCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Scratch collection."
 type: docs
 weight: 2270
@@ -17,10 +16,32 @@ Scratch collection.
 
 | Name | Description |
 | --- | --- |
-| [add()](./add/) | Add the Scratch object in the collection. |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [remove()](./remove/) | Remove the Scratch object from the collection. |
-| [removeAt()](./removeat/) |  |
+| [add()](#add) | Add the Scratch object in the collection. |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [remove()](#remove) | Remove the Scratch object from the collection. |
+| [removeAt()](#removeat) |  |
+
+### add() {#add}
+
+Add the Scratch object in the collection.
+
+**Returns:** Number — `Number`
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### remove() {#remove}
+
+Remove the Scratch object from the collection.
+
+### removeAt() {#removeat}

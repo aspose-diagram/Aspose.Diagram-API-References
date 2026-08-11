@@ -1,8 +1,7 @@
 ---
-title: "PageEndSavingArgs Class"
+title: "PageEndSavingArgs"
 linktitle: "PageEndSavingArgs"
-articleTitle: "PageEndSavingArgs"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Info for a page ends saving process."
 type: docs
 weight: 1670
@@ -17,7 +16,23 @@ Info for a page ends saving process.
 
 | Name | Description |
 | --- | --- |
-| [getPageCount()](./getpagecount/) | Total page count. |
-| [getPageIndex()](./getpageindex/) | Current page index, zero based. |
-| [hasMorePages()](./hasmorepages/) | Gets or sets a value indicating whether having more pages to be output. The default value is true. |
-| [setHasMorePages()](./sethasmorepages/) | Gets or sets a value indicating whether having more pages to be output. The default value is true. |
+| [getPageCount()](#getpagecount) | Total page count. |
+| [getPageIndex()](#getpageindex) | Current page index, zero based. |
+| [hasMorePages()](#hasmorepages) | Gets or sets a value indicating whether having more pages to be output. The default value is true. |
+| [setHasMorePages()](#sethasmorepages) | Gets or sets a value indicating whether having more pages to be output. The default value is true. |
+
+### getPageCount() {#getpagecount}
+
+Total page count.
+
+### getPageIndex() {#getpageindex}
+
+Current page index, zero based.
+
+### hasMorePages() {#hasmorepages}
+
+Gets or sets a value indicating whether having more pages to be output. The default value is true.
+
+### setHasMorePages() {#sethasmorepages}
+
+Gets or sets a value indicating whether having more pages to be output. The default value is true.

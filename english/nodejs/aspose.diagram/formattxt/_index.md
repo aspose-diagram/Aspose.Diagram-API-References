@@ -1,8 +1,7 @@
 ---
-title: "FormatTxt Class"
+title: "FormatTxt"
 linktitle: "FormatTxt"
-articleTitle: "FormatTxt"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Abstract class for formatting of text"
 type: docs
 weight: 1000
@@ -17,4 +16,8 @@ Abstract class for formatting of text
 
 | Name | Description |
 | --- | --- |
-| [getValue()](./getvalue/) | Value |
+| [getValue()](#getvalue) | Value |
+
+### getValue() {#getvalue}
+
+Value

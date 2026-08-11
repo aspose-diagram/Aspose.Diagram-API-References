@@ -1,15 +1,13 @@
 ---
 title: "Global"
 linktitle: "Global"
-articleTitle: "Global"
-second_title: "Aspose.Diagram for Node.js via Java"
-description: "Contains global enumerations and utility types used throughout Aspose.Diagram, including alignment, arrow size, bevel settings, and boolean values."
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
+description: "The Global namespace groups fundamental enums and utility types used across Aspose.Diagram for Node.js via Java."
 type: docs
 weight: 20
 url: /nodejs/global/
 ---
-
-The Global namespace groups fundamental enumerations and helper types shared across the Aspose.Diagram for Node.js via Java library. These definitions, such as alignment options, arrow sizes, and bevel characteristics, provide standardized values for diagram elements.
+It contains core definitions such as alignment values, arrow sizes, boolean flags, and various bevel and persistence settings that are referenced by other diagram objects. These types provide standardized constants for configuring shape properties and rendering behavior.
 
 ## Enumerations
 

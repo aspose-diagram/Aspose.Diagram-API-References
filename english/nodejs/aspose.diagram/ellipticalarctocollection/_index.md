@@ -1,8 +1,7 @@
 ---
-title: "EllipticalArcToCollection Class"
+title: "EllipticalArcToCollection"
 linktitle: "EllipticalArcToCollection"
-articleTitle: "EllipticalArcToCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "EllipticalArcTo collection."
 type: docs
 weight: 810
@@ -17,8 +16,20 @@ EllipticalArcTo collection.
 
 | Name | Description |
 | --- | --- |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [removeAt()](./removeat/) |  |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [removeAt()](#removeat) |  |
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### removeAt() {#removeat}

@@ -1,8 +1,7 @@
 ---
-title: "AutoSpaceOptions Class"
+title: "AutoSpaceOptions"
 linktitle: "AutoSpaceOptions"
-articleTitle: "AutoSpaceOptions"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Represents autospace options."
 type: docs
 weight: 140
@@ -21,7 +20,23 @@ new AutoSpaceOptions()
 
 | Name | Description |
 | --- | --- |
-| [getDistanceInHorizontal()](./getdistanceinhorizontal/) | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |
-| [getDistanceInVertical()](./getdistanceinvertical/) | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
-| [setDistanceInHorizontal()](./setdistanceinhorizontal/) | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |
-| [setDistanceInVertical()](./setdistanceinvertical/) | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
+| [getDistanceInHorizontal()](#getdistanceinhorizontal) | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |
+| [getDistanceInVertical()](#getdistanceinvertical) | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
+| [setDistanceInHorizontal()](#setdistanceinhorizontal) | Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch . |
+| [setDistanceInVertical()](#setdistanceinvertical) | Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch . |
+
+### getDistanceInHorizontal() {#getdistanceinhorizontal}
+
+Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch .
+
+### getDistanceInVertical() {#getdistanceinvertical}
+
+Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch .
+
+### setDistanceInHorizontal() {#setdistanceinhorizontal}
+
+Defines the distance between the shapes in horizontal direction in inches. Default value 0.375 inch .
+
+### setDistanceInVertical() {#setdistanceinvertical}
+
+Defines the distance between the shapes in vertical direction in inches. Default value 0.375 inch .

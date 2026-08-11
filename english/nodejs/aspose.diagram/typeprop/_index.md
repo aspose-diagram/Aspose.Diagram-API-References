@@ -1,8 +1,7 @@
 ---
-title: "TypeProp Class"
+title: "TypeProp"
 linktitle: "TypeProp"
-articleTitle: "TypeProp"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Type specifies a data type for the custom property value."
 type: docs
 weight: 2720
@@ -23,9 +22,41 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [equals(value)](./equals/) | Are objects equal. |
-| [getUfe()](./getufe/) | Specifies attributes of an element. |
-| [getValue()](./getvalue/) | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
-| [hashCode()](./hashcode/) | Serves as a hash function for a particular type. |
-| [setUfe()](./setufe/) | Specifies attributes of an element. |
-| [setValue()](./setvalue/) | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
+| [equals(value)](#equals) | Are objects equal. |
+| [getUfe()](#getufe) | Specifies attributes of an element. |
+| [getValue()](#getvalue) | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
+| [hashCode()](#hashcode) | Serves as a hash function for a particular type. |
+| [setUfe()](#setufe) | Specifies attributes of an element. |
+| [setValue()](#setvalue) | Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant. |
+
+### equals(value) {#equals}
+
+Are objects equal.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object |  |
+
+**Returns:** boolean — `boolean`
+
+### getUfe() {#getufe}
+
+Specifies attributes of an element.
+
+### getValue() {#getvalue}
+
+Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant.
+
+### hashCode() {#hashcode}
+
+Serves as a hash function for a particular type.
+
+**Returns:** Number — `Number`
+
+### setUfe() {#setufe}
+
+Specifies attributes of an element.
+
+### setValue() {#setvalue}
+
+Type specifies a data type for the custom property value. The value of the property is TypePropValue integer constant.

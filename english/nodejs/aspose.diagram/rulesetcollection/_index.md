@@ -1,8 +1,7 @@
 ---
-title: "RuleSetCollection Class"
+title: "RuleSetCollection"
 linktitle: "RuleSetCollection"
-articleTitle: "RuleSetCollection"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "RuleSet collection."
 type: docs
 weight: 2200
@@ -17,10 +16,40 @@ RuleSet collection.
 
 | Name | Description |
 | --- | --- |
-| [add(ruleSet)](./add/) | Add the ruleSet in the collection. |
-| [clear()](./clear/) |  |
-| [get()](./get/) |  |
-| [getCount()](./getcount/) |  |
-| [iterator()](./iterator/) | Reserved for internal use. |
-| [remove(ruleSet)](./remove/) | Remove the ruleSet from the collection. |
-| [removeAt()](./removeat/) |  |
+| [add(ruleSet)](#add) | Add the ruleSet in the collection. |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [remove(ruleSet)](#remove) | Remove the ruleSet from the collection. |
+| [removeAt()](#removeat) |  |
+
+### add(ruleSet) {#add}
+
+Add the ruleSet in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ruleSet | RuleSet |  |
+
+**Returns:** Number — `Number`
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### remove(ruleSet) {#remove}
+
+Remove the ruleSet from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ruleSet | RuleSet |  |
+
+### removeAt() {#removeat}

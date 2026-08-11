@@ -1,8 +1,7 @@
 ---
-title: "DynFeedback Class"
+title: "DynFeedback"
 linktitle: "DynFeedback"
-articleTitle: "DynFeedback"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies the type of visual feedback provided to users when they drag a connector."
 type: docs
 weight: 770
@@ -23,8 +22,36 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [equals(value)](./equals/) | Are objects equal. |
-| [getUfe()](./getufe/) | Specifies attributes of an element. |
-| [getValue()](./getvalue/) | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
-| [hashCode()](./hashcode/) | Serves as a hash function for a particular type. |
-| [setValue()](./setvalue/) | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
+| [equals(value)](#equals) | Are objects equal. |
+| [getUfe()](#getufe) | Specifies attributes of an element. |
+| [getValue()](#getvalue) | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
+| [hashCode()](#hashcode) | Serves as a hash function for a particular type. |
+| [setValue()](#setvalue) | Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, t |
+
+### equals(value) {#equals}
+
+Are objects equal.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object |  |
+
+**Returns:** boolean — `boolean`
+
+### getUfe() {#getufe}
+
+Specifies attributes of an element.
+
+### getValue() {#getvalue}
+
+Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, the resulting connector shape is not affected by this setting. This element does not apply to routable connectors. The value of the property is DynFeedbackValue integer constant.
+
+### hashCode() {#hashcode}
+
+Serves as a hash function for a particular type.
+
+**Returns:** Number — `Number`
+
+### setValue() {#setvalue}
+
+Specifies the type of visual feedback provided to users when they drag a connector. When the mouse button is released, the resulting connector shape is not affected by this setting. This element does not apply to routable connectors. The value of the property is DynFeedbackValue integer constant.

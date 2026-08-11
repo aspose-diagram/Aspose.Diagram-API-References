@@ -1,8 +1,7 @@
 ---
-title: "DiagramSaveOptions Class"
+title: "DiagramSaveOptions"
 linktitle: "DiagramSaveOptions"
-articleTitle: "DiagramSaveOptions"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Can be used to specify additional options when saving a diagram into Visio (VDX\\VSX) format."
 type: docs
 weight: 650
@@ -23,12 +22,80 @@ Initializes a new instance of this class that can be used to save a diagram in t
 
 | Name | Description |
 | --- | --- |
-| [constructor_overload$1(saveFormat)](./constructor-overload1/) | Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format. |
-| [getAutoFitPageToDrawingContent()](./getautofitpagetodrawingcontent/) | Defines whether need enlarge page to fit drawing content or not. Default value is false. |
-| [getDefaultFont()](./getdefaultfont/) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally,  |
-| [getSaveFormat()](./getsaveformat/) | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFor |
-| [getWarningCallback()](./getwarningcallback/) | Gets or sets warning callback. |
-| [setAutoFitPageToDrawingContent()](./setautofitpagetodrawingcontent/) | Defines whether need enlarge page to fit drawing content or not. Default value is false. |
-| [setDefaultFont()](./setdefaultfont/) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally,  |
-| [setSaveFormat()](./setsaveformat/) | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFor |
-| [setWarningCallback()](./setwarningcallback/) | Gets or sets warning callback. |
+| [constructor_overload$1(saveFormat)](#constructor-overload1) | Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format. |
+| [getAutoFitPageToDrawingContent()](#getautofitpagetodrawingcontent) | Defines whether need enlarge page to fit drawing content or not. Default value is false. |
+| [getDefaultFont()](#getdefaultfont) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally,  |
+| [getSaveFormat()](#getsaveformat) | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFor |
+| [getWarningCallback()](#getwarningcallback) | Gets or sets warning callback. |
+| [setAutoFitPageToDrawingContent()](#setautofitpagetodrawingcontent) | Defines whether need enlarge page to fit drawing content or not. Default value is false. |
+| [setDefaultFont()](#setdefaultfont) | When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally,  |
+| [setSaveFormat()](#setsaveformat) | Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFor |
+| [setWarningCallback()](#setwarningcallback) | Gets or sets warning callback. |
+
+### constructor_overload$1(saveFormat) {#constructor-overload1}
+
+Initializes a new instance of this class that can be used to save a diagram in the VDX or VSX format.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| saveFormat | Number | SaveFileFormat |
+
+### getAutoFitPageToDrawingContent() {#getautofitpagetodrawingcontent}
+
+Defines whether need enlarge page to fit drawing content or not. Default value is false.
+
+**Example:**
+
+```js
+var aspose = aspose || {};
+aspose.diagram = require("aspose.diagram");
+diagram = new aspose.diagram.Diagram("BFlowcht.vsdx");
+// use saving options
+options = new aspose.diagram.DiagramSaveOptions(aspose.diagram.SaveFileFormat.VSDX);
+// set Auto fit page property
+options.setAutoFitPageToDrawingContent(true);
+// save Visio diagram
+diagram.save("out-AutoFitShapesInVisio.vsdx", options);
+```
+
+### getDefaultFont() {#getdefaultfont}
+
+When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters.
+
+### getSaveFormat() {#getsaveformat}
+
+Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFormat or SaveFileFormat. The value of the property is SaveFileFormat integer constant.
+
+### getWarningCallback() {#getwarningcallback}
+
+Gets or sets warning callback.
+
+### setAutoFitPageToDrawingContent() {#setautofitpagetodrawingcontent}
+
+Defines whether need enlarge page to fit drawing content or not. Default value is false.
+
+**Example:**
+
+```js
+var aspose = aspose || {};
+aspose.diagram = require("aspose.diagram");
+diagram = new aspose.diagram.Diagram("BFlowcht.vsdx");
+// use saving options
+options = new aspose.diagram.DiagramSaveOptions(aspose.diagram.SaveFileFormat.VSDX);
+// set Auto fit page property
+options.setAutoFitPageToDrawingContent(true);
+// save Visio diagram
+diagram.save("out-AutoFitShapesInVisio.vsdx", options);
+```
+
+### setDefaultFont() {#setdefaultfont}
+
+When characters in the diagram are unicode and not be set with correct font value or the font is not installed locally, they may appear as block in pdf, image or XPS. Set the DefaultFont such as MingLiu or MS Gothic to show these characters.
+
+### setSaveFormat() {#setsaveformat}
+
+Specifies the format in which the rendered diagram will be saved if this save options object is used. Can be SaveFileFormat or SaveFileFormat. The value of the property is SaveFileFormat integer constant.
+
+### setWarningCallback() {#setwarningcallback}
+
+Gets or sets warning callback.

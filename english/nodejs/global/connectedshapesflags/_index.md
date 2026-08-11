@@ -1,8 +1,7 @@
 ---
 title: "ConnectedShapesFlags"
 linktitle: "ConnectedShapesFlags"
-articleTitle: "ConnectedShapesFlags"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Utility class containing constants."
 type: docs
 weight: 250

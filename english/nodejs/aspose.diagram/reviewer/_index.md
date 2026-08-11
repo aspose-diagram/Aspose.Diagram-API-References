@@ -1,8 +1,7 @@
 ---
-title: "Reviewer Class"
+title: "Reviewer"
 linktitle: "Reviewer"
-articleTitle: "Reviewer"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Contains elements that contain identifying information about a document reviewer."
 type: docs
 weight: 2100
@@ -23,12 +22,48 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [getColor()](./getcolor/) | Color element specifies an RGB value representing the color assigned to a document reviewer's markup. |
-| [getCurrentIndex()](./getcurrentindex/) | Indicates the value of the MarkerIndex element that will be added when the current reviewer adds another comment to the  |
-| [getDel()](./getdel/) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [getInitials()](./getinitials/) | Contains the initials of a document reviewer. |
-| [getIX()](./getix/) | The zero-based index of the element within its parent element. |
-| [getName()](./getname/) | Name element specifies the name of a document reviewer. |
-| [getReviewerID()](./getreviewerid/) | Contains the ID number of the reviewer adding markup to the document. |
-| [setDel()](./setdel/) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
-| [setIX()](./setix/) | The zero-based index of the element within its parent element. |
+| [getColor()](#getcolor) | Color element specifies an RGB value representing the color assigned to a document reviewer's markup. |
+| [getCurrentIndex()](#getcurrentindex) | Indicates the value of the MarkerIndex element that will be added when the current reviewer adds another comment to the  |
+| [getDel()](#getdel) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [getInitials()](#getinitials) | Contains the initials of a document reviewer. |
+| [getIX()](#getix) | The zero-based index of the element within its parent element. |
+| [getName()](#getname) | Name element specifies the name of a document reviewer. |
+| [getReviewerID()](#getreviewerid) | Contains the ID number of the reviewer adding markup to the document. |
+| [setDel()](#setdel) | A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted loca |
+| [setIX()](#setix) | The zero-based index of the element within its parent element. |
+
+### getColor() {#getcolor}
+
+Color element specifies an RGB value representing the color assigned to a document reviewer's markup.
+
+### getCurrentIndex() {#getcurrentindex}
+
+Indicates the value of the MarkerIndex element that will be added when the current reviewer adds another comment to the document.
+
+### getDel() {#getdel}
+
+A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. The value of the property is BOOL integer constant.
+
+### getInitials() {#getinitials}
+
+Contains the initials of a document reviewer.
+
+### getIX() {#getix}
+
+The zero-based index of the element within its parent element.
+
+### getName() {#getname}
+
+Name element specifies the name of a document reviewer.
+
+### getReviewerID() {#getreviewerid}
+
+Contains the ID number of the reviewer adding markup to the document.
+
+### setDel() {#setdel}
+
+A flag indicating whether the element has been deleted locally. A value of 1 indicates that the element was deleted locally. The value of the property is BOOL integer constant.
+
+### setIX() {#setix}
+
+The zero-based index of the element within its parent element.

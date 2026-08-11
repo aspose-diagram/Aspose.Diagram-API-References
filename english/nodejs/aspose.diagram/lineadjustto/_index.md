@@ -1,8 +1,7 @@
 ---
-title: "LineAdjustTo Class"
+title: "LineAdjustTo"
 linktitle: "LineAdjustTo"
-articleTitle: "LineAdjustTo"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Specifies which dynamic connectors to line up on top of one another if they route on top of each other."
 type: docs
 weight: 1380
@@ -23,8 +22,36 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [equals(value)](./equals/) | Are objects equal. |
-| [getUfe()](./getufe/) | Specifies attributes of an element. |
-| [getValue()](./getvalue/) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
-| [hashCode()](./hashcode/) | Serves as a hash function for a particular type. |
-| [setValue()](./setvalue/) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
+| [equals(value)](#equals) | Are objects equal. |
+| [getUfe()](#getufe) | Specifies attributes of an element. |
+| [getValue()](#getvalue) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
+| [hashCode()](#hashcode) | Serves as a hash function for a particular type. |
+| [setValue()](#setvalue) | Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the |
+
+### equals(value) {#equals}
+
+Are objects equal.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object |  |
+
+**Returns:** boolean — `boolean`
+
+### getUfe() {#getufe}
+
+Specifies attributes of an element.
+
+### getValue() {#getvalue}
+
+Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the property is LineAdjustToValue integer constant.
+
+### hashCode() {#hashcode}
+
+Serves as a hash function for a particular type.
+
+**Returns:** Number — `Number`
+
+### setValue() {#setvalue}
+
+Specifies which dynamic connectors to line up on top of one another if they route on top of each other. The value of the property is LineAdjustToValue integer constant.

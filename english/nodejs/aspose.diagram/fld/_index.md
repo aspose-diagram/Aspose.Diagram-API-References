@@ -1,8 +1,7 @@
 ---
-title: "Fld Class"
+title: "Fld"
 linktitle: "Fld"
-articleTitle: "Fld"
-second_title: "Aspose.Diagram for Node.js via Java"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
 description: "Indicates a text-field insertion point for the corresponding Field element."
 type: docs
 weight: 910
@@ -23,4 +22,8 @@ Constructor.
 
 | Name | Description |
 | --- | --- |
-| [getValue()](./getvalue/) | Value |
+| [getValue()](#getvalue) | Value |
+
+### getValue() {#getvalue}
+
+Value
