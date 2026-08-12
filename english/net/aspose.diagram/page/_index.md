@@ -69,6 +69,7 @@ public class Page : IDisposable
 | [ConnectShapesViaConnector](../../aspose.diagram/page/connectshapesviaconnector/#connectshapesviaconnector)(Shape, ConnectionPointPlace, Shape, ConnectionPointPlace, Shape) | Connect shapes via connector. |
 | [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex/#connectshapesviaconnectorindex_1)(long, int, long, int, long) | Connect shapes via connector index. |
 | [ConnectShapesViaConnectorIndex](../../aspose.diagram/page/connectshapesviaconnectorindex/#connectshapesviaconnectorindex)(Shape, int, Shape, int, Shape) | Connect shapes via connector index. |
+| [ConnectShapesWithoutRebuild](../../aspose.diagram/page/connectshapeswithoutrebuild/)(long, int, long, int, long) | Connect shapes via connector. |
 | [Copy](../../aspose.diagram/page/copy/)(Page) |  |
 | [Dispose](../../aspose.diagram/page/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [DrawBezier](../../aspose.diagram/page/drawbezier/)(double, double, double, double, PointF[]) | The process of drawing bezier. The length of points should be equal or greater than 3. |
