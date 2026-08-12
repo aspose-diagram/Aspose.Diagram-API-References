@@ -1,0 +1,72 @@
+---
+title: "FontCollection"
+linktitle: "FontCollection"
+second_title: "Aspose.Diagram for Node.js via Java API Reference"
+description: "Contains a collection of Font elements."
+type: docs
+weight: 950
+url: /nodejs/aspose.diagram/fontcollection/
+---
+
+## FontCollection class
+
+Contains a collection of Font elements.
+
+```js
+new FontCollection()
+```
+
+Constructor.
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [add(font)](#add) | Add the Font object in the collection. |
+| [clear()](#clear) |  |
+| [get()](#get) |  |
+| [getCount()](#getcount) |  |
+| [getFont(ID)](#getfont) | Gets the element at the specified ID. |
+| [iterator()](#iterator) | Reserved for internal use. |
+| [remove(font)](#remove) | Remove the Font object from the collection. |
+| [removeAt()](#removeat) |  |
+
+### add(font) {#add}
+
+Add the Font object in the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | Font |  |
+
+**Returns:** Number — `Number`
+
+### clear() {#clear}
+
+### get() {#get}
+
+### getCount() {#getcount}
+
+### getFont(ID) {#getfont}
+
+Gets the element at the specified ID.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ID | Number | int |
+
+**Returns:** Font — `Font` FontFont.
+
+### iterator() {#iterator}
+
+Reserved for internal use.
+
+### remove(font) {#remove}
+
+Remove the Font object from the collection.
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| font | Font |  |
+
+### removeAt() {#removeat}
