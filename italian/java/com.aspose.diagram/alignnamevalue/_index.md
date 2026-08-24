@@ -1,0 +1,165 @@
+---
+title: AlignNameValue
+second_title: Riferimento API di Aspose.Diagram per Java
+description: int opzionale.
+type: docs
+weight: 17
+url: /it/java/com.aspose.diagram/alignnamevalue/
+---
+
+**Inheritance:**
+java.lang.Object
+```
+public final class AlignNameValue
+```
+
+int opzionale. Specifica se il testo del master nella finestra stencil è allineato a sinistra, a destra o al centro.
+## Campi
+
+| Campo | Descrizione |
+| --- | --- |
+| [ALIGN_TEXT_CENTER](#ALIGN-TEXT-CENTER) | Allinea il testo al centro. |
+| [ALIGN_TEXT_LEFT](#ALIGN-TEXT-LEFT) | Allinea il testo a sinistra. |
+| [ALIGN_TEXT_RIGHT](#ALIGN-TEXT-RIGHT) | Allinea il testo a destra. |
+| [UNDEFINED](#UNDEFINED) | Non definito. |
+## Metodi
+
+| Metodo | Descrizione |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### ALIGN_TEXT_CENTER {#ALIGN-TEXT-CENTER}
+```
+public static final int ALIGN_TEXT_CENTER
+```
+
+
+Allinea il testo al centro.
+
+### ALIGN_TEXT_LEFT {#ALIGN-TEXT-LEFT}
+```
+public static final int ALIGN_TEXT_LEFT
+```
+
+
+Allinea il testo a sinistra.
+
+### ALIGN_TEXT_RIGHT {#ALIGN-TEXT-RIGHT}
+```
+public static final int ALIGN_TEXT_RIGHT
+```
+
+
+Allinea il testo a destra.
+
+### UNDEFINED {#UNDEFINED}
+```
+public static final int UNDEFINED
+```
+
+
+Non definito.
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final native void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
