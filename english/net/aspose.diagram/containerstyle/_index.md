@@ -32,6 +32,10 @@ public enum ContainerStyle
 | Intersection | `12` | Intersection Style. |
 | Translucent | `13` | Translucent Style. |
 
+## Remarks
+
+The values are written to the msvSDContainerStyle User-defined cell and match the styles of the Microsoft Visio container gallery.
+
 ### See Also
 
 * namespace [Aspose.Diagram](../../aspose.diagram/)

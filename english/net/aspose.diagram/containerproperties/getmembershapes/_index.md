@@ -17,6 +17,10 @@ public ShapeCollection GetMemberShapes()
 
 shapecollection
 
+## Remarks
+
+Reads the container's own DEPENDSON(1,...) references (DEPENDSON(2,...) for lists). Unlike the DependsOnShapes inverse lookup this resolves shape names with spaces and parentheses, so it also works for documents written by Microsoft Visio.
+
 ### See Also
 
 * class [ShapeCollection](../../shapecollection/)

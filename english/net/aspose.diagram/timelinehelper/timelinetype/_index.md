@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/timelinetype/
 Begin week of timeline shape
 
 ```csharp
-public int TimeLineType { set; }
+public int TimeLineType { get; set; }
 ```
 
 ### See Also

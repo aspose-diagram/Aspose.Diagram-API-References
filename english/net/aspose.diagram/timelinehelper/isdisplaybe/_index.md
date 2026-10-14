@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/isdisplaybe/
 whether to display Begin and End dates on timeline
 
 ```csharp
-public bool IsDisplayBE { set; }
+public bool IsDisplayBE { get; set; }
 ```
 
 ### See Also

@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/dateformatstringforintm/
 DateFormat String for Intm of timeline shape
 
 ```csharp
-public string DateFormatStringForIntm { set; }
+public string DateFormatStringForIntm { get; set; }
 ```
 
 ### See Also

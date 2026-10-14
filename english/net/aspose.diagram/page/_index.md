@@ -60,7 +60,7 @@ public class Page : IDisposable
 | [AddText](../../aspose.diagram/page/addtext/#addtext)(double, double, double, double, string) | Adds Text with defined PinX and PinY. |
 | [AddText](../../aspose.diagram/page/addtext/#addtext_1)(double, double, double, double, string, string, string, double) | Adds Text with defined PinX and PinY. |
 | [ApplyStyle](../../aspose.diagram/page/applystyle/)(int, int, int) | Applies style for full page. |
-| [AutoSpaceShapes](../../aspose.diagram/page/autospaceshapes/)(ShapeCollection, AutoSpaceOptions) | Auto space shapes |
+| [AutoSpaceShapes](../../aspose.diagram/page/autospaceshapes/)(ShapeCollection, AutoSpaceOptions) |  |
 | [BringForward](../../aspose.diagram/page/bringforward/)(long) | Brings a shape,defined by ID, forward one position in the z-order. |
 | [BringToFront](../../aspose.diagram/page/bringtofront/)(long) | Brings a shape,defined by ID, to the front of the z-order. |
 | [CenterDrawing](../../aspose.diagram/page/centerdrawing/)() | Centers a page's shapes with respect to the extent of the page. Centering shapes does not change their position relative to each other. |
@@ -81,7 +81,7 @@ public class Page : IDisposable
 | [DrawPolyline](../../aspose.diagram/page/drawpolyline/#drawpolyline_1)(double, double, double, double, PointF[]) | The process of drawing polyline. |
 | [DrawRectangle](../../aspose.diagram/page/drawrectangle/#drawrectangle)(double, double, double, double) | The process of drawing rectangle. |
 | [DrawSpline](../../aspose.diagram/page/drawspline/)(double, double, double, double, PointF[]) | The process of drawing spline. |
-| [DropContainer](../../aspose.diagram/page/dropcontainer/)(Shape) | The process of creating Container. |
+| [DropContainer](../../aspose.diagram/page/dropcontainer/)(Shape) |  |
 | [GlueShapes](../../aspose.diagram/page/glueshapes/#glueshapes_1)(long, ConnectionPointPlace, long) | Glue shapes |
 | [GlueShapes](../../aspose.diagram/page/glueshapes/#glueshapes)(Shape, ConnectionPointPlace, Shape) | Glue shapes. |
 | [GlueShapesInContainer](../../aspose.diagram/page/glueshapesincontainer/#glueshapesincontainer)(long, int, int, long) | Glue shapes in container |

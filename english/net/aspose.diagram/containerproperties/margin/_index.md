@@ -13,6 +13,10 @@ ContainerMargin
 public double Margin { get; set; }
 ```
 
+## Remarks
+
+The value of the msvSDContainerMargin cell. The unit is defined by the cell's unit attribute; the value is written as a plain number.
+
 ### See Also
 
 * class [ContainerProperties](../)

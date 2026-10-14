@@ -13,6 +13,10 @@ HeadingStyle
 public int HeadingStyle { get; set; }
 ```
 
+## Remarks
+
+The value of the msvSDHeadingStyle cell: 0 = no heading, 1 - 4 = heading styles.
+
 ### See Also
 
 * class [ContainerProperties](../)

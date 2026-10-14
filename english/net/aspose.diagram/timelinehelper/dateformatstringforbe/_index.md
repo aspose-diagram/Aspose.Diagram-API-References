@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/dateformatstringforbe/
 DateFormat String for start and finish of timeline shape
 
 ```csharp
-public string DateFormatStringForBE { set; }
+public string DateFormatStringForBE { get; set; }
 ```
 
 ### See Also

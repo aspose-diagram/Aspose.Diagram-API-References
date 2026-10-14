@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/fiscalstart/
 First day of fiscal year
 
 ```csharp
-public DateTime FiscalStart { set; }
+public DateTime FiscalStart { get; set; }
 ```
 
 ### See Also

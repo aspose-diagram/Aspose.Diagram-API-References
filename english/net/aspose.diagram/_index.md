@@ -156,6 +156,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [MemoryFontSource](./memoryfontsource/) | Represents the single TrueType font file stored in memory. |
 | [Metered](./metered/) | Provides methods to set metered key. |
 | [MilestoneHelper](./milestonehelper/) | MilestoneHelper to set property of milestone shape. |
+| [MilestoneProperties](./milestoneproperties/) | Cell-level access to the settings of a Microsoft Visio milestone shape. |
 | [Misc](./misc/) | Contains various elements of shapes and groups, such as those that control selection highlighting and visibility. |
 | [MoveTo](./moveto/) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
 | [MoveToCollection](./movetocollection/) | MoveTo collection. |
@@ -251,6 +252,7 @@ Contains classes for work with Microsoft Visio documents without utilizing Micro
 | [TextXForm](./textxform/) | Contains elements that specify positioning information about a shape's text block. |
 | [ThreeDFormat](./threedformat/) | Represents a shape's three-dimensional formatting. |
 | [TimeLineHelper](./timelinehelper/) | TimeLineHelper to set property of timeline shape. |
+| [TimeLineProperties](./timelineproperties/) | Cell-level access to the settings of a Microsoft Visio timeline shape. |
 | [Tp](./tp/) | Specifies the beginning of a tabs properties run. The run is defined to the end of the text or until the next |
 | [Txt](./txt/) | Text of the shape |
 | [TypeConnection](./typeconnection/) | Specifies various types, based on the element in which it is contained. |

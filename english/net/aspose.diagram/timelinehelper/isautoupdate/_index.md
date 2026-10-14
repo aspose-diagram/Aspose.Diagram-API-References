@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/isautoupdate/
 whether to update data for markers (milestones, intervals) as they are moved on timeline
 
 ```csharp
-public bool IsAutoUpdate { set; }
+public bool IsAutoUpdate { get; set; }
 ```
 
 ### See Also

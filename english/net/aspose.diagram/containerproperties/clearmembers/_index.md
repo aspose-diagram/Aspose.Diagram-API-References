@@ -13,6 +13,10 @@ clear members
 public void ClearMembers()
 ```
 
+## Remarks
+
+Removes the container's member references and the matching DEPENDSON(4,...) reference on every member. Does nothing when LockMembership is set.
+
 ### See Also
 
 * class [ContainerProperties](../)

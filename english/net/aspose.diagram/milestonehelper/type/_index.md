@@ -1,16 +1,16 @@
 ---
 title: MilestoneHelper.Type
 second_title: Aspose.Diagram for .NET API Reference
-description: MilestoneHelper property. Type of shape
+description: MilestoneHelper property. Type of shape 0  Circle ... 8  Pin
 type: docs
 url: /net/aspose.diagram/milestonehelper/type/
 ---
 ## MilestoneHelper.Type property
 
-Type of shape
+Type of shape (0 = Circle ... 8 = Pin)
 
 ```csharp
-public int Type { set; }
+public int Type { get; set; }
 ```
 
 ### See Also

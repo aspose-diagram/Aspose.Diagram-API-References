@@ -20,6 +20,10 @@ public enum ContainerType
 | Normal | `0` | Normal Type. |
 | List | `1` | List Type. |
 
+## Remarks
+
+Stored in the msvStructureType User-defined cell: Normal is written as "Container", List is written as "List", exactly as Microsoft Visio stores it.
+
 ### See Also
 
 * namespace [Aspose.Diagram](../../aspose.diagram/)

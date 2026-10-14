@@ -1,25 +1,15 @@
 ---
 title: Page.DropContainer
 second_title: Aspose.Diagram for .NET API Reference
-description: Page method. The process of creating Container
+description: Page method. 
 type: docs
 url: /net/aspose.diagram/page/dropcontainer/
 ---
 ## Page.DropContainer method
 
-The process of creating Container.
-
 ```csharp
 public Shape DropContainer(Shape targetShape)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| targetShape | Shape | target shape |
-
-### Return Value
-
-The shape within shapes collection on the specified page.
 
 ### See Also
 

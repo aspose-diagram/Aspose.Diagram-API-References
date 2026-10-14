@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/isdisplayintmdates/
 whether to display interim dates on interim ticks
 
 ```csharp
-public bool IsDisplayIntmDates { set; }
+public bool IsDisplayIntmDates { get; set; }
 ```
 
 ### See Also

@@ -1,21 +1,17 @@
 ---
 title: MilestoneHelper.DateFormat
 second_title: Aspose.Diagram for .NET API Reference
-description: MilestoneHelper property. DateFormat of shape
+description: MilestoneHelper property. DateFormat of shape 0  30
 type: docs
 url: /net/aspose.diagram/milestonehelper/dateformat/
 ---
 ## MilestoneHelper.DateFormat property
 
-DateFormat of shape
+DateFormat of shape (0 - 30)
 
 ```csharp
-public int DateFormat { set; }
+public int DateFormat { get; set; }
 ```
-
-## Remarks
-
-**Value** **Format String** 0dddd, yyyy-M-d1yyyy-MM-dd2yy-MMM-d3yyyy/M/d4yy-MMM.-d5d MMMM yyyy6yy-M7MMM-yy8MMMM d, yyyy9MMM d, yyyy10M-d-yy11M-d12d MMMM, yyyy13d MMM, yyyy14d-M-yy15d-M16yy-M-d17yyyy-M-d18M-yy19M-yyyy20MMMM yyyy21MMMM yy22MMM yyyy23MMM yy24yy25yyyy26d27MMMM28MMM29M30MM/dd/yyyy
 
 ### See Also
 

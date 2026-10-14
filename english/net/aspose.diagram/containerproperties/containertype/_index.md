@@ -13,6 +13,10 @@ ContainerType
 public ContainerType ContainerType { get; set; }
 ```
 
+## Remarks
+
+Stored in the msvStructureType cell as "Container" or "List", so the type survives save/reload. When the type changes, existing membership references are moved between the container category (1) and the list category (2) of the Relationships cell.
+
 ### See Also
 
 * enum [ContainerType](../../containertype/)

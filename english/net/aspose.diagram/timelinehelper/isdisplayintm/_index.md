@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/isdisplayintm/
 whether to display interim date/time ticks on timeline
 
 ```csharp
-public bool IsDisplayIntm { set; }
+public bool IsDisplayIntm { get; set; }
 ```
 
 ### See Also

@@ -10,7 +10,7 @@ url: /net/aspose.diagram/timelinehelper/arrowhead/
 ArrowHead of timeline shape
 
 ```csharp
-public int ArrowHead { set; }
+public int ArrowHead { get; set; }
 ```
 
 ### See Also
