@@ -3,7 +3,7 @@ title: ReviewerCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Reviewer collection.
 type: docs
-weight: 354
+weight: 357
 url: /java/com.aspose.diagram/reviewercollection/
 ---
 

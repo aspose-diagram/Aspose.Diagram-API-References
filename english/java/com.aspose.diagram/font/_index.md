@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.Diagram for Java API Reference
 description: Contains information about a font.
 type: docs
-weight: 168
+weight: 170
 url: /java/com.aspose.diagram/font/
 ---
 

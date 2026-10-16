@@ -3,7 +3,7 @@ title: Validation
 second_title: Aspose.Diagram for Java API Reference
 description: Stores information about diagram validation for the document.
 type: docs
-weight: 451
+weight: 455
 url: /java/com.aspose.diagram/validation/
 ---
 

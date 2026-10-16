@@ -3,7 +3,7 @@ title: DiagramConverter
 second_title: Aspose.Diagram for Java API Reference
 description: Converter for converting template file to diagram.
 type: docs
-weight: 123
+weight: 124
 url: /java/com.aspose.diagram/diagramconverter/
 ---
 

@@ -3,7 +3,7 @@ title: DiagramException
 second_title: Aspose.Diagram for Java API Reference
 description: Base class for all Aspose.Diagram exceptions
 type: docs
-weight: 124
+weight: 125
 url: /java/com.aspose.diagram/diagramexception/
 ---
 

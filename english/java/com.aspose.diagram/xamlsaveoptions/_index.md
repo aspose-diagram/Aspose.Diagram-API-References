@@ -3,7 +3,7 @@ title: XAMLSaveOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to specify additional options when rendering diagram pages to XAML.
 type: docs
-weight: 472
+weight: 476
 url: /java/com.aspose.diagram/xamlsaveoptions/
 ---
 

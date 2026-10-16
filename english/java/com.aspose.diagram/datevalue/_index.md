@@ -3,7 +3,7 @@ title: DateValue
 second_title: Aspose.Diagram for Java API Reference
 description: Date and time value.
 type: docs
-weight: 121
+weight: 122
 url: /java/com.aspose.diagram/datevalue/
 ---
 

@@ -3,7 +3,7 @@ title: GradientDirectionType
 second_title: Aspose.Diagram for Java API Reference
 description: Represents all direction type of gradient.
 type: docs
-weight: 187
+weight: 189
 url: /java/com.aspose.diagram/gradientdirectiontype/
 ---
 

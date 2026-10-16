@@ -3,7 +3,7 @@ title: DataConnectionType
 second_title: Aspose.Diagram for Java API Reference
 description: Allows to configure options for the connections to the database.
 type: docs
-weight: 117
+weight: 118
 url: /java/com.aspose.diagram/dataconnectiontype/
 ---
 

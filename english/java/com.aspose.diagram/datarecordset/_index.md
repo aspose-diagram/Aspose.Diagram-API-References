@@ -3,7 +3,7 @@ title: DataRecordSet
 second_title: Aspose.Diagram for Java API Reference
 description: Stores formats refreshes and exposes data queried from a database in Microsoft Visio.
 type: docs
-weight: 118
+weight: 119
 url: /java/com.aspose.diagram/datarecordset/
 ---
 

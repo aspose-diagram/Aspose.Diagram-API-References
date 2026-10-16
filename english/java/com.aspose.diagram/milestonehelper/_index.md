@@ -3,7 +3,7 @@ title: MilestoneHelper
 second_title: Aspose.Diagram for Java API Reference
 description: MilestoneHelper to set property of milestone shape.
 type: docs
-weight: 264
+weight: 266
 url: /java/com.aspose.diagram/milestonehelper/
 ---
 
@@ -13,36 +13,37 @@ java.lang.Object
 public class MilestoneHelper
 ```
 
-MilestoneHelper to set property of milestone shape.
+MilestoneHelper to set property of milestone shape. Compatibility shell over [MilestoneProperties](../../com.aspose.diagram/milestoneproperties): the public API is unchanged (plus getters for the previously write-only properties), the cell access is delegated to the properties class, and [refreshMilestone(Shape)](../../com.aspose.diagram/milestonehelper\#refreshMilestone-Shape-) is rewritten:
+
+    | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | /// Children without a master no longer crash the refresh (the old code dereferenced /// child.MasterShape unconditionally). ///                                                                                                                                              |
+    | /// An existing local date field is updated in place; the old code appended a new /// field on every refresh. ///                                                                                                                                                             |
+    | /// Positioning reads the timeline's left edge from XForm (the old code read /// XForm1D.BeginX, which does not exist on a 2-D group shape) and sorts the dated /// children with two parallel arrays instead of the SortedStringList, which has no /// Java counterpart. /// |
+
+    |
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [MilestoneHelper(Shape shape)](#MilestoneHelper-com.aspose.diagram.Shape-) |  |
+| [MilestoneHelper(Shape shape)](#MilestoneHelper-com.aspose.diagram.Shape-) | MilestoneHelper. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getDateFormat()](#getDateFormat--) | DateFormat of shape (0 - 30) |
 | [getMilestoneDate()](#getMilestoneDate--) | Milestone date |
+| [getType()](#getType--) | Type of shape (0 = Circle ... 8 = Pin) |
 | [hashCode()](#hashCode--) |  |
+| [isAutoUpdate()](#isAutoUpdate--) | whether to update data for markers (milestones, intervals) as they are moved on timeline |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [refreshMilestone(Shape timeline)](#refreshMilestone-com.aspose.diagram.Shape-) | Refresh milestone |
-| [setAutoUpdate(boolean value)](#setAutoUpdate-boolean-) | whether to update data for markers (milestones, intervals) as they are moved on timeline |
-| [setDateFormat(int value)](#setDateFormat-int-) | DateFormat of shape ///
-
-    | ----------------------- | ------------------------------- |
-    | **Value**\\u9286\\u20ac | **Format String**\\u9286\\u20ac |
-    | 0                       | dddd, yyyy-M-d                  |
-    | 1                       | yyyy-MM-dd                      |
-    | 2                       | yy-MMM-d                        |
-    | 3                       | yyyy/M/d                        |
-    | 4                       | yy-MMM.                         | |
-| [setDateFormatString(String value)](#setDateFormatString-java.lang.String-) | DateFormat string of shape |
-| [setMilestoneDate(DateTime value)](#setMilestoneDate-com.aspose.diagram.DateTime-) |  |
-| [setType(int value)](#setType-int-) | Type of shape |
+| [setAutoUpdate(boolean value)](#setAutoUpdate-boolean-) | For the description of this property, please see [isAutoUpdate()](../../com.aspose.diagram/milestonehelper\#isAutoUpdate--) |
+| [setDateFormat(int value)](#setDateFormat-int-) | For the description of this property, please see [getDateFormat()](../../com.aspose.diagram/milestonehelper\#getDateFormat--) |
+| [setMilestoneDate(DateTime value)](#setMilestoneDate-com.aspose.diagram.DateTime-) | For the description of this property, please see [getMilestoneDate()](../../com.aspose.diagram/milestonehelper\#getMilestoneDate--) |
+| [setType(int value)](#setType-int-) | For the description of this property, please see [getType()](../../com.aspose.diagram/milestonehelper\#getType--) |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -52,6 +53,8 @@ MilestoneHelper to set property of milestone shape.
 public MilestoneHelper(Shape shape)
 ```
 
+
+MilestoneHelper.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -83,6 +86,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getDateFormat() {#getDateFormat--}
+```
+public int getDateFormat()
+```
+
+
+DateFormat of shape (0 - 30)
+
+**Returns:**
+int
 ### getMilestoneDate() {#getMilestoneDate--}
 ```
 public DateTime getMilestoneDate()
@@ -93,6 +106,16 @@ Milestone date
 
 **Returns:**
 [DateTime](../../com.aspose.diagram/datetime)
+### getType() {#getType--}
+```
+public int getType()
+```
+
+
+Type of shape (0 = Circle ... 8 = Pin)
+
+**Returns:**
+int
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -103,6 +126,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isAutoUpdate() {#isAutoUpdate--}
+```
+public boolean isAutoUpdate()
+```
+
+
+whether to update data for markers (milestones, intervals) as they are moved on timeline
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -138,7 +171,7 @@ public void setAutoUpdate(boolean value)
 ```
 
 
-whether to update data for markers (milestones, intervals) as they are moved on timeline
+For the description of this property, please see [isAutoUpdate()](../../com.aspose.diagram/milestonehelper\#isAutoUpdate--)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -151,59 +184,12 @@ public void setDateFormat(int value)
 ```
 
 
-DateFormat of shape ///
-
-    | ----------------------- | ------------------------------- |
-    | **Value**\\u9286\\u20ac | **Format String**\\u9286\\u20ac |
-    | 0                       | dddd, yyyy-M-d                  |
-    | 1                       | yyyy-MM-dd                      |
-    | 2                       | yy-MMM-d                        |
-    | 3                       | yyyy/M/d                        |
-    | 4                       | yy-MMM.-d                       |
-    | 5                       | d MMMM yyyy                     |
-    | 6                       | yy-M                            |
-    | 7                       | MMM-yy                          |
-    | 8                       | MMMM d, yyyy                    |
-    | 9                       | MMM d, yyyy                     |
-    | 10                      | M-d-yy                          |
-    | 11                      | M-d                             |
-    | 12                      | d MMMM, yyyy                    |
-    | 13                      | d MMM, yyyy                     |
-    | 14                      | d-M-yy                          |
-    | 15                      | d-M                             |
-    | 16                      | yy-M-d                          |
-    | 17                      | yyyy-M-d                        |
-    | 18                      | M-yy                            |
-    | 19                      | M-yyyy                          |
-    | 20                      | MMMM yyyy                       |
-    | 21                      | MMMM yy                         |
-    | 22                      | MMM yyyy                        |
-    | 23                      | MMM yy                          |
-    | 24                      | yy                              |
-    | 25                      | yyyy                            |
-    | 26                      | d                               |
-    | 27                      | MMMM                            |
-    | 28                      | MMM                             |
-    | 29                      | M                               |
-    | 30                      | MM/dd/yyyy                      |
+For the description of this property, please see [getDateFormat()](../../com.aspose.diagram/milestonehelper\#getDateFormat--)
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
-
-### setDateFormatString(String value) {#setDateFormatString-java.lang.String-}
-```
-public void setDateFormatString(String value)
-```
-
-
-DateFormat string of shape
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
 
 ### setMilestoneDate(DateTime value) {#setMilestoneDate-com.aspose.diagram.DateTime-}
 ```
@@ -211,7 +197,7 @@ public void setMilestoneDate(DateTime value)
 ```
 
 
-
+For the description of this property, please see [getMilestoneDate()](../../com.aspose.diagram/milestonehelper\#getMilestoneDate--)
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -224,7 +210,7 @@ public void setType(int value)
 ```
 
 
-Type of shape
+For the description of this property, please see [getType()](../../com.aspose.diagram/milestonehelper\#getType--)
 
 **Parameters:**
 | Parameter | Type | Description |

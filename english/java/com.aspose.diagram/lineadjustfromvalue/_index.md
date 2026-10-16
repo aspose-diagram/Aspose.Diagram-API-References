@@ -3,7 +3,7 @@ title: LineAdjustFromValue
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies which dynamic connectors to space apart if they route on top of each other.
 type: docs
-weight: 233
+weight: 235
 url: /java/com.aspose.diagram/lineadjustfromvalue/
 ---
 

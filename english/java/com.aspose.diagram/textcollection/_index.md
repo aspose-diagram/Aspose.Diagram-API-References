@@ -3,7 +3,7 @@ title: TextCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Contains the text of a shape.
 type: docs
-weight: 425
+weight: 428
 url: /java/com.aspose.diagram/textcollection/
 ---
 

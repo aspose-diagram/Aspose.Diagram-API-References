@@ -3,7 +3,7 @@ title: LayerCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Layer collection.
 type: docs
-weight: 223
+weight: 225
 url: /java/com.aspose.diagram/layercollection/
 ---
 

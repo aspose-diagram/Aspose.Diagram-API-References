@@ -3,7 +3,7 @@ title: SaveFileFormat
 second_title: Aspose.Diagram for Java API Reference
 description: Enumeration for saving diagram format selection.
 type: docs
-weight: 371
+weight: 374
 url: /java/com.aspose.diagram/savefileformat/
 ---
 
@@ -20,6 +20,8 @@ Enumeration for saving diagram format selection.
 | --- | --- |
 | [BMP](#BMP) | Bmp image format. |
 | [CSV](#CSV) | Comma-Separated Values(CSV) text file. |
+| [DRAWIO](#DRAWIO) | Drawio format. |
+| [DXF](#DXF) |  |
 | [EMF](#EMF) | EMF image format. |
 | [GIF](#GIF) | Gif format. |
 | [HTML](#HTML) | Html format. |
@@ -70,6 +72,20 @@ public static final int CSV
 
 
 Comma-Separated Values(CSV) text file.
+
+### DRAWIO {#DRAWIO}
+```
+public static final int DRAWIO
+```
+
+
+Drawio format.
+
+### DXF {#DXF}
+```
+public static final int DXF
+```
+
 
 ### EMF {#EMF}
 ```

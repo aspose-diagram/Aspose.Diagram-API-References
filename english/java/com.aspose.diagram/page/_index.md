@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.Diagram for Java API Reference
 description: Contains elements that define a page in the document.
 type: docs
-weight: 278
+weight: 281
 url: /java/com.aspose.diagram/page/
 ---
 
@@ -38,7 +38,7 @@ Contains elements that define a page in the document.
 | [addText(double pinX, double pinY, double width, double height, String text)](#addText-double-double-double-double-java.lang.String-) | Adds Text with defined PinX and PinY. |
 | [addText(double pinX, double pinY, double width, double height, String text, String fontName, String fontColor, double size)](#addText-double-double-double-double-java.lang.String-java.lang.String-java.lang.String-double-) | Adds Text with defined PinX and PinY. |
 | [applyStyle(int textStyle, int lineStyle, int fillStyle)](#applyStyle-int-int-int-) | Applies style for full page. |
-| [autoSpaceShapes(ShapeCollection shapes, AutoSpaceOptions options)](#autoSpaceShapes-com.aspose.diagram.ShapeCollection-com.aspose.diagram.AutoSpaceOptions-) | Auto space shapes |
+| [autoSpaceShapes(ShapeCollection shapes, AutoSpaceOptions options)](#autoSpaceShapes-com.aspose.diagram.ShapeCollection-com.aspose.diagram.AutoSpaceOptions-) | Re-arranges the given shapes into straight rows and columns using the configured horizontal/vertical spacing (Visio Auto Align & Space). |
 | [bringForward(long shapeId)](#bringForward-long-) | Brings a shape,defined by ID, forward one position in the z-order. |
 | [bringToFront(long shapeId)](#bringToFront-long-) | Brings a shape,defined by ID, to the front of the z-order. |
 | [centerDrawing()](#centerDrawing--) | Centers a page's shapes with respect to the extent of the page. |
@@ -47,6 +47,7 @@ Contains elements that define a page in the document.
 | [connectShapesViaConnector(long shapeFromId, String fromConnectionName, long shapeToId, String toConnectionName, long connectorId)](#connectShapesViaConnector-long-java.lang.String-long-java.lang.String-long-) | Connect shapes via connector. |
 | [connectShapesViaConnectorIndex(Shape shapeFrom, int fromIndex, Shape shapeTo, int toIndex, Shape connector)](#connectShapesViaConnectorIndex-com.aspose.diagram.Shape-int-com.aspose.diagram.Shape-int-com.aspose.diagram.Shape-) | Connect shapes via connector index. |
 | [connectShapesViaConnectorIndex(long shapeFromId, int fromIndex, long shapeToId, int toIndex, long connectorId)](#connectShapesViaConnectorIndex-long-int-long-int-long-) | Connect shapes via connector index. |
+| [connectShapesWithoutRebuild(long shapeFromId, int fromIndex, long shapeToId, int toIndex, long connectorId)](#connectShapesWithoutRebuild-long-int-long-int-long-) | Connect shapes via connector. |
 | [copy(Page source)](#copy-com.aspose.diagram.Page-) |  |
 | [dispose()](#dispose--) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [drawEllipse(double pinX, double pinY, double width, double height)](#drawEllipse-double-double-double-double-) | The process of drawing Ellipse. |
@@ -57,7 +58,7 @@ Contains elements that define a page in the document.
 | [drawPolyline(double[] xyArray)](#drawPolyline-double---) | The process of drawing Polyline. |
 | [drawRectangle(double x1, double y1, double x2, double y2)](#drawRectangle-double-double-double-double-) | The process of drawing rectangle. |
 | [drawRectangle(float pinX, float pinY, double width, double height)](#drawRectangle-float-float-double-double-) | The process of drawing rectangle. |
-| [dropContainer(Shape targetShape)](#dropContainer-com.aspose.diagram.Shape-) | The process of creating Container. |
+| [dropContainer(Shape targetShape)](#dropContainer-com.aspose.diagram.Shape-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAssociatedPage()](#getAssociatedPage--) | The ID of the original drawing page that was marked up on separate markup overlays by reviewers of the drawing. |
 | [getBackPage()](#getBackPage--) | The page's background page. |
@@ -380,12 +381,12 @@ public void autoSpaceShapes(ShapeCollection shapes, AutoSpaceOptions options)
 ```
 
 
-Auto space shapes
+Re-arranges the given shapes into straight rows and columns using the configured horizontal/vertical spacing (Visio Auto Align & Space).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapes | [ShapeCollection](../../com.aspose.diagram/shapecollection) | Specifies the shapes be auto spaced. |
+| shapes | [ShapeCollection](../../com.aspose.diagram/shapecollection) |  |
 | options | [AutoSpaceOptions](../../com.aspose.diagram/autospaceoptions) |  |
 
 ### bringForward(long shapeId) {#bringForward-long-}
@@ -505,6 +506,23 @@ Connect shapes via connector index.
 | fromIndex | int | The index of the connection on the first shape |
 | shapeToId | long | The ID of shape where the connector ends [Shape](../../com.aspose.diagram/shape). |
 | toIndex | int | he index of the connection on the second shape |
+| connectorId | long | The ID of shape with type Dynamic connector [Shape](../../com.aspose.diagram/shape). |
+
+### connectShapesWithoutRebuild(long shapeFromId, int fromIndex, long shapeToId, int toIndex, long connectorId) {#connectShapesWithoutRebuild-long-int-long-int-long-}
+```
+public void connectShapesWithoutRebuild(long shapeFromId, int fromIndex, long shapeToId, int toIndex, long connectorId)
+```
+
+
+Connect shapes via connector.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| shapeFromId | long | The ID of shape where the connector begins [Shape](../../com.aspose.diagram/shape). |
+| fromIndex | int | The location on the first shape where connector will be connected Aspose.Diagram.Manipulation.ConnectionPointPlace. |
+| shapeToId | long | The ID of shape where the connector ends [Shape](../../com.aspose.diagram/shape). |
+| toIndex | int | The location on the second shape where connector will be connected Aspose.Diagram.Manipulation.ConnectionPointPlace. |
 | connectorId | long | The ID of shape with type Dynamic connector [Shape](../../com.aspose.diagram/shape). |
 
 ### copy(Page source) {#copy-com.aspose.diagram.Page-}
@@ -677,15 +695,15 @@ public Shape dropContainer(Shape targetShape)
 ```
 
 
-The process of creating Container.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetShape | [Shape](../../com.aspose.diagram/shape) | target shape |
+| targetShape | [Shape](../../com.aspose.diagram/shape) |  |
 
 **Returns:**
-[Shape](../../com.aspose.diagram/shape) - The shape within shapes collection on the specified page.
+[Shape](../../com.aspose.diagram/shape)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

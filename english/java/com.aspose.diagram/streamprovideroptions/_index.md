@@ -3,7 +3,7 @@ title: StreamProviderOptions
 second_title: Aspose.Diagram for Java API Reference
 description: Represents the stream options.
 type: docs
-weight: 413
+weight: 416
 url: /java/com.aspose.diagram/streamprovideroptions/
 ---
 

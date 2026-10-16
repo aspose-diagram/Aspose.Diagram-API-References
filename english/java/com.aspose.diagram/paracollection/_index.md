@@ -3,7 +3,7 @@ title: ParaCollection
 second_title: Aspose.Diagram for Java API Reference
 description: Para collection.
 type: docs
-weight: 293
+weight: 296
 url: /java/com.aspose.diagram/paracollection/
 ---
 

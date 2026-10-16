@@ -3,7 +3,7 @@ title: LayoutDirection
 second_title: Aspose.Diagram for Java API Reference
 description: Used to set direction of layout.
 type: docs
-weight: 226
+weight: 228
 url: /java/com.aspose.diagram/layoutdirection/
 ---
 

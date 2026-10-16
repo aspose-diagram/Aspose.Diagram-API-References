@@ -3,7 +3,7 @@ title: DateTime
 second_title: Aspose.Diagram for Java API Reference
 description: Represents an instant in time typically expressed as a date and time of day.
 type: docs
-weight: 120
+weight: 121
 url: /java/com.aspose.diagram/datetime/
 ---
 

@@ -3,7 +3,7 @@ title: ToPartValue
 second_title: Aspose.Diagram for Java API Reference
 description: The part of a shape to which a connection is made.
 type: docs
-weight: 432
+weight: 436
 url: /java/com.aspose.diagram/topartvalue/
 ---
 

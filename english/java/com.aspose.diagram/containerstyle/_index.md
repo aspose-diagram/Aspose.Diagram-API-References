@@ -13,7 +13,7 @@ java.lang.Object
 public final class ContainerStyle
 ```
 
-ContainerStyle for ContainerProperties.
+ContainerStyle for ContainerProperties. The values are written to the msvSDContainerStyle User-defined cell and match the styles of the Microsoft Visio container gallery.
 ## Fields
 
 | Field | Description |

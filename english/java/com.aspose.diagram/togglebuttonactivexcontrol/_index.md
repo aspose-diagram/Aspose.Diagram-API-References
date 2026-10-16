@@ -3,7 +3,7 @@ title: ToggleButtonActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a ToggleButton ActiveX control.
 type: docs
-weight: 433
+weight: 437
 url: /java/com.aspose.diagram/togglebuttonactivexcontrol/
 ---
 

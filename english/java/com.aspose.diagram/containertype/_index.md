@@ -13,7 +13,7 @@ java.lang.Object
 public final class ContainerType
 ```
 
-ContainerType for ContainerProperties.
+ContainerType for ContainerProperties. Stored in the msvStructureType User-defined cell: Normal is written as "Container", List is written as "List", exactly as Microsoft Visio stores it.
 ## Fields
 
 | Field | Description |

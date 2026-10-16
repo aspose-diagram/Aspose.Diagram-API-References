@@ -147,6 +147,7 @@ url: /java/com.aspose.diagram/
 | [DrawingScaleTypeValue](../com.aspose.diagram/drawingscaletypevalue) | Specifies the type of drawing scale to use for a page. |
 | [DrawingSizeType](../com.aspose.diagram/drawingsizetype) | Specifies the drawing size of a page. |
 | [DrawingSizeTypeValue](../com.aspose.diagram/drawingsizetypevalue) | Specifies the drawing size of a page. |
+| [DrawioSaveOptions](../com.aspose.diagram/drawiosaveoptions) | Represents the save options for drawio format. |
 | [DropButtonStyle](../com.aspose.diagram/dropbuttonstyle) | Represents the symbol displayed on the drop button. |
 | [DynFeedback](../com.aspose.diagram/dynfeedback) | Specifies the type of visual feedback provided to users when they drag a connector. |
 | [DynFeedbackValue](../com.aspose.diagram/dynfeedbackvalue) | Specifies the type of visual feedback provided to users when they drag a connector. |
@@ -267,6 +268,7 @@ url: /java/com.aspose.diagram/
 | [MemoryFontSource](../com.aspose.diagram/memoryfontsource) | Represents the single TrueType font file stored in memory. |
 | [Metered](../com.aspose.diagram/metered) | Provides methods to set metered key. |
 | [MilestoneHelper](../com.aspose.diagram/milestonehelper) | MilestoneHelper to set property of milestone shape. |
+| [MilestoneProperties](../com.aspose.diagram/milestoneproperties) | Cell-level access to the settings of a Microsoft Visio milestone shape. |
 | [Misc](../com.aspose.diagram/misc) | Contains various elements of shapes and groups, such as those that control selection highlighting and visibility. |
 | [MoveTo](../com.aspose.diagram/moveto) | Contains the x- and y-coordinates of the first vertex of a shape, or contains the x- and y-coordinates of the first vertex after a break in a path. |
 | [MoveToCollection](../com.aspose.diagram/movetocollection) | MoveTo collection. |
@@ -434,6 +436,7 @@ url: /java/com.aspose.diagram/
 | [ThreeDFormat](../com.aspose.diagram/threedformat) | Represents a shape's three-dimensional formatting. |
 | [TiffCompression](../com.aspose.diagram/tiffcompression) | Specifies what type of compression to apply when saving pages to the TIFF format. |
 | [TimeLineHelper](../com.aspose.diagram/timelinehelper) | TimeLineHelper to set property of timeline shape. |
+| [TimeLineProperties](../com.aspose.diagram/timelineproperties) | Cell-level access to the settings of a Microsoft Visio timeline shape. |
 | [ToPartValue](../com.aspose.diagram/topartvalue) | The part of a shape to which a connection is made. |
 | [ToggleButtonActiveXControl](../com.aspose.diagram/togglebuttonactivexcontrol) | Represents a ToggleButton ActiveX control. |
 | [Tp](../com.aspose.diagram/tp) | Specifies the beginning of a tabs properties run. |

@@ -3,7 +3,7 @@ title: LinePattern
 second_title: Aspose.Diagram for Java API Reference
 description: Specifies the line pattern of the shape.
 type: docs
-weight: 240
+weight: 242
 url: /java/com.aspose.diagram/linepattern/
 ---
 

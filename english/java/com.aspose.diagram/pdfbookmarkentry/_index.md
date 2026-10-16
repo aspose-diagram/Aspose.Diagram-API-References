@@ -3,7 +3,7 @@ title: PdfBookmarkEntry
 second_title: Aspose.Diagram for Java API Reference
 description: PdfBookmarkEntry is an entry in pdf bookmark.
 type: docs
-weight: 294
+weight: 297
 url: /java/com.aspose.diagram/pdfbookmarkentry/
 ---
 
@@ -20,7 +20,7 @@ Diagram diagram = new Diagram("temp.vsdx");
          PdfSaveOptions options = new PdfSaveOptions();
          PdfBookmarkEntry pbeRoot = new PdfBookmarkEntry();
          pbeRoot.setText("1.vsdx");
-         pbeRoot.setDestination(diagram.getPages().get(0));
+         pbeRoot.setDestination(diagram.getPages()[0]);
          pbeRoot.setSubEntry(new ArrayList());
 ```
 ## Constructors

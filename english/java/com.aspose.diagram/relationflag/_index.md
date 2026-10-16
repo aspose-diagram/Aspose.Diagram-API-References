@@ -3,7 +3,7 @@ title: RelationFlag
 second_title: Aspose.Diagram for Java API Reference
 description: Stores the relationships between shapes.
 type: docs
-weight: 346
+weight: 349
 url: /java/com.aspose.diagram/relationflag/
 ---
 

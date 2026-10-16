@@ -3,7 +3,7 @@ title: ListBoxActiveXControl
 second_title: Aspose.Diagram for Java API Reference
 description: Represents a ListBox ActiveX control.
 type: docs
-weight: 246
+weight: 248
 url: /java/com.aspose.diagram/listboxactivexcontrol/
 ---
 

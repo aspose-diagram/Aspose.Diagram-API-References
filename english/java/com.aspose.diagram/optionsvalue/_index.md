@@ -3,7 +3,7 @@ title: OptionsValue
 second_title: Aspose.Diagram for Java API Reference
 description: Optional unsigned integer.
 type: docs
-weight: 275
+weight: 278
 url: /java/com.aspose.diagram/optionsvalue/
 ---
 
